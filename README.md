@@ -2,7 +2,7 @@
 
 My Pokemon Playground.
 
-![](pikachu.png)
+![](https://cdn.rawgit.com/lzl124631x/pokemon/master/svg/25.svg)
 
 # Credit
 
