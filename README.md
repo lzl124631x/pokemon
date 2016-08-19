@@ -6,7 +6,6 @@ My Pokemon Playground.
 
 * Original Website: http://veekun.com/dex/media/pokemon/dream-world/
 
----
 # License
 
 All the SVG files are (c) Nintendo/Creatures Inc./GAME FREAK Inc./The Pokémon
