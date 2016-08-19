@@ -2,6 +2,8 @@
 
 My Pokemon Playground.
 
+![](/svg/25.svg)
+
 # Credit
 
 * Original Website: http://veekun.com/dex/media/pokemon/dream-world/
