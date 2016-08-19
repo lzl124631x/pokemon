@@ -2,7 +2,7 @@
 
 My Pokemon Playground.
 
-![](/svg/25.svg)
+![](svg/25.svg)
 
 # Credit
 
