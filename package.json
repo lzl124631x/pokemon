@@ -1,0 +1,27 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "My Pokemon Playground.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzl124631x/pokemon.git"
+  },
+  "keywords": [
+    "pokemon"
+  ],
+  "author": "Richard LIU (https://github.com/lzl124631x)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzl124631x/pokemon/issues"
+  },
+  "homepage": "https://github.com/lzl124631x/pokemon#readme",
+  "devDependencies": {
+    "async": "^2.0.1",
+    "cheerio": "^0.20.0",
+    "lodash": "^4.15.0"
+  }
+}
