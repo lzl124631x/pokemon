@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Starmie"
+  ],
+  "imgs": [
+    "121.png"
+  ],
+  "descs": [
+    "Starmie swims through water by spinning its star-shaped\nbody as if it were a propeller on a ship. The core at the\ncenter of this Pokémon's body glows in seven colors.",
+    "Starmie's center section—the core—glows brightly in seven\ncolors. Because of its luminous nature, this Pokémon has\nbeen given the nickname “the gem of the sea.\""
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "176.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Mysterious",
+      "Abilities": [
+        "Natural Cure",
+        "Illuminate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Electric",
+          "Ghost",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "120.png",
+      "slug": "Staryu",
+      "id": "120"
+    },
+    {
+      "img": "121.png",
+      "slug": "Starmie",
+      "id": "121"
+    }
+  ]
+}

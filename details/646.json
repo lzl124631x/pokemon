@@ -1,0 +1,111 @@
+{
+  "forms": [
+    "Kyurem",
+    "White Kyurem",
+    "Black Kyurem"
+  ],
+  "imgs": [
+    "646.png",
+    "646_f2.png",
+    "646_f3.png"
+  ],
+  "descs": [
+    "It generates a powerful, freezing energy inside\nitself, but its body became frozen when the energy\nleaked out.",
+    "This legendary ice Pokémon waits for a hero to fill\nin the missing parts of its body with truth or ideals."
+  ],
+  "abilities": [
+    {
+      "Height": "9' 10\"",
+      "Weight": "716.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Boundary",
+      "Abilities": [
+        "Pressure"
+      ]
+    },
+    {
+      "Height": "11' 10\"",
+      "Weight": "716.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Boundary",
+      "Abilities": [
+        "Turboblaze"
+      ]
+    },
+    {
+      "Height": "10' 10\"",
+      "Weight": "716.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Boundary",
+      "Abilities": [
+        "Teravolt"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Rock",
+          "Dragon",
+          "Steel",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Rock",
+          "Dragon",
+          "Steel",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Rock",
+          "Dragon",
+          "Steel",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "646.png",
+      "slug": "Kyurem",
+      "id": "646"
+    }
+  ]
+}

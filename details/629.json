@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Vullaby"
+  ],
+  "imgs": [
+    "629.png"
+  ],
+  "descs": [
+    "Their wings are too tiny to allow them to fly.\nThey guard their posteriors with bones that were\ngathered by Mandibuzz.",
+    "Its wings are too tiny to allow it to fly. As the time\napproaches for it to evolve, it discards the bones\nit was wearing."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "19.8 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Diapered",
+      "Abilities": [
+        "Big Pecks",
+        "Overcoat"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "629.png",
+      "slug": "Vullaby",
+      "id": "629"
+    },
+    {
+      "img": "630.png",
+      "slug": "Mandibuzz",
+      "id": "630"
+    }
+  ]
+}

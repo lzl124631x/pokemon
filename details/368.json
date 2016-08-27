@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Gorebyss"
+  ],
+  "imgs": [
+    "368.png"
+  ],
+  "descs": [
+    "Although Gorebyss is the very picture of elegance and beauty\nwhile swimming, it is also cruel. When it spots prey, this\nPokémon inserts its thin mouth into the prey's body and drains\nthe prey of its body fluids.",
+    "Gorebyss lives in the southern seas at extreme depths. Its\nbody is built to withstand the enormous pressure of water at\nincredible depths. Because of this, this Pokémon's body is\nunharmed by ordinary attacks."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "49.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "South Sea",
+      "Abilities": [
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "366.png",
+      "slug": "Clamperl",
+      "id": "366"
+    },
+    [
+      {
+        "img": "367.png",
+        "slug": "Huntail",
+        "id": "367"
+      },
+      {
+        "img": "368.png",
+        "slug": "Gorebyss",
+        "id": "368"
+      }
+    ]
+  ]
+}

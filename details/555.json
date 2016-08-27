@@ -1,0 +1,85 @@
+{
+  "forms": [
+    "Standard Mode",
+    "Zen Mode"
+  ],
+  "imgs": [
+    "555.png",
+    "555_f2.png"
+  ],
+  "descs": [
+    "Arid regions are their habitat. They move\nrhythmically, making a sound similar to maracas.",
+    "When one is injured in a fierce battle, it hardens\ninto a stone-like form. Then it meditates and\nsharpens its mind."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "204.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Blazing",
+      "Abilities": [
+        "Sheer Force"
+      ]
+    },
+    {
+      "Height": "4' 03\"",
+      "Weight": "204.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Blazing",
+      "Abilities": [
+        "Sheer Force"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Fire",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Dark",
+          "Water",
+          "Rock",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "554.png",
+      "slug": "Darumaka",
+      "id": "554"
+    },
+    {
+      "img": "555.png",
+      "slug": "Darmanitan",
+      "id": "555"
+    }
+  ]
+}

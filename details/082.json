@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Magneton"
+  ],
+  "imgs": [
+    "082.png"
+  ],
+  "descs": [
+    "Magneton emits a powerful magnetic force that is fatal to\nelectronics and precision instruments. Because of this, it is\nsaid that some towns warn people to keep this Pokémon\ninside a Poké Ball.",
+    "Magneton emits a powerful magnetic force that is fatal to\nmechanical devices. As a result, large cities sound sirens\nto warn citizens of large-scale outbreaks of this Pokémon."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "132.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Magnet",
+      "Abilities": [
+        "Sturdy",
+        "Magnet Pull"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Fire",
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "081.png",
+      "slug": "Magnemite",
+      "id": "081"
+    },
+    {
+      "img": "082.png",
+      "slug": "Magneton",
+      "id": "082"
+    },
+    {
+      "img": "462.png",
+      "slug": "Magnezone",
+      "id": "462"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Doduo"
+  ],
+  "imgs": [
+    "084.png"
+  ],
+  "descs": [
+    "Doduo's two heads contain completely identical brains. A\nscientific study reported that on rare occasions, there will be\nexamples of this Pokémon possessing different sets of brains.",
+    "Doduo's two heads never sleep at the same time. Its two\nheads take turns sleeping, so one head can always keep\nwatch for enemies while the other one sleeps."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "86.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Twin Bird",
+      "Abilities": [
+        "Run Away",
+        "Early Bird"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "084.png",
+      "slug": "Doduo",
+      "id": "084"
+    },
+    {
+      "img": "085.png",
+      "slug": "Dodrio",
+      "id": "085"
+    }
+  ]
+}

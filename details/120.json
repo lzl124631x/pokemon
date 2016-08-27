@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Staryu"
+  ],
+  "imgs": [
+    "120.png"
+  ],
+  "descs": [
+    "Staryu apparently communicates with the stars in the night sky\nby flashing the red core at the center of its body. If parts of its\nbody are torn, this Pokémon simply regenerates the missing\npieces and limbs.",
+    "Staryu's center section has an organ called the core that\nshines bright red. If you go to a beach toward the end of\nsummer, the glowing cores of these Pokémon look like the\nstars in the sky."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "76.1 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Star Shape",
+      "Abilities": [
+        "Natural Cure",
+        "Illuminate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "120.png",
+      "slug": "Staryu",
+      "id": "120"
+    },
+    {
+      "img": "121.png",
+      "slug": "Starmie",
+      "id": "121"
+    }
+  ]
+}

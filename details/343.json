@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Baltoy"
+  ],
+  "imgs": [
+    "343.png"
+  ],
+  "descs": [
+    "As soon as it spots others of its kind, Baltoy congregates with\nthem and then begins crying noisily in unison. This Pokémon\nsleeps while cleverly balancing itself on its one foot.",
+    "Baltoy moves while spinning around on its one foot. Primitive\nwall paintings depicting this Pokémon living among people\nwere discovered in some ancient ruins."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "47.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Clay Doll",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost",
+          "Grass",
+          "Water",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "343.png",
+      "slug": "Baltoy",
+      "id": "343"
+    },
+    {
+      "img": "344.png",
+      "slug": "Claydol",
+      "id": "344"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Carracosta"
+  ],
+  "imgs": [
+    "565.png"
+  ],
+  "descs": [
+    "Said to be an ancestor of bird Pokémon, they were\nunable to fly and moved about by hopping from one\nbranch to another.",
+    "They can live both in the ocean and on land. A slap\nfrom one of them is enough to open a hole in the\nbottom of a tanker."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "178.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Prototurtle",
+      "Abilities": [
+        "Sturdy",
+        "Solid Rock"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "564.png",
+      "slug": "Tirtouga",
+      "id": "564"
+    },
+    {
+      "img": "565.png",
+      "slug": "Carracosta",
+      "id": "565"
+    }
+  ]
+}

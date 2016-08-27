@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Exploud"
+  ],
+  "imgs": [
+    "295.png"
+  ],
+  "descs": [
+    "Exploud communicates its feelings to the others by emitting\nwhistle-like sounds from the tubes on its body. This Pokémon\nonly raises its voice when it is in battle.",
+    "Exploud triggers earthquakes with the tremors it creates\nby bellowing. If this Pokémon violently inhales from the\nports on its body, it's a sign that it is preparing to let loose\na huge bellow."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "185.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Loud Noise",
+      "Abilities": [
+        "Soundproof"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "293.png",
+      "slug": "Whismur",
+      "id": "293"
+    },
+    {
+      "img": "294.png",
+      "slug": "Loudred",
+      "id": "294"
+    },
+    {
+      "img": "295.png",
+      "slug": "Exploud",
+      "id": "295"
+    }
+  ]
+}

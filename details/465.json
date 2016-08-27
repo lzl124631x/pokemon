@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Tangrowth"
+  ],
+  "imgs": [
+    "465.png"
+  ],
+  "descs": [
+    "Its vines grow so profusely that, in the warm\nseason, you can't even see its eyes.",
+    "It ensnares prey by extending arms made of vines.\nLosing arms to predators does not trouble it."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "283.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Vine",
+      "Abilities": [
+        "Chlorophyll",
+        "Leaf Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "114.png",
+      "slug": "Tangela",
+      "id": "114"
+    },
+    {
+      "img": "465.png",
+      "slug": "Tangrowth",
+      "id": "465"
+    }
+  ]
+}

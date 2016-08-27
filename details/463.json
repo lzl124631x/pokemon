@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Lickilicky"
+  ],
+  "imgs": [
+    "463.png"
+  ],
+  "descs": [
+    "Their saliva contains lots of components that can\ndissolve anything. The numbness caused by their\nlick does not dissipate.",
+    "It wraps things with its extensible tongue. Getting\ntoo close to it will leave you soaked with drool."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "308.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Licking",
+      "Abilities": [
+        "Oblivious",
+        "Own Tempo"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "108.png",
+      "slug": "Lickitung",
+      "id": "108"
+    },
+    {
+      "img": "463.png",
+      "slug": "Lickilicky",
+      "id": "463"
+    }
+  ]
+}

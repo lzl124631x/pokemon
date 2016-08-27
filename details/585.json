@@ -1,0 +1,158 @@
+{
+  "forms": [
+    "Spring Form",
+    "Summer Form",
+    "Autumn Form",
+    "Winter Form"
+  ],
+  "imgs": [
+    "585.png",
+    "585_f2.png",
+    "585_f3.png",
+    "585_f4.png"
+  ],
+  "descs": [
+    "The turning of the seasons changes the color and\nscent of this Pokémon's fur. People use it to mark\nthe seasons.",
+    "Their coloring changes according to the seasons\nand can be slightly affected by the temperature and\nhumidity as well."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "43.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Season",
+      "Abilities": [
+        "Chlorophyll",
+        "Sap Sipper"
+      ]
+    },
+    {
+      "Height": "2' 00\"",
+      "Weight": "43.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Season",
+      "Abilities": [
+        "Chlorophyll",
+        "Sap Sipper"
+      ]
+    },
+    {
+      "Height": "2' 00\"",
+      "Weight": "43.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Season",
+      "Abilities": [
+        "Chlorophyll",
+        "Sap Sipper"
+      ]
+    },
+    {
+      "Height": "2' 00\"",
+      "Weight": "43.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Season",
+      "Abilities": [
+        "Chlorophyll",
+        "Sap Sipper"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ice",
+          "Fighting",
+          "Poison",
+          "Flying",
+          "Bug"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Normal",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Fighting",
+          "Poison",
+          "Ice",
+          "Bug"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Normal",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Fighting",
+          "Poison",
+          "Ice",
+          "Bug"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Normal",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Fighting",
+          "Poison",
+          "Ice",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "585.png",
+      "slug": "Deerling",
+      "id": "585"
+    },
+    {
+      "img": "586.png",
+      "slug": "Sawsbuck",
+      "id": "586"
+    }
+  ]
+}

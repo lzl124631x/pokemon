@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Piloswine"
+  ],
+  "imgs": [
+    "221.png"
+  ],
+  "descs": [
+    "Piloswine is covered by a thick coat of long hair that enables\nit to endure the freezing cold. This Pokémon uses its tusks to\ndig up food that has been buried under ice.",
+    "Piloswine is covered by a thick coat of long hair that enables it\nto endure the freezing cold. This Pokémon uses its tusks to\ndig up food that has been buried under ice."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "123.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Swine",
+      "Abilities": [
+        "Oblivious",
+        "Snow Cloak"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Fire",
+          "Grass",
+          "Steel",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "220.png",
+      "slug": "Swinub",
+      "id": "220"
+    },
+    {
+      "img": "221.png",
+      "slug": "Piloswine",
+      "id": "221"
+    },
+    {
+      "img": "473.png",
+      "slug": "Mamoswine",
+      "id": "473"
+    }
+  ]
+}

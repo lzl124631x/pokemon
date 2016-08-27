@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Klink"
+  ],
+  "imgs": [
+    "599.png"
+  ],
+  "descs": [
+    "The two minigears that mesh together are\npredetermined. Each will rebound from other\nminigears without meshing.",
+    "Interlocking two bodies and spinning around\ngenerates the energy they need to live."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "46.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Gear",
+      "Abilities": [
+        "Plus",
+        "Minus"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "599.png",
+      "slug": "Klink",
+      "id": "599"
+    },
+    {
+      "img": "600.png",
+      "slug": "Klang",
+      "id": "600"
+    },
+    {
+      "img": "601.png",
+      "slug": "Klinklang",
+      "id": "601"
+    }
+  ]
+}

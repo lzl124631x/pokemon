@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Escavalier"
+  ],
+  "imgs": [
+    "589.png"
+  ],
+  "descs": [
+    "These Pokémon evolve by wearing the shell\ncovering of a Shelmet. The steel armor protects\ntheir whole body.",
+    "Wearing the shell covering they stole from Shelmet,\nthey defend themselves and attack with two lances."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "72.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cavalry",
+      "Abilities": [
+        "Swarm",
+        "Shell Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "588.png",
+      "slug": "Karrablast",
+      "id": "588"
+    },
+    {
+      "img": "589.png",
+      "slug": "Escavalier",
+      "id": "589"
+    }
+  ]
+}

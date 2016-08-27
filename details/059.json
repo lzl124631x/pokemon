@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Arcanine"
+  ],
+  "imgs": [
+    "059.png"
+  ],
+  "descs": [
+    "Arcanine is known for its high speed. It is said to be capable\nof running over 6,200 miles in a single day and night. The\nfire that blazes wildly within this Pokémon's body is its source\nof power.",
+    "Arcanine is known for its high speed. It is said to be capable of\nrunning over 6,200 miles in a single day and night.\nThe fire that blazes wildly within this Pokémon's body is its\nsource of power."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 03\"",
+      "Weight": "341.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Legendary",
+      "Abilities": [
+        "Intimidate",
+        "Flash Fire"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "058.png",
+      "slug": "Growlithe",
+      "id": "058"
+    },
+    {
+      "img": "059.png",
+      "slug": "Arcanine",
+      "id": "059"
+    }
+  ]
+}

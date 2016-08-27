@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Mareep"
+  ],
+  "imgs": [
+    "179.png"
+  ],
+  "descs": [
+    "Mareep's fluffy coat of wool rubs together and builds a static\ncharge. The more static electricity is charged, the more brightly\nthe lightbulb at the tip of its tail glows.",
+    "Mareep's fluffy coat of wool rubs together and builds a static\ncharge. The more static electricity is charged, the more brightly\nthe lightbulb at the tip of its tail glows."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "17.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Wool",
+      "Abilities": [
+        "Static"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "179.png",
+      "slug": "Mareep",
+      "id": "179"
+    },
+    {
+      "img": "180.png",
+      "slug": "Flaaffy",
+      "id": "180"
+    },
+    {
+      "img": "181.png",
+      "slug": "Ampharos",
+      "id": "181"
+    }
+  ]
+}

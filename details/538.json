@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Throh"
+  ],
+  "imgs": [
+    "538.png"
+  ],
+  "descs": [
+    "When it encounters a foe bigger than itself, it wants\nto throw it. It changes belts as it gets stronger.",
+    "When it tightens its belt, it becomes stronger. Wild\nThroh use vines to weave their own belts."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "122.4 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Judo",
+      "Abilities": [
+        "Guts",
+        "Inner Focus"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "538.png",
+      "slug": "Throh",
+      "id": "538"
+    }
+  ]
+}

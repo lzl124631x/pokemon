@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Petilil"
+  ],
+  "imgs": [
+    "548.png"
+  ],
+  "descs": [
+    "Since they prefer moist, nutrient-rich soil, the areas\nwhere Petilil live are known to be good for\ngrowing plants.",
+    "The leaves on its head are very bitter. Eating one\nof these leaves is known to refresh a tired body."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "14.6 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Bulb",
+      "Abilities": [
+        "Chlorophyll",
+        "Own Tempo"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ice",
+          "Poison",
+          "Flying",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "548.png",
+      "slug": "Petilil",
+      "id": "548"
+    },
+    {
+      "img": "549.png",
+      "slug": "Lilligant",
+      "id": "549"
+    }
+  ]
+}

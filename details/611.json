@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Fraxure"
+  ],
+  "imgs": [
+    "611.png"
+  ],
+  "descs": [
+    "A broken tusk will not grow back, so it diligently\nsharpens its tusks on river rocks after the end of\na battle.",
+    "Their tusks can shatter rocks. Territory battles\nbetween Fraxure can be intensely violent."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "79.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Axe Jaw",
+      "Abilities": [
+        "Rivalry",
+        "Mold Breaker"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Dragon",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "610.png",
+      "slug": "Axew",
+      "id": "610"
+    },
+    {
+      "img": "611.png",
+      "slug": "Fraxure",
+      "id": "611"
+    },
+    {
+      "img": "612.png",
+      "slug": "Haxorus",
+      "id": "612"
+    }
+  ]
+}

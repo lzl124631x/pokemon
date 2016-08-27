@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Blissey"
+  ],
+  "imgs": [
+    "242.png"
+  ],
+  "descs": [
+    "Blissey senses sadness with its fluffy coat of fur. If it does so,\nthis Pokémon will rush over to a sad person, no matter how far\naway, to share a Lucky Egg that brings a smile to any face.",
+    "Blissey senses sadness with its fluffy coat of fur. If it does so,\nthis Pokémon will rush over to a sad person, no matter how far\naway, to share a Lucky Egg that brings a smile to any face."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "103.2 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Happiness",
+      "Abilities": [
+        "Natural Cure",
+        "Serene Grace"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "440.png",
+      "slug": "Happiny",
+      "id": "440"
+    },
+    {
+      "img": "113.png",
+      "slug": "Chansey",
+      "id": "113"
+    },
+    {
+      "img": "242.png",
+      "slug": "Blissey",
+      "id": "242"
+    }
+  ]
+}

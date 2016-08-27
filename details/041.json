@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Zubat"
+  ],
+  "imgs": [
+    "041.png"
+  ],
+  "descs": [
+    "Zubat avoids sunlight because exposure causes it to become\nunhealthy. During the daytime, it stays in caves or under\nthe eaves of old houses, sleeping while hanging upside down.",
+    "Zubat remains quietly unmoving in a dark spot during the bright\ndaylight hours. It does so because prolonged exposure to the\nsun causes its body to become slightly burned."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "16.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bat",
+      "Abilities": [
+        "Inner Focus"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Psychic",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "041.png",
+      "slug": "Zubat",
+      "id": "041"
+    },
+    {
+      "img": "042.png",
+      "slug": "Golbat",
+      "id": "042"
+    },
+    {
+      "img": "169.png",
+      "slug": "Crobat",
+      "id": "169"
+    }
+  ]
+}

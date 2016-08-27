@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Oshawott"
+  ],
+  "imgs": [
+    "501.png"
+  ],
+  "descs": [
+    "It fights using the scalchop on its stomach.\nIn response to an attack, it retaliates immediately\nby slashing.",
+    "The scalchop on its stomach isn't just used for\nbattle—it can be used to break open hard berries\nas well."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "13.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sea Otter",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "501.png",
+      "slug": "Oshawott",
+      "id": "501"
+    },
+    {
+      "img": "502.png",
+      "slug": "Dewott",
+      "id": "502"
+    },
+    {
+      "img": "503.png",
+      "slug": "Samurott",
+      "id": "503"
+    }
+  ]
+}

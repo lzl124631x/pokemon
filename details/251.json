@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Celebi"
+  ],
+  "imgs": [
+    "251.png"
+  ],
+  "descs": [
+    "This Pokémon came from the future by crossing over time.\nIt is thought that so long as Celebi appears, a bright and\nshining future awaits us.",
+    "This Pokémon came from the future by crossing over time.\nIt is thought that so long as Celebi appears, a bright and\nshining future awaits us."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "11.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Time Travel",
+      "Abilities": [
+        "Natural Cure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Fire",
+          "Flying",
+          "Ghost",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "251.png",
+      "slug": "Celebi",
+      "id": "251"
+    }
+  ]
+}

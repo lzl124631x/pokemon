@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Venonat"
+  ],
+  "imgs": [
+    "048.png"
+  ],
+  "descs": [
+    "Venonat is said to have evolved with a coat of thin, stiff hair\nthat covers its entire body for protection. It possesses large\neyes that never fail to spot even minuscule prey.",
+    "Venonat is said to have evolved with a coat of thin,\nstiff hair that covers its entire body for protection.\nIt possesses large eyes that never fail to spot even\nminuscule prey."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "66.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Insect",
+      "Abilities": [
+        "Compound Eyes",
+        "Tinted Lens"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Psychic",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "048.png",
+      "slug": "Venonat",
+      "id": "048"
+    },
+    {
+      "img": "049.png",
+      "slug": "Venomoth",
+      "id": "049"
+    }
+  ]
+}

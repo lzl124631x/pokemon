@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Exeggutor"
+  ],
+  "imgs": [
+    "103.png"
+  ],
+  "descs": [
+    "Exeggutor originally came from the tropics. Its heads\nsteadily grow larger from exposure to strong sunlight. It is\nsaid that when the heads fall off, they group together to\nform Exeggcute.",
+    "Exeggutor originally came from the tropics. Its heads\nsteadily grow larger from exposure to strong sunlight.\nIt is said that when the heads fall off, they group together\nto form Exeggcute."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "264.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Coconut",
+      "Abilities": [
+        "Chlorophyll"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Fire",
+          "Flying",
+          "Ghost",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "102.png",
+      "slug": "Exeggcute",
+      "id": "102"
+    },
+    {
+      "img": "103.png",
+      "slug": "Exeggutor",
+      "id": "103"
+    }
+  ]
+}

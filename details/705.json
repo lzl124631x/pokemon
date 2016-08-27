@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Sliggoo"
+  ],
+  "imgs": [
+    "705.png"
+  ],
+  "descs": [
+    "Its four horns are a high-performance radar system.\nIt uses them to sense sounds and smells,\nrather than using ears or a nose.",
+    "It drives away opponents by excreting a\nsticky liquid that can dissolve anything.\nIts eyes devolved, so it can't see anything."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "38.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Soft Tissue",
+      "Abilities": [
+        "Hydration",
+        "Sap Sipper"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Ice",
+          "Dragon"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "704.png",
+      "slug": "Goomy",
+      "id": "704"
+    },
+    {
+      "img": "705.png",
+      "slug": "Sliggoo",
+      "id": "705"
+    },
+    {
+      "img": "706.png",
+      "slug": "Goodra",
+      "id": "706"
+    }
+  ]
+}

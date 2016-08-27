@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Cryogonal"
+  ],
+  "imgs": [
+    "615.png"
+  ],
+  "descs": [
+    "They are composed of ice crystals. They capture\nprey with chains of ice, freezing the prey at\n-148 degrees Fahrenheit.",
+    "They are born in snow clouds. They use chains\nmade of ice crystals to capture prey."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "326.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Crystallizing",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "615.png",
+      "slug": "Cryogonal",
+      "id": "615"
+    }
+  ]
+}

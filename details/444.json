@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Gabite"
+  ],
+  "imgs": [
+    "444.png"
+  ],
+  "descs": [
+    "As it digs to expand its nest, it habitually digs up\ngems that it then hoards in its nest.",
+    "It loves sparkly things. It seeks treasures in caves\nand hoards the loot in its nest."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "123.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cave",
+      "Abilities": [
+        "Sand Veil"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Dragon",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "443.png",
+      "slug": "Gible",
+      "id": "443"
+    },
+    {
+      "img": "444.png",
+      "slug": "Gabite",
+      "id": "444"
+    },
+    {
+      "img": "445.png",
+      "slug": "Garchomp",
+      "id": "445"
+    }
+  ]
+}

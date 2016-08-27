@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Bayleef"
+  ],
+  "imgs": [
+    "153.png"
+  ],
+  "descs": [
+    "Bayleef's neck is ringed by curled-up leaves. Inside each\ntubular leaf is a small shoot of a tree. The fragrance of this\nshoot makes people peppy.",
+    "Bayleef's neck is ringed by curled-up leaves. Inside each\ntubular leaf is a small shoot of a tree. The fragrance of this\nshoot makes people peppy."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "34.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Leaf",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "152.png",
+      "slug": "Chikorita",
+      "id": "152"
+    },
+    {
+      "img": "153.png",
+      "slug": "Bayleef",
+      "id": "153"
+    },
+    {
+      "img": "154.png",
+      "slug": "Meganium",
+      "id": "154"
+    }
+  ]
+}

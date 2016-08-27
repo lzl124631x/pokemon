@@ -1,0 +1,73 @@
+{
+  "forms": [
+    "Silcoon"
+  ],
+  "imgs": [
+    "266.png"
+  ],
+  "descs": [
+    "Silcoon was thought to endure hunger and not consume\nanything before its evolution. However, it is now thought\nthat this Pokémon slakes its thirst by drinking rainwater\nthat collects on its silk.",
+    "Silcoon tethers itself to a tree branch using silk to keep from\nfalling. There, this Pokémon hangs quietly while it awaits\nevolution. It peers out of the silk cocoon through a small hole."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "22.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cocoon",
+      "Abilities": [
+        "Shed Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "265.png",
+      "slug": "Wurmple",
+      "id": "265"
+    },
+    [
+      {
+        "img": "266.png",
+        "slug": "Silcoon",
+        "id": "266"
+      },
+      {
+        "img": "268.png",
+        "slug": "Cascoon",
+        "id": "268"
+      }
+    ],
+    [
+      {
+        "img": "267.png",
+        "slug": "Beautifly",
+        "id": "267"
+      },
+      {
+        "img": "269.png",
+        "slug": "Dustox",
+        "id": "269"
+      }
+    ]
+  ]
+}

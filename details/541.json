@@ -1,0 +1,64 @@
+{
+  "forms": [
+    "Swadloon"
+  ],
+  "imgs": [
+    "541.png"
+  ],
+  "descs": [
+    "It protects itself from the cold by wrapping up in\nleaves. It stays on the move, eating leaves\nin forests.",
+    "Forests where Swadloon live have superb foliage\nbecause the nutrients they make from fallen leaves\nnourish the plant life."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "16.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Leaf-Wrapped",
+      "Abilities": [
+        "Chlorophyll",
+        "Leaf Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison",
+          "Bug",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "540.png",
+      "slug": "Sewaddle",
+      "id": "540"
+    },
+    {
+      "img": "541.png",
+      "slug": "Swadloon",
+      "id": "541"
+    },
+    {
+      "img": "542.png",
+      "slug": "Leavanny",
+      "id": "542"
+    }
+  ]
+}

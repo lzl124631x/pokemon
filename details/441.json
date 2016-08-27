@@ -1,0 +1,51 @@
+{
+  "forms": [
+    "Chatot"
+  ],
+  "imgs": [
+    "441.png"
+  ],
+  "descs": [
+    "It can learn and speak human words. If they gather,\nthey all learn the same saying.",
+    "It mimics the cries of other Pokémon to trick them\ninto thinking it's one of them. This way they won't\nattack it."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "4.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Music Note",
+      "Abilities": [
+        "Keen Eye",
+        "Tangled Feet"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "441.png",
+      "slug": "Chatot",
+      "id": "441"
+    }
+  ]
+}

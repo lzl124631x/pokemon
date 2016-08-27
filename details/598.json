@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Ferrothorn"
+  ],
+  "imgs": [
+    "598.png"
+  ],
+  "descs": [
+    "They attach themselves to cave ceilings, firing steel\nspikes at targets passing beneath them.",
+    "By swinging around its three spiky feelers and\nshooting spikes, it can obliterate an opponent."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "242.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Thorn Pod",
+      "Abilities": [
+        "Iron Barbs"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "597.png",
+      "slug": "Ferroseed",
+      "id": "597"
+    },
+    {
+      "img": "598.png",
+      "slug": "Ferrothorn",
+      "id": "598"
+    }
+  ]
+}

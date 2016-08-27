@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Omastar"
+  ],
+  "imgs": [
+    "139.png"
+  ],
+  "descs": [
+    "Omastar uses its tentacles to capture its prey. It is\nbelieved to have become extinct because its shell grew too\nlarge and heavy, causing its movements to become too slow\nand ponderous.",
+    "Omastar uses its tentacles to capture its prey. It is believed to\nhave become extinct because its shell grew too large and\nheavy, causing its movements to become too slow\nand ponderous."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "77.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Spiral",
+      "Abilities": [
+        "Shell Armor",
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "138.png",
+      "slug": "Omanyte",
+      "id": "138"
+    },
+    {
+      "img": "139.png",
+      "slug": "Omastar",
+      "id": "139"
+    }
+  ]
+}

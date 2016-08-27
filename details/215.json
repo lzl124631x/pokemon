@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Sneasel"
+  ],
+  "imgs": [
+    "215.png"
+  ],
+  "descs": [
+    "Sneasel scales trees by punching its hooked claws into the\nbark. This Pokémon seeks out unguarded nests and steals\neggs for food while the parents are away.",
+    "Sneasel scales trees by punching its hooked claws into the\nbark. This Pokémon seeks out unguarded nests and steals\neggs for food while the parents are away."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "61.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sharp Claw",
+      "Abilities": [
+        "Keen Eye",
+        "Inner Focus"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Bug",
+          "Fire",
+          "Rock",
+          "Steel",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "215.png",
+      "slug": "Sneasel",
+      "id": "215"
+    },
+    {
+      "img": "461.png",
+      "slug": "Weavile",
+      "id": "461"
+    }
+  ]
+}

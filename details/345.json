@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Lileep"
+  ],
+  "imgs": [
+    "345.png"
+  ],
+  "descs": [
+    "Lileep is an ancient Pokémon that was regenerated from a\nfossil. It remains permanently anchored to a rock. From its\nimmobile perch, this Pokémon intently scans for prey with its\ntwo eyes.",
+    "Lileep became extinct approximately a hundred million years\nago. This ancient Pokémon attaches itself to a rock on the\nseafloor and catches approaching prey using tentacles shaped\nlike flower petals."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "52.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sea Lily",
+      "Abilities": [
+        "Suction Cups"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fighting",
+          "Ice",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "345.png",
+      "slug": "Lileep",
+      "id": "345"
+    },
+    {
+      "img": "346.png",
+      "slug": "Cradily",
+      "id": "346"
+    }
+  ]
+}

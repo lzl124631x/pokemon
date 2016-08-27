@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Machop"
+  ],
+  "imgs": [
+    "066.png"
+  ],
+  "descs": [
+    "Machop exercises by hefting around a Graveler as if it were\na barbell. There are some Machop that travel the world in a\nquest to master all kinds of martial arts.",
+    "Machop's muscles are special—they never get sore no matter\nhow much they are used in exercise. This Pokémon has\nsufficient power to hurl a hundred adult humans."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "43.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Superpower",
+      "Abilities": [
+        "Guts",
+        "No Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "066.png",
+      "slug": "Machop",
+      "id": "066"
+    },
+    {
+      "img": "067.png",
+      "slug": "Machoke",
+      "id": "067"
+    },
+    {
+      "img": "068.png",
+      "slug": "Machamp",
+      "id": "068"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Fletchinder"
+  ],
+  "imgs": [
+    "662.png"
+  ],
+  "descs": [
+    "The hotter the flame sac on its belly,\nthe faster it can fly, but it takes some\ntime to get the fire going.",
+    "From its beak, it expels embers that set\nthe tall grass on fire. Then it pounces on\nthe bewildered prey that pop out of the grass."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "35.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Ember",
+      "Abilities": [
+        "Flame Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Rock",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "661.png",
+      "slug": "Fletchling",
+      "id": "661"
+    },
+    {
+      "img": "662.png",
+      "slug": "Fletchinder",
+      "id": "662"
+    },
+    {
+      "img": "663.png",
+      "slug": "Talonflame",
+      "id": "663"
+    }
+  ]
+}

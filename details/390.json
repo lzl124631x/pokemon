@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Chimchar"
+  ],
+  "imgs": [
+    "390.png"
+  ],
+  "descs": [
+    "The gas made in its belly burns from its rear end.\nThe fire burns weakly when it feels sick.",
+    "Its fiery rear end is fueled by gas made in its belly.\nEven rain can't extinguish the fire."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "13.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Chimp",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "390.png",
+      "slug": "Chimchar",
+      "id": "390"
+    },
+    {
+      "img": "391.png",
+      "slug": "Monferno",
+      "id": "391"
+    },
+    {
+      "img": "392.png",
+      "slug": "Infernape",
+      "id": "392"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "forms": [
+    "Umbreon"
+  ],
+  "imgs": [
+    "197.png"
+  ],
+  "descs": [
+    "Umbreon evolved as a result of exposure to the moon's waves.\nIt hides silently in darkness and waits for its foes to make a\nmove. The rings on its body glow when it leaps to attack.",
+    "Umbreon evolved as a result of exposure to the moon's waves.\nIt hides silently in darkness and waits for its foes to make a\nmove. The rings on its body glow when it leaps to attack."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "59.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Moonlight",
+      "Abilities": [
+        "Synchronize"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Bug",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "133.png",
+      "slug": "Eevee",
+      "id": "133"
+    },
+    [
+      {
+        "img": "134.png",
+        "slug": "Vaporeon",
+        "id": "134"
+      },
+      {
+        "img": "135.png",
+        "slug": "Jolteon",
+        "id": "135"
+      },
+      {
+        "img": "136.png",
+        "slug": "Flareon",
+        "id": "136"
+      },
+      {
+        "img": "197.png",
+        "slug": "Umbreon",
+        "id": "197"
+      },
+      {
+        "img": "471.png",
+        "slug": "Glaceon",
+        "id": "471"
+      },
+      {
+        "img": "470.png",
+        "slug": "Leafeon",
+        "id": "470"
+      },
+      {
+        "img": "196.png",
+        "slug": "Espeon",
+        "id": "196"
+      },
+      {
+        "img": "700.png",
+        "slug": "Sylveon",
+        "id": "700"
+      }
+    ]
+  ]
+}

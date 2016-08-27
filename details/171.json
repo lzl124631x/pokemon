@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Lanturn"
+  ],
+  "imgs": [
+    "171.png"
+  ],
+  "descs": [
+    "Lanturn is known to emit light. If you peer down into the dark\nsea from a ship at night, you can sometimes see this\nPokémon's light rising from the depths where it swims. It gives\nthe sea an appearance of a starlit night.",
+    "Lanturn is nicknamed “the deep-sea star\" for its illuminated\nantenna. This Pokémon produces light by causing a chemical\nreaction between bacteria and its bodily fluids inside\nthe antenna."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "49.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Light",
+      "Abilities": [
+        "Illuminate",
+        "Volt Absorb"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "170.png",
+      "slug": "Chinchou",
+      "id": "170"
+    },
+    {
+      "img": "171.png",
+      "slug": "Lanturn",
+      "id": "171"
+    }
+  ]
+}

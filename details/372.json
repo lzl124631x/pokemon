@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Shelgon"
+  ],
+  "imgs": [
+    "372.png"
+  ],
+  "descs": [
+    "Covering Shelgon's body are outgrowths much like bones.\nThe shell is very hard and bounces off enemy attacks.\nWhen awaiting evolution, this Pokémon hides away in a cavern.",
+    "Inside Shelgon's armor-like shell, cells are in the midst of\ntransformation to create an entirely new body. This Pokémon's\nshell is extremely heavy, making its movements sluggish."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "243.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Endurance",
+      "Abilities": [
+        "Rock Head"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dragon",
+          "Ice",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "371.png",
+      "slug": "Bagon",
+      "id": "371"
+    },
+    {
+      "img": "372.png",
+      "slug": "Shelgon",
+      "id": "372"
+    },
+    {
+      "img": "373.png",
+      "slug": "Salamence",
+      "id": "373"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Cofagrigus"
+  ],
+  "imgs": [
+    "563.png"
+  ],
+  "descs": [
+    "Restored from a fossil, this Pokémon can dive to\ndepths beyond half a mile.",
+    "It has been said that they swallow those who get\ntoo close and turn them into mummies. They like to\neat gold nuggets."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "168.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Coffin",
+      "Abilities": [
+        "Mummy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "562.png",
+      "slug": "Yamask",
+      "id": "562"
+    },
+    {
+      "img": "563.png",
+      "slug": "Cofagrigus",
+      "id": "563"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "forms": [
+    "West Sea",
+    "East Sea"
+  ],
+  "imgs": [
+    "423.png",
+    "423_f2.png"
+  ],
+  "descs": [
+    "It apparently had a huge shell for protection in\nancient times. It lives in shallow tidal pools.",
+    "When its natural enemy attacks, it oozes purple\nfluid and escapes."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "65.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sea Slug",
+      "Abilities": [
+        "Sticky Hold",
+        "Storm Drain"
+      ]
+    },
+    {
+      "Height": "2' 11\"",
+      "Weight": "65.9 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Sea Slug",
+      "Abilities": [
+        "Sticky Hold",
+        "Storm Drain"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Water",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "422.png",
+      "slug": "Shellos",
+      "id": "422"
+    },
+    {
+      "img": "423.png",
+      "slug": "Gastrodon",
+      "id": "423"
+    }
+  ]
+}

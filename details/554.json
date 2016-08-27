@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Darumaka"
+  ],
+  "imgs": [
+    "554.png"
+  ],
+  "descs": [
+    "When it sleeps, it pulls its limbs into its\nbody and its internal fire goes down to\n1,100 degrees Fahrenheit.",
+    "Darumaka's droppings are hot, so people used to\nput them in their clothes to keep themselves warm."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "82.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Zen Charm",
+      "Abilities": [
+        "Hustle"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "554.png",
+      "slug": "Darumaka",
+      "id": "554"
+    },
+    {
+      "img": "555.png",
+      "slug": "Darmanitan",
+      "id": "555"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "forms": [
+    "Blastoise",
+    "Mega Blastoise"
+  ],
+  "imgs": [
+    "009.png",
+    "009_f2.png"
+  ],
+  "descs": [
+    "Blastoise has water spouts that protrude from its shell.\nThe water spouts are very accurate.\nThey can shoot bullets of water with enough accuracy\nto strike empty cans from a distance of over 160 feet.",
+    "Blastoise has water spouts that protrude from its shell.\nThe water spouts are very accurate. They can shoot bullets of\nwater with enough accuracy to strike empty cans from a\ndistance of over 160 feet."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "188.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Shellfish",
+      "Abilities": [
+        "Torrent"
+      ]
+    },
+    {
+      "Height": "5' 03\"",
+      "Weight": "222.9 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Shellfish",
+      "Abilities": [
+        "Mega Launcher"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "007.png",
+      "slug": "Squirtle",
+      "id": "007"
+    },
+    {
+      "img": "008.png",
+      "slug": "Wartortle",
+      "id": "008"
+    },
+    {
+      "img": "009.png",
+      "slug": "Blastoise",
+      "id": "009"
+    }
+  ]
+}

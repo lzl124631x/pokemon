@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Wingull"
+  ],
+  "imgs": [
+    "278.png"
+  ],
+  "descs": [
+    "Wingull rides updrafts rising from the sea by extending its long\nand narrow wings to glide. This Pokémon's long beak is useful\nfor catching prey.",
+    "Wingull has the habit of carrying prey and valuables in its beak\nand hiding them in all sorts of locations. This Pokémon rides\nthe winds and flies as if it were skating across the sky."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "20.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Seagull",
+      "Abilities": [
+        "Keen Eye"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "278.png",
+      "slug": "Wingull",
+      "id": "278"
+    },
+    {
+      "img": "279.png",
+      "slug": "Pelipper",
+      "id": "279"
+    }
+  ]
+}

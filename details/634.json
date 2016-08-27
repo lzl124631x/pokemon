@@ -1,0 +1,62 @@
+{
+  "forms": [
+    "Zweilous"
+  ],
+  "imgs": [
+    "634.png"
+  ],
+  "descs": [
+    "After it has eaten up all the food in its territory,\nit moves to another area. Its two heads do not\nget along.",
+    "The two heads do not get along. Whichever head\neats more than the other gets to be the leader."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "110.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Hostile",
+      "Abilities": [
+        "Hustle"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Fighting",
+          "Bug",
+          "Dragon",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "633.png",
+      "slug": "Deino",
+      "id": "633"
+    },
+    {
+      "img": "634.png",
+      "slug": "Zweilous",
+      "id": "634"
+    },
+    {
+      "img": "635.png",
+      "slug": "Hydreigon",
+      "id": "635"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Simipour"
+  ],
+  "imgs": [
+    "516.png"
+  ],
+  "descs": [
+    "It prefers places with clean water. When its tuft runs\nlow, it replenishes it by siphoning up water with\nits tail.",
+    "The high-pressure water expelled from its tail is so\npowerful, it can destroy a concrete wall."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "63.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Geyser",
+      "Abilities": [
+        "Gluttony"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "515.png",
+      "slug": "Panpour",
+      "id": "515"
+    },
+    {
+      "img": "516.png",
+      "slug": "Simipour",
+      "id": "516"
+    }
+  ]
+}

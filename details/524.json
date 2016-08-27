@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Roggenrola"
+  ],
+  "imgs": [
+    "524.png"
+  ],
+  "descs": [
+    "They were discovered a hundred years ago in an\nearthquake fissure. Inside each one is an\nenergy core.",
+    "Its ear is hexagonal in shape. Compressed\nunderground, its body is as hard as steel."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "39.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mantle",
+      "Abilities": [
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Grass",
+          "Fighting",
+          "Ground",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "524.png",
+      "slug": "Roggenrola",
+      "id": "524"
+    },
+    {
+      "img": "525.png",
+      "slug": "Boldore",
+      "id": "525"
+    },
+    {
+      "img": "526.png",
+      "slug": "Gigalith",
+      "id": "526"
+    }
+  ]
+}

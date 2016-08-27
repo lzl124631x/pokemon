@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Jigglypuff"
+  ],
+  "imgs": [
+    "039.png"
+  ],
+  "descs": [
+    "When this Pokémon sings, it never pauses to breathe.\nIf it is in a battle against an opponent that does not easily\nfall asleep, Jigglypuff cannot breathe, endangering its life.",
+    "Jigglypuff's vocal cords can freely adjust the wavelength of its\nvoice. This Pokémon uses this ability to sing at precisely the\nright wavelength to make its foes most drowsy."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "12.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Balloon",
+      "Abilities": [
+        "Cute Charm",
+        "Competitive"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "174.png",
+      "slug": "Igglybuff",
+      "id": "174"
+    },
+    {
+      "img": "039.png",
+      "slug": "Jigglypuff",
+      "id": "039"
+    },
+    {
+      "img": "040.png",
+      "slug": "Wigglytuff",
+      "id": "040"
+    }
+  ]
+}

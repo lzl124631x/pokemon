@@ -1,0 +1,129 @@
+{
+  "forms": [
+    "Deoxys",
+    "Attack Forme",
+    "Defense Forme",
+    "Speed Forme"
+  ],
+  "imgs": [
+    "386.png",
+    "386_f2.png",
+    "386_f3.png",
+    "386_f4.png"
+  ],
+  "descs": [
+    "Deoxys emerged from a virus that came from space. It is highly\nintelligent and wields psychokinetic powers. This Pokémon\nshoots lasers from the crystalline organ on its chest.",
+    "The DNA of a space virus underwent a sudden mutation upon\nexposure to a laser beam and resulted in Deoxys.\nThe crystalline organ on this Pokémon's chest appears to be\nits brain."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "134.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "DNA",
+      "Abilities": [
+        "Pressure"
+      ]
+    },
+    {
+      "Height": "5' 07\"",
+      "Weight": "134.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "DNA",
+      "Abilities": [
+        "Pressure"
+      ]
+    },
+    {
+      "Height": "5' 07\"",
+      "Weight": "134.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "DNA",
+      "Abilities": [
+        "Pressure"
+      ]
+    },
+    {
+      "Height": "5' 07\"",
+      "Weight": "134.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "DNA",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "386.png",
+      "slug": "Deoxys",
+      "id": "386"
+    }
+  ]
+}

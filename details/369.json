@@ -1,0 +1,52 @@
+{
+  "forms": [
+    "Relicanth"
+  ],
+  "imgs": [
+    "369.png"
+  ],
+  "descs": [
+    "Relicanth is a rare species that was discovered in deep-sea\nexplorations. This Pokémon's body withstands the enormous\nwater pressure of the ocean depths. Its body is covered in\ntough scales that are like craggy rocks.",
+    "Relicanth is a Pokémon species that existed for a hundred\nmillion years without ever changing its form. This ancient\nPokémon feeds on microscopic organisms with its\ntoothless mouth."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "51.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Longevity",
+      "Abilities": [
+        "Rock Head",
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "369.png",
+      "slug": "Relicanth",
+      "id": "369"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Samurott"
+  ],
+  "imgs": [
+    "503.png"
+  ],
+  "descs": [
+    "One swing of the sword incorporated in its armor\ncan fell an opponent. A simple glare from one of\nthem quiets everybody.",
+    "In the time it takes a foe to blink, it can draw and\nsheathe the seamitars attached to its front legs."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "208.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Formidable",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "501.png",
+      "slug": "Oshawott",
+      "id": "501"
+    },
+    {
+      "img": "502.png",
+      "slug": "Dewott",
+      "id": "502"
+    },
+    {
+      "img": "503.png",
+      "slug": "Samurott",
+      "id": "503"
+    }
+  ]
+}

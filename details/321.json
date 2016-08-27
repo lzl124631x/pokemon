@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Wailord"
+  ],
+  "imgs": [
+    "321.png"
+  ],
+  "descs": [
+    "When chasing prey, Wailord herds them by leaping out of the\nwater and making a humongous splash. It is breathtaking to\nsee this Pokémon leaping out of the sea with others in its pod.",
+    "Wailord is the largest of all identified Pokémon up to now.\nThis giant Pokémon swims languorously in the vast open sea,\neating massive amounts of food at once with its enormous\nmouth."
+  ],
+  "abilities": [
+    {
+      "Height": "47' 07\"",
+      "Weight": "877.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Float Whale",
+      "Abilities": [
+        "Oblivious",
+        "Water Veil"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "320.png",
+      "slug": "Wailmer",
+      "id": "320"
+    },
+    {
+      "img": "321.png",
+      "slug": "Wailord",
+      "id": "321"
+    }
+  ]
+}

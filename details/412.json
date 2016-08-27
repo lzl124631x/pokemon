@@ -1,0 +1,125 @@
+{
+  "forms": [
+    "Plant Cloak",
+    "Sandy Cloak",
+    "Trash Cloak"
+  ],
+  "imgs": [
+    "412.png",
+    "412_f2.png",
+    "412_f3.png"
+  ],
+  "descs": [
+    "If its cloak is broken in battle, it quickly remakes\nthe cloak with materials nearby.",
+    "To shelter itself from cold, wintry winds, it covers\nitself with a cloak made of twigs and leaves."
+  ],
+  "abilities": [
+    {
+      "Height": "0' 08\"",
+      "Weight": "7.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bagworm",
+      "Abilities": [
+        "Shed Skin"
+      ]
+    },
+    {
+      "Height": "0' 08\"",
+      "Weight": "7.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Bagworm",
+      "Abilities": [
+        "Shed Skin"
+      ]
+    },
+    {
+      "Height": "0' 08\"",
+      "Weight": "7.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Bagworm",
+      "Abilities": [
+        "Shed Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "412.png",
+      "slug": "Burmy",
+      "id": "412"
+    },
+    [
+      {
+        "img": "413.png",
+        "slug": "Wormadam",
+        "id": "413"
+      },
+      {
+        "img": "413_f2.png",
+        "slug": "Sandy Cloak",
+        "id": "413"
+      },
+      {
+        "img": "413_f3.png",
+        "slug": "Trash Cloak",
+        "id": "413"
+      },
+      {
+        "img": "414.png",
+        "slug": "Mothim",
+        "id": "414"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "forms": [
+    "Butterfree"
+  ],
+  "imgs": [
+    "012.png"
+  ],
+  "descs": [
+    "Butterfree has a superior ability to search for delicious honey\nfrom flowers. It can even search out, extract, and carry honey\nfrom flowers that are blooming over six miles from its nest.",
+    "Butterfree has a superior ability to search for delicious honey\nfrom flowers. It can even search out, extract, and carry honey\nfrom flowers that are blooming over six miles from its nest."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "70.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Butterfly",
+      "Abilities": [
+        "Compound Eyes"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Fire",
+          "Flying",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "010.png",
+      "slug": "Caterpie",
+      "id": "010"
+    },
+    {
+      "img": "011.png",
+      "slug": "Metapod",
+      "id": "011"
+    },
+    {
+      "img": "012.png",
+      "slug": "Butterfree",
+      "id": "012"
+    }
+  ]
+}

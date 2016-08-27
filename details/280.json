@@ -1,0 +1,68 @@
+{
+  "forms": [
+    "Ralts"
+  ],
+  "imgs": [
+    "280.png"
+  ],
+  "descs": [
+    "Ralts has the ability to sense the emotions of people. If its\nTrainer is in a cheerful mood, this Pokémon grows cheerful\nand joyous in the same way.",
+    "Ralts senses the emotions of people using the horns on\nits head. This Pokémon rarely appears before people.\nBut when it does, it draws closer if it senses that the person\nhas a positive disposition."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "14.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Feeling",
+      "Abilities": [
+        "Synchronize",
+        "Trace"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "280.png",
+      "slug": "Ralts",
+      "id": "280"
+    },
+    {
+      "img": "281.png",
+      "slug": "Kirlia",
+      "id": "281"
+    },
+    [
+      {
+        "img": "282.png",
+        "slug": "Gardevoir",
+        "id": "282"
+      },
+      {
+        "img": "475.png",
+        "slug": "Gallade",
+        "id": "475"
+      }
+    ]
+  ]
+}

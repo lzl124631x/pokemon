@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Pansage"
+  ],
+  "imgs": [
+    "511.png"
+  ],
+  "descs": [
+    "It's good at finding berries and gathers them from\nall over. It's kind enough to share them\nwith friends.",
+    "It shares the leaf on its head with weary-looking\nPokémon. These leaves are known to relieve stress."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "23.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Grass Monkey",
+      "Abilities": [
+        "Gluttony"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ice",
+          "Poison",
+          "Flying",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "511.png",
+      "slug": "Pansage",
+      "id": "511"
+    },
+    {
+      "img": "512.png",
+      "slug": "Simisage",
+      "id": "512"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "forms": [
+    "Poliwrath"
+  ],
+  "imgs": [
+    "062.png"
+  ],
+  "descs": [
+    "Poliwrath's highly developed, brawny muscles never grow\nfatigued, however much it exercises. It is so tirelessly strong,\nthis Pokémon can swim back and forth across the ocean\nwithout effort.",
+    "Poliwrath's highly developed, brawny muscles never grow\nfatigued, however much it exercises. It is so tirelessly strong,\nthis Pokémon can swim back and forth across the ocean\nwithout effort."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "119.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tadpole",
+      "Abilities": [
+        "Damp",
+        "Water Absorb"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Flying",
+          "Grass",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "060.png",
+      "slug": "Poliwag",
+      "id": "060"
+    },
+    {
+      "img": "061.png",
+      "slug": "Poliwhirl",
+      "id": "061"
+    },
+    [
+      {
+        "img": "062.png",
+        "slug": "Poliwrath",
+        "id": "062"
+      },
+      {
+        "img": "186.png",
+        "slug": "Politoed",
+        "id": "186"
+      }
+    ]
+  ]
+}

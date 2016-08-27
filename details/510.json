@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Liepard"
+  ],
+  "imgs": [
+    "510.png"
+  ],
+  "descs": [
+    "Stealthily, it sneaks up on its target, striking from\nbehind before its victim has a chance to react.",
+    "Their beautiful form comes from the muscles they\nhave developed. They run silently in the night."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "82.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cruel",
+      "Abilities": [
+        "Limber",
+        "Unburden"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Bug",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "509.png",
+      "slug": "Purrloin",
+      "id": "509"
+    },
+    {
+      "img": "510.png",
+      "slug": "Liepard",
+      "id": "510"
+    }
+  ]
+}

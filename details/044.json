@@ -1,0 +1,68 @@
+{
+  "forms": [
+    "Gloom"
+  ],
+  "imgs": [
+    "044.png"
+  ],
+  "descs": [
+    "From its mouth Gloom drips honey that smells absolutely\nhorrible. Apparently, it loves the horrid stench. It sniffs the\nnoxious fumes and then drools even more of its honey.",
+    "Gloom releases a foul fragrance from the pistil of its flower.\nWhen faced with danger, the stench worsens.\nIf this Pokémon is feeling calm and secure, it does not\nrelease its usual stinky aroma."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "19.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Weed",
+      "Abilities": [
+        "Chlorophyll"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "043.png",
+      "slug": "Oddish",
+      "id": "043"
+    },
+    {
+      "img": "044.png",
+      "slug": "Gloom",
+      "id": "044"
+    },
+    [
+      {
+        "img": "045.png",
+        "slug": "Vileplume",
+        "id": "045"
+      },
+      {
+        "img": "182.png",
+        "slug": "Bellossom",
+        "id": "182"
+      }
+    ]
+  ]
+}

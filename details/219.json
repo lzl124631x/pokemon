@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Magcargo"
+  ],
+  "imgs": [
+    "219.png"
+  ],
+  "descs": [
+    "Magcargo's body temperature is approximately\n18,000 degrees Fahrenheit. Water is vaporized on contact.\nIf this Pokémon is caught in the rain, the raindrops instantly\nturn into steam, cloaking the area in a thick fog.",
+    "Magcargo's shell is actually its skin that hardened as a result\nof cooling. Its shell is very brittle and fragile—just touching it\ncauses it to crumble apart. This Pokémon returns to its original\nsize by dipping itself in magma."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "121.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Lava",
+      "Abilities": [
+        "Flame Body",
+        "Magma Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Water",
+          "Fighting",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "218.png",
+      "slug": "Slugma",
+      "id": "218"
+    },
+    {
+      "img": "219.png",
+      "slug": "Magcargo",
+      "id": "219"
+    }
+  ]
+}

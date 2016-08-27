@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Eelektrik"
+  ],
+  "imgs": [
+    "603.png"
+  ],
+  "descs": [
+    "These Pokémon have a big appetite. When they\nspot their prey, they attack it and paralyze it\nwith electricity.",
+    "It wraps itself around its prey and paralyzes it with\nelectricity from the round spots on its sides.\nThen it chomps."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "48.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "EleFish",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "None"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "602.png",
+      "slug": "Tynamo",
+      "id": "602"
+    },
+    {
+      "img": "603.png",
+      "slug": "Eelektrik",
+      "id": "603"
+    },
+    {
+      "img": "604.png",
+      "slug": "Eelektross",
+      "id": "604"
+    }
+  ]
+}

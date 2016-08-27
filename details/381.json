@@ -1,0 +1,83 @@
+{
+  "forms": [
+    "Latios",
+    "Mega Latios"
+  ],
+  "imgs": [
+    "381.png",
+    "381_f2.png"
+  ],
+  "descs": [
+    "Latios will only open its heart to a Trainer with a\ncompassionate spirit. This Pokémon can fly faster than a\njet plane by folding its forelegs to minimize air resistance.",
+    "Latios has the ability to make others see an image of what it\nhas seen or imagines in its head. This Pokémon is intelligent\nand understands human speech."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "132.3 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Eon",
+      "Abilities": [
+        "Levitate"
+      ]
+    },
+    {
+      "Height": "7' 07\"",
+      "Weight": "154.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Eon",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Dragon",
+          "Ghost",
+          "Ice",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Ice",
+          "Dragon",
+          "Dark",
+          "Fairy",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "381.png",
+      "slug": "Latios",
+      "id": "381"
+    }
+  ]
+}

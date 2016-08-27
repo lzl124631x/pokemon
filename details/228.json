@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Houndour"
+  ],
+  "imgs": [
+    "228.png"
+  ],
+  "descs": [
+    "Houndour hunt as a coordinated pack. They communicate\nwith each other using a variety of cries to corner their prey.\nThis Pokémon's remarkable teamwork is unparalleled.",
+    "Houndour hunt as a coordinated pack. They communicate with\neach other using a variety of cries to corner their prey.\nThis Pokémon's remarkable teamwork is unparalleled."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "23.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Dark",
+      "Abilities": [
+        "Flash Fire",
+        "Early Bird"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "228.png",
+      "slug": "Houndour",
+      "id": "228"
+    },
+    {
+      "img": "229.png",
+      "slug": "Houndoom",
+      "id": "229"
+    }
+  ]
+}

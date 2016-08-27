@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Gothita"
+  ],
+  "imgs": [
+    "574.png"
+  ],
+  "descs": [
+    "According to many old tales, it creates friends for\nitself by controlling sleeping children on\nstarry nights.",
+    "Their ribbonlike feelers increase their psychic\npower. They are always staring at something."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "12.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fixation",
+      "Abilities": [
+        "Frisk",
+        "Competitive"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "574.png",
+      "slug": "Gothita",
+      "id": "574"
+    },
+    {
+      "img": "575.png",
+      "slug": "Gothorita",
+      "id": "575"
+    },
+    {
+      "img": "576.png",
+      "slug": "Gothitelle",
+      "id": "576"
+    }
+  ]
+}

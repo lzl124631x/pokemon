@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Beheeyem"
+  ],
+  "imgs": [
+    "606.png"
+  ],
+  "descs": [
+    "It uses psychic power to control an opponent's\nbrain and tamper with its memories.",
+    "Apparently, it communicates by flashing its three\nfingers, but those patterns haven't been decoded."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "76.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cerebral",
+      "Abilities": [
+        "Synchronize",
+        "Telepathy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "605.png",
+      "slug": "Elgyem",
+      "id": "605"
+    },
+    {
+      "img": "606.png",
+      "slug": "Beheeyem",
+      "id": "606"
+    }
+  ]
+}

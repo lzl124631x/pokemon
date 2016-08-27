@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Cresselia"
+  ],
+  "imgs": [
+    "488.png"
+  ],
+  "descs": [
+    "Those who sleep holding Cresselia's feather are\nassured of joyful dreams. It is said to represent\nthe crescent moon.",
+    "Shiny particles are released from its wings like a\nveil. It is said to represent the crescent moon."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "188.7 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Lunar",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "488.png",
+      "slug": "Cresselia",
+      "id": "488"
+    }
+  ]
+}

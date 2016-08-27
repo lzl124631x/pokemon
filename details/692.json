@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Clauncher"
+  ],
+  "imgs": [
+    "692.png"
+  ],
+  "descs": [
+    "Through controlled explosions of internal gas,\nit can expel water like a pistol shot.\nAt close distances, it can shatter rock.",
+    "They knock down flying prey by firing\ncompressed water from their massive\nclaws like shooting a pistol."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "18.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Water Gun",
+      "Abilities": [
+        "Mega Launcher"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "692.png",
+      "slug": "Clauncher",
+      "id": "692"
+    },
+    {
+      "img": "693.png",
+      "slug": "Clawitzer",
+      "id": "693"
+    }
+  ]
+}

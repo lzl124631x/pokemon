@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Vanillish"
+  ],
+  "imgs": [
+    "583.png"
+  ],
+  "descs": [
+    "Swallowing large amounts of water, they make\nsnow clouds inside their bodies and, when angry,\ncause violent blizzards.",
+    "They cool down the surrounding air and create ice\nparticles, which they use to freeze their foes."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "90.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Icy Snow",
+      "Abilities": [
+        "Ice Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "582.png",
+      "slug": "Vanillite",
+      "id": "582"
+    },
+    {
+      "img": "583.png",
+      "slug": "Vanillish",
+      "id": "583"
+    },
+    {
+      "img": "584.png",
+      "slug": "Vanilluxe",
+      "id": "584"
+    }
+  ]
+}

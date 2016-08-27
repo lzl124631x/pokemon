@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Ludicolo"
+  ],
+  "imgs": [
+    "272.png"
+  ],
+  "descs": [
+    "Upon hearing an upbeat and cheerful rhythm, the cells in\nLudicolo's body become very energetic and active. Even\nin battle, this Pokémon will exhibit an amazing amount\nof power.",
+    "Ludicolo begins dancing as soon as it hears cheerful,\nfestive music. This Pokémon is said to appear when it\nhears the singing of children on hiking outings."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "121.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Carefree",
+      "Abilities": [
+        "Swift Swim",
+        "Rain Dish"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Flying",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "270.png",
+      "slug": "Lotad",
+      "id": "270"
+    },
+    {
+      "img": "271.png",
+      "slug": "Lombre",
+      "id": "271"
+    },
+    {
+      "img": "272.png",
+      "slug": "Ludicolo",
+      "id": "272"
+    }
+  ]
+}

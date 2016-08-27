@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Noibat"
+  ],
+  "imgs": [
+    "714.png"
+  ],
+  "descs": [
+    "Even a robust wrestler will become\ndizzy and unable to stand when exposed\nto its 200,000-hertz ultrasonic waves.",
+    "They live in pitch-black caves. Their enormous ears\ncan emit ultrasonic waves of 200,000 hertz."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "17.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sound Wave",
+      "Abilities": [
+        "Frisk",
+        "Infiltrator"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Flying",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Rock",
+          "Fairy",
+          "Dragon"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "714.png",
+      "slug": "Noibat",
+      "id": "714"
+    },
+    {
+      "img": "715.png",
+      "slug": "Noivern",
+      "id": "715"
+    }
+  ]
+}

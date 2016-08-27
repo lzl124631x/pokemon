@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Gligar"
+  ],
+  "imgs": [
+    "207.png"
+  ],
+  "descs": [
+    "Gligar glides through the air without a sound as if it were\nsliding. This Pokémon hangs on to the face of its foe using\nits clawed hind legs and the large pincers on its forelegs, then\ninjects the prey with its poison barb.",
+    "Gligar glides through the air without a sound as if it were\nsliding. This Pokémon hangs on to the face of its foe using\nits clawed hind legs and the large pincers on its forelegs, then\ninjects the prey with its poison barb."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "142.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fly Scorpion",
+      "Abilities": [
+        "Sand Veil",
+        "Hyper Cutter"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "207.png",
+      "slug": "Gligar",
+      "id": "207"
+    },
+    {
+      "img": "472.png",
+      "slug": "Gliscor",
+      "id": "472"
+    }
+  ]
+}

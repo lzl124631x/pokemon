@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Charmeleon"
+  ],
+  "imgs": [
+    "005.png"
+  ],
+  "descs": [
+    "Charmeleon mercilessly destroys its foes using its sharp\nclaws. If it encounters a strong foe, it turns aggressive.\nIn this excited state, the flame at the tip of its tail flares with\na bluish white color.",
+    "Charmeleon mercilessly destroys its foes using its sharp claws.\nIf it encounters a strong foe, it turns aggressive.\nIn this excited state, the flame at the tip of its tail flares with a\nbluish white color."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "41.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Flame",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "004.png",
+      "slug": "Charmander",
+      "id": "004"
+    },
+    {
+      "img": "005.png",
+      "slug": "Charmeleon",
+      "id": "005"
+    },
+    {
+      "img": "006.png",
+      "slug": "Charizard",
+      "id": "006"
+    }
+  ]
+}

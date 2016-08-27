@@ -1,0 +1,62 @@
+{
+  "forms": [
+    "Delphox"
+  ],
+  "imgs": [
+    "655.png"
+  ],
+  "descs": [
+    "Using psychic power, it generates a\nfiery vortex of 5,400 degrees Fahrenheit,\nincinerating foes swept into this whirl of flame.",
+    "It gazes into the flame at the tip of\nits branch to achieve a focused state,\nwhich allows it to see into the future."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "86.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fox",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Dark",
+          "Water",
+          "Rock",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "653.png",
+      "slug": "Fennekin",
+      "id": "653"
+    },
+    {
+      "img": "654.png",
+      "slug": "Braixen",
+      "id": "654"
+    },
+    {
+      "img": "655.png",
+      "slug": "Delphox",
+      "id": "655"
+    }
+  ]
+}

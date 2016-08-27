@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Spoink"
+  ],
+  "imgs": [
+    "325.png"
+  ],
+  "descs": [
+    "Spoink keeps a pearl on top of its head. The pearl functions to\namplify this Pokémon's psychokinetic powers. It is therefore on\na constant search for a bigger pearl.",
+    "Spoink bounces around on its tail. The shock of its bouncing\nmakes its heart pump. As a result, this Pokémon cannot afford\nto stop bouncing—if it stops, its heart will stop."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "67.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bounce",
+      "Abilities": [
+        "Own Tempo",
+        "Thick Fat"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "325.png",
+      "slug": "Spoink",
+      "id": "325"
+    },
+    {
+      "img": "326.png",
+      "slug": "Grumpig",
+      "id": "326"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Smoochum"
+  ],
+  "imgs": [
+    "238.png"
+  ],
+  "descs": [
+    "Smoochum actively runs about, but also falls quite often.\nWhenever the chance arrives, it will look for its reflection to\nmake sure its face hasn't become dirty.",
+    "Smoochum actively runs about, but also falls quite often.\nWhenever the chance arrives, it will look for its reflection to\nmake sure its face hasn't become dirty."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "13.2 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Kiss",
+      "Abilities": [
+        "Oblivious",
+        "Forewarn"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Fire",
+          "Ghost",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "238.png",
+      "slug": "Smoochum",
+      "id": "238"
+    },
+    {
+      "img": "124.png",
+      "slug": "Jynx",
+      "id": "124"
+    }
+  ]
+}

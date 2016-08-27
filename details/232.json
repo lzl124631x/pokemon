@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Donphan"
+  ],
+  "imgs": [
+    "232.png"
+  ],
+  "descs": [
+    "If Donphan were to tackle with its hard body, even a house\ncould be destroyed. Using its massive strength, the Pokémon\nhelps clear rock and mud slides that block mountain trails.",
+    "Donphan's favorite attack is curling its body into a ball, then\ncharging at its foe while rolling at high speed. Once it starts\nrolling, this Pokémon can't stop very easily."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "264.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Armor",
+      "Abilities": [
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Ice",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "231.png",
+      "slug": "Phanpy",
+      "id": "231"
+    },
+    {
+      "img": "232.png",
+      "slug": "Donphan",
+      "id": "232"
+    }
+  ]
+}

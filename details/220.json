@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Swinub"
+  ],
+  "imgs": [
+    "220.png"
+  ],
+  "descs": [
+    "Swinub roots for food by rubbing its snout against the ground.\nIts favorite food is a mushroom that grows under the cover of\ndead grass. This Pokémon occasionally roots out hot springs.",
+    "Swinub roots for food by rubbing its snout against the ground.\nIts favorite food is a mushroom that grows under the cover of\ndead grass. This Pokémon occasionally roots out hot springs."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "14.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Pig",
+      "Abilities": [
+        "Oblivious",
+        "Snow Cloak"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Fire",
+          "Grass",
+          "Steel",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "220.png",
+      "slug": "Swinub",
+      "id": "220"
+    },
+    {
+      "img": "221.png",
+      "slug": "Piloswine",
+      "id": "221"
+    },
+    {
+      "img": "473.png",
+      "slug": "Mamoswine",
+      "id": "473"
+    }
+  ]
+}

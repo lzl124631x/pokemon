@@ -1,0 +1,85 @@
+{
+  "forms": [
+    "Overcast Form",
+    "Sunshine Form"
+  ],
+  "imgs": [
+    "421.png",
+    "421_f2.png"
+  ],
+  "descs": [
+    "If it senses strong sunlight, it opens its folded\npetals to absorb the sun's rays with its whole body.",
+    "During times of strong sunlight, its bud blooms,\nits petals open fully, and it becomes very active."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "20.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Blossom",
+      "Abilities": [
+        "Flower Gift"
+      ]
+    },
+    {
+      "Height": "1' 08\"",
+      "Weight": "20.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Blossom",
+      "Abilities": [
+        "Flower Gift"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Poison",
+          "Ice",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "420.png",
+      "slug": "Cherubi",
+      "id": "420"
+    },
+    {
+      "img": "421.png",
+      "slug": "Cherrim",
+      "id": "421"
+    }
+  ]
+}

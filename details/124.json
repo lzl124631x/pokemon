@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Jynx"
+  ],
+  "imgs": [
+    "124.png"
+  ],
+  "descs": [
+    "Jynx walks rhythmically, swaying and shaking its hips\nas if it were dancing. Its motions are so bouncingly alluring,\npeople seeing it are compelled to shake their hips without\ngiving any thought to what they are doing.",
+    "Jynx walks rhythmically, swaying and shaking its hips as if it\nwere dancing. Its motions are so bouncingly alluring, people\nseeing it are compelled to shake their hips without giving any\nthought to what they are doing."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "89.5 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Human Shape",
+      "Abilities": [
+        "Oblivious",
+        "Forewarn"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Fire",
+          "Ghost",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "238.png",
+      "slug": "Smoochum",
+      "id": "238"
+    },
+    {
+      "img": "124.png",
+      "slug": "Jynx",
+      "id": "124"
+    }
+  ]
+}

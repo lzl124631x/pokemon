@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Sandslash"
+  ],
+  "imgs": [
+    "028.png"
+  ],
+  "descs": [
+    "Sandslash can roll up its body as if it were a ball covered\nwith large spikes. In battle, this Pokémon will try to make\nthe foe flinch by jabbing it with its spines. It then leaps at\nthe stunned foe to tear wildly with its sharp claws.",
+    "Sandslash's body is covered by tough spikes, which are\nhardened sections of its hide. Once a year, the old spikes\nfall out, to be replaced with new spikes that grow out from\nbeneath the old ones."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "65.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mouse",
+      "Abilities": [
+        "Sand Veil"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Ice",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "027.png",
+      "slug": "Sandshrew",
+      "id": "027"
+    },
+    {
+      "img": "028.png",
+      "slug": "Sandslash",
+      "id": "028"
+    }
+  ]
+}

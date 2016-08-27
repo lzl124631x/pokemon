@@ -1,0 +1,75 @@
+{
+  "forms": [
+    "Incarnate Forme",
+    "Therian Forme"
+  ],
+  "imgs": [
+    "642.png",
+    "642_f2.png"
+  ],
+  "descs": [
+    "As it flies around, it shoots lightning all over\nthe place and causes forest fires. It is\ntherefore disliked.",
+    "The spikes on its tail discharge immense bolts of\nlightning. It flies around the Unova region firing off\nlightning bolts."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "134.5 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Bolt Strike",
+      "Abilities": [
+        "Prankster"
+      ]
+    },
+    {
+      "Height": "9' 10\"",
+      "Weight": "134.5 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Bolt Strike",
+      "Abilities": [
+        "Volt Absorb"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Electric",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "642.png",
+      "slug": "Thundurus",
+      "id": "642"
+    }
+  ]
+}

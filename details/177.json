@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Natu"
+  ],
+  "imgs": [
+    "177.png"
+  ],
+  "descs": [
+    "Natu has a highly developed jumping ability. The Pokémon\nflaps and leaps onto tree branches that are taller than\ngrown-up people to pick at the tree's new shoots.",
+    "Natu cannot fly because its wings are not yet fully grown.\nIf your eyes meet with this Pokémon's eyes, it will stare back\nintently at you. But if you move even slightly, it will hop away\nto safety."
+  ],
+  "abilities": [
+    {
+      "Height": "0' 08\"",
+      "Weight": "4.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tiny Bird",
+      "Abilities": [
+        "Synchronize",
+        "Early Bird"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Electric",
+          "Ghost",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "177.png",
+      "slug": "Natu",
+      "id": "177"
+    },
+    {
+      "img": "178.png",
+      "slug": "Xatu",
+      "id": "178"
+    }
+  ]
+}

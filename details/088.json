@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Grimer"
+  ],
+  "imgs": [
+    "088.png"
+  ],
+  "descs": [
+    "Grimer emerged from the sludge that settled on a polluted\nseabed. This Pokémon loves anything filthy. It constantly\nleaks a horribly germ-infested fluid from all over its body.",
+    "Grimer's sludgy and rubbery body can be forced through any\nopening, however small it may be. This Pokémon enters sewer\npipes to drink filthy wastewater."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "66.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sludge",
+      "Abilities": [
+        "Stench",
+        "Sticky Hold"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "088.png",
+      "slug": "Grimer",
+      "id": "088"
+    },
+    {
+      "img": "089.png",
+      "slug": "Muk",
+      "id": "089"
+    }
+  ]
+}

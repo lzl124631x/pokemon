@@ -1,0 +1,78 @@
+{
+  "forms": [
+    "Manectric",
+    "Mega Manectric"
+  ],
+  "imgs": [
+    "310.png",
+    "310_f2.png"
+  ],
+  "descs": [
+    "Manectric discharges strong electricity from its mane.\nThe mane is used for collecting electricity in the atmosphere.\nThis Pokémon creates thunderclouds above its head.",
+    "Manectric is constantly discharging electricity from its mane.\nThe sparks sometimes ignite forest fires. When it enters a\nbattle, this Pokémon creates thunderclouds."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "88.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Discharge",
+      "Abilities": [
+        "Static",
+        "Lightning Rod"
+      ]
+    },
+    {
+      "Height": "5' 11\"",
+      "Weight": "97.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Discharge",
+      "Abilities": [
+        "Intimidate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "309.png",
+      "slug": "Electrike",
+      "id": "309"
+    },
+    {
+      "img": "310.png",
+      "slug": "Manectric",
+      "id": "310"
+    }
+  ]
+}

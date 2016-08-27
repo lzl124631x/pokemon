@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Jellicent"
+  ],
+  "imgs": [
+    "593.png"
+  ],
+  "descs": [
+    "The fate of the ships and crew that wander into\nJellicent's habitat: all sunken, all lost, all vanished.",
+    "Its body is mostly seawater. It's said there's a\ncastle of ships Jellicent have sunk on the seafloor."
+  ],
+  "abilities": [
+    {
+      "Height": "7' 03\"",
+      "Weight": "297.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Floating",
+      "Abilities": [
+        "Water Absorb",
+        "Cursed Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "592.png",
+      "slug": "Frillish",
+      "id": "592"
+    },
+    {
+      "img": "593.png",
+      "slug": "Jellicent",
+      "id": "593"
+    }
+  ]
+}

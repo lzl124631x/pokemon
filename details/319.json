@@ -1,0 +1,87 @@
+{
+  "forms": [
+    "Sharpedo",
+    "Mega Sharpedo"
+  ],
+  "imgs": [
+    "319.png",
+    "319_f2.png"
+  ],
+  "descs": [
+    "Sharpedo can swim at speeds of up to 75 mph by jetting\nseawater out of its backside. This Pokémon's drawback is its\ninability to swim long distances.",
+    "Nicknamed “the bully of the sea,\" Sharpedo is widely feared.\nIts cruel fangs grow back immediately if they snap off. Just one\nof these Pokémon can thoroughly tear apart a supertanker."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "195.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Brutal",
+      "Abilities": [
+        "Rough Skin"
+      ]
+    },
+    {
+      "Height": "8' 02\"",
+      "Weight": "287.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Brutal",
+      "Abilities": [
+        "Strong Jaw"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Electric",
+          "Fighting",
+          "Grass",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Water",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Grass",
+          "Electric",
+          "Fighting",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "318.png",
+      "slug": "Carvanha",
+      "id": "318"
+    },
+    {
+      "img": "319.png",
+      "slug": "Sharpedo",
+      "id": "319"
+    }
+  ]
+}

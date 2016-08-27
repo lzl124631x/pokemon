@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Corphish"
+  ],
+  "imgs": [
+    "341.png"
+  ],
+  "descs": [
+    "Corphish catches prey with its sharp claws. It has no\nlikes or dislikes when it comes to food—it will eat anything.\nThis Pokémon has no trouble living in filthy water.",
+    "Corphish were originally foreign Pokémon that were imported\nas pets. They eventually turned up in the wild. This Pokémon is\nvery hardy and has greatly increased its population."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "25.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Ruffian",
+      "Abilities": [
+        "Shell Armor",
+        "Hyper Cutter"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "341.png",
+      "slug": "Corphish",
+      "id": "341"
+    },
+    {
+      "img": "342.png",
+      "slug": "Crawdaunt",
+      "id": "342"
+    }
+  ]
+}

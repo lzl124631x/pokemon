@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Wailmer"
+  ],
+  "imgs": [
+    "320.png"
+  ],
+  "descs": [
+    "Wailmer can store water inside its body to transform itself\ninto a ball for bouncing around on the ground. By filling itself\nup with more water, this Pokémon can elevate the height of\nits bounces.",
+    "Wailmer's nostrils are located above its eyes. This playful\nPokémon loves to startle people by forcefully snorting out\nseawater it stores inside its body out of its nostrils."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "286.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Ball Whale",
+      "Abilities": [
+        "Oblivious",
+        "Water Veil"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "320.png",
+      "slug": "Wailmer",
+      "id": "320"
+    },
+    {
+      "img": "321.png",
+      "slug": "Wailord",
+      "id": "321"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Charmander"
+  ],
+  "imgs": [
+    "004.png"
+  ],
+  "descs": [
+    "The flame that burns at the tip of its tail is an indication\nof its emotions. The flame wavers when Charmander\nis enjoying itself. If the Pokémon becomes enraged,\nthe flame burns fiercely.",
+    "The flame that burns at the tip of its tail is an indication\nof its emotions. The flame wavers when Charmander\nis enjoying itself. If the Pokémon becomes enraged,\nthe flame burns fiercely."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "18.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Lizard",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "004.png",
+      "slug": "Charmander",
+      "id": "004"
+    },
+    {
+      "img": "005.png",
+      "slug": "Charmeleon",
+      "id": "005"
+    },
+    {
+      "img": "006.png",
+      "slug": "Charizard",
+      "id": "006"
+    }
+  ]
+}

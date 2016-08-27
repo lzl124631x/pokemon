@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Bagon"
+  ],
+  "imgs": [
+    "371.png"
+  ],
+  "descs": [
+    "Bagon harbors a never-ending dream of one day soaring high\namong the clouds. As if trying to dispel its frustration over its\ninability to fly, this Pokémon slams its hard head against huge\nrocks and shatters them into pebbles.",
+    "Bagon has a dream of one day soaring in the sky.\nIn doomed efforts to fly, this Pokémon hurls itself off cliffs.\nAs a result of its dives, its head has grown tough and as hard\nas tempered steel."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "92.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Rock Head",
+      "Abilities": [
+        "Rock Head"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dragon",
+          "Ice",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "371.png",
+      "slug": "Bagon",
+      "id": "371"
+    },
+    {
+      "img": "372.png",
+      "slug": "Shelgon",
+      "id": "372"
+    },
+    {
+      "img": "373.png",
+      "slug": "Salamence",
+      "id": "373"
+    }
+  ]
+}

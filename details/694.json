@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Helioptile"
+  ],
+  "imgs": [
+    "694.png"
+  ],
+  "descs": [
+    "The frills on either side of its head have cells\nthat generate electricity when exposed to sunlight.",
+    "They make their home in deserts. They can\ngenerate their energy from basking in the sun,\nso eating food is not a requirement."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "13.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Generator",
+      "Abilities": [
+        "Sand Veil",
+        "Dry Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric",
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "694.png",
+      "slug": "Helioptile",
+      "id": "694"
+    },
+    {
+      "img": "695.png",
+      "slug": "Heliolisk",
+      "id": "695"
+    }
+  ]
+}

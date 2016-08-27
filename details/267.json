@@ -1,0 +1,76 @@
+{
+  "forms": [
+    "Beautifly"
+  ],
+  "imgs": [
+    "267.png"
+  ],
+  "descs": [
+    "Beautifly has a long mouth like a coiled needle, which is very\nconvenient for collecting pollen from flowers. This Pokémon\nrides the spring winds as it flits around gathering pollen.",
+    "Beautifly's favorite food is the sweet pollen of flowers. If you\nwant to see this Pokémon, just leave a potted flower by an\nopen window. Beautifly is sure to come looking for pollen."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "62.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Butterfly",
+      "Abilities": [
+        "Swarm"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Fire",
+          "Flying",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "265.png",
+      "slug": "Wurmple",
+      "id": "265"
+    },
+    [
+      {
+        "img": "266.png",
+        "slug": "Silcoon",
+        "id": "266"
+      },
+      {
+        "img": "268.png",
+        "slug": "Cascoon",
+        "id": "268"
+      }
+    ],
+    [
+      {
+        "img": "267.png",
+        "slug": "Beautifly",
+        "id": "267"
+      },
+      {
+        "img": "269.png",
+        "slug": "Dustox",
+        "id": "269"
+      }
+    ]
+  ]
+}

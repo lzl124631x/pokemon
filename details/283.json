@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Surskit"
+  ],
+  "imgs": [
+    "283.png"
+  ],
+  "descs": [
+    "If Surskit senses danger, it secretes a thick, sugary syrup from\nthe tip of its head. There are some Pokémon that love eating\nthis syrup.",
+    "From the tips of its feet, Surskit secretes an oil that enables it\nto walk on water as if it were skating. This Pokémon feeds on\nmicroscopic organisms in ponds and lakes."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "3.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Pond Skater",
+      "Abilities": [
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "283.png",
+      "slug": "Surskit",
+      "id": "283"
+    },
+    {
+      "img": "284.png",
+      "slug": "Masquerain",
+      "id": "284"
+    }
+  ]
+}

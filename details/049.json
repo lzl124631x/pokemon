@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Venomoth"
+  ],
+  "imgs": [
+    "049.png"
+  ],
+  "descs": [
+    "Venomoth is nocturnal—it is a Pokémon that only becomes\nactive at night. Its favorite prey are small insects that gather\naround streetlights, attracted by the light in the darkness.",
+    "Venomoth is nocturnal—it is a Pokémon that only becomes\nactive at night. Its favorite prey are small insects that gather\naround streetlights, attracted by the light in the darkness."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "27.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Poison Moth",
+      "Abilities": [
+        "Shield Dust",
+        "Tinted Lens"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Psychic",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "048.png",
+      "slug": "Venonat",
+      "id": "048"
+    },
+    {
+      "img": "049.png",
+      "slug": "Venomoth",
+      "id": "049"
+    }
+  ]
+}

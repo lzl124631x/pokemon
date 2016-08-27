@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Metapod"
+  ],
+  "imgs": [
+    "011.png"
+  ],
+  "descs": [
+    "The shell covering this Pokémon's body is as hard as an\niron slab. Metapod does not move very much.\nIt stays still because it is preparing its soft innards for\nevolution inside the hard shell.",
+    "The shell covering this Pokémon's body is as hard as an\niron slab. Metapod does not move very much. It stays still\nbecause it is preparing its soft innards for evolution inside\nthe hard shell."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "21.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cocoon",
+      "Abilities": [
+        "Shed Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "010.png",
+      "slug": "Caterpie",
+      "id": "010"
+    },
+    {
+      "img": "011.png",
+      "slug": "Metapod",
+      "id": "011"
+    },
+    {
+      "img": "012.png",
+      "slug": "Butterfree",
+      "id": "012"
+    }
+  ]
+}

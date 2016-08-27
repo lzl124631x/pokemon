@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Drowzee"
+  ],
+  "imgs": [
+    "096.png"
+  ],
+  "descs": [
+    "If your nose becomes itchy while you are sleeping, it's a sure\nsign that one of these Pokémon is standing above your pillow\nand trying to eat your dream through your nostrils.",
+    "If your nose becomes itchy while you are sleeping, it's a sure\nsign that one of these Pokémon is standing above your pillow\nand trying to eat your dream through your nostrils."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "71.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Hypnosis",
+      "Abilities": [
+        "Insomnia",
+        "Forewarn"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "096.png",
+      "slug": "Drowzee",
+      "id": "096"
+    },
+    {
+      "img": "097.png",
+      "slug": "Hypno",
+      "id": "097"
+    }
+  ]
+}

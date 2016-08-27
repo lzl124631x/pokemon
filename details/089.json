@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Muk"
+  ],
+  "imgs": [
+    "089.png"
+  ],
+  "descs": [
+    "This Pokémon's favorite food is anything that is repugnantly\nfilthy. In dirty towns where people think nothing of throwing\naway litter on the streets, Muk are certain to gather.",
+    "From Muk's body seeps a foul fluid that gives off a\nnose-bendingly horrible stench. Just one drop of this\nPokémon's body fluid can turn a pool stagnant and rancid."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "66.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sludge",
+      "Abilities": [
+        "Stench",
+        "Sticky Hold"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "088.png",
+      "slug": "Grimer",
+      "id": "088"
+    },
+    {
+      "img": "089.png",
+      "slug": "Muk",
+      "id": "089"
+    }
+  ]
+}

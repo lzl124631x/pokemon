@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Shellder"
+  ],
+  "imgs": [
+    "090.png"
+  ],
+  "descs": [
+    "At night, this Pokémon uses its broad tongue to burrow a hole\nin the seafloor sand and then sleep in it. While it is sleeping,\nShellder closes its shell, but leaves its tongue hanging out.",
+    "At night, this Pokémon uses its broad tongue to burrow a hole\nin the seafloor sand and then sleep in it. While it is sleeping,\nShellder closes its shell, but leaves its tongue hanging out."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "8.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bivalve",
+      "Abilities": [
+        "Shell Armor",
+        "Skill Link"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "090.png",
+      "slug": "Shellder",
+      "id": "090"
+    },
+    {
+      "img": "091.png",
+      "slug": "Cloyster",
+      "id": "091"
+    }
+  ]
+}

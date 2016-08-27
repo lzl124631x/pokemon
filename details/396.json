@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Starly"
+  ],
+  "imgs": [
+    "396.png"
+  ],
+  "descs": [
+    "They flock around mountains and fields, chasing\nafter bug Pokémon. Their singing is noisy\nand annoying.",
+    "They flock in great numbers. Though small, they\nflap their wings with great power."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "4.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Starling",
+      "Abilities": [
+        "Keen Eye"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "396.png",
+      "slug": "Starly",
+      "id": "396"
+    },
+    {
+      "img": "397.png",
+      "slug": "Staravia",
+      "id": "397"
+    },
+    {
+      "img": "398.png",
+      "slug": "Staraptor",
+      "id": "398"
+    }
+  ]
+}

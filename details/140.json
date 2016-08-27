@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Kabuto"
+  ],
+  "imgs": [
+    "140.png"
+  ],
+  "descs": [
+    "Kabuto is a Pokémon that has been regenerated from a fossil.\nHowever, in extremely rare cases, living examples have\nbeen discovered. The Pokémon has not changed at all for\n300 million years.",
+    "Kabuto is a Pokémon that has been regenerated from a fossil.\nHowever, in extremely rare cases, living examples have been\ndiscovered. The Pokémon has not changed at all for\n300 million years."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "25.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Shellfish",
+      "Abilities": [
+        "Swift Swim",
+        "Battle Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "140.png",
+      "slug": "Kabuto",
+      "id": "140"
+    },
+    {
+      "img": "141.png",
+      "slug": "Kabutops",
+      "id": "141"
+    }
+  ]
+}

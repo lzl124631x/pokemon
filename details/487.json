@@ -1,0 +1,81 @@
+{
+  "forms": [
+    "Altered Forme",
+    "Origin Forme"
+  ],
+  "imgs": [
+    "487.png",
+    "487_f2.png"
+  ],
+  "descs": [
+    "It was banished for its violence. It silently gazed\nupon the old world from the Distortion World.",
+    "This Pokémon is said to live in a world on the\nreverse side of ours, where common knowledge is\ndistorted and strange."
+  ],
+  "abilities": [
+    {
+      "Height": "14' 09\"",
+      "Weight": "1653.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Renegade",
+      "Abilities": [
+        "Pressure"
+      ]
+    },
+    {
+      "Height": "22' 08\"",
+      "Weight": "1433.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Renegade",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Dragon",
+          "Ghost",
+          "Ice",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Dragon",
+          "Ghost",
+          "Ice",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "487.png",
+      "slug": "Giratina",
+      "id": "487"
+    }
+  ]
+}

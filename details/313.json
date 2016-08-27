@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Volbeat"
+  ],
+  "imgs": [
+    "313.png"
+  ],
+  "descs": [
+    "Volbeat's tail glows like a lightbulb. With other Volbeat,\nit uses its tail to draw geometric shapes in the night sky.\nThis Pokémon loves the sweet aroma given off by Illumise.",
+    "With the arrival of night, Volbeat emits light from its tail.\nIt communicates with others by adjusting the intensity and\nflashing of its light. This Pokémon is attracted by the sweet\naroma of Illumise."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "39.0 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Firefly",
+      "Abilities": [
+        "Swarm",
+        "Illuminate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "313.png",
+      "slug": "Volbeat",
+      "id": "313"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Rufflet"
+  ],
+  "imgs": [
+    "627.png"
+  ],
+  "descs": [
+    "They will challenge anything, even strong\nopponents, without fear. Their frequent fights help\nthem become stronger.",
+    "They crush berries with their talons. They bravely\nstand up to any opponent, no matter how strong\nit is."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "23.1 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Eaglet",
+      "Abilities": [
+        "Keen Eye",
+        "Sheer Force"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "627.png",
+      "slug": "Rufflet",
+      "id": "627"
+    },
+    {
+      "img": "628.png",
+      "slug": "Braviary",
+      "id": "628"
+    }
+  ]
+}

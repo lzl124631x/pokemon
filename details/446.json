@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Munchlax"
+  ],
+  "imgs": [
+    "446.png"
+  ],
+  "descs": [
+    "It conceals food under the long fur on its body.\nIt carts around this food stash and swallows it\nwithout chewing.",
+    "It hides food under its long body hair. However,\nit forgets it has hidden the food."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "231.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Big Eater",
+      "Abilities": [
+        "Pickup",
+        "Thick Fat"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "446.png",
+      "slug": "Munchlax",
+      "id": "446"
+    },
+    {
+      "img": "143.png",
+      "slug": "Snorlax",
+      "id": "143"
+    }
+  ]
+}

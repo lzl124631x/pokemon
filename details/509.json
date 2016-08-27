@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Purrloin"
+  ],
+  "imgs": [
+    "509.png"
+  ],
+  "descs": [
+    "They steal from people for fun, but their victims\ncan't help but forgive them. Their deceptively cute\nact is perfect.",
+    "Its cute act is a ruse. When victims let down their\nguard, they find their items taken. It attacks with\nsharp claws."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "22.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Devious",
+      "Abilities": [
+        "Limber",
+        "Unburden"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Bug",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "509.png",
+      "slug": "Purrloin",
+      "id": "509"
+    },
+    {
+      "img": "510.png",
+      "slug": "Liepard",
+      "id": "510"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Wartortle"
+  ],
+  "imgs": [
+    "008.png"
+  ],
+  "descs": [
+    "Its tail is large and covered with a rich, thick fur. The tail\nbecomes increasingly deeper in color as Wartortle ages.\nThe scratches on its shell are evidence of this Pokémon's\ntoughness as a battler.",
+    "Its tail is large and covered with a rich, thick fur. The tail\nbecomes increasingly deeper in color as Wartortle ages.\nThe scratches on its shell are evidence of this Pokémon's\ntoughness as a battler."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "49.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Turtle",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "007.png",
+      "slug": "Squirtle",
+      "id": "007"
+    },
+    {
+      "img": "008.png",
+      "slug": "Wartortle",
+      "id": "008"
+    },
+    {
+      "img": "009.png",
+      "slug": "Blastoise",
+      "id": "009"
+    }
+  ]
+}

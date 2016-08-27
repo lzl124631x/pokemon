@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Goomy"
+  ],
+  "imgs": [
+    "704.png"
+  ],
+  "descs": [
+    "It's covered in a slimy membrane that makes\nany punches or kicks slide off it harmlessly.",
+    "The weakest Dragon-type Pokémon,\nit lives in damp, shady places, so its\nbody doesn't dry out."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "6.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Soft Tissue",
+      "Abilities": [
+        "Hydration",
+        "Sap Sipper"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Ice",
+          "Dragon"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "704.png",
+      "slug": "Goomy",
+      "id": "704"
+    },
+    {
+      "img": "705.png",
+      "slug": "Sliggoo",
+      "id": "705"
+    },
+    {
+      "img": "706.png",
+      "slug": "Goodra",
+      "id": "706"
+    }
+  ]
+}

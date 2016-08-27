@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Grumpig"
+  ],
+  "imgs": [
+    "326.png"
+  ],
+  "descs": [
+    "Grumpig uses the black pearls on its body to wield\nits fantastic powers. When it is doing so, it dances bizarrely.\nThis Pokémon's black pearls are valuable as works of art.",
+    "Grumpig uses the black pearls on its body to amplify its\npsychic power waves for gaining total control over its foe.\nWhen this Pokémon uses its special power, its snorting breath\ngrows labored."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "157.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Manipulate",
+      "Abilities": [
+        "Own Tempo",
+        "Thick Fat"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "325.png",
+      "slug": "Spoink",
+      "id": "325"
+    },
+    {
+      "img": "326.png",
+      "slug": "Grumpig",
+      "id": "326"
+    }
+  ]
+}

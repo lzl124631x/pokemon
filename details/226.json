@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Mantine"
+  ],
+  "imgs": [
+    "226.png"
+  ],
+  "descs": [
+    "On sunny days, schools of Mantine can be seen elegantly\nleaping over the sea's waves. This Pokémon is not bothered\nby the Remoraid that hitches rides.",
+    "On sunny days, schools of Mantine can be seen elegantly\nleaping over the sea's waves. This Pokémon is not bothered\nby the Remoraid that hitches rides."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 11\"",
+      "Weight": "485.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Kite",
+      "Abilities": [
+        "Water Absorb",
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "458.png",
+      "slug": "Mantyke",
+      "id": "458"
+    },
+    {
+      "img": "226.png",
+      "slug": "Mantine",
+      "id": "226"
+    }
+  ]
+}

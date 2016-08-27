@@ -1,0 +1,77 @@
+{
+  "forms": [
+    "Absol",
+    "Mega Absol"
+  ],
+  "imgs": [
+    "359.png",
+    "359_f2.png"
+  ],
+  "descs": [
+    "Absol has the ability to foretell the coming of natural disasters.\nIt lives in a harsh, rugged mountain environment. This\nPokémon very rarely ventures down from the mountains.",
+    "Every time Absol appears before people, it is followed by a\ndisaster such as an earthquake or a tidal wave. As a result,\nit came to be known as the disaster Pokémon."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "103.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Disaster",
+      "Abilities": [
+        "Pressure",
+        "Super Luck"
+      ]
+    },
+    {
+      "Height": "3' 11\"",
+      "Weight": "108.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Disaster",
+      "Abilities": [
+        "Magic Bounce"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Bug",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Bug",
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "359.png",
+      "slug": "Absol",
+      "id": "359"
+    }
+  ]
+}

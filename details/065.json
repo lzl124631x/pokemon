@@ -1,0 +1,87 @@
+{
+  "forms": [
+    "Alakazam",
+    "Mega Alakazam"
+  ],
+  "imgs": [
+    "065.png",
+    "065_f2.png"
+  ],
+  "descs": [
+    "Alakazam's brain continually grows, infinitely multiplying\nbrain cells. This amazing brain gives this Pokémon an\nastoundingly high IQ of 5,000. It has a thorough memory\nof everything that has occurred in the world.",
+    "Alakazam's brain continually grows, making its head far too\nheavy to support with its neck. This Pokémon holds its head up\nusing its psychokinetic power instead."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "105.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Psi",
+      "Abilities": [
+        "Inner Focus",
+        "Synchronize"
+      ]
+    },
+    {
+      "Height": "3' 11\"",
+      "Weight": "105.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Psi",
+      "Abilities": [
+        "Trace"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Dark",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "063.png",
+      "slug": "Abra",
+      "id": "063"
+    },
+    {
+      "img": "064.png",
+      "slug": "Kadabra",
+      "id": "064"
+    },
+    {
+      "img": "065.png",
+      "slug": "Alakazam",
+      "id": "065"
+    }
+  ]
+}

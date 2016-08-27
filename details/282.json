@@ -1,0 +1,96 @@
+{
+  "forms": [
+    "Gardevoir",
+    "Mega Gardevoir"
+  ],
+  "imgs": [
+    "282.png",
+    "282_f2.png"
+  ],
+  "descs": [
+    "Gardevoir has the psychokinetic power to distort the\ndimensions and create a small black hole. This Pokémon\nwill try to protect its Trainer even at the risk of its own life.",
+    "Gardevoir has the ability to read the future. If it senses\nimpending danger to its Trainer, this Pokémon is said\nto unleash its psychokinetic energy at full power."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "106.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Embrace",
+      "Abilities": [
+        "Synchronize",
+        "Trace"
+      ]
+    },
+    {
+      "Height": "5' 03\"",
+      "Weight": "106.7 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Embrace",
+      "Abilities": [
+        "Pixilate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Steel",
+          "Poison"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "280.png",
+      "slug": "Ralts",
+      "id": "280"
+    },
+    {
+      "img": "281.png",
+      "slug": "Kirlia",
+      "id": "281"
+    },
+    [
+      {
+        "img": "282.png",
+        "slug": "Gardevoir",
+        "id": "282"
+      },
+      {
+        "img": "475.png",
+        "slug": "Gallade",
+        "id": "475"
+      }
+    ]
+  ]
+}

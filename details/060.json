@@ -1,0 +1,66 @@
+{
+  "forms": [
+    "Poliwag"
+  ],
+  "imgs": [
+    "060.png"
+  ],
+  "descs": [
+    "Poliwag has a very thin skin. It is possible to see the\nPokémon's spiral innards right through the skin. Despite its\nthinness, however, the skin is also very flexible. Even sharp\nfangs bounce right off it.",
+    "Poliwag has a very thin skin. It is possible to see the\nPokémon's spiral innards right through the skin.\nDespite its thinness, however, the skin is also very flexible.\nEven sharp fangs bounce right off it."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "27.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tadpole",
+      "Abilities": [
+        "Damp",
+        "Water Absorb"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "060.png",
+      "slug": "Poliwag",
+      "id": "060"
+    },
+    {
+      "img": "061.png",
+      "slug": "Poliwhirl",
+      "id": "061"
+    },
+    [
+      {
+        "img": "062.png",
+        "slug": "Poliwrath",
+        "id": "062"
+      },
+      {
+        "img": "186.png",
+        "slug": "Politoed",
+        "id": "186"
+      }
+    ]
+  ]
+}

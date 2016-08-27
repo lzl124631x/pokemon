@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Braviary"
+  ],
+  "imgs": [
+    "628.png"
+  ],
+  "descs": [
+    "They fight for their friends without any thought\nabout danger to themselves. One can carry a car\nwhile flying.",
+    "For the sake of its friends, this brave warrior of the\nsky will not stop battling, even if injured."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "90.4 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Valiant",
+      "Abilities": [
+        "Keen Eye",
+        "Sheer Force"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "627.png",
+      "slug": "Rufflet",
+      "id": "627"
+    },
+    {
+      "img": "628.png",
+      "slug": "Braviary",
+      "id": "628"
+    }
+  ]
+}

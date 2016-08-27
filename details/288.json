@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Vigoroth"
+  ],
+  "imgs": [
+    "288.png"
+  ],
+  "descs": [
+    "Vigoroth is simply incapable of remaining still. Even when it\ntries to sleep, the blood in its veins grows agitated, compelling\nthis Pokémon to run wild throughout the jungle before it can\nsettle down.",
+    "Vigoroth is always itching and agitated to go on a wild\nrampage. It simply can't tolerate sitting still for even\na minute. This Pokémon's stress level rises if it can't\nbe moving constantly."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "102.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Wild Monkey",
+      "Abilities": [
+        "Vital Spirit"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "287.png",
+      "slug": "Slakoth",
+      "id": "287"
+    },
+    {
+      "img": "288.png",
+      "slug": "Vigoroth",
+      "id": "288"
+    },
+    {
+      "img": "289.png",
+      "slug": "Slaking",
+      "id": "289"
+    }
+  ]
+}

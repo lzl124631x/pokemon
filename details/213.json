@@ -1,0 +1,51 @@
+{
+  "forms": [
+    "Shuckle"
+  ],
+  "imgs": [
+    "213.png"
+  ],
+  "descs": [
+    "Shuckle quietly hides itself under rocks, keeping its body\nconcealed inside its hard shell while eating berries it has\nstored away. The berries mix with its body fluids to become\na juice.",
+    "Shuckle quietly hides itself under rocks, keeping its body\nconcealed inside its hard shell while eating berries it has\nstored away. The berries mix with its body fluids to become\na juice."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "45.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mold",
+      "Abilities": [
+        "Sturdy",
+        "Gluttony"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Steel",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "213.png",
+      "slug": "Shuckle",
+      "id": "213"
+    }
+  ]
+}

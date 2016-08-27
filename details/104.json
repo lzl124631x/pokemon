@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Cubone"
+  ],
+  "imgs": [
+    "104.png"
+  ],
+  "descs": [
+    "Cubone pines for the mother it will never see again. Seeing a\nlikeness of its mother in the full moon, it cries. The stains on\nthe skull the Pokémon wears are made by the tears it sheds.",
+    "Cubone pines for the mother it will never see again.\nSeeing a likeness of its mother in the full moon, it cries.\nThe stains on the skull the Pokémon wears are made by the\ntears it sheds."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "14.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Lonely",
+      "Abilities": [
+        "Rock Head",
+        "Lightning Rod"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Ice",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "104.png",
+      "slug": "Cubone",
+      "id": "104"
+    },
+    {
+      "img": "105.png",
+      "slug": "Marowak",
+      "id": "105"
+    }
+  ]
+}

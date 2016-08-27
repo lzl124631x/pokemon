@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Pawniard"
+  ],
+  "imgs": [
+    "624.png"
+  ],
+  "descs": [
+    "Ignoring their injuries, groups attack by sinking\nthe blades that cover their bodies into their prey.",
+    "Blades comprise this Pokémon's entire body.\nIf battling dulls the blades, it sharpens them on\nstones by the river."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "22.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sharp Blade",
+      "Abilities": [
+        "Inner Focus",
+        "Defiant"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Fire",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "624.png",
+      "slug": "Pawniard",
+      "id": "624"
+    },
+    {
+      "img": "625.png",
+      "slug": "Bisharp",
+      "id": "625"
+    }
+  ]
+}

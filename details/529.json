@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Drilbur"
+  ],
+  "imgs": [
+    "529.png"
+  ],
+  "descs": [
+    "By spinning its body, it can dig straight through the\nground at a speed of 30 mph.",
+    "It makes its way swiftly through the soil by putting\nboth claws together and rotating at high speed."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "18.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mole",
+      "Abilities": [
+        "Sand Rush",
+        "Sand Force"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Grass",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "529.png",
+      "slug": "Drilbur",
+      "id": "529"
+    },
+    {
+      "img": "530.png",
+      "slug": "Excadrill",
+      "id": "530"
+    }
+  ]
+}

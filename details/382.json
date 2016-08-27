@@ -1,0 +1,73 @@
+{
+  "forms": [
+    "Kyogre",
+    "Primal Kyogre"
+  ],
+  "imgs": [
+    "382.png",
+    "382_f2.png"
+  ],
+  "descs": [
+    "Kyogre is said to be the personification of the sea itself.\nLegends tell of its many clashes against Groudon,\nas each sought to gain the power of nature.",
+    "Through Primal Reversion and with nature's\nfull power, it will take back its true form. It can\nsummon storms that cause the sea levels to rise."
+  ],
+  "abilities": [
+    {
+      "Height": "14' 09\"",
+      "Weight": "776.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Sea Basin",
+      "Abilities": [
+        "Drizzle"
+      ]
+    },
+    {
+      "Height": "32' 02\"",
+      "Weight": "948.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Sea Basin",
+      "Abilities": [
+        "Primordial Sea"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "382.png",
+      "slug": "Kyogre",
+      "id": "382"
+    }
+  ]
+}

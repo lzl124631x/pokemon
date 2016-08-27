@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Chikorita"
+  ],
+  "imgs": [
+    "152.png"
+  ],
+  "descs": [
+    "In battle, Chikorita waves its leaf around to keep the foe at\nbay. However, a sweet fragrance also wafts from the leaf,\nbecalming the battling Pokémon and creating a cozy,\nfriendly atmosphere all around.",
+    "In battle, Chikorita waves its leaf around to keep the foe at\nbay. However, a sweet fragrance also wafts from the leaf,\nbecalming the battling Pokémon and creating a cozy, friendly\natmosphere all around."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "14.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Leaf",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "152.png",
+      "slug": "Chikorita",
+      "id": "152"
+    },
+    {
+      "img": "153.png",
+      "slug": "Bayleef",
+      "id": "153"
+    },
+    {
+      "img": "154.png",
+      "slug": "Meganium",
+      "id": "154"
+    }
+  ]
+}

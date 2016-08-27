@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Marill"
+  ],
+  "imgs": [
+    "183.png"
+  ],
+  "descs": [
+    "When fishing for food at the edge of a fast-running stream,\nMarill wraps its tail around the trunk of a tree. This Pokémon's\ntail is flexible and configured to stretch.",
+    "Marill's oil-filled tail acts much like a life preserver. If you see\njust its tail bobbing on the water's surface, it's a sure\nindication that this Pokémon is diving beneath the water to\nfeed on aquatic plants."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "18.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Aqua Mouse",
+      "Abilities": [
+        "Thick Fat",
+        "Huge Power"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "298.png",
+      "slug": "Azurill",
+      "id": "298"
+    },
+    {
+      "img": "183.png",
+      "slug": "Marill",
+      "id": "183"
+    },
+    {
+      "img": "184.png",
+      "slug": "Azumarill",
+      "id": "184"
+    }
+  ]
+}

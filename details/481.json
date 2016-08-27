@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Mesprit"
+  ],
+  "imgs": [
+    "481.png"
+  ],
+  "descs": [
+    "It sleeps at the bottom of a lake. Its spirit is said to\nleave its body to fly on the lake's surface.",
+    "Known as “The Being of Emotion.” It taught\nhumans the nobility of sorrow, pain, and joy."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "0.7 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Emotion",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "481.png",
+      "slug": "Mesprit",
+      "id": "481"
+    }
+  ]
+}

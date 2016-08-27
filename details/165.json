@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Ledyba"
+  ],
+  "imgs": [
+    "165.png"
+  ],
+  "descs": [
+    "Ledyba secretes an aromatic fluid from where its legs join its\nbody. This fluid is used for communicating with others.\nThis Pokémon conveys its feelings to others by altering the\nfluid's scent.",
+    "Ledyba secretes an aromatic fluid from where its legs join its\nbody. This fluid is used for communicating with others.\nThis Pokémon conveys its feelings to others by altering the\nfluid's scent."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "23.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Five Star",
+      "Abilities": [
+        "Swarm",
+        "Early Bird"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Fire",
+          "Flying",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "165.png",
+      "slug": "Ledyba",
+      "id": "165"
+    },
+    {
+      "img": "166.png",
+      "slug": "Ledian",
+      "id": "166"
+    }
+  ]
+}

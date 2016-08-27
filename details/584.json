@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Vanilluxe"
+  ],
+  "imgs": [
+    "584.png"
+  ],
+  "descs": [
+    "",
+    "If both heads get angry simultaneously, this\nPokémon expels a blizzard, burying everything\nin snow."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "126.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Snowstorm",
+      "Abilities": [
+        "Ice Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "582.png",
+      "slug": "Vanillite",
+      "id": "582"
+    },
+    {
+      "img": "583.png",
+      "slug": "Vanillish",
+      "id": "583"
+    },
+    {
+      "img": "584.png",
+      "slug": "Vanilluxe",
+      "id": "584"
+    }
+  ]
+}

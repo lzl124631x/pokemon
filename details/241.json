@@ -1,0 +1,47 @@
+{
+  "forms": [
+    "Miltank"
+  ],
+  "imgs": [
+    "241.png"
+  ],
+  "descs": [
+    "Miltank gives over five gallons of milk on a daily basis. Its\nsweet milk is enjoyed by children and grown-ups alike. People\nwho can't drink milk turn it into yogurt and eat it instead.",
+    "Miltank gives over five gallons of milk on a daily basis.\nIts sweet milk is enjoyed by children and grown-ups alike.\nPeople who can't drink milk turn it into yogurt and eat\nit instead."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "166.4 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Milk Cow",
+      "Abilities": [
+        "Thick Fat",
+        "Scrappy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "241.png",
+      "slug": "Miltank",
+      "id": "241"
+    }
+  ]
+}

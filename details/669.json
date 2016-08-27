@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Flabébé"
+  ],
+  "imgs": [
+    "669.png"
+  ],
+  "descs": [
+    "When it finds a flower it likes, it dwells on\nthat flower its whole life long. It floats in the\nwind's embrace with an untroubled heart.",
+    "It draws out and controls the hidden power\nof flowers. The flower Flabébé holds\nis most likely part of its body."
+  ],
+  "abilities": [
+    {
+      "Height": "0' 04\"",
+      "Weight": "0.2 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Single Bloom",
+      "Abilities": [
+        "Flower Veil"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "669.png",
+      "slug": "Flabébé",
+      "id": "669"
+    },
+    {
+      "img": "670.png",
+      "slug": "Floette",
+      "id": "670"
+    },
+    {
+      "img": "671.png",
+      "slug": "Florges",
+      "id": "671"
+    }
+  ]
+}

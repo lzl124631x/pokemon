@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Hoppip"
+  ],
+  "imgs": [
+    "187.png"
+  ],
+  "descs": [
+    "This Pokémon drifts and floats with the wind. If it senses the\napproach of strong winds, Hoppip links its leaves with other\nHoppip to prepare against being blown away.",
+    "This Pokémon drifts and floats with the wind. If it senses the\napproach of strong winds, Hoppip links its leaves with other\nHoppip to prepare against being blown away."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "1.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cottonweed",
+      "Abilities": [
+        "Chlorophyll",
+        "Leaf Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Fire",
+          "Flying",
+          "Poison",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "187.png",
+      "slug": "Hoppip",
+      "id": "187"
+    },
+    {
+      "img": "188.png",
+      "slug": "Skiploom",
+      "id": "188"
+    },
+    {
+      "img": "189.png",
+      "slug": "Jumpluff",
+      "id": "189"
+    }
+  ]
+}

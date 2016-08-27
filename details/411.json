@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Bastiodon"
+  ],
+  "imgs": [
+    "411.png"
+  ],
+  "descs": [
+    "Any frontal attack is repulsed. It is a docile\nPokémon that feeds on grass and berries.",
+    "When they lined up side by side, no foe could\nbreak through. They shielded their young in\nthat way."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "329.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Shield",
+      "Abilities": [
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Ground",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "410.png",
+      "slug": "Shieldon",
+      "id": "410"
+    },
+    {
+      "img": "411.png",
+      "slug": "Bastiodon",
+      "id": "411"
+    }
+  ]
+}

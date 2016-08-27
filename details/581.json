@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Swanna"
+  ],
+  "imgs": [
+    "581.png"
+  ],
+  "descs": [
+    "This Pokémon formed from icicles bathed in energy\nfrom the morning sun. It sleeps buried in snow.",
+    "Despite their elegant appearance, they can flap\ntheir wings strongly and fly for thousands of miles."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "53.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "White Bird",
+      "Abilities": [
+        "Keen Eye",
+        "Big Pecks"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "580.png",
+      "slug": "Ducklett",
+      "id": "580"
+    },
+    {
+      "img": "581.png",
+      "slug": "Swanna",
+      "id": "581"
+    }
+  ]
+}

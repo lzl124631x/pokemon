@@ -1,0 +1,62 @@
+{
+  "forms": [
+    "Scolipede"
+  ],
+  "imgs": [
+    "545.png"
+  ],
+  "descs": [
+    "With quick movements, it chases down its foes,\nattacking relentlessly with its horns until it prevails.",
+    "It clasps its prey with the claws on its neck until it\nstops moving. Then it finishes it off with\ndeadly poison."
+  ],
+  "abilities": [
+    {
+      "Height": "8' 02\"",
+      "Weight": "442.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Megapede",
+      "Abilities": [
+        "Swarm",
+        "Poison Point"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Psychic",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "543.png",
+      "slug": "Venipede",
+      "id": "543"
+    },
+    {
+      "img": "544.png",
+      "slug": "Whirlipede",
+      "id": "544"
+    },
+    {
+      "img": "545.png",
+      "slug": "Scolipede",
+      "id": "545"
+    }
+  ]
+}

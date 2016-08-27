@@ -1,0 +1,158 @@
+{
+  "forms": [
+    "Spring Form",
+    "Summer Form",
+    "Autumn Form",
+    "Winter Form"
+  ],
+  "imgs": [
+    "586.png",
+    "586_f2.png",
+    "586_f3.png",
+    "586_f4.png"
+  ],
+  "descs": [
+    "They migrate according to the seasons, so some\npeople call Sawsbuck the harbingers of spring.",
+    "They migrate according to the seasons. People can\ntell the season by looking at Sawsbuck's horns."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 03\"",
+      "Weight": "203.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Season",
+      "Abilities": [
+        "Chlorophyll",
+        "Sap Sipper"
+      ]
+    },
+    {
+      "Height": "6' 03\"",
+      "Weight": "203.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Season",
+      "Abilities": [
+        "Chlorophyll",
+        "Sap Sipper"
+      ]
+    },
+    {
+      "Height": "6' 03\"",
+      "Weight": "203.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Season",
+      "Abilities": [
+        "Chlorophyll",
+        "Sap Sipper"
+      ]
+    },
+    {
+      "Height": "6' 03\"",
+      "Weight": "203.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Season",
+      "Abilities": [
+        "Chlorophyll",
+        "Sap Sipper"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ice",
+          "Fighting",
+          "Poison",
+          "Flying",
+          "Bug"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Normal",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Fighting",
+          "Poison",
+          "Ice",
+          "Bug"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Normal",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Fighting",
+          "Poison",
+          "Ice",
+          "Bug"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Normal",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Fighting",
+          "Poison",
+          "Ice",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "585.png",
+      "slug": "Deerling",
+      "id": "585"
+    },
+    {
+      "img": "586.png",
+      "slug": "Sawsbuck",
+      "id": "586"
+    }
+  ]
+}

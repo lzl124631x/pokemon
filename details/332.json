@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Cacturne"
+  ],
+  "imgs": [
+    "332.png"
+  ],
+  "descs": [
+    "If a traveler is going through a desert in the thick of night,\nCacturne will follow in a ragtag group. The Pokémon are\nbiding their time, waiting for the traveler to tire and become\nincapable of moving.",
+    "During the daytime, Cacturne remains unmoving so that it does\nnot lose any moisture to the harsh desert sun. This Pokémon\nbecomes active at night when the temperature drops."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "170.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Scarecrow",
+      "Abilities": [
+        "Sand Veil"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Fighting",
+          "Flying",
+          "Ice",
+          "Poison",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "331.png",
+      "slug": "Cacnea",
+      "id": "331"
+    },
+    {
+      "img": "332.png",
+      "slug": "Cacturne",
+      "id": "332"
+    }
+  ]
+}

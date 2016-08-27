@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Vanillite"
+  ],
+  "imgs": [
+    "582.png"
+  ],
+  "descs": [
+    "Snowy mountains are this Pokémon's habitat.\nDuring an ancient ice age, they moved to\nsouthern areas.",
+    "The temperature of their breath is -58 degrees\nFahrenheit. They create snow crystals and make\nsnow fall in the areas around them."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "12.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fresh Snow",
+      "Abilities": [
+        "Ice Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "582.png",
+      "slug": "Vanillite",
+      "id": "582"
+    },
+    {
+      "img": "583.png",
+      "slug": "Vanillish",
+      "id": "583"
+    },
+    {
+      "img": "584.png",
+      "slug": "Vanilluxe",
+      "id": "584"
+    }
+  ]
+}

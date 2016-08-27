@@ -1,0 +1,77 @@
+{
+  "forms": [
+    "Mawile",
+    "Mega Mawile"
+  ],
+  "imgs": [
+    "303.png",
+    "303_f2.png"
+  ],
+  "descs": [
+    "Don't be taken in by this Pokémon's cute face—it's very\ndangerous. Mawile fools the foe into letting down its guard,\nthen chomps down with its massive jaws. The steel jaws are\nreally horns that have been transformed.",
+    "Mawile's huge jaws are actually steel horns that have been\ntransformed. Its docile-looking face serves to lull its foe into\nletting down its guard. When the foe least expects it, Mawile\nchomps it with its gaping jaws."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "25.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Deceiver",
+      "Abilities": [
+        "Intimidate",
+        "Hyper Cutter"
+      ]
+    },
+    {
+      "Height": "3' 03\"",
+      "Weight": "51.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Deceiver",
+      "Abilities": [
+        "Huge Power"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Steel",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "303.png",
+      "slug": "Mawile",
+      "id": "303"
+    }
+  ]
+}

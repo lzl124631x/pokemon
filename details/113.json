@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Chansey"
+  ],
+  "imgs": [
+    "113.png"
+  ],
+  "descs": [
+    "Chansey lays nutritionally excellent eggs on an everyday basis.\nThe eggs are so delicious, they are easily and eagerly\ndevoured by even those people who have lost their appetite.",
+    "Chansey lays nutritionally excellent eggs on an everyday basis.\nThe eggs are so delicious, they are easily and eagerly\ndevoured by even those people who have lost their appetite."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "76.3 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Egg",
+      "Abilities": [
+        "Natural Cure",
+        "Serene Grace"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "440.png",
+      "slug": "Happiny",
+      "id": "440"
+    },
+    {
+      "img": "113.png",
+      "slug": "Chansey",
+      "id": "113"
+    },
+    {
+      "img": "242.png",
+      "slug": "Blissey",
+      "id": "242"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Wynaut"
+  ],
+  "imgs": [
+    "360.png"
+  ],
+  "descs": [
+    "Wynaut gather on moonlit nights to play by squeezing up\nagainst each other. By being squeezed, this Pokémon gains\nendurance and is trained to dole out powerful counterattacks.",
+    "Wynaut can always be seen with a big, happy smile on its face.\nLook at its tail to determine if it is angry. When angered, this\nPokémon will be slapping the ground with its tail."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "30.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bright",
+      "Abilities": [
+        "Shadow Tag"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "360.png",
+      "slug": "Wynaut",
+      "id": "360"
+    },
+    {
+      "img": "202.png",
+      "slug": "Wobbuffet",
+      "id": "202"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Haunter"
+  ],
+  "imgs": [
+    "093.png"
+  ],
+  "descs": [
+    "Haunter is a dangerous Pokémon. If one beckons you while\nfloating in darkness, you must never approach it. This Pokémon\nwill try to lick you with its tongue and steal your life away.",
+    "Haunter is a dangerous Pokémon. If one beckons you while\nfloating in darkness, you must never approach it. This Pokémon\nwill try to lick you with its tongue and steal your life away."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "0.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Gas",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Ghost",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "092.png",
+      "slug": "Gastly",
+      "id": "092"
+    },
+    {
+      "img": "093.png",
+      "slug": "Haunter",
+      "id": "093"
+    },
+    {
+      "img": "094.png",
+      "slug": "Gengar",
+      "id": "094"
+    }
+  ]
+}

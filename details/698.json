@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Amaura"
+  ],
+  "imgs": [
+    "698.png"
+  ],
+  "descs": [
+    "This calm Pokémon lived in a cold land where\nthere were no violent predators like Tyrantrum.",
+    "This ancient Pokémon was restored\nfrom part of its body that had been\nfrozen in ice for over 100 million years."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "55.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tundra",
+      "Abilities": [
+        "Refrigerate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Fighting",
+          "Water",
+          "Rock",
+          "Grass",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "698.png",
+      "slug": "Amaura",
+      "id": "698"
+    },
+    {
+      "img": "699.png",
+      "slug": "Aurorus",
+      "id": "699"
+    }
+  ]
+}

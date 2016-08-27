@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Empoleon"
+  ],
+  "imgs": [
+    "395.png"
+  ],
+  "descs": [
+    "The three horns that extend from its beak attest to\nits power. The leader has the biggest horns.",
+    "It swims as fast as a jet boat. The edges of its\nwings are sharp and can slice apart drifting ice."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "186.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Emperor",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "393.png",
+      "slug": "Piplup",
+      "id": "393"
+    },
+    {
+      "img": "394.png",
+      "slug": "Prinplup",
+      "id": "394"
+    },
+    {
+      "img": "395.png",
+      "slug": "Empoleon",
+      "id": "395"
+    }
+  ]
+}

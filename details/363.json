@@ -1,0 +1,62 @@
+{
+  "forms": [
+    "Spheal"
+  ],
+  "imgs": [
+    "363.png"
+  ],
+  "descs": [
+    "Spheal always travels by rolling around on its ball-like body.\nWhen the season for ice floes arrives, this Pokémon can be\nseen rolling about on ice and crossing the sea.",
+    "Spheal is much faster rolling than walking to get around.\nWhen groups of this Pokémon eat, they all clap at once to\nshow their pleasure. Because of this, their mealtimes are noisy."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "87.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Clap",
+      "Abilities": [
+        "Thick Fat",
+        "Ice Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice",
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Fighting",
+          "Grass",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "363.png",
+      "slug": "Spheal",
+      "id": "363"
+    },
+    {
+      "img": "364.png",
+      "slug": "Sealeo",
+      "id": "364"
+    },
+    {
+      "img": "365.png",
+      "slug": "Walrein",
+      "id": "365"
+    }
+  ]
+}

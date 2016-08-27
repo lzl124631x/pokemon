@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Cobalion"
+  ],
+  "imgs": [
+    "638.png"
+  ],
+  "descs": [
+    "It has a body and heart of steel. It worked with its\nallies to punish people when they hurt Pokémon.",
+    "It has a body and heart of steel. Its glare is\nsufficient to make even an unruly Pokémon obey it."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 11\"",
+      "Weight": "551.2 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Iron Will",
+      "Abilities": [
+        "Justified"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "638.png",
+      "slug": "Cobalion",
+      "id": "638"
+    }
+  ]
+}

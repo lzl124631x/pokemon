@@ -1,0 +1,62 @@
+{
+  "forms": [
+    "Whirlipede"
+  ],
+  "imgs": [
+    "544.png"
+  ],
+  "descs": [
+    "It is usually motionless, but when attacked,\nit rotates at high speed and then crashes into\nits opponent.",
+    "Protected by a hard shell, it spins its body like a\nwheel and crashes furiously into its enemies."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "129.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Curlipede",
+      "Abilities": [
+        "Swarm",
+        "Poison Point"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "543.png",
+      "slug": "Venipede",
+      "id": "543"
+    },
+    {
+      "img": "544.png",
+      "slug": "Whirlipede",
+      "id": "544"
+    },
+    {
+      "img": "545.png",
+      "slug": "Scolipede",
+      "id": "545"
+    }
+  ]
+}

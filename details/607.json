@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Litwick"
+  ],
+  "imgs": [
+    "607.png"
+  ],
+  "descs": [
+    "Litwick shines a light that absorbs the life energy of\npeople and Pokémon, which becomes the fuel that\nit burns.",
+    "While shining a light and pretending to be a guide,\nit leeches off the life force of any who follow it."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "6.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Candle",
+      "Abilities": [
+        "Flash Fire",
+        "Flame Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground",
+          "Rock",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "607.png",
+      "slug": "Litwick",
+      "id": "607"
+    },
+    {
+      "img": "608.png",
+      "slug": "Lampent",
+      "id": "608"
+    },
+    {
+      "img": "609.png",
+      "slug": "Chandelure",
+      "id": "609"
+    }
+  ]
+}

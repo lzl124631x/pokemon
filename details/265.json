@@ -1,0 +1,73 @@
+{
+  "forms": [
+    "Wurmple"
+  ],
+  "imgs": [
+    "265.png"
+  ],
+  "descs": [
+    "Wurmple is targeted by Swellow as prey. This Pokémon\nwill try to resist by pointing the spikes on its rear at the\nattacking predator. It will weaken the foe by leaking poison\nfrom the spikes.",
+    "Using the spikes on its rear end, Wurmple peels the bark off\ntrees and feeds on the sap that oozes out. This Pokémon's\nfeet are tipped with suction pads that allow it to cling to glass\nwithout slipping."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "7.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Worm",
+      "Abilities": [
+        "Shield Dust"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "265.png",
+      "slug": "Wurmple",
+      "id": "265"
+    },
+    [
+      {
+        "img": "266.png",
+        "slug": "Silcoon",
+        "id": "266"
+      },
+      {
+        "img": "268.png",
+        "slug": "Cascoon",
+        "id": "268"
+      }
+    ],
+    [
+      {
+        "img": "267.png",
+        "slug": "Beautifly",
+        "id": "267"
+      },
+      {
+        "img": "269.png",
+        "slug": "Dustox",
+        "id": "269"
+      }
+    ]
+  ]
+}

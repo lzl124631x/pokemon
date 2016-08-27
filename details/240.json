@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Magby"
+  ],
+  "imgs": [
+    "240.png"
+  ],
+  "descs": [
+    "Magby's state of health is determined by observing the fire it\nbreathes. If the Pokémon is spouting yellow flames from its\nmouth, it is in good health. When it is fatigued, black smoke\nwill be mixed in with the flames.",
+    "Magby's state of health is determined by observing the fire it\nbreathes. If the Pokémon is spouting yellow flames from its\nmouth, it is in good health. When it is fatigued, black smoke\nwill be mixed in with the flames."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "47.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Live Coal",
+      "Abilities": [
+        "Flame Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "240.png",
+      "slug": "Magby",
+      "id": "240"
+    },
+    {
+      "img": "126.png",
+      "slug": "Magmar",
+      "id": "126"
+    },
+    {
+      "img": "467.png",
+      "slug": "Magmortar",
+      "id": "467"
+    }
+  ]
+}

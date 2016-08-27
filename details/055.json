@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Golduck"
+  ],
+  "imgs": [
+    "055.png"
+  ],
+  "descs": [
+    "Golduck is the fastest swimmer among all Pokémon. It swims\neffortlessly, even in a rough, stormy sea. It sometimes rescues\npeople from wrecked ships floundering in high seas.",
+    "The webbed flippers on its forelegs and hind legs and the\nstreamlined body of Golduck give it frightening speed.\nThis Pokémon is definitely much faster than even the most\nathletic swimmer."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "168.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Duck",
+      "Abilities": [
+        "Damp",
+        "Cloud Nine"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "054.png",
+      "slug": "Psyduck",
+      "id": "054"
+    },
+    {
+      "img": "055.png",
+      "slug": "Golduck",
+      "id": "055"
+    }
+  ]
+}

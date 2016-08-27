@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Florges"
+  ],
+  "imgs": [
+    "671.png"
+  ],
+  "descs": [
+    "In times long past, governors of castles\nwould invite Florges to create flower gardens\nto embellish the castle domains.",
+    "It claims exquisite flower gardens as its territory,\nand it obtains power from basking in the energy\nemitted by flowering plants."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "22.0 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Garden",
+      "Abilities": [
+        "Flower Veil"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "669.png",
+      "slug": "Flabébé",
+      "id": "669"
+    },
+    {
+      "img": "670.png",
+      "slug": "Floette",
+      "id": "670"
+    },
+    {
+      "img": "671.png",
+      "slug": "Florges",
+      "id": "671"
+    }
+  ]
+}

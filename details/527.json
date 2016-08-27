@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Woobat"
+  ],
+  "imgs": [
+    "527.png"
+  ],
+  "descs": [
+    "The heart-shaped mark left on a body after a\nWoobat has been attached to it is said to bring\ngood fortune.",
+    "Its habitat is dark forests and caves. It emits\nultrasonic waves from its nose to learn about\nits surroundings."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "4.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bat",
+      "Abilities": [
+        "Unaware",
+        "Klutz"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "527.png",
+      "slug": "Woobat",
+      "id": "527"
+    },
+    {
+      "img": "528.png",
+      "slug": "Swoobat",
+      "id": "528"
+    }
+  ]
+}

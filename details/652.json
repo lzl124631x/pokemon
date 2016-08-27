@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Chesnaught"
+  ],
+  "imgs": [
+    "652.png"
+  ],
+  "descs": [
+    "When it takes a defensive posture with its fists\nguarding its face, it could withstand a bomb blast.",
+    "Its Tackle is forceful enough to flip a 50-ton tank.\nIt shields its allies from danger with its own body."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "198.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Spiny Armor",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Psychic",
+          "Flying",
+          "Poison",
+          "Ice",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "650.png",
+      "slug": "Chespin",
+      "id": "650"
+    },
+    {
+      "img": "651.png",
+      "slug": "Quilladin",
+      "id": "651"
+    },
+    {
+      "img": "652.png",
+      "slug": "Chesnaught",
+      "id": "652"
+    }
+  ]
+}

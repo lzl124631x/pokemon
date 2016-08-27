@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Slurpuff"
+  ],
+  "imgs": [
+    "685.png"
+  ],
+  "descs": [
+    "Its sense of smell is 100 million times better than\na human's, so even the faintest scent tells it about\neverything in the area. It's like it can see with its nose!",
+    "It can distinguish the faintest of scents.\nIt puts its sensitive sense of smell to use\nby helping pastry chefs in their work."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "11.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Meringue",
+      "Abilities": [
+        "Sweet Veil"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "684.png",
+      "slug": "Swirlix",
+      "id": "684"
+    },
+    {
+      "img": "685.png",
+      "slug": "Slurpuff",
+      "id": "685"
+    }
+  ]
+}

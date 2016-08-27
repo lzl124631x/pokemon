@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Turtwig"
+  ],
+  "imgs": [
+    "387.png"
+  ],
+  "descs": [
+    "It undertakes photosynthesis with its body, making\noxygen. The leaf on its head wilts if it is thirsty.",
+    "Photosynthesis occurs across its body under the\nsun. The shell on its back is actually hardened soil."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "22.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tiny Leaf",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "387.png",
+      "slug": "Turtwig",
+      "id": "387"
+    },
+    {
+      "img": "388.png",
+      "slug": "Grotle",
+      "id": "388"
+    },
+    {
+      "img": "389.png",
+      "slug": "Torterra",
+      "id": "389"
+    }
+  ]
+}

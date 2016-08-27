@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Clawitzer"
+  ],
+  "imgs": [
+    "693.png"
+  ],
+  "descs": [
+    "By expelling water from the nozzle in the back\nof its claw, it can move at a speed of 60 knots.",
+    "Their enormous claws launch cannonballs of\nwater powerful enough to pierce tanker hulls."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "77.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Howitzer",
+      "Abilities": [
+        "Mega Launcher"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "692.png",
+      "slug": "Clauncher",
+      "id": "692"
+    },
+    {
+      "img": "693.png",
+      "slug": "Clawitzer",
+      "id": "693"
+    }
+  ]
+}

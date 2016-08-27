@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Chingling"
+  ],
+  "imgs": [
+    "433.png"
+  ],
+  "descs": [
+    "There is an orb inside its mouth. When it hops,\nthe orb bounces all over and makes a\nringing sound.",
+    "Each time it hops, it makes a ringing sound.\nIt deafens foes by emitting high-frequency cries."
+  ],
+  "abilities": [
+    {
+      "Height": "0' 08\"",
+      "Weight": "1.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bell",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "433.png",
+      "slug": "Chingling",
+      "id": "433"
+    },
+    {
+      "img": "358.png",
+      "slug": "Chimecho",
+      "id": "358"
+    }
+  ]
+}

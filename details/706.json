@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Goodra"
+  ],
+  "imgs": [
+    "706.png"
+  ],
+  "descs": [
+    "It attacks with retractable horns.\nIt throws a punch that's the equivalent\nof the force of a hundred pro boxers.",
+    "This very friendly Dragon-type Pokémon\nwill hug its beloved Trainer, leaving\nthat Trainer covered in sticky slime."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "331.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Dragon",
+      "Abilities": [
+        "Hydration",
+        "Sap Sipper"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Ice",
+          "Dragon"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "704.png",
+      "slug": "Goomy",
+      "id": "704"
+    },
+    {
+      "img": "705.png",
+      "slug": "Sliggoo",
+      "id": "705"
+    },
+    {
+      "img": "706.png",
+      "slug": "Goodra",
+      "id": "706"
+    }
+  ]
+}

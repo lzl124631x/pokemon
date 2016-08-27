@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Crobat"
+  ],
+  "imgs": [
+    "169.png"
+  ],
+  "descs": [
+    "Crobat sneaks up on its intended prey using wings that barely\nmake a sound. This Pokémon rests by hanging on a tree\nbranch with its rear legs that serve as wings.",
+    "If this Pokémon is flying by fluttering only a pair of wings on\neither the forelegs or hind legs, it's proof that Crobat has been\nflying a long distance. It switches the wings it uses if it is tired."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "165.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bat",
+      "Abilities": [
+        "Inner Focus"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Psychic",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "041.png",
+      "slug": "Zubat",
+      "id": "041"
+    },
+    {
+      "img": "042.png",
+      "slug": "Golbat",
+      "id": "042"
+    },
+    {
+      "img": "169.png",
+      "slug": "Crobat",
+      "id": "169"
+    }
+  ]
+}

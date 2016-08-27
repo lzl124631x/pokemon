@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Nosepass"
+  ],
+  "imgs": [
+    "299.png"
+  ],
+  "descs": [
+    "Nosepass had been said to be completely unmoving, with its\nmagnetic nose pointed due north. However, close observation\nhas revealed that the Pokémon actually moves by a little over\n3/8 of an inch every year.",
+    "Nosepass's magnetic nose is always pointed to the north.\nIf two of these Pokémon meet, they cannot turn their faces to\neach other when they are close because their magnetic noses\nrepel one another."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "213.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Compass",
+      "Abilities": [
+        "Sturdy",
+        "Magnet Pull"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Grass",
+          "Ground",
+          "Steel",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "299.png",
+      "slug": "Nosepass",
+      "id": "299"
+    },
+    {
+      "img": "476.png",
+      "slug": "Probopass",
+      "id": "476"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Honchkrow"
+  ],
+  "imgs": [
+    "430.png"
+  ],
+  "descs": [
+    "Becoming active at night, it is known to swarm with\nnumerous Murkrow in tow.",
+    "If one utters a deep cry, many Murkrow gather\nquickly. For this, it is called “Summoner of Night.”"
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "60.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Big Boss",
+      "Abilities": [
+        "Insomnia",
+        "Super Luck"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "198.png",
+      "slug": "Murkrow",
+      "id": "198"
+    },
+    {
+      "img": "430.png",
+      "slug": "Honchkrow",
+      "id": "430"
+    }
+  ]
+}

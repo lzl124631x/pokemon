@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Archen"
+  ],
+  "imgs": [
+    "566.png"
+  ],
+  "descs": [
+    "It runs better than it flies. It takes off into the sky\nby running at a speed of 25 mph.",
+    "Revived from a fossil, this Pokémon is thought to\nbe the ancestor of all bird Pokémon."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "20.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "First Bird",
+      "Abilities": [
+        "Defeatist"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Electric",
+          "Ice",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "566.png",
+      "slug": "Archen",
+      "id": "566"
+    },
+    {
+      "img": "567.png",
+      "slug": "Archeops",
+      "id": "567"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Dusknoir"
+  ],
+  "imgs": [
+    "477.png"
+  ],
+  "descs": [
+    "The antenna on its head captures radio waves from\nthe world of spirits that command it to take\npeople there.",
+    "It is said to take lost spirits into its pliant body and\nguide them home."
+  ],
+  "abilities": [
+    {
+      "Height": "7' 03\"",
+      "Weight": "235.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Gripper",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "355.png",
+      "slug": "Duskull",
+      "id": "355"
+    },
+    {
+      "img": "356.png",
+      "slug": "Dusclops",
+      "id": "356"
+    },
+    {
+      "img": "477.png",
+      "slug": "Dusknoir",
+      "id": "477"
+    }
+  ]
+}

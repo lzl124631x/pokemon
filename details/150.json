@@ -1,0 +1,103 @@
+{
+  "forms": [
+    "Mewtwo",
+    "Mega Mewtwo X",
+    "Mega Mewtwo Y"
+  ],
+  "imgs": [
+    "150.png",
+    "150_f2.png",
+    "150_f3.png"
+  ],
+  "descs": [
+    "Mewtwo is a Pokémon that was created by genetic\nmanipulation. However, even though the scientific power\nof humans created this Pokémon's body, they failed to\nendow Mewtwo with a compassionate heart.",
+    "Mewtwo is a Pokémon that was created by genetic\nmanipulation. However, even though the scientific power of\nhumans created this Pokémon's body, they failed to endow\nMewtwo with a compassionate heart."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "269.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Genetic",
+      "Abilities": [
+        "Pressure"
+      ]
+    },
+    {
+      "Height": "7' 07\"",
+      "Weight": "280.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Genetic",
+      "Abilities": [
+        "Steadfast"
+      ]
+    },
+    {
+      "Height": "4' 11\"",
+      "Weight": "72.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Genetic",
+      "Abilities": [
+        "Insomnia"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Flying",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Dark",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "150.png",
+      "slug": "Mewtwo",
+      "id": "150"
+    }
+  ]
+}

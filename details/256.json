@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Combusken"
+  ],
+  "imgs": [
+    "256.png"
+  ],
+  "descs": [
+    "Combusken battles with the intensely hot flames it spews from\nits beak and with outstandingly destructive kicks. This\nPokémon's cry is very loud and distracting.",
+    "Combusken toughens up its legs and thighs by running\nthrough fields and mountains. This Pokémon's legs possess\nboth speed and power, enabling it to dole out 10 kicks in\none second."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "43.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Young Fowl",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Ground",
+          "Psychic",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "255.png",
+      "slug": "Torchic",
+      "id": "255"
+    },
+    {
+      "img": "256.png",
+      "slug": "Combusken",
+      "id": "256"
+    },
+    {
+      "img": "257.png",
+      "slug": "Blaziken",
+      "id": "257"
+    }
+  ]
+}

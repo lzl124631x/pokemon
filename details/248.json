@@ -1,0 +1,96 @@
+{
+  "forms": [
+    "Tyranitar",
+    "Mega Tyranitar"
+  ],
+  "imgs": [
+    "248.png",
+    "248_f2.png"
+  ],
+  "descs": [
+    "Tyranitar is so overwhelmingly powerful, it can bring down a\nwhole mountain to make its nest. This Pokémon wanders about\nin mountains seeking new opponents to fight.",
+    "Tyranitar is so overwhelmingly powerful, it can bring down a\nwhole mountain to make its nest. This Pokémon wanders about\nin mountains seeking new opponents to fight."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "445.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Armor",
+      "Abilities": [
+        "Sand Stream"
+      ]
+    },
+    {
+      "Height": "8' 02\"",
+      "Weight": "562.2 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Armor",
+      "Abilities": [
+        "Sand Stream"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Bug",
+          "Grass",
+          "Ground",
+          "Steel",
+          "Water",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Rock",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Fighting",
+          "Water",
+          "Fairy",
+          "Grass",
+          "Bug",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "246.png",
+      "slug": "Larvitar",
+      "id": "246"
+    },
+    {
+      "img": "247.png",
+      "slug": "Pupitar",
+      "id": "247"
+    },
+    {
+      "img": "248.png",
+      "slug": "Tyranitar",
+      "id": "248"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Togekiss"
+  ],
+  "imgs": [
+    "468.png"
+  ],
+  "descs": [
+    "It shares many blessings with people who respect\none another's rights and avoid needless strife.",
+    "As everyone knows, it visits peaceful regions,\nbringing them gifts of kindness and\nsweet blessings."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "83.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Jubilee",
+      "Abilities": [
+        "Serene Grace",
+        "Hustle"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fairy",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock",
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "175.png",
+      "slug": "Togepi",
+      "id": "175"
+    },
+    {
+      "img": "176.png",
+      "slug": "Togetic",
+      "id": "176"
+    },
+    {
+      "img": "468.png",
+      "slug": "Togekiss",
+      "id": "468"
+    }
+  ]
+}

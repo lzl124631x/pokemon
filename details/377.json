@@ -1,0 +1,50 @@
+{
+  "forms": [
+    "Regirock"
+  ],
+  "imgs": [
+    "377.png"
+  ],
+  "descs": [
+    "Regirock's body is composed entirely of rocks. Recently,\na study made the startling discovery that the rocks were all\nunearthed from different locations.",
+    "Regirock was sealed away by people long ago. If this\nPokémon's body is damaged in battle, it is said to seek\nout suitable rocks on its own to repair itself."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "507.1 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Rock Peak",
+      "Abilities": [
+        "Clear Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Grass",
+          "Ground",
+          "Steel",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "377.png",
+      "slug": "Regirock",
+      "id": "377"
+    }
+  ]
+}

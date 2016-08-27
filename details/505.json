@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Watchog"
+  ],
+  "imgs": [
+    "505.png"
+  ],
+  "descs": [
+    "When they see an enemy, their tails stand high,\nand they spit the seeds of berries stored in their\ncheek pouches.",
+    "Using luminescent matter, it makes its eyes and\nbody glow and stuns attacking opponents."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "59.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Lookout",
+      "Abilities": [
+        "Keen Eye",
+        "Illuminate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "504.png",
+      "slug": "Patrat",
+      "id": "504"
+    },
+    {
+      "img": "505.png",
+      "slug": "Watchog",
+      "id": "505"
+    }
+  ]
+}

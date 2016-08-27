@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Avalugg"
+  ],
+  "imgs": [
+    "713.png"
+  ],
+  "descs": [
+    "The way several Bergmite huddle\non its back makes it look like\nan aircraft carrier made of ice.",
+    "Its ice-covered body is as hard as steel.\nIts cumbersome frame crushes anything that\nstands in its way."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "1113.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Iceberg",
+      "Abilities": [
+        "Own Tempo",
+        "Ice Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Steel",
+          "Fighting",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "712.png",
+      "slug": "Bergmite",
+      "id": "712"
+    },
+    {
+      "img": "713.png",
+      "slug": "Avalugg",
+      "id": "713"
+    }
+  ]
+}

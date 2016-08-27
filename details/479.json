@@ -1,0 +1,185 @@
+{
+  "forms": [
+    "Rotom",
+    "Heat Rotom",
+    "Wash Rotom",
+    "Frost Rotom",
+    "Fan Rotom",
+    "Mow Rotom"
+  ],
+  "imgs": [
+    "479.png",
+    "479_f2.png",
+    "479_f3.png",
+    "479_f4.png",
+    "479_f5.png",
+    "479_f6.png"
+  ],
+  "descs": [
+    "Its body is composed of plasma. It is known to\ninfiltrate electronic devices and wreak havoc.",
+    "Research continues on this Pokémon, which could\nbe the power source of a unique motor."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "0.7 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Plasma",
+      "Abilities": [
+        "Levitate"
+      ]
+    },
+    {
+      "Height": "1' 00\"",
+      "Weight": "0.7 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Plasma",
+      "Abilities": [
+        "Levitate"
+      ]
+    },
+    {
+      "Height": "1' 00\"",
+      "Weight": "0.7 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Plasma",
+      "Abilities": [
+        "Levitate"
+      ]
+    },
+    {
+      "Height": "1' 00\"",
+      "Weight": "0.7 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Plasma",
+      "Abilities": [
+        "Levitate"
+      ]
+    },
+    {
+      "Height": "1' 00\"",
+      "Weight": "0.7 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Plasma",
+      "Abilities": [
+        "Levitate"
+      ]
+    },
+    {
+      "Height": "1' 00\"",
+      "Weight": "0.7 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Plasma",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric",
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Electric",
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Electric",
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Electric",
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Rock",
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Electric",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Ice"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Electric",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Poison",
+          "Ice",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "479.png",
+      "slug": "Rotom",
+      "id": "479"
+    }
+  ]
+}

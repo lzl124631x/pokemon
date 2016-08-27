@@ -1,0 +1,64 @@
+{
+  "forms": [
+    "Leavanny"
+  ],
+  "imgs": [
+    "542.png"
+  ],
+  "descs": [
+    "It keeps its eggs warm with heat from fermenting\nleaves. It also uses leaves to make warm wrappings\nfor Sewaddle.",
+    "Upon finding a small Pokémon, it weaves clothing\nfor it from leaves by using the sticky silk secreted\nfrom its mouth."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "45.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Nurturing",
+      "Abilities": [
+        "Swarm",
+        "Chlorophyll"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison",
+          "Bug",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "540.png",
+      "slug": "Sewaddle",
+      "id": "540"
+    },
+    {
+      "img": "541.png",
+      "slug": "Swadloon",
+      "id": "541"
+    },
+    {
+      "img": "542.png",
+      "slug": "Leavanny",
+      "id": "542"
+    }
+  ]
+}

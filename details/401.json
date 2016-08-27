@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Kricketot"
+  ],
+  "imgs": [
+    "401.png"
+  ],
+  "descs": [
+    "When its antennae hit each other, it sounds like the\nmusic of a xylophone.",
+    "It chats with others using the sounds of its colliding\nantennae. These sounds are fall hallmarks."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "4.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cricket",
+      "Abilities": [
+        "Shed Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "401.png",
+      "slug": "Kricketot",
+      "id": "401"
+    },
+    {
+      "img": "402.png",
+      "slug": "Kricketune",
+      "id": "402"
+    }
+  ]
+}

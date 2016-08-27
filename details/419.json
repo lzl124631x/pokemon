@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Floatzel"
+  ],
+  "imgs": [
+    "419.png"
+  ],
+  "descs": [
+    "Its flotation sac developed as a result of pursuing\naquatic prey. It can double as a rubber raft.",
+    "It floats using its well-developed flotation sac.\nIt assists in the rescues of drowning people."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "73.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sea Weasel",
+      "Abilities": [
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "418.png",
+      "slug": "Buizel",
+      "id": "418"
+    },
+    {
+      "img": "419.png",
+      "slug": "Floatzel",
+      "id": "419"
+    }
+  ]
+}

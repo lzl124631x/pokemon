@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Zigzagoon"
+  ],
+  "imgs": [
+    "263.png"
+  ],
+  "descs": [
+    "The hair on Zigzagoon's back is bristly. It rubs the hard back\nhair against trees to leave its territorial markings. This Pokémon\nmay play dead to fool foes in battle.",
+    "Zigzagoon restlessly wanders everywhere at all times.\nThis Pokémon does so because it is very curious. It becomes\ninterested in anything that it happens to see."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "38.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tiny Raccoon",
+      "Abilities": [
+        "Pickup",
+        "Gluttony"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "263.png",
+      "slug": "Zigzagoon",
+      "id": "263"
+    },
+    {
+      "img": "264.png",
+      "slug": "Linoone",
+      "id": "264"
+    }
+  ]
+}

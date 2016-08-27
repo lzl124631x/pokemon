@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Ferroseed"
+  ],
+  "imgs": [
+    "597.png"
+  ],
+  "descs": [
+    "It absorbs the iron it finds in the rock while clinging\nto the ceiling. It shoots spikes when in danger.",
+    "When threatened, it attacks by shooting a barrage\nof spikes, which gives it a chance to escape by\nrolling away."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "41.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Thorn Seed",
+      "Abilities": [
+        "Iron Barbs"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "597.png",
+      "slug": "Ferroseed",
+      "id": "597"
+    },
+    {
+      "img": "598.png",
+      "slug": "Ferrothorn",
+      "id": "598"
+    }
+  ]
+}

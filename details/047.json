@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Parasect"
+  ],
+  "imgs": [
+    "047.png"
+  ],
+  "descs": [
+    "Parasect is known to infest large trees en masse and drain\nnutrients from the lower trunk and roots. When an infested\ntree dies, they move onto another tree all at once.",
+    "Parasect is known to infest large trees en masse and drain\nnutrients from the lower trunk and roots. When an infested tree\ndies, they move onto another tree all at once."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "65.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mushroom",
+      "Abilities": [
+        "Effect Spore",
+        "Dry Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Bug",
+          "Ice",
+          "Poison",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "046.png",
+      "slug": "Paras",
+      "id": "046"
+    },
+    {
+      "img": "047.png",
+      "slug": "Parasect",
+      "id": "047"
+    }
+  ]
+}

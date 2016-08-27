@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Mightyena"
+  ],
+  "imgs": [
+    "262.png"
+  ],
+  "descs": [
+    "Mightyena travel and act as a pack in the wild. The memory\nof its life in the wild compels the Pokémon to obey only\nthose Trainers that it recognizes to possess superior skill.",
+    "Mightyena gives obvious signals when it is preparing to attack.\nIt starts to growl deeply and then flattens its body.\nThis Pokémon will bite savagely with its sharply pointed fangs."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "81.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bite",
+      "Abilities": [
+        "Intimidate",
+        "Quick Feet"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Bug",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "261.png",
+      "slug": "Poochyena",
+      "id": "261"
+    },
+    {
+      "img": "262.png",
+      "slug": "Mightyena",
+      "id": "262"
+    }
+  ]
+}

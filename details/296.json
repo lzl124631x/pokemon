@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Makuhita"
+  ],
+  "imgs": [
+    "296.png"
+  ],
+  "descs": [
+    "Makuhita has a tireless spirit—it will never give up hope.\nIt eats a lot of food, gets plenty of sleep, and it trains very\nrigorously. By living that way, this Pokémon packs its body\nwith energy.",
+    "Makuhita is tenacious—it will keep getting up and attacking\nits foe however many times it is knocked down. Every time it\ngets back up, this Pokémon stores more energy in its body\nfor evolving."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "190.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Guts",
+      "Abilities": [
+        "Guts",
+        "Thick Fat"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "296.png",
+      "slug": "Makuhita",
+      "id": "296"
+    },
+    {
+      "img": "297.png",
+      "slug": "Hariyama",
+      "id": "297"
+    }
+  ]
+}

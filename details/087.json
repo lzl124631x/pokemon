@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Dewgong"
+  ],
+  "imgs": [
+    "087.png"
+  ],
+  "descs": [
+    "Dewgong loves to snooze on bitterly cold ice. The sight of\nthis Pokémon sleeping on a glacier was mistakenly thought\nto be a mermaid by a mariner long ago.",
+    "Dewgong loves to snooze on bitterly cold ice. The sight of this\nPokémon sleeping on a glacier was mistakenly thought to be a\nmermaid by a mariner long ago."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "264.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sea Lion",
+      "Abilities": [
+        "Thick Fat",
+        "Hydration"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Fighting",
+          "Grass",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "086.png",
+      "slug": "Seel",
+      "id": "086"
+    },
+    {
+      "img": "087.png",
+      "slug": "Dewgong",
+      "id": "087"
+    }
+  ]
+}

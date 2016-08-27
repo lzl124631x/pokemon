@@ -1,0 +1,47 @@
+{
+  "forms": [
+    "Plusle"
+  ],
+  "imgs": [
+    "311.png"
+  ],
+  "descs": [
+    "When Plusle is cheering on its partner, it flashes with electric\nsparks from all over its body. If its partner loses, this Pokémon\ncries loudly.",
+    "Plusle always acts as a cheerleader for its partners.\nWhenever a teammate puts out a good effort in battle, this\nPokémon shorts out its body to create the crackling noises of\nsparks to show its joy."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "9.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cheering",
+      "Abilities": [
+        "Plus"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "311.png",
+      "slug": "Plusle",
+      "id": "311"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "forms": [
+    "Skarmory"
+  ],
+  "imgs": [
+    "227.png"
+  ],
+  "descs": [
+    "Skarmory's steel wings become tattered and bashed in from\nrepeated battles. Once a year, the battered wings grow back\ncompletely, restoring the cutting edges to their pristine state.",
+    "Skarmory is entirely encased in hard, protective armor.\nThis Pokémon flies at close to 190 mph. It slashes foes with\nits wings that possess swordlike cutting edges."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "111.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Armor Bird",
+      "Abilities": [
+        "Keen Eye",
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Fire"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "227.png",
+      "slug": "Skarmory",
+      "id": "227"
+    }
+  ]
+}

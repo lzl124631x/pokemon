@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Glameow"
+  ],
+  "imgs": [
+    "431.png"
+  ],
+  "descs": [
+    "When it's happy, Glameow demonstrates beautiful\nmovements of its tail, like a dancing ribbon.",
+    "It claws if displeased and purrs when affectionate.\nIts fickleness is very popular among some."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "8.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Catty",
+      "Abilities": [
+        "Limber",
+        "Own Tempo"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "431.png",
+      "slug": "Glameow",
+      "id": "431"
+    },
+    {
+      "img": "432.png",
+      "slug": "Purugly",
+      "id": "432"
+    }
+  ]
+}

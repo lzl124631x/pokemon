@@ -1,0 +1,504 @@
+{
+  "forms": [
+    "Arceus",
+    "Fighting",
+    "Flying",
+    "Poison",
+    "Ground",
+    "Rock",
+    "Bug",
+    "Ghost",
+    "Steel",
+    "Fire",
+    "Water",
+    "Grass",
+    "Electric",
+    "Psychic",
+    "Ice",
+    "Dragon",
+    "Dark",
+    "Fairy"
+  ],
+  "imgs": [
+    "493.png",
+    "493_f2.png",
+    "493_f3.png",
+    "493_f4.png",
+    "493_f5.png",
+    "493_f6.png",
+    "493_f7.png",
+    "493_f8.png",
+    "493_f9.png",
+    "493_f10.png",
+    "493_f11.png",
+    "493_f12.png",
+    "493_f13.png",
+    "493_f14.png",
+    "493_f15.png",
+    "493_f16.png",
+    "493_f17.png",
+    "493_f18.png"
+  ],
+  "descs": [
+    "It is told in mythology that this Pokémon was born\nbefore the universe even existed.",
+    "According to the legends of Sinnoh, this Pokémon\nemerged from an egg and shaped all there is in\nthis world."
+  ],
+  "abilities": [
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    },
+    {
+      "Height": "10' 06\"",
+      "Weight": "705.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Alpha",
+      "Abilities": [
+        "Multitype"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Psychic",
+          "Flying",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Psychic",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Grass",
+          "Ice"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Steel",
+          "Grass",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Rock",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Poison",
+          "Ice",
+          "Bug"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Dark",
+          "Bug"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Steel",
+          "Fighting",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Ice",
+          "Dragon"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Bug",
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "493.png",
+      "slug": "Arceus",
+      "id": "493"
+    }
+  ]
+}

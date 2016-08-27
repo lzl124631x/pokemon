@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Skiploom"
+  ],
+  "imgs": [
+    "188.png"
+  ],
+  "descs": [
+    "Skiploom's flower blossoms when the temperature rises\nabove 64 degrees Fahrenheit. How much the flower opens\ndepends on the temperature. For that reason, this Pokémon\nis sometimes used as a thermometer.",
+    "Skiploom's flower blossoms when the temperature rises\nabove 64 degrees Fahrenheit. How much the flower opens\ndepends on the temperature. For that reason, this Pokémon\nis sometimes used as a thermometer."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "2.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cottonweed",
+      "Abilities": [
+        "Chlorophyll",
+        "Leaf Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Fire",
+          "Flying",
+          "Poison",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "187.png",
+      "slug": "Hoppip",
+      "id": "187"
+    },
+    {
+      "img": "188.png",
+      "slug": "Skiploom",
+      "id": "188"
+    },
+    {
+      "img": "189.png",
+      "slug": "Jumpluff",
+      "id": "189"
+    }
+  ]
+}

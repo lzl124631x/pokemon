@@ -1,0 +1,86 @@
+{
+  "forms": [
+    "Houndoom",
+    "Mega Houndoom"
+  ],
+  "imgs": [
+    "229.png",
+    "229_f2.png"
+  ],
+  "descs": [
+    "In a Houndoom pack, the one with its horns raked sharply\ntoward the back serves a leadership role. These Pokémon\nchoose their leader by fighting among themselves.",
+    "In a Houndoom pack, the one with its horns raked sharply\ntoward the back serves a leadership role. These Pokémon\nchoose their leader by fighting among themselves."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "77.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Dark",
+      "Abilities": [
+        "Flash Fire",
+        "Early Bird"
+      ]
+    },
+    {
+      "Height": "6' 03\"",
+      "Weight": "109.1 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Dark",
+      "Abilities": [
+        "Solar Power"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Dark",
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Water",
+          "Rock",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "228.png",
+      "slug": "Houndour",
+      "id": "228"
+    },
+    {
+      "img": "229.png",
+      "slug": "Houndoom",
+      "id": "229"
+    }
+  ]
+}

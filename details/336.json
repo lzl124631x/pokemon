@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Seviper"
+  ],
+  "imgs": [
+    "336.png"
+  ],
+  "descs": [
+    "Seviper's swordlike tail serves two purposes—it slashes foes\nand douses them with secreted poison. This Pokémon will not\ngive up its long-running blood feud with Zangoose.",
+    "Seviper shares a generations-long feud with Zangoose.\nThe scars on its body are evidence of vicious battles.\nThis Pokémon attacks using its sword-edged tail."
+  ],
+  "abilities": [
+    {
+      "Height": "8' 10\"",
+      "Weight": "115.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fang Snake",
+      "Abilities": [
+        "Shed Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "336.png",
+      "slug": "Seviper",
+      "id": "336"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Sandshrew"
+  ],
+  "imgs": [
+    "027.png"
+  ],
+  "descs": [
+    "Sandshrew has a very dry hide that is extremely tough.\nThe Pokémon can roll into a ball that repels any attack.\nAt night, it burrows into the desert sand to sleep.",
+    "Sandshrew's body is configured to absorb water without waste,\nenabling it to survive in an arid desert. This Pokémon curls up\nto protect itself from its enemies."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "26.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mouse",
+      "Abilities": [
+        "Sand Veil"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Ice",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "027.png",
+      "slug": "Sandshrew",
+      "id": "027"
+    },
+    {
+      "img": "028.png",
+      "slug": "Sandslash",
+      "id": "028"
+    }
+  ]
+}

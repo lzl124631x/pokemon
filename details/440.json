@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Happiny"
+  ],
+  "imgs": [
+    "440.png"
+  ],
+  "descs": [
+    "It carefully carries a round, white rock that it thinks\nis an egg. It's bothered by how curly its hair looks.",
+    "It carries a round, egg-shaped rock in its belly\npouch and gives the rock to its friends."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "53.8 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Playhouse",
+      "Abilities": [
+        "Natural Cure",
+        "Serene Grace"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "440.png",
+      "slug": "Happiny",
+      "id": "440"
+    },
+    {
+      "img": "113.png",
+      "slug": "Chansey",
+      "id": "113"
+    },
+    {
+      "img": "242.png",
+      "slug": "Blissey",
+      "id": "242"
+    }
+  ]
+}

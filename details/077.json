@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Ponyta"
+  ],
+  "imgs": [
+    "077.png"
+  ],
+  "descs": [
+    "Ponyta is very weak at birth. It can barely stand up.\nThis Pokémon becomes stronger by stumbling and\nfalling to keep up with its parent.",
+    "Ponyta is very weak at birth. It can barely stand up.\nThis Pokémon becomes stronger by stumbling and falling to\nkeep up with its parent."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "66.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fire Horse",
+      "Abilities": [
+        "Run Away",
+        "Flash Fire"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "077.png",
+      "slug": "Ponyta",
+      "id": "077"
+    },
+    {
+      "img": "078.png",
+      "slug": "Rapidash",
+      "id": "078"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Hippowdon"
+  ],
+  "imgs": [
+    "450.png"
+  ],
+  "descs": [
+    "It blasts internally stored sand from ports on its\nbody to create a towering twister for attack.",
+    "It brandishes its gaping mouth in a display of\nfearsome strength. It raises vast quantities of sand\nwhile attacking."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "661.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Heavyweight",
+      "Abilities": [
+        "Sand Stream"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Ice",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "449.png",
+      "slug": "Hippopotas",
+      "id": "449"
+    },
+    {
+      "img": "450.png",
+      "slug": "Hippowdon",
+      "id": "450"
+    }
+  ]
+}

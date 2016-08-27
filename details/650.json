@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Chespin"
+  ],
+  "imgs": [
+    "650.png"
+  ],
+  "descs": [
+    "Such a thick shell of wood covers its head and back\nthat even a direct hit from a truck wouldn't faze it.",
+    "The quills on its head are usually soft.\nWhen it flexes them, the points become\nso hard and sharp that they can pierce rock."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "19.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Spiny Nut",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Poison",
+          "Ice",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "650.png",
+      "slug": "Chespin",
+      "id": "650"
+    },
+    {
+      "img": "651.png",
+      "slug": "Quilladin",
+      "id": "651"
+    },
+    {
+      "img": "652.png",
+      "slug": "Chesnaught",
+      "id": "652"
+    }
+  ]
+}

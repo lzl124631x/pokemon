@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Dusclops"
+  ],
+  "imgs": [
+    "356.png"
+  ],
+  "descs": [
+    "Dusclops absorbs anything, however large the object may be.\nThis Pokémon hypnotizes its foe by waving its hands in a\nmacabre manner and by bringing its single eye to bear.\nThe hypnotized foe is made to do Dusclops's bidding.",
+    "Dusclops's body is completely hollow—there is nothing at all\ninside. It is said that its body is like a black hole. This\nPokémon will absorb anything into its body, but nothing will\never come back out."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "67.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Beckon",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "355.png",
+      "slug": "Duskull",
+      "id": "355"
+    },
+    {
+      "img": "356.png",
+      "slug": "Dusclops",
+      "id": "356"
+    },
+    {
+      "img": "477.png",
+      "slug": "Dusknoir",
+      "id": "477"
+    }
+  ]
+}

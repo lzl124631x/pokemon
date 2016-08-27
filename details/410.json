@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Shieldon"
+  ],
+  "imgs": [
+    "410.png"
+  ],
+  "descs": [
+    "It was generated from a fossil dug out of a layer of\nclay that was older than anyone knows. It has a\nsturdy face.",
+    "It habitually polishes its face by rubbing it against\ntree trunks. It is weak to attacks from behind."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "125.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Shield",
+      "Abilities": [
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Ground",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "410.png",
+      "slug": "Shieldon",
+      "id": "410"
+    },
+    {
+      "img": "411.png",
+      "slug": "Bastiodon",
+      "id": "411"
+    }
+  ]
+}

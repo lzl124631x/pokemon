@@ -1,0 +1,51 @@
+{
+  "forms": [
+    "Lugia"
+  ],
+  "imgs": [
+    "249.png"
+  ],
+  "descs": [
+    "Lugia's wings pack devastating power—a light fluttering of its\nwings can blow apart regular houses. As a result, this\nPokémon chooses to live out of sight deep under the sea.",
+    "Lugia's wings pack devastating power—a light fluttering of its\nwings can blow apart regular houses. As a result, this\nPokémon chooses to live out of sight deep under the sea."
+  ],
+  "abilities": [
+    {
+      "Height": "17' 01\"",
+      "Weight": "476.2 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Diving",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Electric",
+          "Ghost",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "249.png",
+      "slug": "Lugia",
+      "id": "249"
+    }
+  ]
+}

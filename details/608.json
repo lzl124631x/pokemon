@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Lampent"
+  ],
+  "imgs": [
+    "608.png"
+  ],
+  "descs": [
+    "It arrives near the moment of death and steals spirit\nfrom the body.",
+    "The spirits it absorbs fuel its baleful fire. It hangs\naround hospitals waiting for people to pass on."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "28.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Lamp",
+      "Abilities": [
+        "Flash Fire",
+        "Flame Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground",
+          "Rock",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "607.png",
+      "slug": "Litwick",
+      "id": "607"
+    },
+    {
+      "img": "608.png",
+      "slug": "Lampent",
+      "id": "608"
+    },
+    {
+      "img": "609.png",
+      "slug": "Chandelure",
+      "id": "609"
+    }
+  ]
+}

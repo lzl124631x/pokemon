@@ -1,0 +1,52 @@
+{
+  "forms": [
+    "Corsola"
+  ],
+  "imgs": [
+    "222.png"
+  ],
+  "descs": [
+    "Clusters of Corsola congregate in warm seas where they serve\nas ideal hiding places for smaller Pokémon. When the water\ntemperature falls, this Pokémon migrates to the southern seas.",
+    "Corsola's branches glitter very beautifully in seven colors when\nthey catch sunlight. If any branch breaks off, this Pokémon\ngrows it back in just one night."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "11.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Coral",
+      "Abilities": [
+        "Natural Cure",
+        "Hustle"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "222.png",
+      "slug": "Corsola",
+      "id": "222"
+    }
+  ]
+}

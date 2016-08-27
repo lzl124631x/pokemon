@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Foongus"
+  ],
+  "imgs": [
+    "590.png"
+  ],
+  "descs": [
+    "It lures Pokémon with its pattern that looks just like\na Poké Ball, then releases poison spores.",
+    "It lures people in with its Poké Ball pattern, then\nreleases poison spores. Why it resembles a\nPoké Ball is unknown."
+  ],
+  "abilities": [
+    {
+      "Height": "0' 08\"",
+      "Weight": "2.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mushroom",
+      "Abilities": [
+        "Effect Spore"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ice",
+          "Flying",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "590.png",
+      "slug": "Foongus",
+      "id": "590"
+    },
+    {
+      "img": "591.png",
+      "slug": "Amoonguss",
+      "id": "591"
+    }
+  ]
+}

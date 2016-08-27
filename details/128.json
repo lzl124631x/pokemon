@@ -1,0 +1,47 @@
+{
+  "forms": [
+    "Tauros"
+  ],
+  "imgs": [
+    "128.png"
+  ],
+  "descs": [
+    "This Pokémon is not satisfied unless it is rampaging at all\ntimes. If there is no opponent for Tauros to battle, it will\ncharge at thick trees and knock them down to calm itself.",
+    "This Pokémon is not satisfied unless it is rampaging at all\ntimes. If there is no opponent for Tauros to battle, it will\ncharge at thick trees and knock them down to calm itself."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "194.9 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Wild Bull",
+      "Abilities": [
+        "Intimidate",
+        "Anger Point"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "128.png",
+      "slug": "Tauros",
+      "id": "128"
+    }
+  ]
+}

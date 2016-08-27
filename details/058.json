@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Growlithe"
+  ],
+  "imgs": [
+    "058.png"
+  ],
+  "descs": [
+    "Growlithe has a superb sense of smell. Once it smells anything,\nthis Pokémon won't forget the scent, no matter what. It uses\nits advanced olfactory sense to determine the emotions of\nother living things.",
+    "Growlithe has a superb sense of smell. Once it smells anything,\nthis Pokémon won't forget the scent, no matter what. It uses\nits advanced olfactory sense to determine the emotions of\nother living things."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "41.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Puppy",
+      "Abilities": [
+        "Intimidate",
+        "Flash Fire"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "058.png",
+      "slug": "Growlithe",
+      "id": "058"
+    },
+    {
+      "img": "059.png",
+      "slug": "Arcanine",
+      "id": "059"
+    }
+  ]
+}

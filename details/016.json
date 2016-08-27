@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Pidgey"
+  ],
+  "imgs": [
+    "016.png"
+  ],
+  "descs": [
+    "Pidgey has an extremely sharp sense of direction.\nIt is capable of unerringly returning home to its nest,\nhowever far it may be removed from its familiar surroundings.",
+    "Pidgey has an extremely sharp sense of direction. It is capable\nof unerringly returning home to its nest, however far it may be\nremoved from its familiar surroundings."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "4.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tiny Bird",
+      "Abilities": [
+        "Keen Eye",
+        "Tangled Feet"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "016.png",
+      "slug": "Pidgey",
+      "id": "016"
+    },
+    {
+      "img": "017.png",
+      "slug": "Pidgeotto",
+      "id": "017"
+    },
+    {
+      "img": "018.png",
+      "slug": "Pidgeot",
+      "id": "018"
+    }
+  ]
+}

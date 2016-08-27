@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Luvdisc"
+  ],
+  "imgs": [
+    "370.png"
+  ],
+  "descs": [
+    "Luvdisc's heart-shaped body is a symbol of love and romance.\nIt is said that any couple meeting this Pokémon is promised a\nloving relationship that never ends.",
+    "Luvdisc live in shallow seas in the tropics. This heart-shaped\nPokémon earned its name by swimming after loving couples it\nspotted in the ocean's waves."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "19.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Rendezvous",
+      "Abilities": [
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "370.png",
+      "slug": "Luvdisc",
+      "id": "370"
+    }
+  ]
+}

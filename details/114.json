@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Tangela"
+  ],
+  "imgs": [
+    "114.png"
+  ],
+  "descs": [
+    "Tangela's vines snap off easily if they are grabbed. This\nhappens without pain, allowing it to make a quick getaway.\nThe lost vines are replaced by newly grown vines the very\nnext day.",
+    "Tangela's vines snap off easily if they are grabbed.\nThis happens without pain, allowing it to make a quick\ngetaway. The lost vines are replaced by newly grown vines the\nvery next day."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "77.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Vine",
+      "Abilities": [
+        "Chlorophyll",
+        "Leaf Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "114.png",
+      "slug": "Tangela",
+      "id": "114"
+    },
+    {
+      "img": "465.png",
+      "slug": "Tangrowth",
+      "id": "465"
+    }
+  ]
+}

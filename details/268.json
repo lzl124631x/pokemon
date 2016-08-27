@@ -1,0 +1,73 @@
+{
+  "forms": [
+    "Cascoon"
+  ],
+  "imgs": [
+    "268.png"
+  ],
+  "descs": [
+    "If it is attacked, Cascoon remains motionless however badly it\nmay be hurt. It does so because if it were to move, its body\nwould be weak upon evolution. This Pokémon will also not\nforget the pain it endured.",
+    "Cascoon makes its protective cocoon by wrapping its body\nentirely with a fine silk from its mouth. Once the silk goes\naround its body, it hardens. This Pokémon prepares for its\nevolution inside the cocoon."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "25.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cocoon",
+      "Abilities": [
+        "Shed Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "265.png",
+      "slug": "Wurmple",
+      "id": "265"
+    },
+    [
+      {
+        "img": "266.png",
+        "slug": "Silcoon",
+        "id": "266"
+      },
+      {
+        "img": "268.png",
+        "slug": "Cascoon",
+        "id": "268"
+      }
+    ],
+    [
+      {
+        "img": "267.png",
+        "slug": "Beautifly",
+        "id": "267"
+      },
+      {
+        "img": "269.png",
+        "slug": "Dustox",
+        "id": "269"
+      }
+    ]
+  ]
+}

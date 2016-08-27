@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Diggersby"
+  ],
+  "imgs": [
+    "660.png"
+  ],
+  "descs": [
+    "As powerful as an excavator, its ears\ncan reduce dense bedrock to rubble.\nWhen it's finished digging, it lounges lazily.",
+    "With their powerful ears, they can heft\nboulders of a ton or more with ease.\nThey can be a big help at construction sites."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "93.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Digging",
+      "Abilities": [
+        "Pickup",
+        "Cheek Pouch"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Grass",
+          "Ice",
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "659.png",
+      "slug": "Bunnelby",
+      "id": "659"
+    },
+    {
+      "img": "660.png",
+      "slug": "Diggersby",
+      "id": "660"
+    }
+  ]
+}

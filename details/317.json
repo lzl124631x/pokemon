@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Swalot"
+  ],
+  "imgs": [
+    "317.png"
+  ],
+  "descs": [
+    "Swalot has no teeth, so what it eats, it swallows whole, no\nmatter what. Its cavernous mouth yawns widely. An automobile\ntire could easily fit inside this Pokémon's mouth.",
+    "When Swalot spots prey, it spurts out a hideously toxic fluid\nfrom its pores and sprays the target. Once the prey has\nweakened, this Pokémon gulps it down whole with its\ncavernous mouth."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "176.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Poison Bag",
+      "Abilities": [
+        "Liquid Ooze",
+        "Sticky Hold"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "316.png",
+      "slug": "Gulpin",
+      "id": "316"
+    },
+    {
+      "img": "317.png",
+      "slug": "Swalot",
+      "id": "317"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Dwebble"
+  ],
+  "imgs": [
+    "557.png"
+  ],
+  "descs": [
+    "Competing for territory, Crustle fight viciously.\nThe one whose boulder is broken is the loser of\nthe battle.",
+    "It makes a hole in a suitable rock. If that rock\nbreaks, the Pokémon remains agitated until it\nlocates a replacement."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "32.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Rock Inn",
+      "Abilities": [
+        "Sturdy",
+        "Shell Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "557.png",
+      "slug": "Dwebble",
+      "id": "557"
+    },
+    {
+      "img": "558.png",
+      "slug": "Crustle",
+      "id": "558"
+    }
+  ]
+}

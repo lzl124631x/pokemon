@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Luxio"
+  ],
+  "imgs": [
+    "404.png"
+  ],
+  "descs": [
+    "Strong electricity courses through the tips of its\nsharp claws. A light scratch causes fainting in foes.",
+    "Its claws loose electricity with enough amperage\nto cause fainting. They live in small groups."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "67.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Spark",
+      "Abilities": [
+        "Intimidate",
+        "Rivalry"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "403.png",
+      "slug": "Shinx",
+      "id": "403"
+    },
+    {
+      "img": "404.png",
+      "slug": "Luxio",
+      "id": "404"
+    },
+    {
+      "img": "405.png",
+      "slug": "Luxray",
+      "id": "405"
+    }
+  ]
+}

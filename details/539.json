@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Sawk"
+  ],
+  "imgs": [
+    "539.png"
+  ],
+  "descs": [
+    "Tying their belts gets them pumped and makes their\npunches more destructive. Disturbing their training\nangers them.",
+    "Desiring the strongest karate chop, they seclude\nthemselves in mountains and train without sleeping."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "112.4 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Karate",
+      "Abilities": [
+        "Inner Focus",
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "539.png",
+      "slug": "Sawk",
+      "id": "539"
+    }
+  ]
+}

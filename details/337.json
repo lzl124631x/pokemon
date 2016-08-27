@@ -1,0 +1,52 @@
+{
+  "forms": [
+    "Lunatone"
+  ],
+  "imgs": [
+    "337.png"
+  ],
+  "descs": [
+    "Lunatone becomes active around the time of the full moon.\nInstead of walking, it moves by floating in midair.\nThe Pokémon's intimidating red eyes cause all those who\nsee it to become transfixed with fear.",
+    "Lunatone was discovered at a location where a meteoroid fell.\nAs a result, some people theorize that this Pokémon came\nfrom space. However, no one has been able to prove this\ntheory so far."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "370.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Meteorite",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost",
+          "Grass",
+          "Steel",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "337.png",
+      "slug": "Lunatone",
+      "id": "337"
+    }
+  ]
+}

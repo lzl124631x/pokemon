@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Paras"
+  ],
+  "imgs": [
+    "046.png"
+  ],
+  "descs": [
+    "Paras has parasitic mushrooms growing on its back called\ntochukaso. They grow large by drawing nutrients from this\nBug Pokémon host. They are highly valued as a medicine\nfor extending life.",
+    "Paras has parasitic mushrooms growing on its back called\ntochukaso. They grow large by drawing nutrients from this\nBug Pokémon host. They are highly valued as a medicine\nfor extending life."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "11.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mushroom",
+      "Abilities": [
+        "Effect Spore",
+        "Dry Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Bug",
+          "Ice",
+          "Poison",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "046.png",
+      "slug": "Paras",
+      "id": "046"
+    },
+    {
+      "img": "047.png",
+      "slug": "Parasect",
+      "id": "047"
+    }
+  ]
+}

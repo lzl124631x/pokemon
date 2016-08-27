@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Garbodor"
+  ],
+  "imgs": [
+    "569.png"
+  ],
+  "descs": [
+    "To protect themselves from danger, they hide their\ntrue identities by transforming into people\nand Pokémon.",
+    "It clenches opponents with its left arm and finishes\nthem off with foul-smelling poison gas belched from\nits mouth."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 03\"",
+      "Weight": "236.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Trash Heap",
+      "Abilities": [
+        "Stench",
+        "Weak Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "568.png",
+      "slug": "Trubbish",
+      "id": "568"
+    },
+    {
+      "img": "569.png",
+      "slug": "Garbodor",
+      "id": "569"
+    }
+  ]
+}

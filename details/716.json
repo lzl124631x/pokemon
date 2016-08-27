@@ -1,0 +1,47 @@
+{
+  "forms": [
+    "Xerneas"
+  ],
+  "imgs": [
+    "716.png"
+  ],
+  "descs": [
+    "When the horns on its head shine\nin seven colors, it is said to be\nsharing everlasting life.",
+    "Legends say it can share eternal life.\nIt slept for a thousand years in the form\nof a tree before its revival."
+  ],
+  "abilities": [
+    {
+      "Height": "9' 10\"",
+      "Weight": "474.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Life",
+      "Abilities": [
+        "Fairy Aura"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "716.png",
+      "slug": "Xerneas",
+      "id": "716"
+    }
+  ]
+}

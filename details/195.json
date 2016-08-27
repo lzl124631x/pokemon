@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Quagsire"
+  ],
+  "imgs": [
+    "195.png"
+  ],
+  "descs": [
+    "Quagsire hunts for food by leaving its mouth wide open in\nwater and waiting for its prey to blunder in unaware. Because\nthe Pokémon does not move, it does not get very hungry.",
+    "Quagsire hunts for food by leaving its mouth wide open in\nwater and waiting for its prey to blunder in unaware. Because\nthe Pokémon does not move, it does not get very hungry."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "165.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Water Fish",
+      "Abilities": [
+        "Damp",
+        "Water Absorb"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "194.png",
+      "slug": "Wooper",
+      "id": "194"
+    },
+    {
+      "img": "195.png",
+      "slug": "Quagsire",
+      "id": "195"
+    }
+  ]
+}

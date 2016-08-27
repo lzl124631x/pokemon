@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Musharna"
+  ],
+  "imgs": [
+    "518.png"
+  ],
+  "descs": [
+    "The dream mist coming from its forehead changes\ninto many different colors depending on the dream\nthat was eaten.",
+    "The mist emanating from their foreheads is packed\nwith the dreams of people and Pokémon."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "133.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Drowsing",
+      "Abilities": [
+        "Synchronize",
+        "Forewarn"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "517.png",
+      "slug": "Munna",
+      "id": "517"
+    },
+    {
+      "img": "518.png",
+      "slug": "Musharna",
+      "id": "518"
+    }
+  ]
+}

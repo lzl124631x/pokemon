@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Nincada"
+  ],
+  "imgs": [
+    "290.png"
+  ],
+  "descs": [
+    "Nincada lives underground. It uses its sharp claws to carve the\nroots of trees and absorb moisture and nutrients.\nThis Pokémon can't withstand bright sunlight so avoids it.",
+    "Nincada lives underground for many years in complete\ndarkness. This Pokémon absorbs nutrients from the roots of\ntrees. It stays motionless as it waits for evolution."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "12.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Trainee",
+      "Abilities": [
+        "Compound Eyes"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "290.png",
+      "slug": "Nincada",
+      "id": "290"
+    },
+    [
+      {
+        "img": "291.png",
+        "slug": "Ninjask",
+        "id": "291"
+      },
+      {
+        "img": "292.png",
+        "slug": "Shedinja",
+        "id": "292"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Snover"
+  ],
+  "imgs": [
+    "459.png"
+  ],
+  "descs": [
+    "In the spring, it grows berries with the texture of\nfrozen treats around its belly.",
+    "During cold seasons, it migrates to the mountain's\nlower reaches. It returns to the snow-covered\nsummit in the spring."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "111.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Frost Tree",
+      "Abilities": [
+        "Snow Warning"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Bug",
+          "Fighting",
+          "Flying",
+          "Poison",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "459.png",
+      "slug": "Snover",
+      "id": "459"
+    },
+    {
+      "img": "460.png",
+      "slug": "Abomasnow",
+      "id": "460"
+    }
+  ]
+}

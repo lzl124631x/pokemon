@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Snorunt"
+  ],
+  "imgs": [
+    "361.png"
+  ],
+  "descs": [
+    "Snorunt survives by eating only snow and ice. Old folklore\nclaims that a house visited by this Pokémon is sure to prosper\nfor many generations to come.",
+    "Snorunt live in regions with heavy snowfall. In seasons\nwithout snow, such as spring and summer, this Pokémon\nsteals away to live quietly among stalactites and stalagmites\ndeep in caverns."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "37.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Snow Hat",
+      "Abilities": [
+        "Inner Focus",
+        "Ice Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "361.png",
+      "slug": "Snorunt",
+      "id": "361"
+    },
+    [
+      {
+        "img": "362.png",
+        "slug": "Glalie",
+        "id": "362"
+      },
+      {
+        "img": "478.png",
+        "slug": "Froslass",
+        "id": "478"
+      }
+    ]
+  ]
+}

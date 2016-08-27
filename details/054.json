@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Psyduck"
+  ],
+  "imgs": [
+    "054.png"
+  ],
+  "descs": [
+    "If it uses its mysterious power, Psyduck can't remember\nhaving done so. It apparently can't form a memory of such\nan event because it goes into an altered state that is much\nlike deep sleep.",
+    "Psyduck uses a mysterious power. When it does so, this\nPokémon generates brain waves that are supposedly only seen\nin sleepers. This discovery spurred controversy\namong scholars."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "43.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Duck",
+      "Abilities": [
+        "Damp",
+        "Cloud Nine"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "054.png",
+      "slug": "Psyduck",
+      "id": "054"
+    },
+    {
+      "img": "055.png",
+      "slug": "Golduck",
+      "id": "055"
+    }
+  ]
+}

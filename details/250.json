@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Ho-Oh"
+  ],
+  "imgs": [
+    "250.png"
+  ],
+  "descs": [
+    "Ho-Oh's feathers glow in seven colors depending on the angle\nat which they are struck by light. These feathers are said to\nbring happiness to the bearers. This Pokémon is said to live at\nthe foot of a rainbow.",
+    "Ho-Oh's feathers glow in seven colors depending on the angle\nat which they are struck by light. These feathers are said to\nbring happiness to the bearers. This Pokémon is said to live at\nthe foot of a rainbow."
+  ],
+  "abilities": [
+    {
+      "Height": "12' 06\"",
+      "Weight": "438.7 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Rainbow",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "250.png",
+      "slug": "Ho-Oh",
+      "id": "250"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Quilladin"
+  ],
+  "imgs": [
+    "651.png"
+  ],
+  "descs": [
+    "They strengthen their lower bodies by\nrunning into one another. They are very\nkind and won't start fights.",
+    "It relies on its sturdy shell to deflect predators'\nattacks. It counterattacks with its sharp quills."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "63.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Spiny Armor",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Poison",
+          "Ice",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "650.png",
+      "slug": "Chespin",
+      "id": "650"
+    },
+    {
+      "img": "651.png",
+      "slug": "Quilladin",
+      "id": "651"
+    },
+    {
+      "img": "652.png",
+      "slug": "Chesnaught",
+      "id": "652"
+    }
+  ]
+}

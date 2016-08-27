@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Zygarde"
+  ],
+  "imgs": [
+    "718.png"
+  ],
+  "descs": [
+    "It's hypothesized that it's monitoring\nthose who destroy the ecosystem\nfrom deep in the cave where it lives.",
+    "When the Kalos region's ecosystem falls into\ndisarray, it appears and reveals its secret power."
+  ],
+  "abilities": [
+    {
+      "Height": "16' 05\"",
+      "Weight": "672.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Order",
+      "Abilities": [
+        "Aura Break"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Ice",
+          "Dragon"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "718.png",
+      "slug": "Zygarde",
+      "id": "718"
+    }
+  ]
+}

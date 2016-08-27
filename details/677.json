@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Espurr"
+  ],
+  "imgs": [
+    "677.png"
+  ],
+  "descs": [
+    "It has enough psychic energy to blast\neverything within 300 feet of itself,\nbut it has no control over its power.",
+    "The organ that emits its intense psychic power is\nsheltered by its ears to keep power from leaking out."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "7.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Restraint",
+      "Abilities": [
+        "Keen Eye",
+        "Infiltrator"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Dark",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "677.png",
+      "slug": "Espurr",
+      "id": "677"
+    },
+    {
+      "img": "678.png",
+      "slug": "Meowstic",
+      "id": "678"
+    }
+  ]
+}

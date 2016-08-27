@@ -1,0 +1,50 @@
+{
+  "forms": [
+    "Heatmor"
+  ],
+  "imgs": [
+    "631.png"
+  ],
+  "descs": [
+    "It draws in air through its tail, transforms it into fire,\nand uses it like a tongue. It melts Durant and\neats them.",
+    "Using their very hot, flame-covered tongues,\nthey burn through Durant's steel bodies and\nconsume their insides."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "127.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Anteater",
+      "Abilities": [
+        "Flash Fire",
+        "Gluttony"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "631.png",
+      "slug": "Heatmor",
+      "id": "631"
+    }
+  ]
+}

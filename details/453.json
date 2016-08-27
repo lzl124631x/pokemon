@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Croagunk"
+  ],
+  "imgs": [
+    "453.png"
+  ],
+  "descs": [
+    "Inflating its poison sacs, it fills the area with an odd\nsound and hits flinching opponents with a\npoison jab.",
+    "Its cheeks hold poison sacs. It tries to catch foes\noff guard to jab them with toxic fingers."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "50.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Toxic Mouth",
+      "Abilities": [
+        "Dry Skin",
+        "Anticipation"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Psychic",
+          "Flying",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "453.png",
+      "slug": "Croagunk",
+      "id": "453"
+    },
+    {
+      "img": "454.png",
+      "slug": "Toxicroak",
+      "id": "454"
+    }
+  ]
+}

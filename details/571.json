@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Zoroark"
+  ],
+  "imgs": [
+    "571.png"
+  ],
+  "descs": [
+    "These Pokémon prefer a tidy habitat. They are\nalways sweeping and dusting, using their tails\nas brooms.",
+    "Each has the ability to fool a large group of people\nsimultaneously. They protect their lair with\nillusory scenery."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "178.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Illusion Fox",
+      "Abilities": [
+        "Illusion"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Bug",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "570.png",
+      "slug": "Zorua",
+      "id": "570"
+    },
+    {
+      "img": "571.png",
+      "slug": "Zoroark",
+      "id": "571"
+    }
+  ]
+}

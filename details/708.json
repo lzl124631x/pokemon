@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Phantump"
+  ],
+  "imgs": [
+    "708.png"
+  ],
+  "descs": [
+    "According to old tales, these Pokémon are\nstumps possessed by the spirits of\nchildren who died while lost in the forest.",
+    "These Pokémon are created when\nspirits possess rotten tree stumps.\nThey prefer to live in abandoned forests."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "15.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Stump",
+      "Abilities": [
+        "Natural Cure",
+        "Frisk"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Fire",
+          "Flying",
+          "Dark",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "708.png",
+      "slug": "Phantump",
+      "id": "708"
+    },
+    {
+      "img": "709.png",
+      "slug": "Trevenant",
+      "id": "709"
+    }
+  ]
+}

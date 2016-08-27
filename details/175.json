@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Togepi"
+  ],
+  "imgs": [
+    "175.png"
+  ],
+  "descs": [
+    "As its energy, Togepi uses the positive emotions of\ncompassion and pleasure exuded by people and Pokémon.\nThis Pokémon stores up feelings of happiness inside its shell,\nthen shares them with others.",
+    "As its energy, Togepi uses the positive emotions of\ncompassion and pleasure exuded by people and Pokémon.\nThis Pokémon stores up feelings of happiness inside its shell,\nthen shares them with others."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "3.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Spike Ball",
+      "Abilities": [
+        "Serene Grace",
+        "Hustle"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "175.png",
+      "slug": "Togepi",
+      "id": "175"
+    },
+    {
+      "img": "176.png",
+      "slug": "Togetic",
+      "id": "176"
+    },
+    {
+      "img": "468.png",
+      "slug": "Togekiss",
+      "id": "468"
+    }
+  ]
+}

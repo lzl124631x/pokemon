@@ -1,0 +1,64 @@
+{
+  "forms": [
+    "Sewaddle"
+  ],
+  "imgs": [
+    "540.png"
+  ],
+  "descs": [
+    "Since this Pokémon makes its own clothes out of\nleaves, it is a popular mascot for fashion designers.",
+    "This Pokémon makes clothes for itself. It chews up\nleaves and sews them with sticky thread extruded\nfrom its mouth."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "5.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sewing",
+      "Abilities": [
+        "Swarm",
+        "Chlorophyll"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison",
+          "Bug",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "540.png",
+      "slug": "Sewaddle",
+      "id": "540"
+    },
+    {
+      "img": "541.png",
+      "slug": "Swadloon",
+      "id": "541"
+    },
+    {
+      "img": "542.png",
+      "slug": "Leavanny",
+      "id": "542"
+    }
+  ]
+}

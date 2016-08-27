@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Whiscash"
+  ],
+  "imgs": [
+    "340.png"
+  ],
+  "descs": [
+    "If Whiscash goes on a wild rampage, it sets off a quake-like\ntremor with a radius of over three miles. This Pokémon has\nthe ability to predict real earthquakes.",
+    "Whiscash is extremely territorial. Just one of these Pokémon\nwill claim a large pond as its exclusive territory. If a foe\napproaches it, it thrashes about and triggers a massive\nearthquake."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "52.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Whiskers",
+      "Abilities": [
+        "Oblivious",
+        "Anticipation"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "339.png",
+      "slug": "Barboach",
+      "id": "339"
+    },
+    {
+      "img": "340.png",
+      "slug": "Whiscash",
+      "id": "340"
+    }
+  ]
+}

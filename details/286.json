@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Breloom"
+  ],
+  "imgs": [
+    "286.png"
+  ],
+  "descs": [
+    "The seeds ringing Breloom's tail are made of hardened toxic\nspores. It is horrible to eat the seeds. Just taking a bite of this\nPokémon's seed will cause your stomach to rumble.",
+    "Breloom closes in on its foe with light and sprightly footwork,\nthen throws punches with its stretchy arms. This Pokémon's\nfighting technique puts boxers to shame."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "86.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mushroom",
+      "Abilities": [
+        "Effect Spore",
+        "Poison Heal"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Fire",
+          "Ice",
+          "Poison",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "285.png",
+      "slug": "Shroomish",
+      "id": "285"
+    },
+    {
+      "img": "286.png",
+      "slug": "Breloom",
+      "id": "286"
+    }
+  ]
+}

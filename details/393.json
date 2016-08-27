@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Piplup"
+  ],
+  "imgs": [
+    "393.png"
+  ],
+  "descs": [
+    "Because it is very proud, it hates accepting food\nfrom people. Its thick down guards it from cold.",
+    "It doesn't like to be taken care of. It's difficult to\nbond with since it won't listen to its Trainer."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "11.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Penguin",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "393.png",
+      "slug": "Piplup",
+      "id": "393"
+    },
+    {
+      "img": "394.png",
+      "slug": "Prinplup",
+      "id": "394"
+    },
+    {
+      "img": "395.png",
+      "slug": "Empoleon",
+      "id": "395"
+    }
+  ]
+}

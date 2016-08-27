@@ -1,0 +1,62 @@
+{
+  "forms": [
+    "Seedot"
+  ],
+  "imgs": [
+    "273.png"
+  ],
+  "descs": [
+    "Seedot looks exactly like an acorn when it is dangling from a\ntree branch. It startles other Pokémon by suddenly moving.\nThis Pokémon polishes its body once a day using leaves.",
+    "Seedot attaches itself to a tree branch using the top of its\nhead. It sucks moisture from the tree while hanging off the\nbranch. The more water it drinks, the glossier this Pokémon's\nbody becomes."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "8.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Acorn",
+      "Abilities": [
+        "Chlorophyll",
+        "Early Bird"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "273.png",
+      "slug": "Seedot",
+      "id": "273"
+    },
+    {
+      "img": "274.png",
+      "slug": "Nuzleaf",
+      "id": "274"
+    },
+    {
+      "img": "275.png",
+      "slug": "Shiftry",
+      "id": "275"
+    }
+  ]
+}

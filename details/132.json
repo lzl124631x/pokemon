@@ -1,0 +1,46 @@
+{
+  "forms": [
+    "Ditto"
+  ],
+  "imgs": [
+    "132.png"
+  ],
+  "descs": [
+    "Ditto rearranges its cell structure to transform itself into other\nshapes. However, if it tries to transform itself into something\nby relying on its memory, this Pokémon manages to get\ndetails wrong.",
+    "Ditto rearranges its cell structure to transform itself into other\nshapes. However, if it tries to transform itself into something\nby relying on its memory, this Pokémon manages to get\ndetails wrong."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "8.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Transform",
+      "Abilities": [
+        "Limber"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "132.png",
+      "slug": "Ditto",
+      "id": "132"
+    }
+  ]
+}

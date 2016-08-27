@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Abra"
+  ],
+  "imgs": [
+    "063.png"
+  ],
+  "descs": [
+    "Abra needs to sleep for eighteen hours a day. If it doesn't,\nthis Pokémon loses its ability to use telekinetic powers. If it is\nattacked, Abra escapes using Teleport while it is still sleeping.",
+    "Abra sleeps for eighteen hours a day. However, it can sense\nthe presence of foes even while it is sleeping. In such a\nsituation, this Pokémon immediately teleports to safety."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "43.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Psi",
+      "Abilities": [
+        "Inner Focus",
+        "Synchronize"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "063.png",
+      "slug": "Abra",
+      "id": "063"
+    },
+    {
+      "img": "064.png",
+      "slug": "Kadabra",
+      "id": "064"
+    },
+    {
+      "img": "065.png",
+      "slug": "Alakazam",
+      "id": "065"
+    }
+  ]
+}

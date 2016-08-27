@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Sunkern"
+  ],
+  "imgs": [
+    "191.png"
+  ],
+  "descs": [
+    "Sunkern tries to move as little as it possibly can. It does so\nbecause it tries to conserve all the nutrients it has stored in its\nbody for its evolution. It will not eat a thing, subsisting only on\nmorning dew.",
+    "Sunkern tries to move as little as it possibly can. It does so\nbecause it tries to conserve all the nutrients it has stored in its\nbody for its evolution. It will not eat a thing, subsisting only on\nmorning dew."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "4.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Seed",
+      "Abilities": [
+        "Chlorophyll",
+        "Solar Power"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "191.png",
+      "slug": "Sunkern",
+      "id": "191"
+    },
+    {
+      "img": "192.png",
+      "slug": "Sunflora",
+      "id": "192"
+    }
+  ]
+}

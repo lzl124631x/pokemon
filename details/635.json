@@ -1,0 +1,62 @@
+{
+  "forms": [
+    "Hydreigon"
+  ],
+  "imgs": [
+    "635.png"
+  ],
+  "descs": [
+    "It responds to movement by attacking. This scary,\nthree-headed Pokémon devours everything in\nits path!",
+    "The heads on their arms do not have brains.\nThey use all three heads to consume and\ndestroy everything."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "352.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Brutal",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Fighting",
+          "Bug",
+          "Dragon",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "633.png",
+      "slug": "Deino",
+      "id": "633"
+    },
+    {
+      "img": "634.png",
+      "slug": "Zweilous",
+      "id": "634"
+    },
+    {
+      "img": "635.png",
+      "slug": "Hydreigon",
+      "id": "635"
+    }
+  ]
+}

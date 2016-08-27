@@ -1,0 +1,66 @@
+{
+  "forms": [
+    "Hitmonlee"
+  ],
+  "imgs": [
+    "106.png"
+  ],
+  "descs": [
+    "Hitmonlee's legs freely contract and stretch. Using these\nspringlike legs, it bowls over foes with devastating kicks.\nAfter battle, it rubs down its legs and loosens the muscles\nto overcome fatigue.",
+    "Hitmonlee's legs freely contract and stretch. Using these\nspringlike legs, it bowls over foes with devastating kicks.\nAfter battle, it rubs down its legs and loosens the muscles to\novercome fatigue."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "109.8 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Kicking",
+      "Abilities": [
+        "Limber",
+        "Reckless"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "236.png",
+      "slug": "Tyrogue",
+      "id": "236"
+    },
+    [
+      {
+        "img": "106.png",
+        "slug": "Hitmonlee",
+        "id": "106"
+      },
+      {
+        "img": "107.png",
+        "slug": "Hitmonchan",
+        "id": "107"
+      },
+      {
+        "img": "237.png",
+        "slug": "Hitmontop",
+        "id": "237"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Bergmite"
+  ],
+  "imgs": [
+    "712.png"
+  ],
+  "descs": [
+    "Using air of -150 degrees Fahrenheit, they\nfreeze opponents solid. They live in herds\nabove the snow line on mountains.",
+    "It blocks opponents' attacks with the\nice that shields its body. It uses cold air\nto repair any cracks with new ice."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "219.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Ice Chunk",
+      "Abilities": [
+        "Own Tempo",
+        "Ice Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Steel",
+          "Fighting",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "712.png",
+      "slug": "Bergmite",
+      "id": "712"
+    },
+    {
+      "img": "713.png",
+      "slug": "Avalugg",
+      "id": "713"
+    }
+  ]
+}

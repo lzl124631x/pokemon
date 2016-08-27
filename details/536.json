@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Palpitoad"
+  ],
+  "imgs": [
+    "536.png"
+  ],
+  "descs": [
+    "It lives in the water and on land. It uses its long,\nsticky tongue to immobilize its opponents.",
+    "When they vibrate the bumps on their heads, they\ncan make waves in water or earthquake-like\nvibrations on land."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "37.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Vibration",
+      "Abilities": [
+        "Hydration",
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "535.png",
+      "slug": "Tympole",
+      "id": "535"
+    },
+    {
+      "img": "536.png",
+      "slug": "Palpitoad",
+      "id": "536"
+    },
+    {
+      "img": "537.png",
+      "slug": "Seismitoad",
+      "id": "537"
+    }
+  ]
+}

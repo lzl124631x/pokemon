@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Lumineon"
+  ],
+  "imgs": [
+    "457.png"
+  ],
+  "descs": [
+    "To avoid detection by predators, it crawls along the\nseafloor using the two fins on its chest.",
+    "It lives on the deep-sea floor. It attracts prey by\nflashing the patterns on its four tail fins."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "52.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Neon",
+      "Abilities": [
+        "Swift Swim",
+        "Storm Drain"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "456.png",
+      "slug": "Finneon",
+      "id": "456"
+    },
+    {
+      "img": "457.png",
+      "slug": "Lumineon",
+      "id": "457"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "forms": [
+    "Manaphy"
+  ],
+  "imgs": [
+    "490.png"
+  ],
+  "descs": [
+    "It starts its life with a wondrous power that permits\nit to bond with any kind of Pokémon.",
+    "It is born with a wondrous power that lets it bond\nwith any kind of Pokémon."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "3.1 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Seafaring",
+      "Abilities": [
+        "Hydration"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "490.png",
+      "slug": "Manaphy",
+      "id": "490"
+    }
+  ]
+}

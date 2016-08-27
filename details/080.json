@@ -1,0 +1,95 @@
+{
+  "forms": [
+    "Slowbro",
+    "Mega Slowbro"
+  ],
+  "imgs": [
+    "080.png",
+    "080_f2.png"
+  ],
+  "descs": [
+    "Slowbro's tail has a Shellder firmly attached with a bite.\nAs a result, the tail can't be used for fishing anymore. This\ncauses Slowbro to grudgingly swim and catch prey instead.",
+    "Slowbro's tail has a Shellder firmly attached with a bite.\nAs a result, the tail can't be used for fishing anymore.\nThis causes Slowbro to grudgingly swim and catch\nprey instead."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "173.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Hermit Crab",
+      "Abilities": [
+        "Oblivious",
+        "Own Tempo"
+      ]
+    },
+    {
+      "Height": "6' 07\"",
+      "Weight": "264.6 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Hermit Crab",
+      "Abilities": [
+        "Shell Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Electric",
+          "Ghost",
+          "Grass"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Water",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Dark",
+          "Grass",
+          "Electric",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "079.png",
+      "slug": "Slowpoke",
+      "id": "079"
+    },
+    [
+      {
+        "img": "080.png",
+        "slug": "Slowbro",
+        "id": "080"
+      },
+      {
+        "img": "199.png",
+        "slug": "Slowking",
+        "id": "199"
+      }
+    ]
+  ]
+}

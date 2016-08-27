@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Golurk"
+  ],
+  "imgs": [
+    "623.png"
+  ],
+  "descs": [
+    "It flies across the sky at Mach speeds. Removing\nthe seal on its chest makes its internal energy go\nout of control.",
+    "It is said that Golurk were ordered to protect\npeople and Pokémon by the ancient people who\nmade them."
+  ],
+  "abilities": [
+    {
+      "Height": "9' 02\"",
+      "Weight": "727.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Automaton",
+      "Abilities": [
+        "Iron Fist",
+        "Klutz"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Grass",
+          "Ice",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "622.png",
+      "slug": "Golett",
+      "id": "622"
+    },
+    {
+      "img": "623.png",
+      "slug": "Golurk",
+      "id": "623"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "forms": [
+    "Zangoose"
+  ],
+  "imgs": [
+    "335.png"
+  ],
+  "descs": [
+    "Zangoose usually stays on all fours, but when angered, it gets\nup on its hind legs and extends its claws. This Pokémon shares\na bitter rivalry with Seviper that dates back over generations.",
+    "Memories of battling its archrival Seviper are etched into every\ncell of Zangoose's body. This Pokémon adroitly dodges\nattacks with incredible agility."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "88.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cat Ferret",
+      "Abilities": [
+        "Immunity"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "335.png",
+      "slug": "Zangoose",
+      "id": "335"
+    }
+  ]
+}

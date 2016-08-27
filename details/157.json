@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Typhlosion"
+  ],
+  "imgs": [
+    "157.png"
+  ],
+  "descs": [
+    "Typhlosion obscures itself behind a shimmering heat haze that\nit creates using its intensely hot flames. This Pokémon creates\nblazing explosive blasts that burn everything to cinders.",
+    "Typhlosion obscures itself behind a shimmering heat haze that\nit creates using its intensely hot flames. This Pokémon creates\nblazing explosive blasts that burn everything to cinders."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "175.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Volcano",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "155.png",
+      "slug": "Cyndaquil",
+      "id": "155"
+    },
+    {
+      "img": "156.png",
+      "slug": "Quilava",
+      "id": "156"
+    },
+    {
+      "img": "157.png",
+      "slug": "Typhlosion",
+      "id": "157"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Beartic"
+  ],
+  "imgs": [
+    "614.png"
+  ],
+  "descs": [
+    "It freezes its breath to create fangs and claws of ice\nto fight with. Cold northern areas are its habitat.",
+    "They love the cold seas of the north. They create\npathways across the ocean waters by freezing their\nown breath."
+  ],
+  "abilities": [
+    {
+      "Height": "8' 06\"",
+      "Weight": "573.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Freezing",
+      "Abilities": [
+        "Snow Cloak"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "613.png",
+      "slug": "Cubchoo",
+      "id": "613"
+    },
+    {
+      "img": "614.png",
+      "slug": "Beartic",
+      "id": "614"
+    }
+  ]
+}

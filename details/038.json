@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Ninetales"
+  ],
+  "imgs": [
+    "038.png"
+  ],
+  "descs": [
+    "Legend has it that Ninetales came into being when\nnine wizards possessing sacred powers merged into one.\nThis Pokémon is highly intelligent—it can understand\nhuman speech.",
+    "Ninetales casts a sinister light from its bright red eyes to gain\ntotal control over its foe's mind. This Pokémon is said to live\nfor a thousand years."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "43.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fox",
+      "Abilities": [
+        "Flash Fire"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "037.png",
+      "slug": "Vulpix",
+      "id": "037"
+    },
+    {
+      "img": "038.png",
+      "slug": "Ninetales",
+      "id": "038"
+    }
+  ]
+}

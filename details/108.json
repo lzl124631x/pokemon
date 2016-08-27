@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Lickitung"
+  ],
+  "imgs": [
+    "108.png"
+  ],
+  "descs": [
+    "Whenever Lickitung comes across something new, it will\nunfailingly give it a lick. It does so because it memorizes things\nby texture and by taste. It is somewhat put off by sour things.",
+    "Whenever Lickitung comes across something new, it will\nunfailingly give it a lick. It does so because it memorizes things\nby texture and by taste. It is somewhat put off by sour things."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "144.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Licking",
+      "Abilities": [
+        "Oblivious",
+        "Own Tempo"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "108.png",
+      "slug": "Lickitung",
+      "id": "108"
+    },
+    {
+      "img": "463.png",
+      "slug": "Lickilicky",
+      "id": "463"
+    }
+  ]
+}

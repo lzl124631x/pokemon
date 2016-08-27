@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Seaking"
+  ],
+  "imgs": [
+    "119.png"
+  ],
+  "descs": [
+    "Seaking is very protective of its eggs. The male and female\nwill take turns patrolling around their nest and eggs. The\nguarding of eggs by these Pokémon goes on for over a month.",
+    "In the autumn, Seaking males can be seen performing\ncourtship dances in riverbeds to woo females. During this\nseason, this Pokémon's body coloration is at its most beautiful."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "86.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Goldfish",
+      "Abilities": [
+        "Swift Swim",
+        "Water Veil"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "118.png",
+      "slug": "Goldeen",
+      "id": "118"
+    },
+    {
+      "img": "119.png",
+      "slug": "Seaking",
+      "id": "119"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Nidoking"
+  ],
+  "imgs": [
+    "034.png"
+  ],
+  "descs": [
+    "Nidoking's thick tail packs enormously destructive power.\nWith one swing, it can topple a metal transmission tower. Once\nthis Pokémon goes on a rampage, there is no stopping it.",
+    "Nidoking's thick tail packs enormously destructive power.\nWith one swing, it can topple a metal transmission tower.\nOnce this Pokémon goes on a rampage, there is no stopping it."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "136.7 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Drill",
+      "Abilities": [
+        "Poison Point",
+        "Rivalry"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Ice",
+          "Psychic",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "032.png",
+      "slug": "Nidoran♂",
+      "id": "032"
+    },
+    {
+      "img": "033.png",
+      "slug": "Nidorino",
+      "id": "033"
+    },
+    {
+      "img": "034.png",
+      "slug": "Nidoking",
+      "id": "034"
+    }
+  ]
+}

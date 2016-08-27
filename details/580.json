@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Ducklett"
+  ],
+  "imgs": [
+    "580.png"
+  ],
+  "descs": [
+    "Swanna start to dance at dusk. The one dancing in\nthe middle is the leader of the flock.",
+    "When attacked, it uses its feathers to splash water,\nescaping under cover of the spray."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "12.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Water Bird",
+      "Abilities": [
+        "Keen Eye",
+        "Big Pecks"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "580.png",
+      "slug": "Ducklett",
+      "id": "580"
+    },
+    {
+      "img": "581.png",
+      "slug": "Swanna",
+      "id": "581"
+    }
+  ]
+}

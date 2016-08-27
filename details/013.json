@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Weedle"
+  ],
+  "imgs": [
+    "013.png"
+  ],
+  "descs": [
+    "Weedle has an extremely acute sense of smell. It is capable\nof distinguishing its favorite kinds of leaves from those it\ndislikes just by sniffing with its big red proboscis (nose).",
+    "Weedle has an extremely acute sense of smell. It is capable of\ndistinguishing its favorite kinds of leaves from those it dislikes\njust by sniffing with its big red proboscis (nose)."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "7.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Hairy Bug",
+      "Abilities": [
+        "Shield Dust"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Psychic",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "013.png",
+      "slug": "Weedle",
+      "id": "013"
+    },
+    {
+      "img": "014.png",
+      "slug": "Kakuna",
+      "id": "014"
+    },
+    {
+      "img": "015.png",
+      "slug": "Beedrill",
+      "id": "015"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Vivillon"
+  ],
+  "imgs": [
+    "666.png"
+  ],
+  "descs": [
+    "The patterns on this Pokémon's wings\ndepend on the climate and topography\nof its habitat. It scatters colorful scales.",
+    "Vivillon with many different patterns are\nfound all over the world. These patterns\nare affected by the climate of their habitat."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "37.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Scale",
+      "Abilities": [
+        "Shield Dust",
+        "Compound Eyes"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "664.png",
+      "slug": "Scatterbug",
+      "id": "664"
+    },
+    {
+      "img": "665.png",
+      "slug": "Spewpa",
+      "id": "665"
+    },
+    {
+      "img": "666.png",
+      "slug": "Vivillon",
+      "id": "666"
+    }
+  ]
+}

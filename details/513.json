@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Pansear"
+  ],
+  "imgs": [
+    "513.png"
+  ],
+  "descs": [
+    "This Pokémon lives in caves in volcanoes.\nThe fire within the tuft on its head can reach\n600 degrees Fahrenheit.",
+    "Very intelligent, it roasts berries before eating them.\nIt likes to help people."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "24.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "High Temp",
+      "Abilities": [
+        "Gluttony"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "513.png",
+      "slug": "Pansear",
+      "id": "513"
+    },
+    {
+      "img": "514.png",
+      "slug": "Simisear",
+      "id": "514"
+    }
+  ]
+}

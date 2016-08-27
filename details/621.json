@@ -1,0 +1,50 @@
+{
+  "forms": [
+    "Druddigon"
+  ],
+  "imgs": [
+    "621.png"
+  ],
+  "descs": [
+    "It warms its body by absorbing sunlight with its\nwings. When its body temperature falls, it can no\nlonger move.",
+    "It races through narrow caves, using its sharp claws\nto catch prey. The skin on its face is harder than\na rock."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "306.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cave",
+      "Abilities": [
+        "Rough Skin",
+        "Sheer Force"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Dragon",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "621.png",
+      "slug": "Druddigon",
+      "id": "621"
+    }
+  ]
+}

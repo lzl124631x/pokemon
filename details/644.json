@@ -1,0 +1,50 @@
+{
+  "forms": [
+    "Zekrom"
+  ],
+  "imgs": [
+    "644.png"
+  ],
+  "descs": [
+    "Concealing itself in lightning clouds, it flies\nthroughout the Unova region. It creates electricity\nin its tail.",
+    "This legendary Pokémon can scorch the world with\nlightning. It assists those who want to build an\nideal world."
+  ],
+  "abilities": [
+    {
+      "Height": "9' 06\"",
+      "Weight": "760.6 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Deep Black",
+      "Abilities": [
+        "Teravolt"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Ground",
+          "Dragon",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "644.png",
+      "slug": "Zekrom",
+      "id": "644"
+    }
+  ]
+}

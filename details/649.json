@@ -1,0 +1,47 @@
+{
+  "forms": [
+    "Genesect"
+  ],
+  "imgs": [
+    "649.png"
+  ],
+  "descs": [
+    "This Pokémon existed 300 million years ago. Team\nPlasma altered it and attached a cannon to its back.",
+    "This ancient bug Pokémon was altered by Team\nPlasma. They upgraded the cannon on its back."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "181.9 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Paleozoic",
+      "Abilities": [
+        "Download"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "649.png",
+      "slug": "Genesect",
+      "id": "649"
+    }
+  ]
+}

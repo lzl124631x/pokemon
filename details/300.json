@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Skitty"
+  ],
+  "imgs": [
+    "300.png"
+  ],
+  "descs": [
+    "Skitty is known to chase around playfully after its own tail.\nIn the wild, this Pokémon lives in holes in the trees of forests.\nIt is very popular as a pet because of its adorable looks.",
+    "Skitty has the habit of becoming fascinated by moving objects\nand chasing them around. This Pokémon is known to chase\nafter its own tail and become dizzy."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "24.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Kitten",
+      "Abilities": [
+        "Cute Charm",
+        "Normalize"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "300.png",
+      "slug": "Skitty",
+      "id": "300"
+    },
+    {
+      "img": "301.png",
+      "slug": "Delcatty",
+      "id": "301"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Meowth"
+  ],
+  "imgs": [
+    "052.png"
+  ],
+  "descs": [
+    "Meowth withdraws its sharp claws into its paws to slinkily sneak\nabout without making any incriminating footsteps. For some\nreason, this Pokémon loves shiny coins that glitter with light.",
+    "Meowth withdraws its sharp claws into its paws to slinkily sneak\nabout without making any incriminating footsteps.\nFor some reason, this Pokémon loves shiny coins that\nglitter with light."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "9.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Scratch Cat",
+      "Abilities": [
+        "Pickup",
+        "Technician"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "052.png",
+      "slug": "Meowth",
+      "id": "052"
+    },
+    {
+      "img": "053.png",
+      "slug": "Persian",
+      "id": "053"
+    }
+  ]
+}

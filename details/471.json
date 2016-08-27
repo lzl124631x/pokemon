@@ -1,0 +1,92 @@
+{
+  "forms": [
+    "Glaceon"
+  ],
+  "imgs": [
+    "471.png"
+  ],
+  "descs": [
+    "It lowers its body heat to freeze its fur. The hairs\nthen become like needles it can fire.",
+    "By controlling its body heat, it can freeze the\natmosphere around it to make a\ndiamond-dust flurry."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "57.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fresh Snow",
+      "Abilities": [
+        "Snow Cloak"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "133.png",
+      "slug": "Eevee",
+      "id": "133"
+    },
+    [
+      {
+        "img": "134.png",
+        "slug": "Vaporeon",
+        "id": "134"
+      },
+      {
+        "img": "135.png",
+        "slug": "Jolteon",
+        "id": "135"
+      },
+      {
+        "img": "136.png",
+        "slug": "Flareon",
+        "id": "136"
+      },
+      {
+        "img": "197.png",
+        "slug": "Umbreon",
+        "id": "197"
+      },
+      {
+        "img": "471.png",
+        "slug": "Glaceon",
+        "id": "471"
+      },
+      {
+        "img": "470.png",
+        "slug": "Leafeon",
+        "id": "470"
+      },
+      {
+        "img": "196.png",
+        "slug": "Espeon",
+        "id": "196"
+      },
+      {
+        "img": "700.png",
+        "slug": "Sylveon",
+        "id": "700"
+      }
+    ]
+  ]
+}

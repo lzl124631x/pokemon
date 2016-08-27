@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Golett"
+  ],
+  "imgs": [
+    "622.png"
+  ],
+  "descs": [
+    "Ancient science fashioned this Pokémon from clay.\nIt's been active for thousands of years.",
+    "The energy that burns inside it enables it to move,\nbut no one has yet been able to identify\nthis energy."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "202.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Automaton",
+      "Abilities": [
+        "Iron Fist",
+        "Klutz"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Grass",
+          "Ice",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "622.png",
+      "slug": "Golett",
+      "id": "622"
+    },
+    {
+      "img": "623.png",
+      "slug": "Golurk",
+      "id": "623"
+    }
+  ]
+}

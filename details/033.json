@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Nidorino"
+  ],
+  "imgs": [
+    "033.png"
+  ],
+  "descs": [
+    "Nidorino has a horn that is harder than a diamond. If it senses\na hostile presence, all the barbs on its back bristle up at once,\nand it challenges the foe with all its might.",
+    "Nidorino has a horn that is harder than a diamond. If it senses\na hostile presence, all the barbs on its back bristle up at once,\nand it challenges the foe with all its might."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "43.0 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Poison Pin",
+      "Abilities": [
+        "Poison Point",
+        "Rivalry"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "032.png",
+      "slug": "Nidoran♂",
+      "id": "032"
+    },
+    {
+      "img": "033.png",
+      "slug": "Nidorino",
+      "id": "033"
+    },
+    {
+      "img": "034.png",
+      "slug": "Nidoking",
+      "id": "034"
+    }
+  ]
+}

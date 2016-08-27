@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Cacnea"
+  ],
+  "imgs": [
+    "331.png"
+  ],
+  "descs": [
+    "The more arid and harsh the environment, the more pretty and\nfragrant a flower Cacnea grows. This Pokémon battles by\nwildly swinging its thorny arms.",
+    "Cacnea lives in arid locations such as deserts. It releases a\nstrong aroma from its flower to attract prey. When prey comes\nnear, this Pokémon shoots sharp thorns from its body to bring\nthe victim down."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "113.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cactus",
+      "Abilities": [
+        "Sand Veil"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "331.png",
+      "slug": "Cacnea",
+      "id": "331"
+    },
+    {
+      "img": "332.png",
+      "slug": "Cacturne",
+      "id": "332"
+    }
+  ]
+}

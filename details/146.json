@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Moltres"
+  ],
+  "imgs": [
+    "146.png"
+  ],
+  "descs": [
+    "Moltres is a legendary bird Pokémon that has the ability\nto control fire. If this Pokémon is injured, it is said to dip its\nbody in the molten magma of a volcano to burn and heal itself.",
+    "Moltres is a legendary bird Pokémon that has the ability to\ncontrol fire. If this Pokémon is injured, it is said to dip its body\nin the molten magma of a volcano to burn and heal itself."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "132.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Flame",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "146.png",
+      "slug": "Moltres",
+      "id": "146"
+    }
+  ]
+}

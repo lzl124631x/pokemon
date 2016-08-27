@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Lilligant"
+  ],
+  "imgs": [
+    "549.png"
+  ],
+  "descs": [
+    "Even veteran Trainers face a challenge in getting its\nbeautiful flower to bloom. This Pokémon is popular\nwith celebrities.",
+    "The fragrance of the garland on its head has a\nrelaxing effect. It withers if a Trainer does not take\ngood care of it."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "35.9 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Flowering",
+      "Abilities": [
+        "Chlorophyll",
+        "Own Tempo"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ice",
+          "Poison",
+          "Flying",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "548.png",
+      "slug": "Petilil",
+      "id": "548"
+    },
+    {
+      "img": "549.png",
+      "slug": "Lilligant",
+      "id": "549"
+    }
+  ]
+}

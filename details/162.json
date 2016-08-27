@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Furret"
+  ],
+  "imgs": [
+    "162.png"
+  ],
+  "descs": [
+    "Furret has a very slim build. When under attack, it can slickly\nsquirm through narrow spaces and get away. In spite of its\nshort limbs, this Pokémon is very nimble and fleet.",
+    "Furret has a very slim build. When under attack, it can slickly\nsquirm through narrow spaces and get away. In spite of its\nshort limbs, this Pokémon is very nimble and fleet."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "71.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Long Body",
+      "Abilities": [
+        "Keen Eye",
+        "Run Away"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "161.png",
+      "slug": "Sentret",
+      "id": "161"
+    },
+    {
+      "img": "162.png",
+      "slug": "Furret",
+      "id": "162"
+    }
+  ]
+}

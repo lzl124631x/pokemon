@@ -1,0 +1,47 @@
+{
+  "forms": [
+    "Minun"
+  ],
+  "imgs": [
+    "312.png"
+  ],
+  "descs": [
+    "Minun loves to cheer on its partner in battle. It gives off sparks\nfrom its body while it is doing so. If its partner is in trouble,\nthis Pokémon gives off increasing amounts of sparks.",
+    "Minun is more concerned about cheering on its partners than\nits own safety. It shorts out the electricity in its body to create\nbrilliant showers of sparks to cheer on its teammates."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "9.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cheering",
+      "Abilities": [
+        "Minus"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "312.png",
+      "slug": "Minun",
+      "id": "312"
+    }
+  ]
+}

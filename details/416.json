@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Vespiquen"
+  ],
+  "imgs": [
+    "416.png"
+  ],
+  "descs": [
+    "Its abdomen is a honeycomb for grubs. It raises its\ngrubs on honey collected by Combee.",
+    "It houses its colony in cells in its body and releases\nvarious pheromones to make those grubs do its bidding."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "84.9 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Beehive",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Fire",
+          "Flying",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "415.png",
+      "slug": "Combee",
+      "id": "415"
+    },
+    {
+      "img": "416.png",
+      "slug": "Vespiquen",
+      "id": "416"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Noctowl"
+  ],
+  "imgs": [
+    "164.png"
+  ],
+  "descs": [
+    "Noctowl never fails at catching prey in darkness. This Pokémon\nowes its success to its superior vision that allows it to see in\nminimal light, and to its soft, supple wings that make no sound\nin flight.",
+    "Noctowl never fails at catching prey in darkness. This Pokémon\nowes its success to its superior vision that allows it to see in\nminimal light, and to its soft, supple wings that make no sound\nin flight."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "89.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Owl",
+      "Abilities": [
+        "Keen Eye",
+        "Insomnia"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "163.png",
+      "slug": "Hoothoot",
+      "id": "163"
+    },
+    {
+      "img": "164.png",
+      "slug": "Noctowl",
+      "id": "164"
+    }
+  ]
+}

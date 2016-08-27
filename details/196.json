@@ -1,0 +1,91 @@
+{
+  "forms": [
+    "Espeon"
+  ],
+  "imgs": [
+    "196.png"
+  ],
+  "descs": [
+    "Espeon is extremely loyal to any Trainer it considers to\nbe worthy. It is said that this Pokémon developed its\nprecognitive powers to protect its Trainer from harm.",
+    "Espeon is extremely loyal to any Trainer it considers to\nbe worthy. It is said that this Pokémon developed its\nprecognitive powers to protect its Trainer from harm."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "58.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sun",
+      "Abilities": [
+        "Synchronize"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "133.png",
+      "slug": "Eevee",
+      "id": "133"
+    },
+    [
+      {
+        "img": "134.png",
+        "slug": "Vaporeon",
+        "id": "134"
+      },
+      {
+        "img": "135.png",
+        "slug": "Jolteon",
+        "id": "135"
+      },
+      {
+        "img": "136.png",
+        "slug": "Flareon",
+        "id": "136"
+      },
+      {
+        "img": "197.png",
+        "slug": "Umbreon",
+        "id": "197"
+      },
+      {
+        "img": "471.png",
+        "slug": "Glaceon",
+        "id": "471"
+      },
+      {
+        "img": "470.png",
+        "slug": "Leafeon",
+        "id": "470"
+      },
+      {
+        "img": "196.png",
+        "slug": "Espeon",
+        "id": "196"
+      },
+      {
+        "img": "700.png",
+        "slug": "Sylveon",
+        "id": "700"
+      }
+    ]
+  ]
+}

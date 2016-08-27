@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Shelmet"
+  ],
+  "imgs": [
+    "616.png"
+  ],
+  "descs": [
+    "It evolves when bathed in an electric-like energy\nalong with Karrablast. The reason is still unknown.",
+    "When it and Karrablast are together, and both\nreceive electrical stimulation, they both evolve."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "17.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Snail",
+      "Abilities": [
+        "Hydration",
+        "Shell Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "616.png",
+      "slug": "Shelmet",
+      "id": "616"
+    },
+    {
+      "img": "617.png",
+      "slug": "Accelgor",
+      "id": "617"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Pachirisu"
+  ],
+  "imgs": [
+    "417.png"
+  ],
+  "descs": [
+    "A pair may be seen rubbing their cheek pouches\ntogether in an effort to share stored electricity.",
+    "It makes fur balls that crackle with static electricity.\nIt stores them with berries in tree holes."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "8.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "EleSquirrel",
+      "Abilities": [
+        "Run Away",
+        "Pickup"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "417.png",
+      "slug": "Pachirisu",
+      "id": "417"
+    }
+  ]
+}

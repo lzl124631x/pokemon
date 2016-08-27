@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Linoone"
+  ],
+  "imgs": [
+    "264.png"
+  ],
+  "descs": [
+    "When hunting, Linoone will make a beeline straight for the\nprey at a full run. While this Pokémon is capable of topping\n60 mph, it has to come to a screeching halt before it can turn.",
+    "Linoone always runs full speed and only in straight lines.\nIf facing an obstacle, it makes a right-angle turn to evade it.\nThis Pokémon is very challenged by gently curving roads."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "71.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Rushing",
+      "Abilities": [
+        "Pickup",
+        "Gluttony"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "263.png",
+      "slug": "Zigzagoon",
+      "id": "263"
+    },
+    {
+      "img": "264.png",
+      "slug": "Linoone",
+      "id": "264"
+    }
+  ]
+}

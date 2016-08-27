@@ -1,0 +1,81 @@
+{
+  "forms": [
+    "West Sea",
+    "East Sea"
+  ],
+  "imgs": [
+    "422.png",
+    "422_f2.png"
+  ],
+  "descs": [
+    "Its shape and coloration vary, depending on\nits habitat.",
+    "Beware of pushing strongly on its squishy body,\nas it makes a mysterious purple fluid ooze out."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "13.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sea Slug",
+      "Abilities": [
+        "Sticky Hold",
+        "Storm Drain"
+      ]
+    },
+    {
+      "Height": "1' 00\"",
+      "Weight": "13.9 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Sea Slug",
+      "Abilities": [
+        "Sticky Hold",
+        "Storm Drain"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "422.png",
+      "slug": "Shellos",
+      "id": "422"
+    },
+    {
+      "img": "423.png",
+      "slug": "Gastrodon",
+      "id": "423"
+    }
+  ]
+}

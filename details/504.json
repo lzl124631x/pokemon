@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Patrat"
+  ],
+  "imgs": [
+    "504.png"
+  ],
+  "descs": [
+    "Extremely cautious, one of them will always be on\nthe lookout, but it won't notice a foe coming\nfrom behind.",
+    "Using food stored in cheek pouches, they can keep\nwatch for days. They use their tails to communicate\nwith others."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "25.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Scout",
+      "Abilities": [
+        "Keen Eye",
+        "Run Away"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "504.png",
+      "slug": "Patrat",
+      "id": "504"
+    },
+    {
+      "img": "505.png",
+      "slug": "Watchog",
+      "id": "505"
+    }
+  ]
+}

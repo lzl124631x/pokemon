@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Frogadier"
+  ],
+  "imgs": [
+    "657.png"
+  ],
+  "descs": [
+    "Its swiftness is unparalleled.\nIt can scale a tower of more\nthan 2,000 feet in a minute's time.",
+    "It can throw bubble-covered pebbles with precise\ncontrol, hitting empty cans up to a hundred feet away."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "24.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bubble Frog",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "656.png",
+      "slug": "Froakie",
+      "id": "656"
+    },
+    {
+      "img": "657.png",
+      "slug": "Frogadier",
+      "id": "657"
+    },
+    {
+      "img": "658.png",
+      "slug": "Greninja",
+      "id": "658"
+    }
+  ]
+}

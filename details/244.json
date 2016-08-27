@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Entei"
+  ],
+  "imgs": [
+    "244.png"
+  ],
+  "descs": [
+    "Entei embodies the passion of magma. This Pokémon is\nthought to have been born in the eruption of a volcano.\nIt sends up massive bursts of fire that utterly consume all\nthat they touch.",
+    "Entei embodies the passion of magma. This Pokémon is\nthought to have been born in the eruption of a volcano.\nIt sends up massive bursts of fire that utterly consume all that\nthey touch."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 11\"",
+      "Weight": "436.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Volcano",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "244.png",
+      "slug": "Entei",
+      "id": "244"
+    }
+  ]
+}

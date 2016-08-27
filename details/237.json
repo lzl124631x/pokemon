@@ -1,0 +1,66 @@
+{
+  "forms": [
+    "Hitmontop"
+  ],
+  "imgs": [
+    "237.png"
+  ],
+  "descs": [
+    "Hitmontop spins on its head at high speed, all the while\ndelivering kicks. This technique is a remarkable mix of both\noffense and defense at the same time. The Pokémon travels\nfaster spinning than it does walking.",
+    "Hitmontop spins on its head at high speed, all the while\ndelivering kicks. This technique is a remarkable mix of both\noffense and defense at the same time. The Pokémon travels\nfaster spinning than it does walking."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "105.8 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Handstand",
+      "Abilities": [
+        "Intimidate",
+        "Technician"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "236.png",
+      "slug": "Tyrogue",
+      "id": "236"
+    },
+    [
+      {
+        "img": "106.png",
+        "slug": "Hitmonlee",
+        "id": "106"
+      },
+      {
+        "img": "107.png",
+        "slug": "Hitmonchan",
+        "id": "107"
+      },
+      {
+        "img": "237.png",
+        "slug": "Hitmontop",
+        "id": "237"
+      }
+    ]
+  ]
+}

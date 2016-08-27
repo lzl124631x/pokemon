@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Magmortar"
+  ],
+  "imgs": [
+    "467.png"
+  ],
+  "descs": [
+    "It blasts fireballs of over 3,600 degrees Fahrenheit\nout of its arms. Its breath also sears and sizzles.",
+    "It blasts fireballs of over 3,600 degrees Fahrenheit\nfrom the ends of its arms. It lives in\nvolcanic craters."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "149.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Blast",
+      "Abilities": [
+        "Flame Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "240.png",
+      "slug": "Magby",
+      "id": "240"
+    },
+    {
+      "img": "126.png",
+      "slug": "Magmar",
+      "id": "126"
+    },
+    {
+      "img": "467.png",
+      "slug": "Magmortar",
+      "id": "467"
+    }
+  ]
+}

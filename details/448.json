@@ -1,0 +1,84 @@
+{
+  "forms": [
+    "Lucario",
+    "Mega Lucario"
+  ],
+  "imgs": [
+    "448.png",
+    "448_f2.png"
+  ],
+  "descs": [
+    "By reading the auras of all things, it can tell how\nothers are feeling from over half a mile away.",
+    "By catching the aura emanating from others, it can\nread their thoughts and movements."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "119.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Aura",
+      "Abilities": [
+        "Inner Focus",
+        "Steadfast"
+      ]
+    },
+    {
+      "Height": "4' 03\"",
+      "Weight": "126.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Aura",
+      "Abilities": [
+        "Adaptability"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Fire",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Fighting",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "447.png",
+      "slug": "Riolu",
+      "id": "447"
+    },
+    {
+      "img": "448.png",
+      "slug": "Lucario",
+      "id": "448"
+    }
+  ]
+}

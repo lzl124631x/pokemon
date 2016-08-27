@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Golbat"
+  ],
+  "imgs": [
+    "042.png"
+  ],
+  "descs": [
+    "Golbat bites down on prey with its four fangs and drinks\nthe victim's blood. It becomes active on inky dark\nmoonless nights, flying around to attack people and Pokémon.",
+    "Golbat loves to drink the blood of living things. It is particularly\nactive in the pitch black of night. This Pokémon flits around in\nthe night skies, seeking fresh blood."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "121.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bat",
+      "Abilities": [
+        "Inner Focus"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Psychic",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "041.png",
+      "slug": "Zubat",
+      "id": "041"
+    },
+    {
+      "img": "042.png",
+      "slug": "Golbat",
+      "id": "042"
+    },
+    {
+      "img": "169.png",
+      "slug": "Crobat",
+      "id": "169"
+    }
+  ]
+}

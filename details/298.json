@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Azurill"
+  ],
+  "imgs": [
+    "298.png"
+  ],
+  "descs": [
+    "Azurill's tail is large and bouncy. It is packed full of the\nnutrients this Pokémon needs to grow. Azurill can be seen\nbouncing and playing on its big, rubbery tail.",
+    "Azurill spins its tail as if it were a lasso, then hurls it far.\nThe momentum of the throw sends its body flying, too.\nUsing this unique action, one of these Pokémon managed to\nhurl itself a record 33 feet."
+  ],
+  "abilities": [
+    {
+      "Height": "0' 08\"",
+      "Weight": "4.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Polka Dot",
+      "Abilities": [
+        "Thick Fat",
+        "Huge Power"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "298.png",
+      "slug": "Azurill",
+      "id": "298"
+    },
+    {
+      "img": "183.png",
+      "slug": "Marill",
+      "id": "183"
+    },
+    {
+      "img": "184.png",
+      "slug": "Azumarill",
+      "id": "184"
+    }
+  ]
+}

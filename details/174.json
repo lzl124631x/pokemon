@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Igglybuff"
+  ],
+  "imgs": [
+    "174.png"
+  ],
+  "descs": [
+    "Igglybuff has a soft and plushy body that feels very much like\na marshmallow. From this body wafts a gently sweet fragrance\nthat soothes and calms the emotions of its foes.",
+    "Igglybuff's vocal cords are not sufficiently developed. It would\nhurt its throat if it were to sing too much. This Pokémon\ngargles with freshwater from a clean stream."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "2.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Balloon",
+      "Abilities": [
+        "Cute Charm",
+        "Competitive"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "174.png",
+      "slug": "Igglybuff",
+      "id": "174"
+    },
+    {
+      "img": "039.png",
+      "slug": "Jigglypuff",
+      "id": "039"
+    },
+    {
+      "img": "040.png",
+      "slug": "Wigglytuff",
+      "id": "040"
+    }
+  ]
+}

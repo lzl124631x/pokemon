@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Barboach"
+  ],
+  "imgs": [
+    "339.png"
+  ],
+  "descs": [
+    "Barboach's body is covered with a slimy film. If a foe grabs it,\nthis Pokémon just slips out of the enemy's grip. This Pokémon\ngrows weak if the slimy coating dries up.",
+    "Barboach's sensitive whiskers serve as a superb radar system.\nThis Pokémon hides in mud, leaving only its two whiskers\nexposed while it waits for prey to come along."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "4.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Whiskers",
+      "Abilities": [
+        "Oblivious",
+        "Anticipation"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "339.png",
+      "slug": "Barboach",
+      "id": "339"
+    },
+    {
+      "img": "340.png",
+      "slug": "Whiscash",
+      "id": "340"
+    }
+  ]
+}

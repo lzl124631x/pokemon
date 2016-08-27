@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Yanmega"
+  ],
+  "imgs": [
+    "469.png"
+  ],
+  "descs": [
+    "This six-legged Pokémon is easily capable of\ntransporting an adult in flight. The wings on its tail\nhelp it stay balanced.",
+    "It prefers to battle by biting apart foes' heads\ninstantly while flying by at high speed."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 03\"",
+      "Weight": "113.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Ogre Darner",
+      "Abilities": [
+        "Tinted Lens",
+        "Speed Boost"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Fire",
+          "Flying",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "193.png",
+      "slug": "Yanma",
+      "id": "193"
+    },
+    {
+      "img": "469.png",
+      "slug": "Yanmega",
+      "id": "469"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Seel"
+  ],
+  "imgs": [
+    "086.png"
+  ],
+  "descs": [
+    "Seel hunts for prey in the frigid sea underneath sheets of ice.\nWhen it needs to breathe, it punches a hole through the ice\nwith the sharply protruding section of its head.",
+    "Seel hunts for prey in the frigid sea underneath sheets of ice.\nWhen it needs to breathe, it punches a hole through the ice\nwith the sharply protruding section of its head."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "198.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sea Lion",
+      "Abilities": [
+        "Thick Fat",
+        "Hydration"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "086.png",
+      "slug": "Seel",
+      "id": "086"
+    },
+    {
+      "img": "087.png",
+      "slug": "Dewgong",
+      "id": "087"
+    }
+  ]
+}

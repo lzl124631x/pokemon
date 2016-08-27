@@ -1,0 +1,66 @@
+{
+  "forms": [
+    "Tyrogue"
+  ],
+  "imgs": [
+    "236.png"
+  ],
+  "descs": [
+    "Tyrogue becomes stressed out if it does not get to train every\nday. When raising this Pokémon, the Trainer must establish\nand uphold various training methods.",
+    "Tyrogue becomes stressed out if it does not get to train every\nday. When raising this Pokémon, the Trainer must establish\nand uphold various training methods."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "46.3 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Scuffle",
+      "Abilities": [
+        "Guts",
+        "Steadfast"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "236.png",
+      "slug": "Tyrogue",
+      "id": "236"
+    },
+    [
+      {
+        "img": "106.png",
+        "slug": "Hitmonlee",
+        "id": "106"
+      },
+      {
+        "img": "107.png",
+        "slug": "Hitmonchan",
+        "id": "107"
+      },
+      {
+        "img": "237.png",
+        "slug": "Hitmontop",
+        "id": "237"
+      }
+    ]
+  ]
+}

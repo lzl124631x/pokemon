@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Kakuna"
+  ],
+  "imgs": [
+    "014.png"
+  ],
+  "descs": [
+    "Kakuna remains virtually immobile as it clings to a tree.\nHowever, on the inside, it is extremely busy as it prepares\nfor its coming evolution.\nThis is evident from how hot the shell becomes to the touch.",
+    "Kakuna remains virtually immobile as it clings to a tree.\nHowever, on the inside, it is extremely busy as it prepares for\nits coming evolution. This is evident from how hot the shell\nbecomes to the touch."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "22.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cocoon",
+      "Abilities": [
+        "Shed Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Psychic",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "013.png",
+      "slug": "Weedle",
+      "id": "013"
+    },
+    {
+      "img": "014.png",
+      "slug": "Kakuna",
+      "id": "014"
+    },
+    {
+      "img": "015.png",
+      "slug": "Beedrill",
+      "id": "015"
+    }
+  ]
+}

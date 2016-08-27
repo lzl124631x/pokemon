@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Monferno"
+  ],
+  "imgs": [
+    "391.png"
+  ],
+  "descs": [
+    "It uses ceilings and walls to launch aerial attacks.\nIts fiery tail is but one weapon.",
+    "It skillfully controls the intensity of the fire on its\ntail to keep its foes at an ideal distance."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "48.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Playful",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Ground",
+          "Psychic",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "390.png",
+      "slug": "Chimchar",
+      "id": "390"
+    },
+    {
+      "img": "391.png",
+      "slug": "Monferno",
+      "id": "391"
+    },
+    {
+      "img": "392.png",
+      "slug": "Infernape",
+      "id": "392"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Porygon"
+  ],
+  "imgs": [
+    "137.png"
+  ],
+  "descs": [
+    "Porygon is capable of reverting itself entirely back to program\ndata and entering cyberspace. This Pokémon is copy protected\nso it cannot be duplicated by copying.",
+    "Porygon is capable of reverting itself entirely back to program\ndata and entering cyberspace. This Pokémon is copy protected\nso it cannot be duplicated by copying."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "80.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Virtual",
+      "Abilities": [
+        "Trace",
+        "Download"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "137.png",
+      "slug": "Porygon",
+      "id": "137"
+    },
+    {
+      "img": "233.png",
+      "slug": "Porygon2",
+      "id": "233"
+    },
+    {
+      "img": "474.png",
+      "slug": "Porygon-Z",
+      "id": "474"
+    }
+  ]
+}

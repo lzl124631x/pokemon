@@ -1,0 +1,82 @@
+{
+  "forms": [
+    "Male",
+    "Female"
+  ],
+  "imgs": [
+    "678.png",
+    "678_f2.png"
+  ],
+  "descs": [
+    "The eyeball patterns on the interior of its ears\nemit psychic energy. It keeps the patterns tightly\ncovered because that power is too immense.",
+    "When in danger, it raises its ears and\nreleases enough psychic power to\ngrind a 10-ton truck into dust."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "18.7 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Constraint",
+      "Abilities": [
+        "Keen Eye",
+        "Infiltrator"
+      ]
+    },
+    {
+      "Height": "2' 00\"",
+      "Weight": "18.7 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Constraint",
+      "Abilities": [
+        "Keen Eye",
+        "Infiltrator"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Dark",
+          "Bug"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Dark",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "677.png",
+      "slug": "Espurr",
+      "id": "677"
+    },
+    {
+      "img": "678.png",
+      "slug": "Meowstic",
+      "id": "678"
+    }
+  ]
+}

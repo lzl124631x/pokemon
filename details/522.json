@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Blitzle"
+  ],
+  "imgs": [
+    "522.png"
+  ],
+  "descs": [
+    "Its mane shines when it discharges electricity.\nThey use the frequency and rhythm of these flashes\nto communicate.",
+    "When thunderclouds cover the sky, it will appear.\nIt can catch lightning with its mane and store\nthe electricity."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "65.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Electrified",
+      "Abilities": [
+        "Lightning Rod",
+        "Motor Drive"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "522.png",
+      "slug": "Blitzle",
+      "id": "522"
+    },
+    {
+      "img": "523.png",
+      "slug": "Zebstrika",
+      "id": "523"
+    }
+  ]
+}

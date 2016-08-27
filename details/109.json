@@ -1,0 +1,52 @@
+{
+  "forms": [
+    "Koffing"
+  ],
+  "imgs": [
+    "109.png"
+  ],
+  "descs": [
+    "Koffing embodies toxic substances. It mixes the toxins with raw\ngarbage to set off a chemical reaction that results in a terribly\npowerful poison gas. The higher the temperature, the more gas\nis concocted by this Pokémon.",
+    "If Koffing becomes agitated, it raises the toxicity of its internal\ngases and jets them out from all over its body. This Pokémon\nmay also overinflate its round body, then explode."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "2.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Poison Gas",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "109.png",
+      "slug": "Koffing",
+      "id": "109"
+    },
+    {
+      "img": "110.png",
+      "slug": "Weezing",
+      "id": "110"
+    }
+  ]
+}

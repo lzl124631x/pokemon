@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Buizel"
+  ],
+  "imgs": [
+    "418.png"
+  ],
+  "descs": [
+    "It inflates the flotation sac around its neck and\npokes its head out of the water to see what is\ngoing on.",
+    "It swims by rotating its two tails like a screw.\nWhen it dives, its flotation sac collapses."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "65.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sea Weasel",
+      "Abilities": [
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "418.png",
+      "slug": "Buizel",
+      "id": "418"
+    },
+    {
+      "img": "419.png",
+      "slug": "Floatzel",
+      "id": "419"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "forms": [
+    "Kecleon"
+  ],
+  "imgs": [
+    "352.png"
+  ],
+  "descs": [
+    "Kecleon alters its body coloration to blend in with its\nsurroundings, allowing it to sneak up on its prey unnoticed.\nThen it lashes out with its long, stretchy tongue to instantly\nensnare the unsuspecting target.",
+    "Kecleon is capable of changing its body colors at will to blend\nin with its surroundings. There is one exception—this Pokémon\ncan't change the zigzag pattern on its belly."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "48.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Color Swap",
+      "Abilities": [
+        "Color Change"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "352.png",
+      "slug": "Kecleon",
+      "id": "352"
+    }
+  ]
+}

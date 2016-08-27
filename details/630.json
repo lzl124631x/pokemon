@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Mandibuzz"
+  ],
+  "imgs": [
+    "630.png"
+  ],
+  "descs": [
+    "Watching from the sky, they swoop to strike\nweakened Pokémon on the ground. They decorate\nthemselves with bones.",
+    "They fly in circles around the sky. When they spot\nprey, they attack and carry it back to their nest\nwith ease."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "87.1 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Bone Vulture",
+      "Abilities": [
+        "Big Pecks",
+        "Overcoat"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "629.png",
+      "slug": "Vullaby",
+      "id": "629"
+    },
+    {
+      "img": "630.png",
+      "slug": "Mandibuzz",
+      "id": "630"
+    }
+  ]
+}

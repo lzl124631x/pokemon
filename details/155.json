@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Cyndaquil"
+  ],
+  "imgs": [
+    "155.png"
+  ],
+  "descs": [
+    "Cyndaquil protects itself by flaring up the flames on its back.\nThe flames are vigorous if the Pokémon is angry. However, if it\nis tired, the flames splutter fitfully with incomplete combustion.",
+    "Cyndaquil protects itself by flaring up the flames on its back.\nThe flames are vigorous if the Pokémon is angry. However, if it\nis tired, the flames splutter fitfully with incomplete combustion."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "17.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fire Mouse",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "155.png",
+      "slug": "Cyndaquil",
+      "id": "155"
+    },
+    {
+      "img": "156.png",
+      "slug": "Quilava",
+      "id": "156"
+    },
+    {
+      "img": "157.png",
+      "slug": "Typhlosion",
+      "id": "157"
+    }
+  ]
+}

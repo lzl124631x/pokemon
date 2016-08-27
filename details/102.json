@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Exeggcute"
+  ],
+  "imgs": [
+    "102.png"
+  ],
+  "descs": [
+    "This Pokémon consists of six eggs that form a closely knit\ncluster. The six eggs attract each other and spin around.\nWhen cracks increasingly appear on the eggs, Exeggcute is\nclose to evolution.",
+    "This Pokémon consists of six eggs that form a closely knit\ncluster. The six eggs attract each other and spin around.\nWhen cracks increasingly appear on the eggs, Exeggcute is\nclose to evolution."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "5.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Egg",
+      "Abilities": [
+        "Chlorophyll"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Fire",
+          "Flying",
+          "Ghost",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "102.png",
+      "slug": "Exeggcute",
+      "id": "102"
+    },
+    {
+      "img": "103.png",
+      "slug": "Exeggutor",
+      "id": "103"
+    }
+  ]
+}

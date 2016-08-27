@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Mankey"
+  ],
+  "imgs": [
+    "056.png"
+  ],
+  "descs": [
+    "When Mankey starts shaking and its nasal breathing turns\nrough, it's a sure sign that it is becoming angry. However,\nbecause it goes into a towering rage almost instantly,\nit is impossible for anyone to flee its wrath.",
+    "When Mankey starts shaking and its nasal breathing turns\nrough, it's a sure sign that it is becoming angry. However,\nbecause it goes into a towering rage almost instantly,\nit is impossible for anyone to flee its wrath."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "61.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Pig Monkey",
+      "Abilities": [
+        "Vital Spirit",
+        "Anger Point"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "056.png",
+      "slug": "Mankey",
+      "id": "056"
+    },
+    {
+      "img": "057.png",
+      "slug": "Primeape",
+      "id": "057"
+    }
+  ]
+}

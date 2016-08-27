@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Electivire"
+  ],
+  "imgs": [
+    "466.png"
+  ],
+  "descs": [
+    "It pushes the tips of its two tails against the foe,\nthen lets loose with over 20,000 volts of power.",
+    "As its electric charge amplifies, blue sparks begin\nto crackle between its horns."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "305.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Thunderbolt",
+      "Abilities": [
+        "Motor Drive"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "239.png",
+      "slug": "Elekid",
+      "id": "239"
+    },
+    {
+      "img": "125.png",
+      "slug": "Electabuzz",
+      "id": "125"
+    },
+    {
+      "img": "466.png",
+      "slug": "Electivire",
+      "id": "466"
+    }
+  ]
+}

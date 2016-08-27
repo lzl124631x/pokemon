@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Ekans"
+  ],
+  "imgs": [
+    "023.png"
+  ],
+  "descs": [
+    "Ekans curls itself up in a spiral while it rests. Assuming this\nposition allows it to quickly respond to a threat from any\ndirection with a glare from its upraised head.",
+    "Ekans curls itself up in a spiral while it rests. Assuming this\nposition allows it to quickly respond to a threat from any\ndirection with a glare from its upraised head."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "15.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Snake",
+      "Abilities": [
+        "Shed Skin",
+        "Intimidate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "023.png",
+      "slug": "Ekans",
+      "id": "023"
+    },
+    {
+      "img": "024.png",
+      "slug": "Arbok",
+      "id": "024"
+    }
+  ]
+}

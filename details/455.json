@@ -1,0 +1,51 @@
+{
+  "forms": [
+    "Carnivine"
+  ],
+  "imgs": [
+    "455.png"
+  ],
+  "descs": [
+    "It binds itself to trees in marshes. It attracts prey\nwith its sweet-smelling drool and gulps them down.",
+    "It attracts prey with its sweet-smelling saliva, then\nchomps down. It takes a whole day to eat prey."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "59.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bug Catcher",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "455.png",
+      "slug": "Carnivine",
+      "id": "455"
+    }
+  ]
+}

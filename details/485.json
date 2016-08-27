@@ -1,0 +1,50 @@
+{
+  "forms": [
+    "Heatran"
+  ],
+  "imgs": [
+    "485.png"
+  ],
+  "descs": [
+    "Boiling blood, like magma, circulates through its\nbody. It makes its dwelling place in volcanic caves.",
+    "It dwells in volcanic caves. It digs in with its\ncross-shaped feet to crawl on ceilings and walls."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "948.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Lava Dome",
+      "Abilities": [
+        "Flash Fire"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Fighting",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "485.png",
+      "slug": "Heatran",
+      "id": "485"
+    }
+  ]
+}

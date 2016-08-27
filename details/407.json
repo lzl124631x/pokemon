@@ -1,0 +1,62 @@
+{
+  "forms": [
+    "Roserade"
+  ],
+  "imgs": [
+    "407.png"
+  ],
+  "descs": [
+    "With the movements of a dancer, it strikes with\nwhips that are densely lined with poison thorns.",
+    "Luring prey with a sweet scent, it uses poison whips\non its arms to poison, bind, and finish off the prey."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "32.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bouquet",
+      "Abilities": [
+        "Poison Point",
+        "Natural Cure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "406.png",
+      "slug": "Budew",
+      "id": "406"
+    },
+    {
+      "img": "315.png",
+      "slug": "Roselia",
+      "id": "315"
+    },
+    {
+      "img": "407.png",
+      "slug": "Roserade",
+      "id": "407"
+    }
+  ]
+}

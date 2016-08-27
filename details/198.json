@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Murkrow"
+  ],
+  "imgs": [
+    "198.png"
+  ],
+  "descs": [
+    "Murkrow was feared and loathed as the alleged bearer of ill\nfortune. This Pokémon shows strong interest in anything that\nsparkles or glitters. It will even try to steal rings from women.",
+    "Murkrow was feared and loathed as the alleged bearer of ill\nfortune. This Pokémon shows strong interest in anything that\nsparkles or glitters. It will even try to steal rings from women."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "4.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Darkness",
+      "Abilities": [
+        "Insomnia",
+        "Super Luck"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "198.png",
+      "slug": "Murkrow",
+      "id": "198"
+    },
+    {
+      "img": "430.png",
+      "slug": "Honchkrow",
+      "id": "430"
+    }
+  ]
+}

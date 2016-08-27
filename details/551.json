@@ -1,0 +1,64 @@
+{
+  "forms": [
+    "Sandile"
+  ],
+  "imgs": [
+    "551.png"
+  ],
+  "descs": [
+    "They live buried in the sands of the desert.\nThe sun-warmed sands prevent their body\ntemperature from dropping.",
+    "It moves along below the sand's surface, except\nfor its nose and eyes. A dark membrane shields its\neyes from the sun."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "33.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Desert Croc",
+      "Abilities": [
+        "Intimidate",
+        "Moxie"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Grass",
+          "Ice",
+          "Fighting",
+          "Bug",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "551.png",
+      "slug": "Sandile",
+      "id": "551"
+    },
+    {
+      "img": "552.png",
+      "slug": "Krokorok",
+      "id": "552"
+    },
+    {
+      "img": "553.png",
+      "slug": "Krookodile",
+      "id": "553"
+    }
+  ]
+}

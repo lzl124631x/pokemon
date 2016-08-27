@@ -1,0 +1,46 @@
+{
+  "forms": [
+    "Regigigas"
+  ],
+  "imgs": [
+    "486.png"
+  ],
+  "descs": [
+    "There is an enduring legend that states this\nPokémon towed continents with ropes.",
+    "It is said to have made Pokémon that look like\nitself from a special ice mountain, rocks,\nand magma."
+  ],
+  "abilities": [
+    {
+      "Height": "12' 02\"",
+      "Weight": "925.9 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Colossal",
+      "Abilities": [
+        "Slow Start"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "486.png",
+      "slug": "Regigigas",
+      "id": "486"
+    }
+  ]
+}

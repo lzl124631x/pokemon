@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Electrike"
+  ],
+  "imgs": [
+    "309.png"
+  ],
+  "descs": [
+    "Electrike runs faster than the human eye can follow.\nThe friction from running is converted into electricity,\nwhich is then stored in this Pokémon's fur.",
+    "Electrike stores electricity in its long body hair. This Pokémon\nstimulates its leg muscles with electric charges. These jolts of\npower give its legs explosive acceleration performance."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "33.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Lightning",
+      "Abilities": [
+        "Static",
+        "Lightning Rod"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "309.png",
+      "slug": "Electrike",
+      "id": "309"
+    },
+    {
+      "img": "310.png",
+      "slug": "Manectric",
+      "id": "310"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Milotic"
+  ],
+  "imgs": [
+    "350.png"
+  ],
+  "descs": [
+    "Milotic live at the bottom of large lakes. When this\nPokémon's body glows a vivid pink, it releases a pulsing\nwave of energy that brings soothing calm to troubled hearts.",
+    "Milotic is said to be the most beautiful of all the Pokémon.\nIt has the power to becalm such emotions as anger and\nhostility to quell bitter feuding."
+  ],
+  "abilities": [
+    {
+      "Height": "20' 04\"",
+      "Weight": "357.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tender",
+      "Abilities": [
+        "Marvel Scale",
+        "Competitive"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "349.png",
+      "slug": "Feebas",
+      "id": "349"
+    },
+    {
+      "img": "350.png",
+      "slug": "Milotic",
+      "id": "350"
+    }
+  ]
+}

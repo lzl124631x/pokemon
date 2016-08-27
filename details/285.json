@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Shroomish"
+  ],
+  "imgs": [
+    "285.png"
+  ],
+  "descs": [
+    "If Shroomish senses danger, it shakes its body and scatters\nspores from the top of its head. This Pokémon's spores are\nso toxic, they make trees and weeds wilt.",
+    "Shroomish live in damp soil in the dark depths of forests.\nThey are often found keeping still under fallen leaves.\nThis Pokémon feeds on compost that is made up of fallen,\nrotted leaves."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "9.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mushroom",
+      "Abilities": [
+        "Effect Spore",
+        "Poison Heal"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "285.png",
+      "slug": "Shroomish",
+      "id": "285"
+    },
+    {
+      "img": "286.png",
+      "slug": "Breloom",
+      "id": "286"
+    }
+  ]
+}

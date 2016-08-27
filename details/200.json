@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Misdreavus"
+  ],
+  "imgs": [
+    "200.png"
+  ],
+  "descs": [
+    "Misdreavus frightens people with a creepy, sobbing cry.\nThe Pokémon apparently uses its red spheres to absorb the\nfearful feelings of foes and turn them into nutrition.",
+    "Misdreavus frightens people with a creepy, sobbing cry.\nThe Pokémon apparently uses its red spheres to absorb the\nfearful feelings of foes and turn them into nutrition."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "2.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Screech",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "200.png",
+      "slug": "Misdreavus",
+      "id": "200"
+    },
+    {
+      "img": "429.png",
+      "slug": "Mismagius",
+      "id": "429"
+    }
+  ]
+}

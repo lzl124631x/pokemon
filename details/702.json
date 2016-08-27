@@ -1,0 +1,50 @@
+{
+  "forms": [
+    "Dedenne"
+  ],
+  "imgs": [
+    "702.png"
+  ],
+  "descs": [
+    "It uses its tail to absorb electricity from\npower plants or from outlets in houses,\nand then it fires the electricity from its whiskers.",
+    "Its whiskers serve as antennas. By sending and\nreceiving electrical waves, it can communicate\nwith others over vast distances."
+  ],
+  "abilities": [
+    {
+      "Height": "0' 08\"",
+      "Weight": "4.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Antenna",
+      "Abilities": [
+        "Pickup",
+        "Cheek Pouch"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Poison",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "702.png",
+      "slug": "Dedenne",
+      "id": "702"
+    }
+  ]
+}

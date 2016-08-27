@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Snubbull"
+  ],
+  "imgs": [
+    "209.png"
+  ],
+  "descs": [
+    "By baring its fangs and making a scary face, Snubbull sends\nsmaller Pokémon scurrying away in terror. However, this\nPokémon seems a little sad at making its foes flee.",
+    "By baring its fangs and making a scary face, Snubbull sends\nsmaller Pokémon scurrying away in terror. However, this\nPokémon seems a little sad at making its foes flee."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "17.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fairy",
+      "Abilities": [
+        "Run Away",
+        "Intimidate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "209.png",
+      "slug": "Snubbull",
+      "id": "209"
+    },
+    {
+      "img": "210.png",
+      "slug": "Granbull",
+      "id": "210"
+    }
+  ]
+}

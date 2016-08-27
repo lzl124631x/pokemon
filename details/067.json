@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Machoke"
+  ],
+  "imgs": [
+    "067.png"
+  ],
+  "descs": [
+    "Machoke undertakes bodybuilding every day even as\nit helps people with tough, physically demanding labor.\nOn its days off, this Pokémon heads to the fields and\nmountains to exercise and train.",
+    "Machoke's thoroughly toned muscles possess the hardness\nof steel. This Pokémon has so much strength, it can easily\nhold aloft a sumo wrestler on just one finger."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "155.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Superpower",
+      "Abilities": [
+        "Guts",
+        "No Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "066.png",
+      "slug": "Machop",
+      "id": "066"
+    },
+    {
+      "img": "067.png",
+      "slug": "Machoke",
+      "id": "067"
+    },
+    {
+      "img": "068.png",
+      "slug": "Machamp",
+      "id": "068"
+    }
+  ]
+}

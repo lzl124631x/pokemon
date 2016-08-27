@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Palkia"
+  ],
+  "imgs": [
+    "484.png"
+  ],
+  "descs": [
+    "It has the ability to distort space. It is described as\na deity in Sinnoh-region mythology.",
+    "It is said to live in a gap in the spatial dimension\nparallel to ours. It appears in mythology."
+  ],
+  "abilities": [
+    {
+      "Height": "13' 09\"",
+      "Weight": "740.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Spatial",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dragon",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "484.png",
+      "slug": "Palkia",
+      "id": "484"
+    }
+  ]
+}

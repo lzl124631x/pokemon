@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Horsea"
+  ],
+  "imgs": [
+    "116.png"
+  ],
+  "descs": [
+    "If Horsea senses danger, it will reflexively spray a dense\nblack ink from its mouth and try to escape. This Pokémon\nswims by cleverly flapping the fin on its back.",
+    "Horsea eats small insects and moss off of rocks. If the ocean\ncurrent turns fast, this Pokémon anchors itself by wrapping its\ntail around rocks or coral to prevent being washed away."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "17.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Dragon",
+      "Abilities": [
+        "Swift Swim",
+        "Sniper"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "116.png",
+      "slug": "Horsea",
+      "id": "116"
+    },
+    {
+      "img": "117.png",
+      "slug": "Seadra",
+      "id": "117"
+    },
+    {
+      "img": "230.png",
+      "slug": "Kingdra",
+      "id": "230"
+    }
+  ]
+}

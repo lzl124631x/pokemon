@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Victreebel"
+  ],
+  "imgs": [
+    "071.png"
+  ],
+  "descs": [
+    "Victreebel has a long vine that extends from its head.\nThis vine is waved and flicked about as if it were an animal\nto attract prey. When an unsuspecting prey draws near,\nthis Pokémon swallows it whole.",
+    "Victreebel has a long vine that extends from its head.\nThis vine is waved and flicked about as if it were an animal to\nattract prey. When an unsuspecting prey draws near, this\nPokémon swallows it whole."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "34.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Flycatcher",
+      "Abilities": [
+        "Chlorophyll"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "069.png",
+      "slug": "Bellsprout",
+      "id": "069"
+    },
+    {
+      "img": "070.png",
+      "slug": "Weepinbell",
+      "id": "070"
+    },
+    {
+      "img": "071.png",
+      "slug": "Victreebel",
+      "id": "071"
+    }
+  ]
+}

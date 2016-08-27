@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Dragonair"
+  ],
+  "imgs": [
+    "148.png"
+  ],
+  "descs": [
+    "Dragonair stores an enormous amount of energy inside\nits body. It is said to alter weather conditions in its vicinity\nby discharging energy from the crystals on its neck and tail.",
+    "Dragonair stores an enormous amount of energy inside its\nbody. It is said to alter weather conditions in its vicinity by\ndischarging energy from the crystals on its neck and tail."
+  ],
+  "abilities": [
+    {
+      "Height": "13' 01\"",
+      "Weight": "36.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Dragon",
+      "Abilities": [
+        "Shed Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dragon",
+          "Ice",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "147.png",
+      "slug": "Dratini",
+      "id": "147"
+    },
+    {
+      "img": "148.png",
+      "slug": "Dragonair",
+      "id": "148"
+    },
+    {
+      "img": "149.png",
+      "slug": "Dragonite",
+      "id": "149"
+    }
+  ]
+}

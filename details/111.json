@@ -1,0 +1,64 @@
+{
+  "forms": [
+    "Rhyhorn"
+  ],
+  "imgs": [
+    "111.png"
+  ],
+  "descs": [
+    "Rhyhorn's brain is very small. It is so dense, while on a run\nit forgets why it started running in the first place. It apparently\nremembers sometimes if it demolishes something.",
+    "Rhyhorn runs in a straight line, smashing everything in its path.\nIt is not bothered even if it rushes headlong into a block of\nsteel. This Pokémon may feel some pain from the collision the\nnext day, however."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "253.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Spikes",
+      "Abilities": [
+        "Rock Head",
+        "Lightning Rod"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Water",
+          "Fighting",
+          "Ground",
+          "Ice",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "111.png",
+      "slug": "Rhyhorn",
+      "id": "111"
+    },
+    {
+      "img": "112.png",
+      "slug": "Rhydon",
+      "id": "112"
+    },
+    {
+      "img": "464.png",
+      "slug": "Rhyperior",
+      "id": "464"
+    }
+  ]
+}

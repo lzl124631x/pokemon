@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Cloyster"
+  ],
+  "imgs": [
+    "091.png"
+  ],
+  "descs": [
+    "Cloyster is capable of swimming in the sea. It does so by\nswallowing water, then jetting it out toward the rear. This\nPokémon shoots spikes from its shell using the same system.",
+    "Cloyster is capable of swimming in the sea. It does so by\nswallowing water, then jetting it out toward the rear.\nThis Pokémon shoots spikes from its shell using the\nsame system."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "292.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bivalve",
+      "Abilities": [
+        "Shell Armor",
+        "Skill Link"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Fighting",
+          "Grass",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "090.png",
+      "slug": "Shellder",
+      "id": "090"
+    },
+    {
+      "img": "091.png",
+      "slug": "Cloyster",
+      "id": "091"
+    }
+  ]
+}

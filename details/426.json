@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Drifblim"
+  ],
+  "imgs": [
+    "426.png"
+  ],
+  "descs": [
+    "It's drowsy in daytime, but flies off in the evening in\nbig groups. No one knows where they go.",
+    "It carries people and Pokémon when it flies.\nBut since it only drifts, it can end up anywhere."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "33.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Blimp",
+      "Abilities": [
+        "Aftermath",
+        "Unburden"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Electric",
+          "Ghost",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "425.png",
+      "slug": "Drifloon",
+      "id": "425"
+    },
+    {
+      "img": "426.png",
+      "slug": "Drifblim",
+      "id": "426"
+    }
+  ]
+}

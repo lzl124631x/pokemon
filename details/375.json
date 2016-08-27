@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Metang"
+  ],
+  "imgs": [
+    "375.png"
+  ],
+  "descs": [
+    "When two Beldum fuse together, Metang is formed.\nThe brains of the Beldum are joined by a magnetic\nnervous system. This Pokémon turns its arms to the\nrear for traveling at high speed.",
+    "When two Beldum fuse together, Metang is formed. The brains\nof the Beldum are joined by a magnetic nervous system.\nBy linking its brains magnetically, this Pokémon generates\nstrong psychokinetic power."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "446.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Iron Claw",
+      "Abilities": [
+        "Clear Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ground",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "374.png",
+      "slug": "Beldum",
+      "id": "374"
+    },
+    {
+      "img": "375.png",
+      "slug": "Metang",
+      "id": "375"
+    },
+    {
+      "img": "376.png",
+      "slug": "Metagross",
+      "id": "376"
+    }
+  ]
+}

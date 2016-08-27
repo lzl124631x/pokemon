@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Cubchoo"
+  ],
+  "imgs": [
+    "613.png"
+  ],
+  "descs": [
+    "Their snot is a barometer of health. When healthy,\ntheir snot is sticky and the power of their ice\nmoves increases.",
+    "Its nose is always running. It sniffs the snot back up\nbecause the mucus provides the raw material for\nits moves."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "18.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Chill",
+      "Abilities": [
+        "Snow Cloak"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "613.png",
+      "slug": "Cubchoo",
+      "id": "613"
+    },
+    {
+      "img": "614.png",
+      "slug": "Beartic",
+      "id": "614"
+    }
+  ]
+}

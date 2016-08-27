@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Kingdra"
+  ],
+  "imgs": [
+    "230.png"
+  ],
+  "descs": [
+    "Kingdra sleeps on the seafloor where it is otherwise devoid\nof life. When a storm arrives, the Pokémon is said to awaken\nand wander about in search of prey.",
+    "Kingdra lives at extreme ocean depths that are otherwise\nuninhabited. It has long been believed that the yawning of this\nPokémon creates spiraling ocean currents."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "335.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Dragon",
+      "Abilities": [
+        "Swift Swim",
+        "Sniper"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dragon",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "116.png",
+      "slug": "Horsea",
+      "id": "116"
+    },
+    {
+      "img": "117.png",
+      "slug": "Seadra",
+      "id": "117"
+    },
+    {
+      "img": "230.png",
+      "slug": "Kingdra",
+      "id": "230"
+    }
+  ]
+}

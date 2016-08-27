@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Tynamo"
+  ],
+  "imgs": [
+    "602.png"
+  ],
+  "descs": [
+    "One alone can emit only a trickle of electricity,\nso a group of them gathers to unleash a powerful\nelectric shock.",
+    "While one alone doesn't have much power, a chain\nof many Tynamo can be as powerful as lightning."
+  ],
+  "abilities": [
+    {
+      "Height": "0' 08\"",
+      "Weight": "0.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "EleFish",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "None"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "602.png",
+      "slug": "Tynamo",
+      "id": "602"
+    },
+    {
+      "img": "603.png",
+      "slug": "Eelektrik",
+      "id": "603"
+    },
+    {
+      "img": "604.png",
+      "slug": "Eelektross",
+      "id": "604"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Mew"
+  ],
+  "imgs": [
+    "151.png"
+  ],
+  "descs": [
+    "Mew is said to possess the genetic composition of all\nPokémon. It is capable of making itself invisible at will,\nso it entirely avoids notice even if it approaches people.",
+    "Mew is said to possess the genetic composition of all\nPokémon. It is capable of making itself invisible at will,\nso it entirely avoids notice even if it approaches people."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "8.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "New Species",
+      "Abilities": [
+        "Synchronize"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "151.png",
+      "slug": "Mew",
+      "id": "151"
+    }
+  ]
+}

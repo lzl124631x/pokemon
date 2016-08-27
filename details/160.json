@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Feraligatr"
+  ],
+  "imgs": [
+    "160.png"
+  ],
+  "descs": [
+    "Feraligatr intimidates its foes by opening its huge mouth.\nIn battle, it will kick the ground hard with its thick and powerful\nhind legs to charge at the foe at an incredible speed.",
+    "Feraligatr intimidates its foes by opening its huge mouth.\nIn battle, it will kick the ground hard with its thick and powerful\nhind legs to charge at the foe at an incredible speed."
+  ],
+  "abilities": [
+    {
+      "Height": "7' 07\"",
+      "Weight": "195.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Big Jaw",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "158.png",
+      "slug": "Totodile",
+      "id": "158"
+    },
+    {
+      "img": "159.png",
+      "slug": "Croconaw",
+      "id": "159"
+    },
+    {
+      "img": "160.png",
+      "slug": "Feraligatr",
+      "id": "160"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Munna"
+  ],
+  "imgs": [
+    "517.png"
+  ],
+  "descs": [
+    "It eats the dreams of people and Pokémon. When it\neats a pleasant dream, it expels pink-colored mist.",
+    "This Pokémon appears before people and Pokémon\nwho are having nightmares and eats those dreams."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "51.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Dream Eater",
+      "Abilities": [
+        "Synchronize",
+        "Forewarn"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "517.png",
+      "slug": "Munna",
+      "id": "517"
+    },
+    {
+      "img": "518.png",
+      "slug": "Musharna",
+      "id": "518"
+    }
+  ]
+}

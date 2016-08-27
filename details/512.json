@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Simisage"
+  ],
+  "imgs": [
+    "512.png"
+  ],
+  "descs": [
+    "Ill tempered, it fights by swinging its barbed tail\naround wildly. The leaf growing on its head is\nvery bitter.",
+    "It attacks enemies with strikes of its thorn-covered\ntail. This Pokémon is wild tempered."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "67.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Thorn Monkey",
+      "Abilities": [
+        "Gluttony"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ice",
+          "Poison",
+          "Flying",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "511.png",
+      "slug": "Pansage",
+      "id": "511"
+    },
+    {
+      "img": "512.png",
+      "slug": "Simisage",
+      "id": "512"
+    }
+  ]
+}

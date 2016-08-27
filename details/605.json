@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Elgyem"
+  ],
+  "imgs": [
+    "605.png"
+  ],
+  "descs": [
+    "Rumors of its origin are linked to a UFO crash site\nin the desert 50 years ago.",
+    "It uses its strong psychic power to squeeze its\nopponent's brain, causing unendurable headaches."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "19.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cerebral",
+      "Abilities": [
+        "Synchronize",
+        "Telepathy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "605.png",
+      "slug": "Elgyem",
+      "id": "605"
+    },
+    {
+      "img": "606.png",
+      "slug": "Beheeyem",
+      "id": "606"
+    }
+  ]
+}

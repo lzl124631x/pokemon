@@ -1,0 +1,93 @@
+{
+  "forms": [
+    "Leafeon"
+  ],
+  "imgs": [
+    "470.png"
+  ],
+  "descs": [
+    "Just like a plant, it uses photosynthesis. As a result,\nit is always enveloped in clear air.",
+    "When you see Leafeon asleep in a patch of\nsunshine, you'll know it is using photosynthesis\nto produce clean air."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "56.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Verdant",
+      "Abilities": [
+        "Leaf Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "133.png",
+      "slug": "Eevee",
+      "id": "133"
+    },
+    [
+      {
+        "img": "134.png",
+        "slug": "Vaporeon",
+        "id": "134"
+      },
+      {
+        "img": "135.png",
+        "slug": "Jolteon",
+        "id": "135"
+      },
+      {
+        "img": "136.png",
+        "slug": "Flareon",
+        "id": "136"
+      },
+      {
+        "img": "197.png",
+        "slug": "Umbreon",
+        "id": "197"
+      },
+      {
+        "img": "471.png",
+        "slug": "Glaceon",
+        "id": "471"
+      },
+      {
+        "img": "470.png",
+        "slug": "Leafeon",
+        "id": "470"
+      },
+      {
+        "img": "196.png",
+        "slug": "Espeon",
+        "id": "196"
+      },
+      {
+        "img": "700.png",
+        "slug": "Sylveon",
+        "id": "700"
+      }
+    ]
+  ]
+}

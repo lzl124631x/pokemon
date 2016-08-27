@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Aron"
+  ],
+  "imgs": [
+    "304.png"
+  ],
+  "descs": [
+    "Aron has a body of steel. With one all-out charge, this\nPokémon can demolish even a heavy dump truck.\nThe destroyed dump truck then becomes a handy meal\nfor the Pokémon.",
+    "This Pokémon has a body of steel. To make its body, Aron\nfeeds on iron ore that it digs from mountains. Occasionally,\nit causes major trouble by eating bridges and rails."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "132.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Iron Armor",
+      "Abilities": [
+        "Rock Head",
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Ground",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "304.png",
+      "slug": "Aron",
+      "id": "304"
+    },
+    {
+      "img": "305.png",
+      "slug": "Lairon",
+      "id": "305"
+    },
+    {
+      "img": "306.png",
+      "slug": "Aggron",
+      "id": "306"
+    }
+  ]
+}

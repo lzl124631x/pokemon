@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Pancham"
+  ],
+  "imgs": [
+    "674.png"
+  ],
+  "descs": [
+    "It does its level best to glare and pull a scary face,\nbut it can't help grinning if anyone pats its head.",
+    "It does its best to be taken seriously by its enemies,\nbut its glare is not sufficiently intimidating.\nChewing on a leaf is its trademark."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "17.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Playful",
+      "Abilities": [
+        "Iron Fist",
+        "Mold Breaker"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Psychic",
+          "Flying",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "674.png",
+      "slug": "Pancham",
+      "id": "674"
+    },
+    {
+      "img": "675.png",
+      "slug": "Pangoro",
+      "id": "675"
+    }
+  ]
+}

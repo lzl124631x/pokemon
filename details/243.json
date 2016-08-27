@@ -1,0 +1,46 @@
+{
+  "forms": [
+    "Raikou"
+  ],
+  "imgs": [
+    "243.png"
+  ],
+  "descs": [
+    "Raikou embodies the speed of lightning. The roars of\nthis Pokémon send shock waves shuddering through the\nair and shake the ground as if lightning bolts had come\ncrashing down.",
+    "Raikou embodies the speed of lightning. The roars of this\nPokémon send shock waves shuddering through the air\nand shake the ground as if lightning bolts had come\ncrashing down."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 03\"",
+      "Weight": "392.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Thunder",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "243.png",
+      "slug": "Raikou",
+      "id": "243"
+    }
+  ]
+}

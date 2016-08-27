@@ -1,0 +1,80 @@
+{
+  "forms": [
+    "Land Forme",
+    "Sky Forme"
+  ],
+  "imgs": [
+    "492.png",
+    "492_f2.png"
+  ],
+  "descs": [
+    "The blooming of Gracidea flowers confers the\npower of flight upon it. Feelings of gratitude are\nthe message it delivers.",
+    "It can dissolve toxins in the air to instantly\ntransform ruined land into a lush field of flowers."
+  ],
+  "abilities": [
+    {
+      "Height": "0' 08\"",
+      "Weight": "4.6 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Gratitude",
+      "Abilities": [
+        "Natural Cure"
+      ]
+    },
+    {
+      "Height": "1' 04\"",
+      "Weight": "11.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Gratitude",
+      "Abilities": [
+        "Serene Grace"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Grass",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "492.png",
+      "slug": "Shaymin",
+      "id": "492"
+    }
+  ]
+}

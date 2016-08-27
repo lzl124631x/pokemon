@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Alomomola"
+  ],
+  "imgs": [
+    "594.png"
+  ],
+  "descs": [
+    "It gently holds injured and weak Pokémon in its\nfins. Its special membrane heals their wounds.",
+    "Floating in the open sea is how they live.\nWhen they find a wounded Pokémon,\nthey embrace it and bring it to shore."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "69.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Caring",
+      "Abilities": [
+        "Hydration",
+        "Healer"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "594.png",
+      "slug": "Alomomola",
+      "id": "594"
+    }
+  ]
+}

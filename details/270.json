@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Lotad"
+  ],
+  "imgs": [
+    "270.png"
+  ],
+  "descs": [
+    "Lotad is said to have dwelled on land before. However, this\nPokémon is thought to have returned to water because the\nleaf on its head grew large and heavy. It now lives by floating\natop the water.",
+    "Lotad live in ponds and lakes, where they float on the surface.\nIt grows weak if its broad leaf dies. On rare occasions, this\nPokémon travels on land in search of clean water."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "5.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Water Weed",
+      "Abilities": [
+        "Swift Swim",
+        "Rain Dish"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Flying",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "270.png",
+      "slug": "Lotad",
+      "id": "270"
+    },
+    {
+      "img": "271.png",
+      "slug": "Lombre",
+      "id": "271"
+    },
+    {
+      "img": "272.png",
+      "slug": "Ludicolo",
+      "id": "272"
+    }
+  ]
+}

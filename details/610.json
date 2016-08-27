@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Axew"
+  ],
+  "imgs": [
+    "610.png"
+  ],
+  "descs": [
+    "They mark their territory by leaving gashes in trees\nwith their tusks. If a tusk breaks, a new one grows\nin quickly.",
+    "They use their tusks to crush the berries they eat.\nRepeated regrowth makes their tusks strong\nand sharp."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "39.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tusk",
+      "Abilities": [
+        "Rivalry",
+        "Mold Breaker"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Dragon",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "610.png",
+      "slug": "Axew",
+      "id": "610"
+    },
+    {
+      "img": "611.png",
+      "slug": "Fraxure",
+      "id": "611"
+    },
+    {
+      "img": "612.png",
+      "slug": "Haxorus",
+      "id": "612"
+    }
+  ]
+}

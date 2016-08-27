@@ -1,0 +1,75 @@
+{
+  "forms": [
+    "Incarnate Forme",
+    "Therian Forme"
+  ],
+  "imgs": [
+    "641.png",
+    "641_f2.png"
+  ],
+  "descs": [
+    "Tornadus expels massive energy from its tail,\ncausing severe storms. Its power is great enough\nto blow houses away.",
+    "The lower half of its body is wrapped in a cloud of\nenergy. It zooms through the sky at 200 mph."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "138.9 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Cyclone",
+      "Abilities": [
+        "Prankster"
+      ]
+    },
+    {
+      "Height": "4' 07\"",
+      "Weight": "138.9 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Cyclone",
+      "Abilities": [
+        "Regenerator"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "641.png",
+      "slug": "Tornadus",
+      "id": "641"
+    }
+  ]
+}

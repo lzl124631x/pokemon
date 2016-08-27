@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Shinx"
+  ],
+  "imgs": [
+    "403.png"
+  ],
+  "descs": [
+    "All of its fur dazzles if danger is sensed. It flees\nwhile the foe is momentarily blinded.",
+    "The extension and contraction of its muscles\ngenerates electricity. It glows when in trouble."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "20.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Flash",
+      "Abilities": [
+        "Intimidate",
+        "Rivalry"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "403.png",
+      "slug": "Shinx",
+      "id": "403"
+    },
+    {
+      "img": "404.png",
+      "slug": "Luxio",
+      "id": "404"
+    },
+    {
+      "img": "405.png",
+      "slug": "Luxray",
+      "id": "405"
+    }
+  ]
+}

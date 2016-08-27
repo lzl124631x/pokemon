@@ -1,0 +1,89 @@
+{
+  "forms": [
+    "Pidgeot",
+    "Mega Pidgeot"
+  ],
+  "imgs": [
+    "018.png",
+    "018_f2.png"
+  ],
+  "descs": [
+    "This Pokémon has a dazzling plumage of beautifully\nglossy feathers. Many Trainers are captivated by the\nstriking beauty of the feathers on its head, compelling\nthem to choose Pidgeot as their Pokémon.",
+    "This Pokémon has a dazzling plumage of beautifully\nglossy feathers. Many Trainers are captivated by the\nstriking beauty of the feathers on its head, compelling\nthem to choose Pidgeot as their Pokémon."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "87.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bird",
+      "Abilities": [
+        "Keen Eye",
+        "Tangled Feet"
+      ]
+    },
+    {
+      "Height": "7' 03\"",
+      "Weight": "111.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Bird",
+      "Abilities": [
+        "No Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Electric",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "016.png",
+      "slug": "Pidgey",
+      "id": "016"
+    },
+    {
+      "img": "017.png",
+      "slug": "Pidgeotto",
+      "id": "017"
+    },
+    {
+      "img": "018.png",
+      "slug": "Pidgeot",
+      "id": "018"
+    }
+  ]
+}

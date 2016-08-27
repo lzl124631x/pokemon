@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Whimsicott"
+  ],
+  "imgs": [
+    "547.png"
+  ],
+  "descs": [
+    "Like the wind, it can slip through any gap,\nno matter how small. It leaves balls of white\nfluff behind.",
+    "They appear along with whirlwinds. They pull\npranks, such as moving furniture and leaving balls\nof cotton in homes."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "14.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Windveiled",
+      "Abilities": [
+        "Prankster",
+        "Infiltrator"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ice",
+          "Poison",
+          "Flying",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "546.png",
+      "slug": "Cottonee",
+      "id": "546"
+    },
+    {
+      "img": "547.png",
+      "slug": "Whimsicott",
+      "id": "547"
+    }
+  ]
+}

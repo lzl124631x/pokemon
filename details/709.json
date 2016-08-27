@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Trevenant"
+  ],
+  "imgs": [
+    "709.png"
+  ],
+  "descs": [
+    "Using its roots as a nervous system,\nit controls the trees in the forest.\nIt's kind to the Pokémon that reside in its body.",
+    "It can control trees at will. It will trap people\nwho harm the forest, so they can never leave."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "156.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Elder Tree",
+      "Abilities": [
+        "Natural Cure",
+        "Frisk"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Fire",
+          "Flying",
+          "Dark",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "708.png",
+      "slug": "Phantump",
+      "id": "708"
+    },
+    {
+      "img": "709.png",
+      "slug": "Trevenant",
+      "id": "709"
+    }
+  ]
+}

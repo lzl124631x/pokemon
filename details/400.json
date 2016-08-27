@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Bibarel"
+  ],
+  "imgs": [
+    "400.png"
+  ],
+  "descs": [
+    "It makes its nest by damming streams with bark and\nmud. It is known as an industrious worker.",
+    "It busily makes its nest with stacks of branches and\nroots it has cut up with its sharp incisors."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "69.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Beaver",
+      "Abilities": [
+        "Simple",
+        "Unaware"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Fighting",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "399.png",
+      "slug": "Bidoof",
+      "id": "399"
+    },
+    {
+      "img": "400.png",
+      "slug": "Bibarel",
+      "id": "400"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "forms": [
+    "Venusaur",
+    "Mega Venusaur"
+  ],
+  "imgs": [
+    "003.png",
+    "003_f2.png"
+  ],
+  "descs": [
+    "There is a large flower on Venusaur's back. The flower is said\nto take on vivid colors if it gets plenty of nutrition and sunlight.\nThe flower's aroma soothes the emotions of people.",
+    "There is a large flower on Venusaur's back. The flower is said\nto take on vivid colors if it gets plenty of nutrition and sunlight.\nThe flower's aroma soothes the emotions of people."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "220.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Seed",
+      "Abilities": [
+        "Overgrow"
+      ]
+    },
+    {
+      "Height": "7' 10\"",
+      "Weight": "342.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Seed",
+      "Abilities": [
+        "Thick Fat"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Psychic",
+          "Flying",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "001.png",
+      "slug": "Bulbasaur",
+      "id": "001"
+    },
+    {
+      "img": "002.png",
+      "slug": "Ivysaur",
+      "id": "002"
+    },
+    {
+      "img": "003.png",
+      "slug": "Venusaur",
+      "id": "003"
+    }
+  ]
+}

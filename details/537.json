@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Seismitoad"
+  ],
+  "imgs": [
+    "537.png"
+  ],
+  "descs": [
+    "They shoot paralyzing liquid from their head bumps.\nThey use vibration to hurt their opponents.",
+    "It increases the power of its punches by vibrating\nthe bumps on its fists. It can turn a boulder to\nrubble with one punch."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "136.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Vibration",
+      "Abilities": [
+        "Swift Swim",
+        "Poison Touch"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "535.png",
+      "slug": "Tympole",
+      "id": "535"
+    },
+    {
+      "img": "536.png",
+      "slug": "Palpitoad",
+      "id": "536"
+    },
+    {
+      "img": "537.png",
+      "slug": "Seismitoad",
+      "id": "537"
+    }
+  ]
+}

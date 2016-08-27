@@ -1,0 +1,64 @@
+{
+  "forms": [
+    "Krokorok"
+  ],
+  "imgs": [
+    "552.png"
+  ],
+  "descs": [
+    "The special membrane covering its eyes can sense\nthe heat of objects, so it can see its surroundings\neven in darkness.",
+    "They live in groups of a few individuals. Protective\nmembranes shield their eyes from sandstorms."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "73.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Desert Croc",
+      "Abilities": [
+        "Intimidate",
+        "Moxie"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Grass",
+          "Ice",
+          "Fighting",
+          "Bug",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "551.png",
+      "slug": "Sandile",
+      "id": "551"
+    },
+    {
+      "img": "552.png",
+      "slug": "Krokorok",
+      "id": "552"
+    },
+    {
+      "img": "553.png",
+      "slug": "Krookodile",
+      "id": "553"
+    }
+  ]
+}

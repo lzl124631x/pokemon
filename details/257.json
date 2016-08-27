@@ -1,0 +1,90 @@
+{
+  "forms": [
+    "Blaziken",
+    "Mega Blaziken"
+  ],
+  "imgs": [
+    "257.png",
+    "257_f2.png"
+  ],
+  "descs": [
+    "Blaziken has incredibly strong legs—it can easily clear a\n30-story building in one leap. This Pokémon's blazing punches\nleave its foes scorched and blackened.",
+    "In battle, Blaziken blows out intense flames from its wrists and\nattacks foes courageously. The stronger the foe, the more\nintensely this Pokémon's wrists burn."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 03\"",
+      "Weight": "114.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Blaze",
+      "Abilities": [
+        "Blaze"
+      ]
+    },
+    {
+      "Height": "6' 03\"",
+      "Weight": "114.6 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Blaze",
+      "Abilities": [
+        "Speed Boost"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Ground",
+          "Psychic",
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Fire",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Psychic",
+          "Flying",
+          "Water",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "255.png",
+      "slug": "Torchic",
+      "id": "255"
+    },
+    {
+      "img": "256.png",
+      "slug": "Combusken",
+      "id": "256"
+    },
+    {
+      "img": "257.png",
+      "slug": "Blaziken",
+      "id": "257"
+    }
+  ]
+}

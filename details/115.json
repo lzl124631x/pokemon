@@ -1,0 +1,72 @@
+{
+  "forms": [
+    "Kangaskhan",
+    "Mega Kangaskhan"
+  ],
+  "imgs": [
+    "115.png",
+    "115_f2.png"
+  ],
+  "descs": [
+    "If you come across a young Kangaskhan playing by itself,\nyou must never disturb it or attempt to catch it. The baby\nPokémon's parent is sure to be in the area, and it will\nbecome violently enraged at you.",
+    "If you come across a young Kangaskhan playing by itself, you\nmust never disturb it or attempt to catch it. The baby\nPokémon's parent is sure to be in the area, and it will become\nviolently enraged at you."
+  ],
+  "abilities": [
+    {
+      "Height": "7' 03\"",
+      "Weight": "176.4 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Parent",
+      "Abilities": [
+        "Early Bird",
+        "Scrappy"
+      ]
+    },
+    {
+      "Height": "7' 03\"",
+      "Weight": "220.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Parent",
+      "Abilities": [
+        "Parental Bond"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "115.png",
+      "slug": "Kangaskhan",
+      "id": "115"
+    }
+  ]
+}

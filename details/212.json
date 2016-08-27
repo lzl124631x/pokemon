@@ -1,0 +1,80 @@
+{
+  "forms": [
+    "Scizor",
+    "Mega Scizor"
+  ],
+  "imgs": [
+    "212.png",
+    "212_f2.png"
+  ],
+  "descs": [
+    "Scizor has a body with the hardness of steel. It is not easily\nfazed by ordinary sorts of attacks. This Pokémon flaps its\nwings to regulate its body temperature.",
+    "Scizor has a body with the hardness of steel. It is not easily\nfazed by ordinary sorts of attacks. This Pokémon flaps its\nwings to regulate its body temperature."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "260.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Pincer",
+      "Abilities": [
+        "Swarm",
+        "Technician"
+      ]
+    },
+    {
+      "Height": "6' 07\"",
+      "Weight": "275.6 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Pincer",
+      "Abilities": [
+        "Technician"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Bug",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "123.png",
+      "slug": "Scyther",
+      "id": "123"
+    },
+    {
+      "img": "212.png",
+      "slug": "Scizor",
+      "id": "212"
+    }
+  ]
+}

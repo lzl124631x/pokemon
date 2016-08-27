@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Marowak"
+  ],
+  "imgs": [
+    "105.png"
+  ],
+  "descs": [
+    "Marowak is the evolved form of a Cubone that has overcome\nits sadness at the loss of its mother and grown tough. This\nPokémon's tempered and hardened spirit is not easily broken.",
+    "Marowak is the evolved form of a Cubone that has overcome\nits sadness at the loss of its mother and grown tough.\nThis Pokémon's tempered and hardened spirit is not\neasily broken."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "99.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bone Keeper",
+      "Abilities": [
+        "Rock Head",
+        "Lightning Rod"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Ice",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "104.png",
+      "slug": "Cubone",
+      "id": "104"
+    },
+    {
+      "img": "105.png",
+      "slug": "Marowak",
+      "id": "105"
+    }
+  ]
+}

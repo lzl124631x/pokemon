@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Shuppet"
+  ],
+  "imgs": [
+    "353.png"
+  ],
+  "descs": [
+    "Shuppet grows by feeding on dark emotions, such as\nvengefulness and envy, in the hearts of people. It roams\nthrough cities in search of grudges that taint people.",
+    "Shuppet is attracted by feelings of jealousy and vindictiveness.\nIf someone develops strong feelings of vengeance, this\nPokémon will appear in a swarm and line up beneath the eaves\nof that person's home."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "5.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Puppet",
+      "Abilities": [
+        "Insomnia",
+        "Frisk"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "353.png",
+      "slug": "Shuppet",
+      "id": "353"
+    },
+    {
+      "img": "354.png",
+      "slug": "Banette",
+      "id": "354"
+    }
+  ]
+}

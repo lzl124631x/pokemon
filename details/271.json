@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Lombre"
+  ],
+  "imgs": [
+    "271.png"
+  ],
+  "descs": [
+    "Lombre's entire body is covered by a slippery, slimy film.\nIt feels horribly unpleasant to be touched by this Pokémon's\nhands. Lombre is often mistaken for a human child.",
+    "Lombre is nocturnal—it will get active after dusk.\nIt is also a mischief maker. When this Pokémon\nspots anglers, it tugs on their fishing lines from\nbeneath the surface and enjoys their consternation."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "71.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Jolly",
+      "Abilities": [
+        "Swift Swim",
+        "Rain Dish"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Flying",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "270.png",
+      "slug": "Lotad",
+      "id": "270"
+    },
+    {
+      "img": "271.png",
+      "slug": "Lombre",
+      "id": "271"
+    },
+    {
+      "img": "272.png",
+      "slug": "Ludicolo",
+      "id": "272"
+    }
+  ]
+}

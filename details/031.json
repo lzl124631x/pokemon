@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Nidoqueen"
+  ],
+  "imgs": [
+    "031.png"
+  ],
+  "descs": [
+    "Nidoqueen's body is encased in extremely hard scales.\nIt is adept at sending foes flying with harsh tackles. This\nPokémon is at its strongest when it is defending its young.",
+    "Nidoqueen's body is encased in extremely hard scales.\nIt is adept at sending foes flying with harsh tackles.\nThis Pokémon is at its strongest when it is defending its young."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "132.3 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Drill",
+      "Abilities": [
+        "Poison Point",
+        "Rivalry"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Ice",
+          "Psychic",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "029.png",
+      "slug": "Nidoran♀",
+      "id": "029"
+    },
+    {
+      "img": "030.png",
+      "slug": "Nidorina",
+      "id": "030"
+    },
+    {
+      "img": "031.png",
+      "slug": "Nidoqueen",
+      "id": "031"
+    }
+  ]
+}

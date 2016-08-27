@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Probopass"
+  ],
+  "imgs": [
+    "476.png"
+  ],
+  "descs": [
+    "It freely controls three small units called Mini-Noses\nusing magnetic force.",
+    "It exudes strong magnetism from all over.\nIt controls three small units called Mini-Noses."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "749.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Compass",
+      "Abilities": [
+        "Sturdy",
+        "Magnet Pull"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Ground",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "299.png",
+      "slug": "Nosepass",
+      "id": "299"
+    },
+    {
+      "img": "476.png",
+      "slug": "Probopass",
+      "id": "476"
+    }
+  ]
+}

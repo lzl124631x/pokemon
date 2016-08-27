@@ -1,0 +1,50 @@
+{
+  "forms": [
+    "Carbink"
+  ],
+  "imgs": [
+    "703.png"
+  ],
+  "descs": [
+    "It has slept underground for hundreds of millions\nof years since its birth. It's occasionally found\nduring the excavation of caves.",
+    "Born from the temperatures and pressures\ndeep underground, it fires beams from the\nstone in its head."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "12.6 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Jewel",
+      "Abilities": [
+        "Clear Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Water",
+          "Grass",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "703.png",
+      "slug": "Carbink",
+      "id": "703"
+    }
+  ]
+}

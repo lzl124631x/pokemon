@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Scatterbug"
+  ],
+  "imgs": [
+    "664.png"
+  ],
+  "descs": [
+    "The powder that covers its body\nregulates its temperature, so it\ncan live in any region or climate.",
+    "When under attack from bird Pokémon,\nit spews a poisonous black powder\nthat causes paralysis on contact."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "5.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Scatterdust",
+      "Abilities": [
+        "Shield Dust",
+        "Compound Eyes"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "664.png",
+      "slug": "Scatterbug",
+      "id": "664"
+    },
+    {
+      "img": "665.png",
+      "slug": "Spewpa",
+      "id": "665"
+    },
+    {
+      "img": "666.png",
+      "slug": "Vivillon",
+      "id": "666"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Emolga"
+  ],
+  "imgs": [
+    "587.png"
+  ],
+  "descs": [
+    "The energy made in its cheeks' electric pouches is\nstored inside its membrane and released while it\nis gliding.",
+    "They live on treetops and glide using the inside of\na cape-like membrane while discharging electricity."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "11.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sky Squirrel",
+      "Abilities": [
+        "Static"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "587.png",
+      "slug": "Emolga",
+      "id": "587"
+    }
+  ]
+}

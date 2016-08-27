@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Mime Jr."
+  ],
+  "imgs": [
+    "439.png"
+  ],
+  "descs": [
+    "It habitually mimics foes. Once mimicked, the foe\ncannot take its eyes off this Pokémon.",
+    "In an attempt to confuse its enemy, it mimics the\nenemy's movements. Then it wastes no time in\nmaking itself scarce!"
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "28.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mime",
+      "Abilities": [
+        "Soundproof",
+        "Filter"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "439.png",
+      "slug": "Mime Jr.",
+      "id": "439"
+    },
+    {
+      "img": "122.png",
+      "slug": "Mr. Mime",
+      "id": "122"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Porygon2"
+  ],
+  "imgs": [
+    "233.png"
+  ],
+  "descs": [
+    "Porygon2 was created by humans using the power of science.\nThe man-made Pokémon has been endowed with artificial\nintelligence that enables it to learn new gestures and emotions\non its own.",
+    "Porygon2 was created by humans using the power of science.\nThe man-made Pokémon has been endowed with artificial\nintelligence that enables it to learn new gestures and emotions\non its own."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "71.6 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Virtual",
+      "Abilities": [
+        "Trace",
+        "Download"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "137.png",
+      "slug": "Porygon",
+      "id": "137"
+    },
+    {
+      "img": "233.png",
+      "slug": "Porygon2",
+      "id": "233"
+    },
+    {
+      "img": "474.png",
+      "slug": "Porygon-Z",
+      "id": "474"
+    }
+  ]
+}

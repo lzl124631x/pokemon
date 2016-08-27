@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Azelf"
+  ],
+  "imgs": [
+    "482.png"
+  ],
+  "descs": [
+    "It is thought that Uxie, Mesprit, and Azelf all came\nfrom the same egg.",
+    "Known as “The Being of Willpower.” It sleeps at the\nbottom of a lake to keep the world in balance."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "0.7 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Willpower",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "482.png",
+      "slug": "Azelf",
+      "id": "482"
+    }
+  ]
+}

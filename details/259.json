@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Marshtomp"
+  ],
+  "imgs": [
+    "259.png"
+  ],
+  "descs": [
+    "Marshtomp is much faster at traveling through mud than it is at\nswimming. This Pokémon's hindquarters exhibit obvious\ndevelopment, giving it the ability to walk on just its hind legs.",
+    "The surface of Marshtomp's body is enveloped by a thin, sticky\nfilm that enables it to live on land. This Pokémon plays in mud\non beaches when the ocean tide is low."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "61.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mud Fish",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "258.png",
+      "slug": "Mudkip",
+      "id": "258"
+    },
+    {
+      "img": "259.png",
+      "slug": "Marshtomp",
+      "id": "259"
+    },
+    {
+      "img": "260.png",
+      "slug": "Swampert",
+      "id": "260"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Froakie"
+  ],
+  "imgs": [
+    "656.png"
+  ],
+  "descs": [
+    "It protects its skin by covering its body in\ndelicate bubbles. Beneath its happy-go-lucky air,\nit keeps a watchful eye on its surroundings.",
+    "It secretes flexible bubbles from its chest and back.\nThe bubbles reduce the damage it would otherwise\ntake when attacked."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "15.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bubble Frog",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "656.png",
+      "slug": "Froakie",
+      "id": "656"
+    },
+    {
+      "img": "657.png",
+      "slug": "Frogadier",
+      "id": "657"
+    },
+    {
+      "img": "658.png",
+      "slug": "Greninja",
+      "id": "658"
+    }
+  ]
+}

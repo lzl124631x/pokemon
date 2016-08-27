@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Heliolisk"
+  ],
+  "imgs": [
+    "695.png"
+  ],
+  "descs": [
+    "It stimulates its muscles with electricity,\nboosting the strength in its legs and enabling\nit to run 100 yards in five seconds.",
+    "They flare their frills and generate energy.\nA single Heliolisk can generate sufficient\nelectricity to power a skyscraper."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "46.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Generator",
+      "Abilities": [
+        "Sand Veil",
+        "Dry Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric",
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "694.png",
+      "slug": "Helioptile",
+      "id": "694"
+    },
+    {
+      "img": "695.png",
+      "slug": "Heliolisk",
+      "id": "695"
+    }
+  ]
+}

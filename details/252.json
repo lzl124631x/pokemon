@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Treecko"
+  ],
+  "imgs": [
+    "252.png"
+  ],
+  "descs": [
+    "Treecko is cool, calm, and collected—it never panics under\nany situation. If a bigger foe were to glare at this Pokémon,\nit would glare right back without conceding an inch of ground.",
+    "Treecko has small hooks on the bottom of its feet that enable\nit to scale vertical walls. This Pokémon attacks by slamming\nfoes with its thick tail."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "11.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Wood Gecko",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "252.png",
+      "slug": "Treecko",
+      "id": "252"
+    },
+    {
+      "img": "253.png",
+      "slug": "Grovyle",
+      "id": "253"
+    },
+    {
+      "img": "254.png",
+      "slug": "Sceptile",
+      "id": "254"
+    }
+  ]
+}

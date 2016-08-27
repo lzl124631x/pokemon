@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Larvesta"
+  ],
+  "imgs": [
+    "636.png"
+  ],
+  "descs": [
+    "The base of volcanoes is where they make their\nhomes. They shoot fire from their five horns to repel\nattacking enemies.",
+    "Said to have been born from the sun, it spews fire\nfrom its horns and encases itself in a cocoon of fire\nwhen it evolves."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "63.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Torch",
+      "Abilities": [
+        "Flame Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Water",
+          "Flying"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "636.png",
+      "slug": "Larvesta",
+      "id": "636"
+    },
+    {
+      "img": "637.png",
+      "slug": "Volcarona",
+      "id": "637"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Slugma"
+  ],
+  "imgs": [
+    "218.png"
+  ],
+  "descs": [
+    "Slugma does not have any blood in its body. Instead, intensely\nhot magma circulates throughout this Pokémon's body,\ncarrying essential nutrients and oxygen to its organs.",
+    "Molten magma courses throughout Slugma's circulatory\nsystem. If this Pokémon is chilled, the magma cools and\nhardens. Its body turns brittle and chunks fall off, reducing\nits size."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "77.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Lava",
+      "Abilities": [
+        "Flame Body",
+        "Magma Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "218.png",
+      "slug": "Slugma",
+      "id": "218"
+    },
+    {
+      "img": "219.png",
+      "slug": "Magcargo",
+      "id": "219"
+    }
+  ]
+}

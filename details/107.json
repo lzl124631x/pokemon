@@ -1,0 +1,66 @@
+{
+  "forms": [
+    "Hitmonchan"
+  ],
+  "imgs": [
+    "107.png"
+  ],
+  "descs": [
+    "Hitmonchan is said to possess the spirit of a boxer who had\nbeen working toward a world championship. This Pokémon\nhas an indomitable spirit and will never give up in the face\nof adversity.",
+    "Hitmonchan is said to possess the spirit of a boxer who had\nbeen working toward a world championship. This Pokémon has\nan indomitable spirit and will never give up in the face\nof adversity."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "110.7 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Punching",
+      "Abilities": [
+        "Keen Eye",
+        "Iron Fist"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "236.png",
+      "slug": "Tyrogue",
+      "id": "236"
+    },
+    [
+      {
+        "img": "106.png",
+        "slug": "Hitmonlee",
+        "id": "106"
+      },
+      {
+        "img": "107.png",
+        "slug": "Hitmonchan",
+        "id": "107"
+      },
+      {
+        "img": "237.png",
+        "slug": "Hitmontop",
+        "id": "237"
+      }
+    ]
+  ]
+}

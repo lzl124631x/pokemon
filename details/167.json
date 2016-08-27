@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Spinarak"
+  ],
+  "imgs": [
+    "167.png"
+  ],
+  "descs": [
+    "The web spun by Spinarak can be considered its second\nnervous system. It is said that this Pokémon can determine\nwhat kind of prey is touching its web just by the tiny vibrations\nit feels through the web's strands.",
+    "The web spun by Spinarak can be considered its second\nnervous system. It is said that this Pokémon can determine\nwhat kind of prey is touching its web just by the tiny vibrations\nit feels through the web's strands."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "18.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "String Spit",
+      "Abilities": [
+        "Swarm",
+        "Insomnia"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Psychic",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "167.png",
+      "slug": "Spinarak",
+      "id": "167"
+    },
+    {
+      "img": "168.png",
+      "slug": "Ariados",
+      "id": "168"
+    }
+  ]
+}

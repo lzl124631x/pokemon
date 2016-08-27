@@ -1,0 +1,64 @@
+{
+  "forms": [
+    "Rhyperior"
+  ],
+  "imgs": [
+    "464.png"
+  ],
+  "descs": [
+    "It puts rocks in holes in its palms and uses its\nmuscles to shoot them. Geodude are shot at\nrare times.",
+    "From holes in its palms, it fires out Geodude.\nIts carapace can withstand volcanic eruptions."
+  ],
+  "abilities": [
+    {
+      "Height": "7' 10\"",
+      "Weight": "623.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Drill",
+      "Abilities": [
+        "Lightning Rod",
+        "Solid Rock"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Water",
+          "Fighting",
+          "Ground",
+          "Ice",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "111.png",
+      "slug": "Rhyhorn",
+      "id": "111"
+    },
+    {
+      "img": "112.png",
+      "slug": "Rhydon",
+      "id": "112"
+    },
+    {
+      "img": "464.png",
+      "slug": "Rhyperior",
+      "id": "464"
+    }
+  ]
+}

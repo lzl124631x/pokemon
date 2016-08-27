@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Archeops"
+  ],
+  "imgs": [
+    "567.png"
+  ],
+  "descs": [
+    "Inhaling the gas they belch will make you sleep for\na week. They prefer unsanitary places.",
+    "They are intelligent and will cooperate to catch\nprey. From the ground, they use a running start to\ntake flight."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "70.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "First Bird",
+      "Abilities": [
+        "Defeatist"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Electric",
+          "Ice",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "566.png",
+      "slug": "Archen",
+      "id": "566"
+    },
+    {
+      "img": "567.png",
+      "slug": "Archeops",
+      "id": "567"
+    }
+  ]
+}

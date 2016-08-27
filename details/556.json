@@ -1,0 +1,52 @@
+{
+  "forms": [
+    "Maractus"
+  ],
+  "imgs": [
+    "556.png"
+  ],
+  "descs": [
+    "When it finds a stone of a suitable size, it secretes\na liquid from its mouth to open up a hole to\ncrawl into.",
+    "It uses an up-tempo song and dance to drive away\nthe bird Pokémon that prey on its flower seeds."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "61.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cactus",
+      "Abilities": [
+        "Chlorophyll",
+        "Water Absorb"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ice",
+          "Poison",
+          "Flying",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "556.png",
+      "slug": "Maractus",
+      "id": "556"
+    }
+  ]
+}

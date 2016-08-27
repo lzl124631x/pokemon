@@ -1,0 +1,125 @@
+{
+  "forms": [
+    "Natural Forme",
+    "Heart Trim",
+    "Star Trim",
+    "Diamond Trim"
+  ],
+  "imgs": [
+    "676.png",
+    "676_f2.png",
+    "676_f3.png",
+    "676_f4.png"
+  ],
+  "descs": [
+    "Historically, in the Kalos region, these Pokémon\nwere the designated guardians of the king.",
+    "Trimming its fluffy fur not only makes\nit more elegant but also increases the\nswiftness of its movements."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "61.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Poodle",
+      "Abilities": [
+        "Fur Coat"
+      ]
+    },
+    {
+      "Height": "3' 11\"",
+      "Weight": "61.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Poodle",
+      "Abilities": [
+        "Fur Coat"
+      ]
+    },
+    {
+      "Height": "3' 11\"",
+      "Weight": "61.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Poodle",
+      "Abilities": [
+        "Fur Coat"
+      ]
+    },
+    {
+      "Height": "3' 11\"",
+      "Weight": "61.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Poodle",
+      "Abilities": [
+        "Fur Coat"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "676.png",
+      "slug": "Furfrou",
+      "id": "676"
+    }
+  ]
+}

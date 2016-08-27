@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Darkrai"
+  ],
+  "imgs": [
+    "491.png"
+  ],
+  "descs": [
+    "It can lull people to sleep and make them dream.\nIt is active during nights of the new moon.",
+    "It chases people and Pokémon from its territory by\ncausing them to experience deep,\nnightmarish slumbers."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "111.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Pitch-Black",
+      "Abilities": [
+        "Bad Dreams"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Bug",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "491.png",
+      "slug": "Darkrai",
+      "id": "491"
+    }
+  ]
+}

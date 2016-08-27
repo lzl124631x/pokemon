@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Skuntank"
+  ],
+  "imgs": [
+    "435.png"
+  ],
+  "descs": [
+    "It sprays a stinky fluid from its tail. The fluid smells\nworse the longer it is allowed to fester.",
+    "It sprays a vile-smelling fluid from the tip of its tail\nto attack. Its range is over 160 feet."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "83.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Skunk",
+      "Abilities": [
+        "Stench",
+        "Aftermath"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "434.png",
+      "slug": "Stunky",
+      "id": "434"
+    },
+    {
+      "img": "435.png",
+      "slug": "Skuntank",
+      "id": "435"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Pichu"
+  ],
+  "imgs": [
+    "172.png"
+  ],
+  "descs": [
+    "When Pichu plays with others, it may short out electricity with\nanother Pichu, creating a shower of sparks. In that event, this\nPokémon will begin crying, startled by the flash of sparks.",
+    "Pichu charges itself with electricity more easily on days with\nthunderclouds or when the air is very dry. You can hear the\ncrackling of static electricity coming off this Pokémon."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "4.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tiny Mouse",
+      "Abilities": [
+        "Static"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "172.png",
+      "slug": "Pichu",
+      "id": "172"
+    },
+    {
+      "img": "025.png",
+      "slug": "Pikachu",
+      "id": "025"
+    },
+    {
+      "img": "026.png",
+      "slug": "Raichu",
+      "id": "026"
+    }
+  ]
+}

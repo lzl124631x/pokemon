@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Caterpie"
+  ],
+  "imgs": [
+    "010.png"
+  ],
+  "descs": [
+    "Caterpie has a voracious appetite. It can devour leaves\nbigger than its body right before your eyes. From its antenna,\nthis Pokémon releases a terrifically strong odor.",
+    "Caterpie has a voracious appetite. It can devour leaves bigger\nthan its body right before your eyes. From its antenna, this\nPokémon releases a terrifically strong odor."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "6.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Worm",
+      "Abilities": [
+        "Shield Dust"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "010.png",
+      "slug": "Caterpie",
+      "id": "010"
+    },
+    {
+      "img": "011.png",
+      "slug": "Metapod",
+      "id": "011"
+    },
+    {
+      "img": "012.png",
+      "slug": "Butterfree",
+      "id": "012"
+    }
+  ]
+}

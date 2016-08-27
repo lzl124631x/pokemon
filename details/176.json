@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Togetic"
+  ],
+  "imgs": [
+    "176.png"
+  ],
+  "descs": [
+    "Togetic is said to be a Pokémon that brings good fortune.\nWhen the Pokémon spots someone who is pure of heart,\nit is said to appear and share its happiness with that person.",
+    "Togetic is said to be a Pokémon that brings good fortune.\nWhen the Pokémon spots someone who is pure of heart, it is\nsaid to appear and share its happiness with that person."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "7.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Happiness",
+      "Abilities": [
+        "Serene Grace",
+        "Hustle"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fairy",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock",
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "175.png",
+      "slug": "Togepi",
+      "id": "175"
+    },
+    {
+      "img": "176.png",
+      "slug": "Togetic",
+      "id": "176"
+    },
+    {
+      "img": "468.png",
+      "slug": "Togekiss",
+      "id": "468"
+    }
+  ]
+}

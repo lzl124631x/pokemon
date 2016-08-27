@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Ledian"
+  ],
+  "imgs": [
+    "166.png"
+  ],
+  "descs": [
+    "It is said that in lands with clean air, where the stars fill the\nsky, there live Ledian in countless numbers. There is a good\nreason for this—the Pokémon uses the light of the stars as\nits energy.",
+    "It is said that in lands with clean air, where the stars fill the\nsky, there live Ledian in countless numbers. There is a good\nreason for this—the Pokémon uses the light of the stars as\nits energy."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "78.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Five Star",
+      "Abilities": [
+        "Swarm",
+        "Early Bird"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Fire",
+          "Flying",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "165.png",
+      "slug": "Ledyba",
+      "id": "165"
+    },
+    {
+      "img": "166.png",
+      "slug": "Ledian",
+      "id": "166"
+    }
+  ]
+}

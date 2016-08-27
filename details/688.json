@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Binacle"
+  ],
+  "imgs": [
+    "688.png"
+  ],
+  "descs": [
+    "They stretch and then contract, yanking their\nrocks along with them in bold hops. They eat\nseaweed that washes up on the shoreline.",
+    "Two Binacle live together on one rock.\nWhen they fight, one of them will move\nto a different rock."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "68.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Two-Handed",
+      "Abilities": [
+        "Sniper",
+        "Tough Claws"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Fighting",
+          "Grass",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "688.png",
+      "slug": "Binacle",
+      "id": "688"
+    },
+    {
+      "img": "689.png",
+      "slug": "Barbaracle",
+      "id": "689"
+    }
+  ]
+}

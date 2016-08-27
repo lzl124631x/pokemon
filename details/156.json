@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Quilava"
+  ],
+  "imgs": [
+    "156.png"
+  ],
+  "descs": [
+    "Quilava keeps its foes at bay with the intensity of its flames\nand gusts of superheated air. This Pokémon applies its\noutstanding nimbleness to dodge attacks even while scorching\nthe foe with flames.",
+    "Quilava keeps its foes at bay with the intensity of its flames and\ngusts of superheated air. This Pokémon applies its outstanding\nnimbleness to dodge attacks even while scorching the foe\nwith flames."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "41.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Volcano",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "155.png",
+      "slug": "Cyndaquil",
+      "id": "155"
+    },
+    {
+      "img": "156.png",
+      "slug": "Quilava",
+      "id": "156"
+    },
+    {
+      "img": "157.png",
+      "slug": "Typhlosion",
+      "id": "157"
+    }
+  ]
+}

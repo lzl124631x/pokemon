@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Flygon"
+  ],
+  "imgs": [
+    "330.png"
+  ],
+  "descs": [
+    "Flygon whips up a sandstorm by flapping its wings. The wings\ncreate a series of notes that sound like singing. Because the\n“singing\" is the only thing that can be heard in a sandstorm,\nthis Pokémon is said to be the desert spirit.",
+    "Flygon is nicknamed “the elemental spirit of the desert.\"\nBecause its flapping wings whip up a cloud of sand, this\nPokémon is always enveloped in a sandstorm while flying."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "180.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mystic",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Dragon",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "328.png",
+      "slug": "Trapinch",
+      "id": "328"
+    },
+    {
+      "img": "329.png",
+      "slug": "Vibrava",
+      "id": "329"
+    },
+    {
+      "img": "330.png",
+      "slug": "Flygon",
+      "id": "330"
+    }
+  ]
+}

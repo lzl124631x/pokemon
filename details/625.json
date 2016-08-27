@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Bisharp"
+  ],
+  "imgs": [
+    "625.png"
+  ],
+  "descs": [
+    "Bisharp pursues prey in the company of a large\ngroup of Pawniard. Then Bisharp finishes off\nthe prey.",
+    "This pitiless Pokémon commands a group of\nPawniard to hound prey into immobility. It then\nmoves in to finish the prey off."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "154.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sword Blade",
+      "Abilities": [
+        "Inner Focus",
+        "Defiant"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Fire",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "624.png",
+      "slug": "Pawniard",
+      "id": "624"
+    },
+    {
+      "img": "625.png",
+      "slug": "Bisharp",
+      "id": "625"
+    }
+  ]
+}

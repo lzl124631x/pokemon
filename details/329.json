@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Vibrava"
+  ],
+  "imgs": [
+    "329.png"
+  ],
+  "descs": [
+    "Vibrava's wings have not yet completed the process of\ngrowing. Rather than flying long distances, they are more\nuseful for generating ultrasonic waves by vibrating.",
+    "To make prey faint, Vibrava generates ultrasonic waves by\nvigorously making its two wings vibrate. This Pokémon's\nultrasonic waves are so powerful, they can bring on headaches\nin people."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "33.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Vibration",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Dragon",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "328.png",
+      "slug": "Trapinch",
+      "id": "328"
+    },
+    {
+      "img": "329.png",
+      "slug": "Vibrava",
+      "id": "329"
+    },
+    {
+      "img": "330.png",
+      "slug": "Flygon",
+      "id": "330"
+    }
+  ]
+}

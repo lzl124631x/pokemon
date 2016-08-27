@@ -1,0 +1,84 @@
+{
+  "forms": [
+    "Swampert",
+    "Mega Swampert"
+  ],
+  "imgs": [
+    "260.png",
+    "260_f2.png"
+  ],
+  "descs": [
+    "Swampert predicts storms by sensing subtle differences in the\nsounds of waves and tidal winds with its fins. If a storm is\napproaching, it piles up boulders to protect itself.",
+    "Swampert is very strong. It has enough power to easily drag a\nboulder weighing more than a ton. This Pokémon also has\npowerful vision that lets it see even in murky water."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "180.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mud Fish",
+      "Abilities": [
+        "Torrent"
+      ]
+    },
+    {
+      "Height": "6' 03\"",
+      "Weight": "224.9 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Mud Fish",
+      "Abilities": [
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Water",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "258.png",
+      "slug": "Mudkip",
+      "id": "258"
+    },
+    {
+      "img": "259.png",
+      "slug": "Marshtomp",
+      "id": "259"
+    },
+    {
+      "img": "260.png",
+      "slug": "Swampert",
+      "id": "260"
+    }
+  ]
+}

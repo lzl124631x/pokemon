@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Zapdos"
+  ],
+  "imgs": [
+    "145.png"
+  ],
+  "descs": [
+    "Zapdos is a legendary bird Pokémon that has the ability\nto control electricity. It usually lives in thunderclouds.\nThe Pokémon gains power if it is stricken by lightning bolts.",
+    "Zapdos is a legendary bird Pokémon that has the ability to\ncontrol electricity. It usually lives in thunderclouds.\nThe Pokémon gains power if it is stricken by lightning bolts."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "116.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Electric",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "145.png",
+      "slug": "Zapdos",
+      "id": "145"
+    }
+  ]
+}

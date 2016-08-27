@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Rapidash"
+  ],
+  "imgs": [
+    "078.png"
+  ],
+  "descs": [
+    "Rapidash usually can be seen casually cantering in the fields\nand plains. However, when this Pokémon turns serious, its\nfiery manes flare and blaze as it gallops its way up to 150 mph.",
+    "Rapidash usually can be seen casually cantering in the\nfields and plains. However, when this Pokémon turns serious,\nits fiery manes flare and blaze as it gallops its way up to\n150 mph."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "209.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fire Horse",
+      "Abilities": [
+        "Run Away",
+        "Flash Fire"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "077.png",
+      "slug": "Ponyta",
+      "id": "077"
+    },
+    {
+      "img": "078.png",
+      "slug": "Rapidash",
+      "id": "078"
+    }
+  ]
+}

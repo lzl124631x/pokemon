@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Onix"
+  ],
+  "imgs": [
+    "095.png"
+  ],
+  "descs": [
+    "Onix has a magnet in its brain. It acts as a compass so that\nthis Pokémon does not lose direction while it is tunneling.\nAs it grows older, its body becomes increasingly rounder\nand smoother.",
+    "Onix has a magnet in its brain. It acts as a compass so that this\nPokémon does not lose direction while it is tunneling.\nAs it grows older, its body becomes increasingly rounder\nand smoother."
+  ],
+  "abilities": [
+    {
+      "Height": "28' 10\"",
+      "Weight": "463.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Rock Snake",
+      "Abilities": [
+        "Rock Head",
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Water",
+          "Fighting",
+          "Ground",
+          "Ice",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "095.png",
+      "slug": "Onix",
+      "id": "095"
+    },
+    {
+      "img": "208.png",
+      "slug": "Steelix",
+      "id": "208"
+    }
+  ]
+}

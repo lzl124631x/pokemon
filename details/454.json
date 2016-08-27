@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Toxicroak"
+  ],
+  "imgs": [
+    "454.png"
+  ],
+  "descs": [
+    "Its knuckle claws secrete a toxin so vile that even a\nscratch could prove fatal.",
+    "It has a poison sac at its throat. When it croaks,\nthe stored poison is churned for greater potency."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "97.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Toxic Mouth",
+      "Abilities": [
+        "Dry Skin",
+        "Anticipation"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Psychic",
+          "Flying",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "453.png",
+      "slug": "Croagunk",
+      "id": "453"
+    },
+    {
+      "img": "454.png",
+      "slug": "Toxicroak",
+      "id": "454"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Panpour"
+  ],
+  "imgs": [
+    "515.png"
+  ],
+  "descs": [
+    "The water stored inside the tuft on its head is full of\nnutrients. Plants that receive its water grow large.",
+    "The water stored inside the tuft on its head is full\nof nutrients. It waters plants with it using its tail."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "29.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Spray",
+      "Abilities": [
+        "Gluttony"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "515.png",
+      "slug": "Panpour",
+      "id": "515"
+    },
+    {
+      "img": "516.png",
+      "slug": "Simipour",
+      "id": "516"
+    }
+  ]
+}

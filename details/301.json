@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Delcatty"
+  ],
+  "imgs": [
+    "301.png"
+  ],
+  "descs": [
+    "Delcatty sleeps anywhere it wants without keeping a permanent\nnest. If other Pokémon approach it as it sleeps, this Pokémon\nwill never fight—it will just move away somewhere else.",
+    "Delcatty prefers to live an unfettered existence in which it can\ndo as it pleases at its own pace. Because this Pokémon eats\nand sleeps whenever it decides, its daily routines are\ncompletely random."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "71.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Prim",
+      "Abilities": [
+        "Cute Charm",
+        "Normalize"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "300.png",
+      "slug": "Skitty",
+      "id": "300"
+    },
+    {
+      "img": "301.png",
+      "slug": "Delcatty",
+      "id": "301"
+    }
+  ]
+}

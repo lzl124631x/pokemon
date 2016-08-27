@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Gible"
+  ],
+  "imgs": [
+    "443.png"
+  ],
+  "descs": [
+    "It nests in small, horizontal holes in cave walls.\nIt pounces to catch prey that stray too close.",
+    "It nests in horizontal holes warmed by geothermal\nheat. Foes who get too close can expect to be\npounced on and bitten."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "45.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Land Shark",
+      "Abilities": [
+        "Sand Veil"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Dragon",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "443.png",
+      "slug": "Gible",
+      "id": "443"
+    },
+    {
+      "img": "444.png",
+      "slug": "Gabite",
+      "id": "444"
+    },
+    {
+      "img": "445.png",
+      "slug": "Garchomp",
+      "id": "445"
+    }
+  ]
+}

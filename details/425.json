@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Drifloon"
+  ],
+  "imgs": [
+    "425.png"
+  ],
+  "descs": [
+    "These Pokémon are called the “Signpost for\nWandering Spirits.” Children holding them\nsometimes vanish.",
+    "A Pokémon formed by the spirits of people and Pokémon.\nIt loves damp, humid seasons."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "2.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Balloon",
+      "Abilities": [
+        "Aftermath",
+        "Unburden"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Electric",
+          "Ghost",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "425.png",
+      "slug": "Drifloon",
+      "id": "425"
+    },
+    {
+      "img": "426.png",
+      "slug": "Drifblim",
+      "id": "426"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Tympole"
+  ],
+  "imgs": [
+    "535.png"
+  ],
+  "descs": [
+    "By vibrating its cheeks, it emits sound waves\nimperceptible to humans. It uses the rhythm of\nthese sounds to talk.",
+    "By vibrating its cheeks, it emits sound waves\nimperceptible to humans and warns others\nof danger."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "9.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tadpole",
+      "Abilities": [
+        "Hydration",
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "535.png",
+      "slug": "Tympole",
+      "id": "535"
+    },
+    {
+      "img": "536.png",
+      "slug": "Palpitoad",
+      "id": "536"
+    },
+    {
+      "img": "537.png",
+      "slug": "Seismitoad",
+      "id": "537"
+    }
+  ]
+}

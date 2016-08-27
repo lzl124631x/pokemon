@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Infernape"
+  ],
+  "imgs": [
+    "392.png"
+  ],
+  "descs": [
+    "It tosses its enemies around with agility. It uses all\nits limbs to fight in its own unique style.",
+    "Its crown of fire is indicative of its fiery nature.\nIt is beaten by none in terms of quickness."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "121.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Flame",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Ground",
+          "Psychic",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "390.png",
+      "slug": "Chimchar",
+      "id": "390"
+    },
+    {
+      "img": "391.png",
+      "slug": "Monferno",
+      "id": "391"
+    },
+    {
+      "img": "392.png",
+      "slug": "Infernape",
+      "id": "392"
+    }
+  ]
+}

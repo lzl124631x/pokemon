@@ -1,0 +1,51 @@
+{
+  "forms": [
+    "Farfetch'd"
+  ],
+  "imgs": [
+    "083.png"
+  ],
+  "descs": [
+    "Farfetch'd is always seen with a stalk from a plant of some\nsort. Apparently, there are good stalks and bad stalks. This\nPokémon has been known to fight with others over stalks.",
+    "Farfetch'd is always seen with a stalk from a plant of some\nsort. Apparently, there are good stalks and bad stalks. This\nPokémon has been known to fight with others over stalks."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "33.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Wild Duck",
+      "Abilities": [
+        "Keen Eye",
+        "Inner Focus"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "083.png",
+      "slug": "Farfetch'd",
+      "id": "083"
+    }
+  ]
+}

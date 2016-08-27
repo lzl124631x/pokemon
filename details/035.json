@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Clefairy"
+  ],
+  "imgs": [
+    "035.png"
+  ],
+  "descs": [
+    "On every night of a full moon, groups of this Pokémon\ncome out to play. When dawn arrives, the tired Clefairy\nreturn to their quiet mountain retreats and go to sleep\nnestled up against each other.",
+    "On every night of a full moon, groups of this Pokémon come\nout to play. When dawn arrives, the tired Clefairy return to their\nquiet mountain retreats and go to sleep nestled up against\neach other."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "16.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fairy",
+      "Abilities": [
+        "Cute Charm",
+        "Magic Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "173.png",
+      "slug": "Cleffa",
+      "id": "173"
+    },
+    {
+      "img": "035.png",
+      "slug": "Clefairy",
+      "id": "035"
+    },
+    {
+      "img": "036.png",
+      "slug": "Clefable",
+      "id": "036"
+    }
+  ]
+}

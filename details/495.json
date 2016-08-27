@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Snivy"
+  ],
+  "imgs": [
+    "495.png"
+  ],
+  "descs": [
+    "They photosynthesize by bathing their tails in\nsunlight. When they are not feeling well, their\ntails droop.",
+    "Being exposed to sunlight makes its movements\nswifter. It uses vines more adeptly than its hands."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "17.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Grass Snake",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ice",
+          "Poison",
+          "Flying",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "495.png",
+      "slug": "Snivy",
+      "id": "495"
+    },
+    {
+      "img": "496.png",
+      "slug": "Servine",
+      "id": "496"
+    },
+    {
+      "img": "497.png",
+      "slug": "Serperior",
+      "id": "497"
+    }
+  ]
+}

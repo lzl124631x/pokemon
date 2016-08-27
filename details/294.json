@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Loudred"
+  ],
+  "imgs": [
+    "294.png"
+  ],
+  "descs": [
+    "Loudred shouts while stamping its feet. After it finishes\nshouting, this Pokémon becomes incapable of hearing\nanything for a while. This is considered to be a weak point.",
+    "Loudred's bellowing can completely decimate a wood-frame\nhouse. It uses its voice to punish its foes. This Pokémon's\nround ears serve as loudspeakers."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "89.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Big Voice",
+      "Abilities": [
+        "Soundproof"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "293.png",
+      "slug": "Whismur",
+      "id": "293"
+    },
+    {
+      "img": "294.png",
+      "slug": "Loudred",
+      "id": "294"
+    },
+    {
+      "img": "295.png",
+      "slug": "Exploud",
+      "id": "295"
+    }
+  ]
+}

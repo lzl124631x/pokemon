@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Chimecho"
+  ],
+  "imgs": [
+    "358.png"
+  ],
+  "descs": [
+    "In high winds, Chimecho cries as it hangs from a tree branch or\nthe eaves of a building using a suction cup on its head. This\nPokémon plucks berries with its long tail and eats them.",
+    "Chimecho makes its cries echo inside its hollow body.\nWhen this Pokémon becomes enraged, its cries result in\nultrasonic waves that have the power to knock foes flying."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "2.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Wind Chime",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "433.png",
+      "slug": "Chingling",
+      "id": "433"
+    },
+    {
+      "img": "358.png",
+      "slug": "Chimecho",
+      "id": "358"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Skrelp"
+  ],
+  "imgs": [
+    "690.png"
+  ],
+  "descs": [
+    "It looks just like rotten kelp. It hides from foes\nwhile storing up power for its evolution.",
+    "Camouflaged as rotten kelp, they spray\nliquid poison on prey that approaches\nunawares and then finish it off."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "16.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mock Kelp",
+      "Abilities": [
+        "Poison Point",
+        "Poison Touch"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison",
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Psychic",
+          "Electric",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "690.png",
+      "slug": "Skrelp",
+      "id": "690"
+    },
+    {
+      "img": "691.png",
+      "slug": "Dragalge",
+      "id": "691"
+    }
+  ]
+}

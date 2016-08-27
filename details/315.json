@@ -1,0 +1,62 @@
+{
+  "forms": [
+    "Roselia"
+  ],
+  "imgs": [
+    "315.png"
+  ],
+  "descs": [
+    "On extremely rare occasions, a Roselia is said to appear with\nits flowers in unusual colors. The thorns on this Pokémon's\nhead contain a vicious poison.",
+    "Roselia shoots sharp thorns as projectiles at any opponent that\ntries to steal the flowers on its arms. The aroma of this\nPokémon brings serenity to living things."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "4.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Thorn",
+      "Abilities": [
+        "Poison Point",
+        "Natural Cure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "406.png",
+      "slug": "Budew",
+      "id": "406"
+    },
+    {
+      "img": "315.png",
+      "slug": "Roselia",
+      "id": "315"
+    },
+    {
+      "img": "407.png",
+      "slug": "Roserade",
+      "id": "407"
+    }
+  ]
+}

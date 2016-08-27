@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Galvantula"
+  ],
+  "imgs": [
+    "596.png"
+  ],
+  "descs": [
+    "When attacked, they create an electric barrier by\nspitting out many electrically charged threads.",
+    "They employ an electrically charged web to trap\ntheir prey. While it is immobilized by shock,\nthey leisurely consume it."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "31.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "EleSpider",
+      "Abilities": [
+        "Compound Eyes",
+        "Unnerve"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "595.png",
+      "slug": "Joltik",
+      "id": "595"
+    },
+    {
+      "img": "596.png",
+      "slug": "Galvantula",
+      "id": "596"
+    }
+  ]
+}

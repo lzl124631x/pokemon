@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Tranquill"
+  ],
+  "imgs": [
+    "520.png"
+  ],
+  "descs": [
+    "No matter where in the world it goes, it knows\nwhere its nest is, so it never gets separated from\nits Trainer.",
+    "Many people believe that, deep in the forest where\nTranquill live, there is a peaceful place where there\nis no war."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "33.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Wild Pigeon",
+      "Abilities": [
+        "Super Luck",
+        "Big Pecks"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "519.png",
+      "slug": "Pidove",
+      "id": "519"
+    },
+    {
+      "img": "520.png",
+      "slug": "Tranquill",
+      "id": "520"
+    },
+    {
+      "img": "521.png",
+      "slug": "Unfezant",
+      "id": "521"
+    }
+  ]
+}

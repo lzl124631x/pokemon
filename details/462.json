@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Magnezone"
+  ],
+  "imgs": [
+    "462.png"
+  ],
+  "descs": [
+    "It evolved from exposure to a special magnetic\nfield. Three units generate magnetism.",
+    "Sometimes the magnetism emitted by Magnezone is\ntoo strong, making them attract each other so they\ncannot move."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "396.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Magnet Area",
+      "Abilities": [
+        "Sturdy",
+        "Magnet Pull"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Fire",
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "081.png",
+      "slug": "Magnemite",
+      "id": "081"
+    },
+    {
+      "img": "082.png",
+      "slug": "Magneton",
+      "id": "082"
+    },
+    {
+      "img": "462.png",
+      "slug": "Magnezone",
+      "id": "462"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Torterra"
+  ],
+  "imgs": [
+    "389.png"
+  ],
+  "descs": [
+    "Small Pokémon occasionally gather on its unmoving\nback to begin building their nests.",
+    "Ancient people imagined that beneath the ground,\na gigantic Torterra dwelled."
+  ],
+  "abilities": [
+    {
+      "Height": "7' 03\"",
+      "Weight": "683.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Continent",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Bug",
+          "Fire",
+          "Flying"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "387.png",
+      "slug": "Turtwig",
+      "id": "387"
+    },
+    {
+      "img": "388.png",
+      "slug": "Grotle",
+      "id": "388"
+    },
+    {
+      "img": "389.png",
+      "slug": "Torterra",
+      "id": "389"
+    }
+  ]
+}

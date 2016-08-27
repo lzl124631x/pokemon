@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Finneon"
+  ],
+  "imgs": [
+    "456.png"
+  ],
+  "descs": [
+    "After long exposure to sunlight, the patterns on its\ntail fins shine vividly when darkness arrives.",
+    "The line running down its side can store sunlight.\nIt shines vividly at night."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "15.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Wing Fish",
+      "Abilities": [
+        "Swift Swim",
+        "Storm Drain"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "456.png",
+      "slug": "Finneon",
+      "id": "456"
+    },
+    {
+      "img": "457.png",
+      "slug": "Lumineon",
+      "id": "457"
+    }
+  ]
+}

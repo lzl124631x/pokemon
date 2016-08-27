@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Primeape"
+  ],
+  "imgs": [
+    "057.png"
+  ],
+  "descs": [
+    "When Primeape becomes furious, its blood circulation\nis boosted. In turn, its muscles are made even stronger.\nHowever, it also becomes much less intelligent at the\nsame time.",
+    "When Primeape becomes furious, its blood circulation is\nboosted. In turn, its muscles are made even stronger.\nHowever, it also becomes much less intelligent at the\nsame time."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "70.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Pig Monkey",
+      "Abilities": [
+        "Vital Spirit",
+        "Anger Point"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "056.png",
+      "slug": "Mankey",
+      "id": "056"
+    },
+    {
+      "img": "057.png",
+      "slug": "Primeape",
+      "id": "057"
+    }
+  ]
+}

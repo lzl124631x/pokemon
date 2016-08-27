@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Teddiursa"
+  ],
+  "imgs": [
+    "216.png"
+  ],
+  "descs": [
+    "This Pokémon likes to lick its palms that are sweetened by\nbeing soaked in honey. Teddiursa concocts its own honey\nby blending fruits and pollen collected by Beedrill.",
+    "This Pokémon likes to lick its palms that are sweetened by\nbeing soaked in honey. Teddiursa concocts its own honey\nby blending fruits and pollen collected by Beedrill."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "19.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Little Bear",
+      "Abilities": [
+        "Pickup",
+        "Quick Feet"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "216.png",
+      "slug": "Teddiursa",
+      "id": "216"
+    },
+    {
+      "img": "217.png",
+      "slug": "Ursaring",
+      "id": "217"
+    }
+  ]
+}

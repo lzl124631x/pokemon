@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Mudkip"
+  ],
+  "imgs": [
+    "258.png"
+  ],
+  "descs": [
+    "In water, Mudkip breathes using the gills on its cheeks. If it is\nfaced with a tight situation in battle, this Pokémon will unleash\nits amazing power—it can crush rocks bigger than itself.",
+    "The fin on Mudkip's head acts as highly sensitive radar.\nUsing this fin to sense movements of water and air, this\nPokémon can determine what is taking place around it\nwithout using its eyes."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "16.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mud Fish",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "258.png",
+      "slug": "Mudkip",
+      "id": "258"
+    },
+    {
+      "img": "259.png",
+      "slug": "Marshtomp",
+      "id": "259"
+    },
+    {
+      "img": "260.png",
+      "slug": "Swampert",
+      "id": "260"
+    }
+  ]
+}

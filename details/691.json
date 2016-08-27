@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Dragalge"
+  ],
+  "imgs": [
+    "691.png"
+  ],
+  "descs": [
+    "Tales are told of ships that wander into\nseas where Dragalge live, never to return.",
+    "Their poison is strong enough to eat through\nthe hull of a tanker, and they spit it indiscriminately\nat anything that enters their territory."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "179.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mock Kelp",
+      "Abilities": [
+        "Poison Point",
+        "Poison Touch"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Psychic",
+          "Dragon",
+          "Ice",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "690.png",
+      "slug": "Skrelp",
+      "id": "690"
+    },
+    {
+      "img": "691.png",
+      "slug": "Dragalge",
+      "id": "691"
+    }
+  ]
+}

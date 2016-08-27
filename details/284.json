@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Masquerain"
+  ],
+  "imgs": [
+    "284.png"
+  ],
+  "descs": [
+    "Masquerain's antennas have eyelike patterns that usually\ngive it an angry look. If the “eyes\" are droopy and appear sad,\nit is said to be a sign that a heavy rainfall is on its way.",
+    "Masquerain intimidates enemies with the eyelike patterns\non its antennas. This Pokémon flaps its four wings to freely fly\nin any direction—even sideways and backwards—as if it were\na helicopter."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "7.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Eyeball",
+      "Abilities": [
+        "Intimidate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Fire",
+          "Flying",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "283.png",
+      "slug": "Surskit",
+      "id": "283"
+    },
+    {
+      "img": "284.png",
+      "slug": "Masquerain",
+      "id": "284"
+    }
+  ]
+}

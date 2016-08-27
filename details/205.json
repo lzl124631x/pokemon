@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Forretress"
+  ],
+  "imgs": [
+    "205.png"
+  ],
+  "descs": [
+    "Forretress conceals itself inside its hardened steel shell.\nThe shell is opened when the Pokémon is catching prey,\nbut it does so at such a quick pace that the shell's inside\ncannot be seen.",
+    "Forretress conceals itself inside its hardened steel shell.\nThe shell is opened when the Pokémon is catching prey,\nbut it does so at such a quick pace that the shell's inside\ncannot be seen."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "277.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bagworm",
+      "Abilities": [
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "204.png",
+      "slug": "Pineco",
+      "id": "204"
+    },
+    {
+      "img": "205.png",
+      "slug": "Forretress",
+      "id": "205"
+    }
+  ]
+}

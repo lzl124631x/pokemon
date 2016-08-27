@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Fearow"
+  ],
+  "imgs": [
+    "022.png"
+  ],
+  "descs": [
+    "Fearow is recognized by its long neck and elongated beak.\nThey are conveniently shaped for catching prey in soil or\nwater. It deftly moves its long and skinny beak to pluck prey.",
+    "Fearow is recognized by its long neck and elongated beak.\nThey are conveniently shaped for catching prey in soil\nor water. It deftly moves its long and skinny beak to\npluck prey."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "83.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Beak",
+      "Abilities": [
+        "Keen Eye"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "021.png",
+      "slug": "Spearow",
+      "id": "021"
+    },
+    {
+      "img": "022.png",
+      "slug": "Fearow",
+      "id": "022"
+    }
+  ]
+}

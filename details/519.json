@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Pidove"
+  ],
+  "imgs": [
+    "519.png"
+  ],
+  "descs": [
+    "These Pokémon live in cities. They are accustomed\nto people. Flocks often gather in parks and plazas.",
+    "This very forgetful Pokémon will wait for a new\norder from its Trainer even though it already\nhas one."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "4.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tiny Pigeon",
+      "Abilities": [
+        "Super Luck",
+        "Big Pecks"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "519.png",
+      "slug": "Pidove",
+      "id": "519"
+    },
+    {
+      "img": "520.png",
+      "slug": "Tranquill",
+      "id": "520"
+    },
+    {
+      "img": "521.png",
+      "slug": "Unfezant",
+      "id": "521"
+    }
+  ]
+}

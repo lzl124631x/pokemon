@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Gothitelle"
+  ],
+  "imgs": [
+    "576.png"
+  ],
+  "descs": [
+    "They drive away attackers by unleashing psychic\npower. They can use telepathy to talk with others.",
+    "Starry skies thousands of light-years away are\nvisible in the space distorted by their intense\npsychic power."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "97.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Astral Body",
+      "Abilities": [
+        "Frisk",
+        "Competitive"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "574.png",
+      "slug": "Gothita",
+      "id": "574"
+    },
+    {
+      "img": "575.png",
+      "slug": "Gothorita",
+      "id": "575"
+    },
+    {
+      "img": "576.png",
+      "slug": "Gothitelle",
+      "id": "576"
+    }
+  ]
+}

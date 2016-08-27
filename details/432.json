@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Purugly"
+  ],
+  "imgs": [
+    "432.png"
+  ],
+  "descs": [
+    "To make itself appear intimidatingly beefy, it tightly\ncinches its waist with its twin tails.",
+    "It would claim another Pokémon's nest as its own\nif it finds a nest sufficiently comfortable."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "96.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tiger Cat",
+      "Abilities": [
+        "Own Tempo",
+        "Thick Fat"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "431.png",
+      "slug": "Glameow",
+      "id": "431"
+    },
+    {
+      "img": "432.png",
+      "slug": "Purugly",
+      "id": "432"
+    }
+  ]
+}

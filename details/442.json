@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Spiritomb"
+  ],
+  "imgs": [
+    "442.png"
+  ],
+  "descs": [
+    "It was bound to a fissure in an odd keystone as\npunishment for misdeeds 500 years ago.",
+    "A Pokémon that was formed by 108 spirits. It is\nbound to a fissure in an odd keystone."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "238.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Forbidden",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "442.png",
+      "slug": "Spiritomb",
+      "id": "442"
+    }
+  ]
+}

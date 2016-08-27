@@ -1,0 +1,154 @@
+{
+  "forms": [
+    "Gourgeist",
+    "Small Size",
+    "Large Size",
+    "Super Size"
+  ],
+  "imgs": [
+    "711.png",
+    "711_f2.png",
+    "711_f3.png",
+    "711_f4.png"
+  ],
+  "descs": [
+    "It enwraps its prey in its hairlike arms.\nIt sings joyfully as it observes the\nsuffering of its prey.",
+    "Singing in eerie voices, they wander\ntown streets on the night of the new moon.\nAnyone who hears their song is cursed."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "27.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Pumpkin",
+      "Abilities": [
+        "Pickup",
+        "Frisk"
+      ]
+    },
+    {
+      "Height": "2' 04\"",
+      "Weight": "20.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Pumpkin",
+      "Abilities": [
+        "Pickup",
+        "Frisk"
+      ]
+    },
+    {
+      "Height": "3' 07\"",
+      "Weight": "30.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Pumpkin",
+      "Abilities": [
+        "Pickup",
+        "Frisk"
+      ]
+    },
+    {
+      "Height": "5' 07\"",
+      "Weight": "86.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Pumpkin",
+      "Abilities": [
+        "Pickup",
+        "Frisk"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Fire",
+          "Flying",
+          "Dark",
+          "Ice"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Fire",
+          "Flying",
+          "Dark",
+          "Ice"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Fire",
+          "Flying",
+          "Dark",
+          "Ice"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Fire",
+          "Flying",
+          "Dark",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "710.png",
+      "slug": "Pumpkaboo",
+      "id": "710"
+    },
+    {
+      "img": "711.png",
+      "slug": "Gourgeist",
+      "id": "711"
+    }
+  ]
+}

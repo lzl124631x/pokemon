@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Squirtle"
+  ],
+  "imgs": [
+    "007.png"
+  ],
+  "descs": [
+    "Squirtle's shell is not merely used for protection.\nThe shell's rounded shape and the grooves on its\nsurface help minimize resistance in water,\nenabling this Pokémon to swim at high speeds.",
+    "Squirtle's shell is not merely used for protection.\nThe shell's rounded shape and the grooves on its surface\nhelp minimize resistance in water, enabling this Pokémon\nto swim at high speeds."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "19.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tiny Turtle",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "007.png",
+      "slug": "Squirtle",
+      "id": "007"
+    },
+    {
+      "img": "008.png",
+      "slug": "Wartortle",
+      "id": "008"
+    },
+    {
+      "img": "009.png",
+      "slug": "Blastoise",
+      "id": "009"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Litleo"
+  ],
+  "imgs": [
+    "667.png"
+  ],
+  "descs": [
+    "They set off on their own from their pride\nand live by themselves to become stronger.\nThese hot-blooded Pokémon are quick to fight.",
+    "The stronger the opponent it faces,\nthe more heat surges from its mane\nand the more power flows through its body."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "29.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Lion Cub",
+      "Abilities": [
+        "Rivalry",
+        "Unnerve"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Water",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "667.png",
+      "slug": "Litleo",
+      "id": "667"
+    },
+    {
+      "img": "668.png",
+      "slug": "Pyroar",
+      "id": "668"
+    }
+  ]
+}

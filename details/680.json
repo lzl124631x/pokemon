@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Doublade"
+  ],
+  "imgs": [
+    "680.png"
+  ],
+  "descs": [
+    "The complex attack patterns of its two swords\nare unstoppable, even for an opponent\ngreatly accomplished at swordplay.",
+    "When Honedge evolves, it divides into two swords,\nwhich cooperate via telepathy to coordinate attacks\nand slash their enemies to ribbons."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "9.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sword",
+      "Abilities": [
+        "No Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ghost",
+          "Dark",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "679.png",
+      "slug": "Honedge",
+      "id": "679"
+    },
+    {
+      "img": "680.png",
+      "slug": "Doublade",
+      "id": "680"
+    },
+    {
+      "img": "681.png",
+      "slug": "Aegislash",
+      "id": "681"
+    }
+  ]
+}

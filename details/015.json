@@ -1,0 +1,90 @@
+{
+  "forms": [
+    "Beedrill",
+    "Mega Beedrill"
+  ],
+  "imgs": [
+    "015.png",
+    "015_f2.png"
+  ],
+  "descs": [
+    "Beedrill is extremely territorial. No one should ever approach\nits nest—this is for their own safety. If angered, they will attack\nin a furious swarm.",
+    "Beedrill is extremely territorial. No one should ever approach\nits nest—this is for their own safety. If angered, they will attack\nin a furious swarm."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "65.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Poison Bee",
+      "Abilities": [
+        "Swarm"
+      ]
+    },
+    {
+      "Height": "4' 07\"",
+      "Weight": "89.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Poison Bee",
+      "Abilities": [
+        "Adaptability"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Psychic",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Bug",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Psychic",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "013.png",
+      "slug": "Weedle",
+      "id": "013"
+    },
+    {
+      "img": "014.png",
+      "slug": "Kakuna",
+      "id": "014"
+    },
+    {
+      "img": "015.png",
+      "slug": "Beedrill",
+      "id": "015"
+    }
+  ]
+}

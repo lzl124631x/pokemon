@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Timburr"
+  ],
+  "imgs": [
+    "532.png"
+  ],
+  "descs": [
+    "Always carrying squared logs, they help out with\nconstruction. As they grow, they carry bigger logs.",
+    "These Pokémon appear at building sites and help\nout with construction. They always carry\nsquared logs."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "27.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Muscular",
+      "Abilities": [
+        "Guts",
+        "Sheer Force"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "532.png",
+      "slug": "Timburr",
+      "id": "532"
+    },
+    {
+      "img": "533.png",
+      "slug": "Gurdurr",
+      "id": "533"
+    },
+    {
+      "img": "534.png",
+      "slug": "Conkeldurr",
+      "id": "534"
+    }
+  ]
+}

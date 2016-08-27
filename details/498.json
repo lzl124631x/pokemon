@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Tepig"
+  ],
+  "imgs": [
+    "498.png"
+  ],
+  "descs": [
+    "It loves to eat roasted berries, but sometimes it\ngets too excited and burns them to a crisp.",
+    "It can deftly dodge its foe's attacks while shooting\nfireballs from its nose. It roasts berries before it\neats them."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "21.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fire Pig",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "498.png",
+      "slug": "Tepig",
+      "id": "498"
+    },
+    {
+      "img": "499.png",
+      "slug": "Pignite",
+      "id": "499"
+    },
+    {
+      "img": "500.png",
+      "slug": "Emboar",
+      "id": "500"
+    }
+  ]
+}

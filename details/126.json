@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Magmar"
+  ],
+  "imgs": [
+    "126.png"
+  ],
+  "descs": [
+    "In battle, Magmar blows out intensely hot flames from\nall over its body to intimidate its opponent. This Pokémon's\nfiery bursts create heat waves that ignite grass and trees in\nits surroundings.",
+    "In battle, Magmar blows out intensely hot flames from all\nover its body to intimidate its opponent. This Pokémon's\nfiery bursts create heat waves that ignite grass and trees\nin its surroundings."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "98.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Spitfire",
+      "Abilities": [
+        "Flame Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "240.png",
+      "slug": "Magby",
+      "id": "240"
+    },
+    {
+      "img": "126.png",
+      "slug": "Magmar",
+      "id": "126"
+    },
+    {
+      "img": "467.png",
+      "slug": "Magmortar",
+      "id": "467"
+    }
+  ]
+}

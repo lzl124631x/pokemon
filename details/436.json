@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Bronzor"
+  ],
+  "imgs": [
+    "436.png"
+  ],
+  "descs": [
+    "Implements shaped like it were discovered in\nancient tombs. It is unknown if they are related.",
+    "Ancient people believed that the pattern on\nBronzor's back contained a mysterious power."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "133.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Bronze",
+      "Abilities": [
+        "Levitate",
+        "Heatproof"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ground",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "436.png",
+      "slug": "Bronzor",
+      "id": "436"
+    },
+    {
+      "img": "437.png",
+      "slug": "Bronzong",
+      "id": "437"
+    }
+  ]
+}

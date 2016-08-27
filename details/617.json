@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Accelgor"
+  ],
+  "imgs": [
+    "617.png"
+  ],
+  "descs": [
+    "When its body dries out, it weakens. So, to prevent\ndehydration, it wraps itself in many layers of\nthin membrane.",
+    "Having removed its heavy shell, it becomes very\nlight and can fight with ninja-like movements."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "55.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Shell Out",
+      "Abilities": [
+        "Hydration",
+        "Sticky Hold"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "616.png",
+      "slug": "Shelmet",
+      "id": "616"
+    },
+    {
+      "img": "617.png",
+      "slug": "Accelgor",
+      "id": "617"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Serperior"
+  ],
+  "imgs": [
+    "497.png"
+  ],
+  "descs": [
+    "It can stop its opponents' movements with just a\nglare. It takes in solar energy and boosts\nit internally.",
+    "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior's\nnoble eyes."
+  ],
+  "abilities": [
+    {
+      "Height": "10' 10\"",
+      "Weight": "138.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Regal",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ice",
+          "Poison",
+          "Flying",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "495.png",
+      "slug": "Snivy",
+      "id": "495"
+    },
+    {
+      "img": "496.png",
+      "slug": "Servine",
+      "id": "496"
+    },
+    {
+      "img": "497.png",
+      "slug": "Serperior",
+      "id": "497"
+    }
+  ]
+}

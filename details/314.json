@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Illumise"
+  ],
+  "imgs": [
+    "314.png"
+  ],
+  "descs": [
+    "Illumise leads a flight of illuminated Volbeat to draw signs in\nthe night sky. This Pokémon is said to earn greater respect\nfrom its peers by composing more complex designs in the sky.",
+    "Illumise attracts a swarm of Volbeat using a sweet fragrance.\nOnce the Volbeat have gathered, this Pokémon leads the\nlit-up swarm in drawing geometric designs on the canvas of\nthe night sky."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "39.0 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Firefly",
+      "Abilities": [
+        "Tinted Lens",
+        "Oblivious"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "314.png",
+      "slug": "Illumise",
+      "id": "314"
+    }
+  ]
+}

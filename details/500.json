@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Emboar"
+  ],
+  "imgs": [
+    "500.png"
+  ],
+  "descs": [
+    "It has mastered fast and powerful fighting moves.\nIt grows a beard of fire.",
+    "It can throw a fire punch by setting its fists on fire\nwith its fiery chin. It cares deeply about its friends."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "330.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mega Fire Pig",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground",
+          "Flying",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "498.png",
+      "slug": "Tepig",
+      "id": "498"
+    },
+    {
+      "img": "499.png",
+      "slug": "Pignite",
+      "id": "499"
+    },
+    {
+      "img": "500.png",
+      "slug": "Emboar",
+      "id": "500"
+    }
+  ]
+}

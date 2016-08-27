@@ -1,0 +1,91 @@
+{
+  "forms": [
+    "Flareon"
+  ],
+  "imgs": [
+    "136.png"
+  ],
+  "descs": [
+    "Flareon's fluffy fur has a functional purpose—it releases heat\ninto the air so that its body does not get excessively hot.\nThis Pokémon's body temperature can rise to a maximum of\n1,650 degrees Fahrenheit.",
+    "Flareon's fluffy fur has a functional purpose—it releases heat\ninto the air so that its body does not get excessively hot.\nThis Pokémon's body temperature can rise to a maximum of\n1,650 degrees Fahrenheit."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "55.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Flame",
+      "Abilities": [
+        "Flash Fire"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "133.png",
+      "slug": "Eevee",
+      "id": "133"
+    },
+    [
+      {
+        "img": "134.png",
+        "slug": "Vaporeon",
+        "id": "134"
+      },
+      {
+        "img": "135.png",
+        "slug": "Jolteon",
+        "id": "135"
+      },
+      {
+        "img": "136.png",
+        "slug": "Flareon",
+        "id": "136"
+      },
+      {
+        "img": "197.png",
+        "slug": "Umbreon",
+        "id": "197"
+      },
+      {
+        "img": "471.png",
+        "slug": "Glaceon",
+        "id": "471"
+      },
+      {
+        "img": "470.png",
+        "slug": "Leafeon",
+        "id": "470"
+      },
+      {
+        "img": "196.png",
+        "slug": "Espeon",
+        "id": "196"
+      },
+      {
+        "img": "700.png",
+        "slug": "Sylveon",
+        "id": "700"
+      }
+    ]
+  ]
+}

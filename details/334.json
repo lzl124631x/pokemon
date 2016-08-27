@@ -1,0 +1,85 @@
+{
+  "forms": [
+    "Altaria",
+    "Mega Altaria"
+  ],
+  "imgs": [
+    "334.png",
+    "334_f2.png"
+  ],
+  "descs": [
+    "Altaria sings in a gorgeous soprano. Its wings are like cotton\nclouds. This Pokémon catches updrafts with its buoyant wings\nand soars way up into the wild blue yonder.",
+    "Altaria dances and wheels through the sky among billowing,\ncotton-like clouds. By singing melodies in its crystal-clear\nvoice, this Pokémon makes its listeners experience dreamy\nwonderment."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "45.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Humming",
+      "Abilities": [
+        "Natural Cure"
+      ]
+    },
+    {
+      "Height": "4' 11\"",
+      "Weight": "45.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Humming",
+      "Abilities": [
+        "Pixilate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Dragon",
+          "Rock",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Fairy",
+          "Poison",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "333.png",
+      "slug": "Swablu",
+      "id": "333"
+    },
+    {
+      "img": "334.png",
+      "slug": "Altaria",
+      "id": "334"
+    }
+  ]
+}

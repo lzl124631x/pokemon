@@ -1,0 +1,65 @@
+{
+  "forms": [
+    "Nuzleaf"
+  ],
+  "imgs": [
+    "274.png"
+  ],
+  "descs": [
+    "This Pokémon pulls out the leaf on its head and makes a flute\nwith it. The sound of Nuzleaf's flute strikes fear and uncertainty\nin the hearts of people lost in a forest.",
+    "Nuzleaf live in densely overgrown forests. They occasionally\nventure out of the forest to startle people. This Pokémon\ndislikes having its long nose pinched."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "61.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Wily",
+      "Abilities": [
+        "Chlorophyll",
+        "Early Bird"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Fighting",
+          "Flying",
+          "Ice",
+          "Poison",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "273.png",
+      "slug": "Seedot",
+      "id": "273"
+    },
+    {
+      "img": "274.png",
+      "slug": "Nuzleaf",
+      "id": "274"
+    },
+    {
+      "img": "275.png",
+      "slug": "Shiftry",
+      "id": "275"
+    }
+  ]
+}

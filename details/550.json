@@ -1,0 +1,76 @@
+{
+  "forms": [
+    "Red-Striped Form",
+    "Blue-Striped Form"
+  ],
+  "imgs": [
+    "550.png",
+    "550_f2.png"
+  ],
+  "descs": [
+    "Red and blue Basculin usually do not get along,\nbut sometimes members of one school mingle with\nthe other's school.",
+    "Red- and blue-striped Basculin are very violent and\nalways fighting. They are also remarkably tasty."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "39.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Hostile",
+      "Abilities": [
+        "Reckless",
+        "Adaptability"
+      ]
+    },
+    {
+      "Height": "3' 03\"",
+      "Weight": "39.7 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Hostile",
+      "Abilities": [
+        "Rock Head",
+        "Adaptability"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "550.png",
+      "slug": "Basculin",
+      "id": "550"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Klinklang"
+  ],
+  "imgs": [
+    "601.png"
+  ],
+  "descs": [
+    "Its red core functions as an energy tank. It fires the\ncharged energy through its spikes into an area.",
+    "The gear with the red core is rotated at high speed\nfor a rapid energy charge."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "178.6 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Gear",
+      "Abilities": [
+        "Plus",
+        "Minus"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "599.png",
+      "slug": "Klink",
+      "id": "599"
+    },
+    {
+      "img": "600.png",
+      "slug": "Klang",
+      "id": "600"
+    },
+    {
+      "img": "601.png",
+      "slug": "Klinklang",
+      "id": "601"
+    }
+  ]
+}

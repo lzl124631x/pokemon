@@ -1,0 +1,75 @@
+{
+  "forms": [
+    "Sableye",
+    "Mega Sableye"
+  ],
+  "imgs": [
+    "302.png",
+    "302_f2.png"
+  ],
+  "descs": [
+    "Sableye digs the ground with sharpened claws to find rocks\nthat it eats. Substances in the eaten rocks crystallize and rise\nup to the Pokémon's body surface.",
+    "Sableye lead quiet lives deep inside caverns.\nThey are feared, however, because these Pokémon are\nthought to steal the spirits of people when their eyes burn\nwith a sinister glow in the darkness."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "24.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Darkness",
+      "Abilities": [
+        "Keen Eye",
+        "Stall"
+      ]
+    },
+    {
+      "Height": "1' 08\"",
+      "Weight": "354.9 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Darkness",
+      "Abilities": [
+        "Magic Bounce"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Dark",
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "302.png",
+      "slug": "Sableye",
+      "id": "302"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Cradily"
+  ],
+  "imgs": [
+    "346.png"
+  ],
+  "descs": [
+    "Cradily's body serves as an anchor, preventing it from being\nwashed away in rough seas. This Pokémon secretes a strong\ndigestive fluid from its tentacles.",
+    "Cradily roams around the ocean floor in search of food.\nThis Pokémon freely extends its tree trunk-like neck and\ncaptures unwary prey using its eight tentacles."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "133.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Barnacle",
+      "Abilities": [
+        "Suction Cups"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fighting",
+          "Ice",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "345.png",
+      "slug": "Lileep",
+      "id": "345"
+    },
+    {
+      "img": "346.png",
+      "slug": "Cradily",
+      "id": "346"
+    }
+  ]
+}

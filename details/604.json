@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Eelektross"
+  ],
+  "imgs": [
+    "604.png"
+  ],
+  "descs": [
+    "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately drag\nit into the ocean.",
+    "With their sucker mouths, they suck in prey.\nThen they use their fangs to shock the prey\nwith electricity."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 11\"",
+      "Weight": "177.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "EleFish",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "None"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "602.png",
+      "slug": "Tynamo",
+      "id": "602"
+    },
+    {
+      "img": "603.png",
+      "slug": "Eelektrik",
+      "id": "603"
+    },
+    {
+      "img": "604.png",
+      "slug": "Eelektross",
+      "id": "604"
+    }
+  ]
+}

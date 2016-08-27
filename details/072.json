@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Tentacool"
+  ],
+  "imgs": [
+    "072.png"
+  ],
+  "descs": [
+    "Tentacool absorbs sunlight and refracts it using water inside\nits body to convert it into beam energy. This Pokémon shoots\nbeams from the small round organ above its eyes.",
+    "Tentacool's body is largely composed of water. If it is removed\nfrom the sea, it dries up like parchment. If this Pokémon\nhappens to become dehydrated, put it back into the sea."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "100.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Jellyfish",
+      "Abilities": [
+        "Clear Body",
+        "Liquid Ooze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "072.png",
+      "slug": "Tentacool",
+      "id": "072"
+    },
+    {
+      "img": "073.png",
+      "slug": "Tentacruel",
+      "id": "073"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "forms": [
+    "Sealeo"
+  ],
+  "imgs": [
+    "364.png"
+  ],
+  "descs": [
+    "Sealeo often balances and rolls things on the tip of its\nnose. While the Pokémon is rolling something, it checks\nthe object's aroma and texture to determine whether it likes\nthe object or not.",
+    "Sealeo has the habit of always juggling on the tip of its nose\nanything it sees for the first time. This Pokémon occasionally\nentertains itself by balancing and rolling a Spheal on its nose."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "193.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Ball Roll",
+      "Abilities": [
+        "Thick Fat",
+        "Ice Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice",
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Fighting",
+          "Grass",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "363.png",
+      "slug": "Spheal",
+      "id": "363"
+    },
+    {
+      "img": "364.png",
+      "slug": "Sealeo",
+      "id": "364"
+    },
+    {
+      "img": "365.png",
+      "slug": "Walrein",
+      "id": "365"
+    }
+  ]
+}

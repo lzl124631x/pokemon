@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Electabuzz"
+  ],
+  "imgs": [
+    "125.png"
+  ],
+  "descs": [
+    "When a storm arrives, gangs of this Pokémon compete with\neach other to scale heights that are likely to be stricken by\nlightning bolts. Some towns use Electabuzz in place of\nlightning rods.",
+    "When a storm arrives, gangs of this Pokémon compete with\neach other to scale heights that are likely to be stricken by\nlightning bolts. Some towns use Electabuzz in place of\nlightning rods."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "66.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Electric",
+      "Abilities": [
+        "Static"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "239.png",
+      "slug": "Elekid",
+      "id": "239"
+    },
+    {
+      "img": "125.png",
+      "slug": "Electabuzz",
+      "id": "125"
+    },
+    {
+      "img": "466.png",
+      "slug": "Electivire",
+      "id": "466"
+    }
+  ]
+}

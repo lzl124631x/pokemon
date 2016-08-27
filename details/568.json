@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Trubbish"
+  ],
+  "imgs": [
+    "568.png"
+  ],
+  "descs": [
+    "Consuming garbage makes new kinds of poison\ngases and liquids inside their bodies.",
+    "The combination of garbage bags and industrial\nwaste caused the chemical reaction that created\nthis Pokémon."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "68.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Trash Bag",
+      "Abilities": [
+        "Stench",
+        "Sticky Hold"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "568.png",
+      "slug": "Trubbish",
+      "id": "568"
+    },
+    {
+      "img": "569.png",
+      "slug": "Garbodor",
+      "id": "569"
+    }
+  ]
+}

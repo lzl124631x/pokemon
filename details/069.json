@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Bellsprout"
+  ],
+  "imgs": [
+    "069.png"
+  ],
+  "descs": [
+    "Bellsprout's thin and flexible body lets it bend and sway\nto avoid any attack, however strong it may be. From its mouth,\nthis Pokémon spits a corrosive fluid that melts even iron.",
+    "Bellsprout's thin and flexible body lets it bend and sway to\navoid any attack, however strong it may be. From its mouth,\nthis Pokémon spits a corrosive fluid that melts even iron."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "8.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Flower",
+      "Abilities": [
+        "Chlorophyll"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "069.png",
+      "slug": "Bellsprout",
+      "id": "069"
+    },
+    {
+      "img": "070.png",
+      "slug": "Weepinbell",
+      "id": "070"
+    },
+    {
+      "img": "071.png",
+      "slug": "Victreebel",
+      "id": "071"
+    }
+  ]
+}

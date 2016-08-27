@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Mienfoo"
+  ],
+  "imgs": [
+    "619.png"
+  ],
+  "descs": [
+    "In fights, they dominate with onslaughts of flowing,\ncontinuous attacks. With their sharp claws, they\ncut enemies.",
+    "It takes pride in the speed at which it can use\nmoves. What it loses in power, it makes up for\nin quantity."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "44.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Martial Arts",
+      "Abilities": [
+        "Inner Focus",
+        "Regenerator"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "619.png",
+      "slug": "Mienfoo",
+      "id": "619"
+    },
+    {
+      "img": "620.png",
+      "slug": "Mienshao",
+      "id": "620"
+    }
+  ]
+}

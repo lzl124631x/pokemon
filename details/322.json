@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Numel"
+  ],
+  "imgs": [
+    "322.png"
+  ],
+  "descs": [
+    "Numel stores magma of almost 2,200 degrees Fahrenheit\nwithin its body. If it gets wet, the magma cools and hardens.\nIn that event, the Pokémon's body grows heavy and its\nmovements become sluggish.",
+    "Numel is extremely dull witted—it doesn't notice being hit.\nHowever, it can't stand hunger for even a second.\nThis Pokémon's body is a seething cauldron of boiling magma."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "52.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Numb",
+      "Abilities": [
+        "Oblivious",
+        "Simple"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "322.png",
+      "slug": "Numel",
+      "id": "322"
+    },
+    {
+      "img": "323.png",
+      "slug": "Camerupt",
+      "id": "323"
+    }
+  ]
+}

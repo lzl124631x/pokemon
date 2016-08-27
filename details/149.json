@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Dragonite"
+  ],
+  "imgs": [
+    "149.png"
+  ],
+  "descs": [
+    "Dragonite is capable of circling the globe in just 16 hours.\nIt is a kindhearted Pokémon that leads lost and foundering\nships in a storm to the safety of land.",
+    "Dragonite is capable of circling the globe in just 16 hours.\nIt is a kindhearted Pokémon that leads lost and foundering\nships in a storm to the safety of land."
+  ],
+  "abilities": [
+    {
+      "Height": "7' 03\"",
+      "Weight": "463.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Dragon",
+      "Abilities": [
+        "Inner Focus"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Dragon",
+          "Rock",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "147.png",
+      "slug": "Dratini",
+      "id": "147"
+    },
+    {
+      "img": "148.png",
+      "slug": "Dragonair",
+      "id": "148"
+    },
+    {
+      "img": "149.png",
+      "slug": "Dragonite",
+      "id": "149"
+    }
+  ]
+}

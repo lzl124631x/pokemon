@@ -1,0 +1,92 @@
+{
+  "forms": [
+    "Sceptile",
+    "Mega Sceptile"
+  ],
+  "imgs": [
+    "254.png",
+    "254_f2.png"
+  ],
+  "descs": [
+    "Sceptile has seeds growing on its back. They are said to be\nbursting with nutrients that revitalize trees. This Pokémon\nraises the trees in a forest with loving care.",
+    "The leaves growing on Sceptile's body are very sharp edged.\nThis Pokémon is very agile—it leaps all over the branches of\ntrees and jumps on its foe from above or behind."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "115.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Forest",
+      "Abilities": [
+        "Overgrow"
+      ]
+    },
+    {
+      "Height": "6' 03\"",
+      "Weight": "121.7 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Forest",
+      "Abilities": [
+        "Lightning Rod"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Grass",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Poison",
+          "Dragon",
+          "Ice",
+          "Fairy",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "252.png",
+      "slug": "Treecko",
+      "id": "252"
+    },
+    {
+      "img": "253.png",
+      "slug": "Grovyle",
+      "id": "253"
+    },
+    {
+      "img": "254.png",
+      "slug": "Sceptile",
+      "id": "254"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "forms": [
+    "Gyarados",
+    "Mega Gyarados"
+  ],
+  "imgs": [
+    "130.png",
+    "130_f2.png"
+  ],
+  "descs": [
+    "Once Gyarados goes on a rampage, its ferociously violent\nblood doesn't calm until it has burned everything down.\nThere are records of this Pokémon's rampages lasting a\nwhole month.",
+    "When Magikarp evolves into Gyarados, its brain cells undergo a\nstructural transformation. It is said that this transformation is to\nblame for this Pokémon's wildly violent nature."
+  ],
+  "abilities": [
+    {
+      "Height": "21' 04\"",
+      "Weight": "518.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Atrocious",
+      "Abilities": [
+        "Intimidate"
+      ]
+    },
+    {
+      "Height": "21' 04\"",
+      "Weight": "672.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Atrocious",
+      "Abilities": [
+        "Mold Breaker"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Water",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Grass",
+          "Electric",
+          "Fighting",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "129.png",
+      "slug": "Magikarp",
+      "id": "129"
+    },
+    {
+      "img": "130.png",
+      "slug": "Gyarados",
+      "id": "130"
+    }
+  ]
+}

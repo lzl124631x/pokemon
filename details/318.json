@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Carvanha"
+  ],
+  "imgs": [
+    "318.png"
+  ],
+  "descs": [
+    "If anything invades Carvanha's territory, it will swarm and tear\nat the intruder with its pointed fangs. On its own, however, this\nPokémon turns suddenly timid.",
+    "Carvanha's strongly developed jaws and its sharply pointed\nfangs pack the destructive power to rip out boat hulls.\nMany boats have been attacked and sunk by this Pokémon."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "45.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Savage",
+      "Abilities": [
+        "Rough Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Electric",
+          "Fighting",
+          "Grass",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "318.png",
+      "slug": "Carvanha",
+      "id": "318"
+    },
+    {
+      "img": "319.png",
+      "slug": "Sharpedo",
+      "id": "319"
+    }
+  ]
+}

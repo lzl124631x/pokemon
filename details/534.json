@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Conkeldurr"
+  ],
+  "imgs": [
+    "534.png"
+  ],
+  "descs": [
+    "Rather than rely on force, they master moves that\nutilize the centrifugal force of spinning concrete.",
+    "It is thought that Conkeldurr taught humans how to\nmake concrete more than 2,000 years ago."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "191.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Muscular",
+      "Abilities": [
+        "Guts",
+        "Sheer Force"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "532.png",
+      "slug": "Timburr",
+      "id": "532"
+    },
+    {
+      "img": "533.png",
+      "slug": "Gurdurr",
+      "id": "533"
+    },
+    {
+      "img": "534.png",
+      "slug": "Conkeldurr",
+      "id": "534"
+    }
+  ]
+}

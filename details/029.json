@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Nidoran♀"
+  ],
+  "imgs": [
+    "029.png"
+  ],
+  "descs": [
+    "Nidoran? has barbs that secrete a powerful poison.\nThey are thought to have developed as protection for\nthis small-bodied Pokémon. When enraged, it releases\na horrible toxin from its horn.",
+    "Nidoran? has barbs that secrete a powerful poison.\nThey are thought to have developed as protection for\nthis small-bodied Pokémon. When enraged, it releases\na horrible toxin from its horn."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "15.4 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Poison Pin",
+      "Abilities": [
+        "Poison Point",
+        "Rivalry"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "029.png",
+      "slug": "Nidoran♀",
+      "id": "029"
+    },
+    {
+      "img": "030.png",
+      "slug": "Nidorina",
+      "id": "030"
+    },
+    {
+      "img": "031.png",
+      "slug": "Nidoqueen",
+      "id": "031"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Mismagius"
+  ],
+  "imgs": [
+    "429.png"
+  ],
+  "descs": [
+    "Its cries sound like incantations to torment the foe.\nIt appears where you least expect it.",
+    "It chants incantations. While they usually torment\ntargets, some chants bring happiness."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "9.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Magical",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "200.png",
+      "slug": "Misdreavus",
+      "id": "200"
+    },
+    {
+      "img": "429.png",
+      "slug": "Mismagius",
+      "id": "429"
+    }
+  ]
+}

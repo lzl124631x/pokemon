@@ -1,0 +1,51 @@
+{
+  "forms": [
+    "Qwilfish"
+  ],
+  "imgs": [
+    "211.png"
+  ],
+  "descs": [
+    "Qwilfish sucks in water, inflating itself. This Pokémon\nuses the pressure of the water it swallowed to shoot toxic\nquills all at once from all over its body. It finds swimming\nsomewhat challenging.",
+    "Qwilfish sucks in water, inflating itself. This Pokémon\nuses the pressure of the water it swallowed to shoot toxic\nquills all at once from all over its body. It finds swimming\nsomewhat challenging."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "8.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Balloon",
+      "Abilities": [
+        "Poison Point",
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "211.png",
+      "slug": "Qwilfish",
+      "id": "211"
+    }
+  ]
+}

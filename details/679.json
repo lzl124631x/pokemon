@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Honedge"
+  ],
+  "imgs": [
+    "679.png"
+  ],
+  "descs": [
+    "If anyone dares to grab its hilt, it wraps\na blue cloth around that person's arm and\ndrains that person's life energy completely.",
+    "Apparently this Pokémon is born when a\ndeparted spirit inhabits a sword. It attaches itself\nto people and drinks their life force."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "4.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sword",
+      "Abilities": [
+        "No Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ghost",
+          "Dark",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "679.png",
+      "slug": "Honedge",
+      "id": "679"
+    },
+    {
+      "img": "680.png",
+      "slug": "Doublade",
+      "id": "680"
+    },
+    {
+      "img": "681.png",
+      "slug": "Aegislash",
+      "id": "681"
+    }
+  ]
+}

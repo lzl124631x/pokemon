@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pokedex</title>
+  <style>
+  * {
+    padding: 0;
+    margin: 0;
+    font-family: 'Segeo UI', 'Microsoft YaHei', sans-serif;
+  }
+  .pokemon {
+    float: left;
+    border-radius: .3em;
+    margin: 0 0.78125% 50px;
+    width: 23.4375%;
+    box-shadow: 0 .1em .2em -.1em rgba(0, 0, 0, .3);
+    -webkit-transition: box-shadow .3s ease-in-out;
+    transition: box-shadow .3s ease-in-out;
+  }
+
+  .pokemon:hover {
+    box-shadow: 0 .1em 3em -.1em rgba(0, 0, 0, .3);
+  }
+
+  @media screen and (max-width: 509px){
+    .pokemon {
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 767px) and (min-width: 510px) {
+    .pokemon {
+      width: 48.4375%;
+    }
+  }
+  @media screen and (max-width: 1023px) and (min-width: 768px){
+    .pokemon {
+      width: 31.4375%;
+    }
+  }
+
+  .name {
+    font-weight: bold;
+    font-size: 1.3em;
+    text-transform: capitalize;
+    margin: .5em 0;
+  }
+  .id {
+    color: #aaa;;
+    font-size: .7em;
+    margin: .5em 0;
+  }
+  .thumbnail {
+    width: 100%;
+    padding-top: 100%;
+    background-size: contain;
+    background-color: #f3f3f3;
+    border-radius: inherit;
+  }
+  .info {
+    padding: .5em;
+  }
+  .types {
+    margin: .5em 0;
+  }
+  .types span {
+    display: inline-block;
+    font-size: .8em;
+    background-color: #dfdfdf;
+    border-radius: .2em;
+    text-transform: capitalize;
+    max-width: 110px;
+    margin: 0 1.5625% 0 0;
+    width: 38.4375%;
+    text-align: center;
+  }
+  .background-color-bug {
+    background: -webkit-linear-gradient(180deg, #729f3f 50%, #729f3f 50%);
+    background: -webkit-linear-gradient(top, #729f3f 50%, #729f3f 50%);
+    background: linear-gradient(180deg, #729f3f 50%, #729f3f 50%);
+    background-color: #729f3f;
+    color: #fff;
+  }
+
+  .background-color-dark {
+    background: -webkit-linear-gradient(180deg, #707070 50%, #707070 50%);
+    background: -webkit-linear-gradient(top, #707070 50%, #707070 50%);
+    background: linear-gradient(180deg, #707070 50%, #707070 50%);
+    background-color: #707070;
+    color: #fff;
+  }
+
+  .background-color-dragon {
+    background: -webkit-linear-gradient(180deg, #53a4cf 50%, #f16e57 50%);
+    background: -webkit-linear-gradient(top, #53a4cf 50%, #f16e57 50%);
+    background: linear-gradient(180deg, #53a4cf 50%, #f16e57 50%);
+    background-color: #53a4cf;
+    color: #fff;
+  }
+
+  .background-color-electric {
+    background: -webkit-linear-gradient(180deg, #eed535 50%, #eed535 50%);
+    background: -webkit-linear-gradient(top, #eed535 50%, #eed535 50%);
+    background: linear-gradient(180deg, #eed535 50%, #eed535 50%);
+    background-color: #eed535;
+    color: #212121;
+  }
+
+  .background-color-fairy {
+    background: -webkit-linear-gradient(180deg, #fdb9e9 50%, #fdb9e9 50%);
+    background: -webkit-linear-gradient(top, #fdb9e9 50%, #fdb9e9 50%);
+    background: linear-gradient(180deg, #fdb9e9 50%, #fdb9e9 50%);
+    background-color: #fdb9e9;
+    color: #212121;
+  }
+
+  .background-color-fighting {
+    background: -webkit-linear-gradient(180deg, #d56723 50%, #d56723 50%);
+    background: -webkit-linear-gradient(top, #d56723 50%, #d56723 50%);
+    background: linear-gradient(180deg, #d56723 50%, #d56723 50%);
+    background-color: #d56723;
+    color: #fff;
+  }
+
+  .background-color-fire {
+    background: -webkit-linear-gradient(180deg, #fd7d24 50%, #fd7d24 50%);
+    background: -webkit-linear-gradient(top, #fd7d24 50%, #fd7d24 50%);
+    background: linear-gradient(180deg, #fd7d24 50%, #fd7d24 50%);
+    background-color: #fd7d24;
+    color: #fff;
+  }
+
+  .background-color-flying {
+    background: -webkit-linear-gradient(180deg, #3dc7ef 50%, #bdb9b8 50%);
+    background: -webkit-linear-gradient(top, #3dc7ef 50%, #bdb9b8 50%);
+    background: linear-gradient(180deg, #3dc7ef 50%, #bdb9b8 50%);
+    background-color: #3dc7ef;
+    color: #212121;
+  }
+
+  .background-color-ghost {
+    background: -webkit-linear-gradient(180deg, #7b62a3 50%, #7b62a3 50%);
+    background: -webkit-linear-gradient(top, #7b62a3 50%, #7b62a3 50%);
+    background: linear-gradient(180deg, #7b62a3 50%, #7b62a3 50%);
+    background-color: #7b62a3;
+    color: #fff;
+  }
+
+  .background-color-grass {
+    background: -webkit-linear-gradient(180deg, #9bcc50 50%, #9bcc50 50%);
+    background: -webkit-linear-gradient(top, #9bcc50 50%, #9bcc50 50%);
+    background: linear-gradient(180deg, #9bcc50 50%, #9bcc50 50%);
+    background-color: #9bcc50;
+    color: #212121;
+  }
+
+  .background-color-ground {
+    background: -webkit-linear-gradient(180deg, #f7de3f 50%, #ab9842 50%);
+    background: -webkit-linear-gradient(top, #f7de3f 50%, #ab9842 50%);
+    background: linear-gradient(180deg, #f7de3f 50%, #ab9842 50%);
+    background-color: #f7de3f;
+    color: #212121;
+  }
+
+  .background-color-ice {
+    background: -webkit-linear-gradient(180deg, #51c4e7 50%, #51c4e7 50%);
+    background: -webkit-linear-gradient(top, #51c4e7 50%, #51c4e7 50%);
+    background: linear-gradient(180deg, #51c4e7 50%, #51c4e7 50%);
+    background-color: #51c4e7;
+    color: #212121;
+  }
+
+  .background-color-normal {
+    background: -webkit-linear-gradient(180deg, #a4acaf 50%, #a4acaf 50%);
+    background: -webkit-linear-gradient(top, #a4acaf 50%, #a4acaf 50%);
+    background: linear-gradient(180deg, #a4acaf 50%, #a4acaf 50%);
+    background-color: #a4acaf;
+    color: #212121;
+  }
+
+  .background-color-poison {
+    background: -webkit-linear-gradient(180deg, #b97fc9 50%, #b97fc9 50%);
+    background: -webkit-linear-gradient(top, #b97fc9 50%, #b97fc9 50%);
+    background: linear-gradient(180deg, #b97fc9 50%, #b97fc9 50%);
+    background-color: #b97fc9;
+    color: #fff;
+  }
+
+  .background-color-psychic {
+    background: -webkit-linear-gradient(180deg, #f366b9 50%, #f366b9 50%);
+    background: -webkit-linear-gradient(top, #f366b9 50%, #f366b9 50%);
+    background: linear-gradient(180deg, #f366b9 50%, #f366b9 50%);
+    background-color: #f366b9;
+    color: #fff;
+  }
+
+  .background-color-rock {
+    background: -webkit-linear-gradient(180deg, #a38c21 50%, #a38c21 50%);
+    background: -webkit-linear-gradient(top, #a38c21 50%, #a38c21 50%);
+    background: linear-gradient(180deg, #a38c21 50%, #a38c21 50%);
+    background-color: #a38c21;
+    color: #fff;
+  }
+
+  .background-color-steel {
+    background: -webkit-linear-gradient(180deg, #9eb7b8 50%, #9eb7b8 50%);
+    background: -webkit-linear-gradient(top, #9eb7b8 50%, #9eb7b8 50%);
+    background: linear-gradient(180deg, #9eb7b8 50%, #9eb7b8 50%);
+    background-color: #9eb7b8;
+    color: #212121;
+  }
+
+  .background-color-water {
+    background: -webkit-linear-gradient(180deg, #4592c4 50%, #4592c4 50%);
+    background: -webkit-linear-gradient(top, #4592c4 50%, #4592c4 50%);
+    background: linear-gradient(180deg, #4592c4 50%, #4592c4 50%);
+    background-color: #4592c4;
+    color: #fff;
+  }
+  .abilities {
+    margin: .5em 0;
+  }
+  .abilities span {
+    display: inline-block;
+    padding: .3em .8em;
+    font-size: .8em;
+    background-color: #dfdfdf;
+    border-radius: .5em;
+  }
+
+  .weaknesses {
+    margin: .5em 0;
+  }
+
+  .weaknesses span {
+    display: inline-block;
+    padding: .3em .8em;
+    font-size: .8em;
+    background-color: #dfdfdf;
+    border-radius: .5em;
+  }
+  </style>
+</head>
+<body>
+
+  <% _.each(pokedex, function (pokemon) { %>
+  <div class="pokemon">
+    <div class="thumbnail" style="background-image: url(<%= '../thumbnail/' + pokemon.id + '.png' %>)"></div>
+    <div class="info">
+      <div class="id">
+        <%= '#' + pokemon.id %>
+      </div>
+      <div class="name">
+        <%= pokemon.slugLocal %>
+      </div>
+      <div class="types">
+        <% _.each(pokemon.typeLocal, function(type, i) { %>
+        <span class="background-color-<%= pokemon.type[i] %>"><%= type %></span>
+        <% }); %>
+      </div>
+    </div>
+<!--     <div class="abilities">
+      <% _.each(pokemon.abilities, function(ability) { %>
+      <span><%= ability %></span>
+      <% }); %>
+    </div> -->
+<!--     <div class="title">Weaknesses</div>
+    <div class="weaknesses">
+      <% _.each(pokemon.weakness, function(weakness) { %>
+      <span class="background-color-<%= weakness.toLowerCase() %>"><%= weakness %></span>
+      <% }); %>
+    </div> -->
+  </div>
+  <% }); %>
+</body>
+</html>

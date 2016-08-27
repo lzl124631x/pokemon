@@ -1,0 +1,73 @@
+{
+  "forms": [
+    "Mothim"
+  ],
+  "imgs": [
+    "414.png"
+  ],
+  "descs": [
+    "It flutters around at night and steals honey from\nthe Combee hive.",
+    "It loves the honey of flowers and steals honey\ncollected by Combee."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "51.4 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Moth",
+      "Abilities": [
+        "Swarm"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Fire",
+          "Flying",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "412.png",
+      "slug": "Burmy",
+      "id": "412"
+    },
+    [
+      {
+        "img": "413.png",
+        "slug": "Wormadam",
+        "id": "413"
+      },
+      {
+        "img": "413_f2.png",
+        "slug": "Sandy Cloak",
+        "id": "413"
+      },
+      {
+        "img": "413_f3.png",
+        "slug": "Trash Cloak",
+        "id": "413"
+      },
+      {
+        "img": "414.png",
+        "slug": "Mothim",
+        "id": "414"
+      }
+    ]
+  ]
+}

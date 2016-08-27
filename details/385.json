@@ -1,0 +1,50 @@
+{
+  "forms": [
+    "Jirachi"
+  ],
+  "imgs": [
+    "385.png"
+  ],
+  "descs": [
+    "Jirachi will awaken from its sleep of a thousand years if you\nsing to it in a voice of purity. It is said to make true any wish\nthat people desire.",
+    "A legend states that Jirachi will make true any wish that is\nwritten on notes attached to its head when it awakens. If this\nPokémon senses danger, it will fight without awakening."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "2.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Wish",
+      "Abilities": [
+        "Serene Grace"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ground",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "385.png",
+      "slug": "Jirachi",
+      "id": "385"
+    }
+  ]
+}

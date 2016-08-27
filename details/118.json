@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Goldeen"
+  ],
+  "imgs": [
+    "118.png"
+  ],
+  "descs": [
+    "Goldeen loves swimming wild and free in rivers and ponds.\nIf one of these Pokémon is placed in an aquarium, it will\nshatter even the thickest glass with one ram of its horn\nand make its escape.",
+    "Goldeen is a very beautiful Pokémon with fins that billow\nelegantly in water. However, don't let your guard down around\nthis Pokémon—it could ram you powerfully with its horn."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "33.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Goldfish",
+      "Abilities": [
+        "Swift Swim",
+        "Water Veil"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "118.png",
+      "slug": "Goldeen",
+      "id": "118"
+    },
+    {
+      "img": "119.png",
+      "slug": "Seaking",
+      "id": "119"
+    }
+  ]
+}

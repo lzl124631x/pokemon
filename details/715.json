@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Noivern"
+  ],
+  "imgs": [
+    "715.png"
+  ],
+  "descs": [
+    "The ultrasonic waves it emits from its ears\ncan reduce a large boulder to pebbles.\nIt swoops out of the dark to attack.",
+    "They fly around on moonless nights\nand attack careless prey. Nothing can\nbeat them in a battle in the dark."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "187.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sound Wave",
+      "Abilities": [
+        "Frisk",
+        "Infiltrator"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Flying",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Dragon",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "714.png",
+      "slug": "Noibat",
+      "id": "714"
+    },
+    {
+      "img": "715.png",
+      "slug": "Noivern",
+      "id": "715"
+    }
+  ]
+}

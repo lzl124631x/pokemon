@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Pidgeotto"
+  ],
+  "imgs": [
+    "017.png"
+  ],
+  "descs": [
+    "Pidgeotto claims a large area as its own territory. This\nPokémon flies around, patrolling its living space. If its territory\nis violated, it shows no mercy in thoroughly punishing the foe\nwith its sharp claws.",
+    "Pidgeotto claims a large area as its own territory.\nThis Pokémon flies around, patrolling its living space.\nIf its territory is violated, it shows no mercy in thoroughly\npunishing the foe with its sharp claws."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "66.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bird",
+      "Abilities": [
+        "Keen Eye",
+        "Tangled Feet"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "016.png",
+      "slug": "Pidgey",
+      "id": "016"
+    },
+    {
+      "img": "017.png",
+      "slug": "Pidgeotto",
+      "id": "017"
+    },
+    {
+      "img": "018.png",
+      "slug": "Pidgeot",
+      "id": "018"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Bouffalant"
+  ],
+  "imgs": [
+    "626.png"
+  ],
+  "descs": [
+    "Their fluffy fur absorbs damage, even if they strike\nfoes with a fierce headbutt.",
+    "They charge wildly and headbutt everything.\nTheir headbutts have enough destructive force to\nderail a train."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "208.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bash Buffalo",
+      "Abilities": [
+        "Reckless",
+        "Sap Sipper"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "626.png",
+      "slug": "Bouffalant",
+      "id": "626"
+    }
+  ]
+}

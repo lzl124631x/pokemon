@@ -1,0 +1,77 @@
+{
+  "forms": [
+    "Aria Forme",
+    "Pirouette Forme"
+  ],
+  "imgs": [
+    "648.png",
+    "648_f2.png"
+  ],
+  "descs": [
+    "Its melodies are sung with a special vocalization\nmethod that can control the feelings of those who\nhear it.",
+    "The melodies sung by Meloetta have the power to\nmake Pokémon that hear them happy or sad."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "14.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Melody",
+      "Abilities": [
+        "Serene Grace"
+      ]
+    },
+    {
+      "Height": "2' 00\"",
+      "Weight": "14.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Melody",
+      "Abilities": [
+        "Serene Grace"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Normal",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Psychic",
+          "Flying",
+          "Fairy",
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "648.png",
+      "slug": "Meloetta",
+      "id": "648"
+    }
+  ]
+}

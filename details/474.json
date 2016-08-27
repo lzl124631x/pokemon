@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Porygon-Z"
+  ],
+  "imgs": [
+    "474.png"
+  ],
+  "descs": [
+    "Its programming was modified to enable it to travel\nthrough alien dimensions. Seems there might have\nbeen an error...",
+    "Additional software was installed to make it a better\nPokémon. It began acting oddly, however."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "75.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Virtual",
+      "Abilities": [
+        "Adaptability",
+        "Download"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "137.png",
+      "slug": "Porygon",
+      "id": "137"
+    },
+    {
+      "img": "233.png",
+      "slug": "Porygon2",
+      "id": "233"
+    },
+    {
+      "img": "474.png",
+      "slug": "Porygon-Z",
+      "id": "474"
+    }
+  ]
+}

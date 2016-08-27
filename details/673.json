@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Gogoat"
+  ],
+  "imgs": [
+    "673.png"
+  ],
+  "descs": [
+    "They inhabit mountainous regions.\nThe leader of the herd is decided by\na battle of clashing horns.",
+    "It can tell how its Trainer is feeling by\nsubtle shifts in the grip on its horns.\nThis empathic sense lets them run as if one being."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "200.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mount",
+      "Abilities": [
+        "Sap Sipper"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Poison",
+          "Ice",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "672.png",
+      "slug": "Skiddo",
+      "id": "672"
+    },
+    {
+      "img": "673.png",
+      "slug": "Gogoat",
+      "id": "673"
+    }
+  ]
+}

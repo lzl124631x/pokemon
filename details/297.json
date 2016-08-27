@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Hariyama"
+  ],
+  "imgs": [
+    "297.png"
+  ],
+  "descs": [
+    "Hariyama's thick body may appear fat, but it is actually a hunk\nof solid muscle. If this Pokémon bears down and tightens all its\nmuscles, its body becomes as hard as a rock.",
+    "Hariyama practices its straight-arm slaps in any number of\nlocations. One hit of this Pokémon's powerful, openhanded,\nstraight-arm punches could snap a telephone pole in two."
+  ],
+  "abilities": [
+    {
+      "Height": "7' 07\"",
+      "Weight": "559.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Arm Thrust",
+      "Abilities": [
+        "Guts",
+        "Thick Fat"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "296.png",
+      "slug": "Makuhita",
+      "id": "296"
+    },
+    {
+      "img": "297.png",
+      "slug": "Hariyama",
+      "id": "297"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Klefki"
+  ],
+  "imgs": [
+    "707.png"
+  ],
+  "descs": [
+    "It never lets go of a key that it likes,\nso people give it the keys to vaults and\nsafes as a way to prevent crime.",
+    "These key collectors threaten any attackers\nby fiercely jingling their keys at them."
+  ],
+  "abilities": [
+    {
+      "Height": "0' 08\"",
+      "Weight": "6.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Key Ring",
+      "Abilities": [
+        "Prankster"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "707.png",
+      "slug": "Klefki",
+      "id": "707"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Unfezant"
+  ],
+  "imgs": [
+    "521.png"
+  ],
+  "descs": [
+    "Males have plumage on their heads. They will never\nlet themselves feel close to anyone other than\ntheir Trainers.",
+    "Males swing their head plumage to threaten\nopponents. The females' flying abilities surpass\nthose of the males."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "63.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Proud",
+      "Abilities": [
+        "Super Luck",
+        "Big Pecks"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "519.png",
+      "slug": "Pidove",
+      "id": "519"
+    },
+    {
+      "img": "520.png",
+      "slug": "Tranquill",
+      "id": "520"
+    },
+    {
+      "img": "521.png",
+      "slug": "Unfezant",
+      "id": "521"
+    }
+  ]
+}

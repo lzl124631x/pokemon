@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Dodrio"
+  ],
+  "imgs": [
+    "085.png"
+  ],
+  "descs": [
+    "Apparently, the heads aren't the only parts of the body that\nDodrio has three of. It has three sets of hearts and lungs as\nwell, so it is capable of running long distances without rest.",
+    "Watch out if Dodrio's three heads are looking in three separate\ndirections. It's a sure sign that it is on its guard. Don't go near\nthis Pokémon if it's being wary—it may decide to peck you."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "187.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Triple Bird",
+      "Abilities": [
+        "Run Away",
+        "Early Bird"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "084.png",
+      "slug": "Doduo",
+      "id": "084"
+    },
+    {
+      "img": "085.png",
+      "slug": "Dodrio",
+      "id": "085"
+    }
+  ]
+}

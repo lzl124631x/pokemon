@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Amoonguss"
+  ],
+  "imgs": [
+    "591.png"
+  ],
+  "descs": [
+    "It lures prey close by dancing and waving its\narm caps, which resemble Poké Balls, in a\nswaying motion.",
+    "They show off their Poké Ball caps to lure prey,\nbut very few Pokémon are fooled by this."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "23.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mushroom",
+      "Abilities": [
+        "Effect Spore"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ice",
+          "Flying",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "590.png",
+      "slug": "Foongus",
+      "id": "590"
+    },
+    {
+      "img": "591.png",
+      "slug": "Amoonguss",
+      "id": "591"
+    }
+  ]
+}

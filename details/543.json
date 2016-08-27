@@ -1,0 +1,62 @@
+{
+  "forms": [
+    "Venipede"
+  ],
+  "imgs": [
+    "543.png"
+  ],
+  "descs": [
+    "Its bite injects a potent poison, enough to paralyze\nlarge bird Pokémon that try to prey on it.",
+    "It discovers what is going on around it by using the\nfeelers on its head and tail. It is brutally aggressive."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "11.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Centipede",
+      "Abilities": [
+        "Swarm",
+        "Poison Point"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Psychic",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "543.png",
+      "slug": "Venipede",
+      "id": "543"
+    },
+    {
+      "img": "544.png",
+      "slug": "Whirlipede",
+      "id": "544"
+    },
+    {
+      "img": "545.png",
+      "slug": "Scolipede",
+      "id": "545"
+    }
+  ]
+}

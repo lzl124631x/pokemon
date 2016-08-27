@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Gulpin"
+  ],
+  "imgs": [
+    "316.png"
+  ],
+  "descs": [
+    "Most of Gulpin's body is made up of its stomach—its heart and\nbrain are very small in comparison. This Pokémon's stomach\ncontains special enzymes that dissolve anything.",
+    "Virtually all of Gulpin's body is its stomach. As a result, it can\nswallow something its own size. This Pokémon's stomach\ncontains a special fluid that digests anything."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "22.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Stomach",
+      "Abilities": [
+        "Liquid Ooze",
+        "Sticky Hold"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "316.png",
+      "slug": "Gulpin",
+      "id": "316"
+    },
+    {
+      "img": "317.png",
+      "slug": "Swalot",
+      "id": "317"
+    }
+  ]
+}

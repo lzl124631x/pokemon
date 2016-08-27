@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Dunsparce"
+  ],
+  "imgs": [
+    "206.png"
+  ],
+  "descs": [
+    "Dunsparce has a drill for its tail. It uses this tail to burrow into\nthe ground backward. This Pokémon is known to make its\nnest in complex shapes deep under the ground.",
+    "Dunsparce has a drill for its tail. It uses this tail to burrow into\nthe ground backward. This Pokémon is known to make its\nnest in complex shapes deep under the ground."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "30.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Land Snake",
+      "Abilities": [
+        "Run Away",
+        "Serene Grace"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "206.png",
+      "slug": "Dunsparce",
+      "id": "206"
+    }
+  ]
+}

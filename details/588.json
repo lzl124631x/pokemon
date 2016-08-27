@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Karrablast"
+  ],
+  "imgs": [
+    "588.png"
+  ],
+  "descs": [
+    "For some reason they evolve when they receive\nelectrical energy while they are attacking Shelmet.",
+    "These mysterious Pokémon evolve when they\nreceive electrical stimulation while they are in the\nsame place as Shelmet."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "13.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Clamping",
+      "Abilities": [
+        "Shed Skin",
+        "Swarm"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "588.png",
+      "slug": "Karrablast",
+      "id": "588"
+    },
+    {
+      "img": "589.png",
+      "slug": "Escavalier",
+      "id": "589"
+    }
+  ]
+}

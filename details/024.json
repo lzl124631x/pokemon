@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Arbok"
+  ],
+  "imgs": [
+    "024.png"
+  ],
+  "descs": [
+    "This Pokémon is terrifically strong in order to constrict things\nwith its body. It can even flatten steel oil drums. Once Arbok\nwraps its body around its foe, escaping its crunching embrace\nis impossible.",
+    "This Pokémon is terrifically strong in order to constrict things\nwith its body. It can even flatten steel oil drums.\nOnce Arbok wraps its body around its foe, escaping its\ncrunching embrace is impossible."
+  ],
+  "abilities": [
+    {
+      "Height": "11' 06\"",
+      "Weight": "143.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cobra",
+      "Abilities": [
+        "Shed Skin",
+        "Intimidate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "023.png",
+      "slug": "Ekans",
+      "id": "023"
+    },
+    {
+      "img": "024.png",
+      "slug": "Arbok",
+      "id": "024"
+    }
+  ]
+}

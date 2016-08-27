@@ -1,0 +1,116 @@
+{
+  "forms": [
+    "Charizard",
+    "Mega Charizard X",
+    "Mega Charizard Y"
+  ],
+  "imgs": [
+    "006.png",
+    "006_f2.png",
+    "006_f3.png"
+  ],
+  "descs": [
+    "Charizard flies around the sky in search of powerful opponents.\nIt breathes fire of such great heat that it melts anything.\nHowever, it never turns its fiery breath on any opponent\nweaker than itself.",
+    "Charizard flies around the sky in search of powerful opponents.\nIt breathes fire of such great heat that it melts anything.\nHowever, it never turns its fiery breath on any opponent\nweaker than itself."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "199.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Flame",
+      "Abilities": [
+        "Blaze"
+      ]
+    },
+    {
+      "Height": "5' 07\"",
+      "Weight": "243.6 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Flame",
+      "Abilities": [
+        "Tough Claws"
+      ]
+    },
+    {
+      "Height": "5' 07\"",
+      "Weight": "221.6 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Flame",
+      "Abilities": [
+        "Drought"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Fire",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dragon",
+          "Rock",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Fire",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Rock",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "004.png",
+      "slug": "Charmander",
+      "id": "004"
+    },
+    {
+      "img": "005.png",
+      "slug": "Charmeleon",
+      "id": "005"
+    },
+    {
+      "img": "006.png",
+      "slug": "Charizard",
+      "id": "006"
+    }
+  ]
+}

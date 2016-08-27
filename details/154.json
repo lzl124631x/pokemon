@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Meganium"
+  ],
+  "imgs": [
+    "154.png"
+  ],
+  "descs": [
+    "The fragrance of Meganium's flower soothes and calms\nemotions. In battle, this Pokémon gives off more of its\nbecalming scent to blunt the foe's fighting spirit.",
+    "The fragrance of Meganium's flower soothes and calms\nemotions. In battle, this Pokémon gives off more of its\nbecalming scent to blunt the foe's fighting spirit."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "221.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Herb",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "152.png",
+      "slug": "Chikorita",
+      "id": "152"
+    },
+    {
+      "img": "153.png",
+      "slug": "Bayleef",
+      "id": "153"
+    },
+    {
+      "img": "154.png",
+      "slug": "Meganium",
+      "id": "154"
+    }
+  ]
+}

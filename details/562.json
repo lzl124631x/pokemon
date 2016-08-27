@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Yamask"
+  ],
+  "imgs": [
+    "562.png"
+  ],
+  "descs": [
+    "Grave robbers who mistake them for real coffins and\nget too close end up trapped inside their bodies.",
+    "These Pokémon arose from the spirits of people\ninterred in graves. Each retains memories of its\nformer life."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "3.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Spirit",
+      "Abilities": [
+        "Mummy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "562.png",
+      "slug": "Yamask",
+      "id": "562"
+    },
+    {
+      "img": "563.png",
+      "slug": "Cofagrigus",
+      "id": "563"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Sudowoodo"
+  ],
+  "imgs": [
+    "185.png"
+  ],
+  "descs": [
+    "Sudowoodo camouflages itself as a tree to avoid being\nattacked by enemies. However, because its hands remain\ngreen throughout the year, the Pokémon is easily identified\nas a fake during the winter.",
+    "Sudowoodo camouflages itself as a tree to avoid being\nattacked by enemies. However, because its hands remain\ngreen throughout the year, the Pokémon is easily identified\nas a fake during the winter."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "83.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Imitation",
+      "Abilities": [
+        "Rock Head",
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Grass",
+          "Ground",
+          "Steel",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "438.png",
+      "slug": "Bonsly",
+      "id": "438"
+    },
+    {
+      "img": "185.png",
+      "slug": "Sudowoodo",
+      "id": "185"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Trapinch"
+  ],
+  "imgs": [
+    "328.png"
+  ],
+  "descs": [
+    "Trapinch is a patient hunter. It digs an inescapable pit in a\ndesert and waits for its prey to come tumbling down. This\nPokémon can go a whole week without access to any water.",
+    "Trapinch's nest is a sloped, bowl-like pit dug in sand.\nThis Pokémon patiently waits for prey to tumble down the pit.\nIts giant jaws have enough strength to crush even boulders."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "33.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Ant Pit",
+      "Abilities": [
+        "Arena Trap",
+        "Hyper Cutter"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Ice",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "328.png",
+      "slug": "Trapinch",
+      "id": "328"
+    },
+    {
+      "img": "329.png",
+      "slug": "Vibrava",
+      "id": "329"
+    },
+    {
+      "img": "330.png",
+      "slug": "Flygon",
+      "id": "330"
+    }
+  ]
+}

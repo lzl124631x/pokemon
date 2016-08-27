@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Crustle"
+  ],
+  "imgs": [
+    "558.png"
+  ],
+  "descs": [
+    "Proud of its sturdy skull, it suddenly headbutts\neverything, but its weight makes it unstable, too.",
+    "It possesses legs of enormous strength, enabling it\nto carry heavy slabs for many days, even when\ncrossing arid land."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "440.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Stone Home",
+      "Abilities": [
+        "Sturdy",
+        "Shell Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Rock",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "557.png",
+      "slug": "Dwebble",
+      "id": "557"
+    },
+    {
+      "img": "558.png",
+      "slug": "Crustle",
+      "id": "558"
+    }
+  ]
+}

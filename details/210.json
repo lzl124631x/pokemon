@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Granbull"
+  ],
+  "imgs": [
+    "210.png"
+  ],
+  "descs": [
+    "Granbull has a particularly well-developed lower jaw.\nThe enormous fangs are heavy, causing the Pokémon to tip\nits head back for balance. Unless it is startled, it will not try to\nbite indiscriminately.",
+    "Granbull has a particularly well-developed lower jaw.\nThe enormous fangs are heavy, causing the Pokémon to tip its\nhead back for balance. Unless it is startled, it will not try to\nbite indiscriminately."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "107.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fairy",
+      "Abilities": [
+        "Intimidate",
+        "Quick Feet"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "209.png",
+      "slug": "Snubbull",
+      "id": "209"
+    },
+    {
+      "img": "210.png",
+      "slug": "Granbull",
+      "id": "210"
+    }
+  ]
+}

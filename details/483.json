@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Dialga"
+  ],
+  "imgs": [
+    "483.png"
+  ],
+  "descs": [
+    "It has the power to control time. It appears in\nSinnoh-region myths as an ancient deity.",
+    "A Pokémon spoken of in legend. It is said that time\nbegan moving when Dialga was born."
+  ],
+  "abilities": [
+    {
+      "Height": "17' 09\"",
+      "Weight": "1505.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Temporal",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "483.png",
+      "slug": "Dialga",
+      "id": "483"
+    }
+  ]
+}

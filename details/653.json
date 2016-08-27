@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Fennekin"
+  ],
+  "imgs": [
+    "653.png"
+  ],
+  "descs": [
+    "As it walks, it munches on a twig in place\nof a snack. It intimidates opponents\nby puffing hot air out of its ears.",
+    "Eating a twig fills it with energy,\nand its roomy ears give vent to air\nhotter than 390 degrees Fahrenheit."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "20.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fox",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Rock",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "653.png",
+      "slug": "Fennekin",
+      "id": "653"
+    },
+    {
+      "img": "654.png",
+      "slug": "Braixen",
+      "id": "654"
+    },
+    {
+      "img": "655.png",
+      "slug": "Delphox",
+      "id": "655"
+    }
+  ]
+}

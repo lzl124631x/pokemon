@@ -1,0 +1,64 @@
+{
+  "forms": [
+    "Rhydon"
+  ],
+  "imgs": [
+    "112.png"
+  ],
+  "descs": [
+    "Rhydon has a horn that serves as a drill. It is used for\ndestroying rocks and boulders. This Pokémon occasionally\nrams into streams of magma, but the armor-like hide prevents\nit from feeling the heat.",
+    "Rhydon's horn can crush even uncut diamonds. One sweeping\nblow of its tail can topple a building. This Pokémon's hide is\nextremely tough. Even direct cannon hits don't leave a scratch."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 03\"",
+      "Weight": "264.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Drill",
+      "Abilities": [
+        "Rock Head",
+        "Lightning Rod"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Water",
+          "Fighting",
+          "Ground",
+          "Ice",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "111.png",
+      "slug": "Rhyhorn",
+      "id": "111"
+    },
+    {
+      "img": "112.png",
+      "slug": "Rhydon",
+      "id": "112"
+    },
+    {
+      "img": "464.png",
+      "slug": "Rhyperior",
+      "id": "464"
+    }
+  ]
+}

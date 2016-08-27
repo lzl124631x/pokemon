@@ -1,0 +1,88 @@
+{
+  "forms": [
+    "Aggron",
+    "Mega Aggron"
+  ],
+  "imgs": [
+    "306.png",
+    "306_f2.png"
+  ],
+  "descs": [
+    "Aggron is protective of its environment. If its mountain is\nravaged by a landslide or a fire, this Pokémon will haul\ntopsoil to the area, plant trees, and beautifully restore its\nown territory.",
+    "Aggron claims an entire mountain as its own territory.\nIt mercilessly beats up anything that violates its environment.\nThis Pokémon vigilantly patrols its territory at all times."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 11\"",
+      "Weight": "793.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Iron Armor",
+      "Abilities": [
+        "Rock Head",
+        "Sturdy"
+      ]
+    },
+    {
+      "Height": "7' 03\"",
+      "Weight": "870.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Iron Armor",
+      "Abilities": [
+        "Filter"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Ground",
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "304.png",
+      "slug": "Aron",
+      "id": "304"
+    },
+    {
+      "img": "305.png",
+      "slug": "Lairon",
+      "id": "305"
+    },
+    {
+      "img": "306.png",
+      "slug": "Aggron",
+      "id": "306"
+    }
+  ]
+}

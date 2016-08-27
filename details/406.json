@@ -1,0 +1,62 @@
+{
+  "forms": [
+    "Budew"
+  ],
+  "imgs": [
+    "406.png"
+  ],
+  "descs": [
+    "Over the winter, it closes its bud and endures the\ncold. In spring, the bud opens and releases pollen.",
+    "When it feels the sun's warm touch, it opens its bud\nto release pollen. It lives alongside clear pools."
+  ],
+  "abilities": [
+    {
+      "Height": "0' 08\"",
+      "Weight": "2.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bud",
+      "Abilities": [
+        "Poison Point",
+        "Natural Cure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "406.png",
+      "slug": "Budew",
+      "id": "406"
+    },
+    {
+      "img": "315.png",
+      "slug": "Roselia",
+      "id": "315"
+    },
+    {
+      "img": "407.png",
+      "slug": "Roserade",
+      "id": "407"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Whismur"
+  ],
+  "imgs": [
+    "293.png"
+  ],
+  "descs": [
+    "Whismur is very timid. If it starts to cry loudly, it becomes\nstartled by its own crying and cries even harder. When it finally\nstops crying, the Pokémon goes to sleep, all tired out.",
+    "Normally, Whismur's voice is very quiet—it is barely audible\neven if one is paying close attention. However, if this Pokémon\nsenses danger, it starts crying at an earsplitting volume."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "35.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Whisper",
+      "Abilities": [
+        "Soundproof"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "293.png",
+      "slug": "Whismur",
+      "id": "293"
+    },
+    {
+      "img": "294.png",
+      "slug": "Loudred",
+      "id": "294"
+    },
+    {
+      "img": "295.png",
+      "slug": "Exploud",
+      "id": "295"
+    }
+  ]
+}

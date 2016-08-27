@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Drapion"
+  ],
+  "imgs": [
+    "452.png"
+  ],
+  "descs": [
+    "It has the power in its clawed arms to make scrap\nof a car. The tips of its claws release poison.",
+    "It takes pride in its strength. Even though it can\ntear foes apart, it finishes them off with\npowerful poison."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "135.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Ogre Scorpion",
+      "Abilities": [
+        "Sniper",
+        "Battle Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "451.png",
+      "slug": "Skorupi",
+      "id": "451"
+    },
+    {
+      "img": "452.png",
+      "slug": "Drapion",
+      "id": "452"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Xatu"
+  ],
+  "imgs": [
+    "178.png"
+  ],
+  "descs": [
+    "Xatu is known to stand motionless while staring at the sun all\nday long. Some people revere it as a mystical Pokémon out of\ntheir belief that Xatu is in possession of the power to see into\nthe future.",
+    "Xatu stands rooted and still in one spot all day long.\nPeople believe that this Pokémon does so out of fear of the\nterrible things it has foreseen in the future."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "33.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mystic",
+      "Abilities": [
+        "Synchronize",
+        "Early Bird"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Electric",
+          "Ghost",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "177.png",
+      "slug": "Natu",
+      "id": "177"
+    },
+    {
+      "img": "178.png",
+      "slug": "Xatu",
+      "id": "178"
+    }
+  ]
+}

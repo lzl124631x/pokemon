@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Dewott"
+  ],
+  "imgs": [
+    "502.png"
+  ],
+  "descs": [
+    "As a result of strict training, each Dewott learns\ndifferent forms for using the scalchops.",
+    "Strict training is how it learns its flowing\ndouble-scalchop technique."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "54.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Discipline",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "501.png",
+      "slug": "Oshawott",
+      "id": "501"
+    },
+    {
+      "img": "502.png",
+      "slug": "Dewott",
+      "id": "502"
+    },
+    {
+      "img": "503.png",
+      "slug": "Samurott",
+      "id": "503"
+    }
+  ]
+}

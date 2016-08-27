@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Grovyle"
+  ],
+  "imgs": [
+    "253.png"
+  ],
+  "descs": [
+    "This Pokémon adeptly flies from branch to branch in trees.\nIn a forest, no Pokémon can ever hope to catch a fleeing\nGrovyle however fast they may be.",
+    "The leaves growing out of Grovyle's body are convenient for\ncamouflaging it from enemies in the forest. This Pokémon is a\nmaster at climbing trees in jungles."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "47.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Wood Gecko",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "252.png",
+      "slug": "Treecko",
+      "id": "252"
+    },
+    {
+      "img": "253.png",
+      "slug": "Grovyle",
+      "id": "253"
+    },
+    {
+      "img": "254.png",
+      "slug": "Sceptile",
+      "id": "254"
+    }
+  ]
+}

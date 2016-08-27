@@ -1,0 +1,128 @@
+{
+  "forms": [
+    "Castform",
+    "Sunny Form",
+    "Rainy Form",
+    "Snowy Form"
+  ],
+  "imgs": [
+    "351.png",
+    "351_f2.png",
+    "351_f3.png",
+    "351_f4.png"
+  ],
+  "descs": [
+    "Castform borrows the power of nature to transform itself\ninto the guises of the sun, rain, and snow-clouds.\nThis Pokémon's feelings change with the weather.",
+    "Castform's appearance changes with the weather.\nThis Pokémon gained the ability to use the vast power of\nnature to protect its tiny body."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "1.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Weather",
+      "Abilities": [
+        "Forecast"
+      ]
+    },
+    {
+      "Height": "1' 00\"",
+      "Weight": "1.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Weather",
+      "Abilities": [
+        "Forecast"
+      ]
+    },
+    {
+      "Height": "1' 00\"",
+      "Weight": "1.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Weather",
+      "Abilities": [
+        "Forecast"
+      ]
+    },
+    {
+      "Height": "1' 00\"",
+      "Weight": "1.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Weather",
+      "Abilities": [
+        "Forecast"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Rock",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Steel",
+          "Fighting",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "351.png",
+      "slug": "Castform",
+      "id": "351"
+    }
+  ]
+}

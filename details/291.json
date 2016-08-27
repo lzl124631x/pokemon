@@ -1,0 +1,64 @@
+{
+  "forms": [
+    "Ninjask"
+  ],
+  "imgs": [
+    "291.png"
+  ],
+  "descs": [
+    "If Ninjask is not trained properly, it will refuse to obey\nthe Trainer and cry loudly continuously. Because of this\nquality, this Pokémon is said to be one that puts the\nTrainer's abilities to the test.",
+    "Ninjask moves around at such a high speed that it\ncannot be seen, even while its crying can be clearly heard.\nFor that reason, this Pokémon was long believed to\nbe invisible."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "26.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Ninja",
+      "Abilities": [
+        "Speed Boost"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Fire",
+          "Flying",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "290.png",
+      "slug": "Nincada",
+      "id": "290"
+    },
+    [
+      {
+        "img": "291.png",
+        "slug": "Ninjask",
+        "id": "291"
+      },
+      {
+        "img": "292.png",
+        "slug": "Shedinja",
+        "id": "292"
+      }
+    ]
+  ]
+}

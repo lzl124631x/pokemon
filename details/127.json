@@ -1,0 +1,80 @@
+{
+  "forms": [
+    "Pinsir",
+    "Mega Pinsir"
+  ],
+  "imgs": [
+    "127.png",
+    "127_f2.png"
+  ],
+  "descs": [
+    "Pinsir has a pair of massive horns. Protruding from the surface\nof these horns are thorns. These thorns are driven deeply into\nthe foe's body when the pincer closes, making it tough for the\nfoe to escape.",
+    "Pinsir is astoundingly strong. It can grip a foe weighing twice\nits weight in its horns and easily lift it. This Pokémon's\nmovements turn sluggish in cold places."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "121.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Stag Beetle",
+      "Abilities": [
+        "Hyper Cutter",
+        "Mold Breaker"
+      ]
+    },
+    {
+      "Height": "5' 07\"",
+      "Weight": "130.1 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Stag Beetle",
+      "Abilities": [
+        "Aerilate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "127.png",
+      "slug": "Pinsir",
+      "id": "127"
+    }
+  ]
+}

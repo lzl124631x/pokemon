@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Gliscor"
+  ],
+  "imgs": [
+    "472.png"
+  ],
+  "descs": [
+    "Its flight is soundless. It uses its lengthy tail to\ncarry off its prey... Then its elongated fangs do\nthe rest.",
+    "It observes prey while hanging inverted from\nbranches. When the chance presents itself,\nit swoops!"
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "93.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fang Scorpion",
+      "Abilities": [
+        "Sand Veil",
+        "Hyper Cutter"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "207.png",
+      "slug": "Gligar",
+      "id": "207"
+    },
+    {
+      "img": "472.png",
+      "slug": "Gliscor",
+      "id": "472"
+    }
+  ]
+}

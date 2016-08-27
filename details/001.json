@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Bulbasaur"
+  ],
+  "imgs": [
+    "001.png"
+  ],
+  "descs": [
+    "Bulbasaur can be seen napping in bright sunlight.\nThere is a seed on its back. By soaking up the sun's rays,\nthe seed grows progressively larger.",
+    "Bulbasaur can be seen napping in bright sunlight.\nThere is a seed on its back. By soaking up the sun's rays,\nthe seed grows progressively larger."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "15.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Seed",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "001.png",
+      "slug": "Bulbasaur",
+      "id": "001"
+    },
+    {
+      "img": "002.png",
+      "slug": "Ivysaur",
+      "id": "002"
+    },
+    {
+      "img": "003.png",
+      "slug": "Venusaur",
+      "id": "003"
+    }
+  ]
+}

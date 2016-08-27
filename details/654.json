@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Braixen"
+  ],
+  "imgs": [
+    "654.png"
+  ],
+  "descs": [
+    "When the twig is plucked from its tail,\nfriction sets the twig alight. The flame\nis used to send signals to its allies.",
+    "It has a twig stuck in its tail. With\nfriction from its tail fur, it sets the\ntwig on fire and launches into battle."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "32.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fox",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Rock",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "653.png",
+      "slug": "Fennekin",
+      "id": "653"
+    },
+    {
+      "img": "654.png",
+      "slug": "Braixen",
+      "id": "654"
+    },
+    {
+      "img": "655.png",
+      "slug": "Delphox",
+      "id": "655"
+    }
+  ]
+}

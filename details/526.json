@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Gigalith"
+  ],
+  "imgs": [
+    "526.png"
+  ],
+  "descs": [
+    "Compressing the energy from its internal core\nlets it fire off an attack capable of blowing away\na mountain.",
+    "The solar rays it absorbs are processed in its\nenergy core and fired as a ball of light."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "573.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Compressed",
+      "Abilities": [
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Grass",
+          "Fighting",
+          "Ground",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "524.png",
+      "slug": "Roggenrola",
+      "id": "524"
+    },
+    {
+      "img": "525.png",
+      "slug": "Boldore",
+      "id": "525"
+    },
+    {
+      "img": "526.png",
+      "slug": "Gigalith",
+      "id": "526"
+    }
+  ]
+}

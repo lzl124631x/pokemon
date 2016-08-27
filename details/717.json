@@ -1,0 +1,50 @@
+{
+  "forms": [
+    "Yveltal"
+  ],
+  "imgs": [
+    "717.png"
+  ],
+  "descs": [
+    "When its life comes to an end, it absorbs\nthe life energy of every living thing\nand turns into a cocoon once more.",
+    "When this legendary Pokémon's wings and\ntail feathers spread wide and glow red,\nit absorbs the life force of living creatures."
+  ],
+  "abilities": [
+    {
+      "Height": "19' 00\"",
+      "Weight": "447.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Destruction",
+      "Abilities": [
+        "Dark Aura"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "717.png",
+      "slug": "Yveltal",
+      "id": "717"
+    }
+  ]
+}

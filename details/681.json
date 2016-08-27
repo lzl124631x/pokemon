@@ -1,0 +1,91 @@
+{
+  "forms": [
+    "Shield Forme",
+    "Blade Forme"
+  ],
+  "imgs": [
+    "681.png",
+    "681_f2.png"
+  ],
+  "descs": [
+    "Apparently, it can detect the innate qualities\nof leadership. According to legend, whoever it\nrecognizes is destined to become king.",
+    "Generations of kings were attended by these\nPokémon, which used their spectral power to\nmanipulate and control people and Pokémon."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "116.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Royal Sword",
+      "Abilities": [
+        "Stance Change"
+      ]
+    },
+    {
+      "Height": "5' 07\"",
+      "Weight": "116.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Royal Sword",
+      "Abilities": [
+        "Stance Change"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ghost",
+          "Dark",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Steel",
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ghost",
+          "Dark",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "679.png",
+      "slug": "Honedge",
+      "id": "679"
+    },
+    {
+      "img": "680.png",
+      "slug": "Doublade",
+      "id": "680"
+    },
+    {
+      "img": "681.png",
+      "slug": "Aegislash",
+      "id": "681"
+    }
+  ]
+}

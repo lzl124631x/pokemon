@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Machamp"
+  ],
+  "imgs": [
+    "068.png"
+  ],
+  "descs": [
+    "Machamp is known as the Pokémon that has mastered\nevery kind of martial arts. If it grabs hold of the foe with its\nfour arms, the battle is all but over. The hapless foe is thrown\nfar over the horizon.",
+    "Machamp has the power to hurl anything aside. However,\ntrying to do any work requiring care and dexterity causes its\narms to get tangled. This Pokémon tends to leap into action\nbefore it thinks."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "286.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Superpower",
+      "Abilities": [
+        "Guts",
+        "No Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "066.png",
+      "slug": "Machop",
+      "id": "066"
+    },
+    {
+      "img": "067.png",
+      "slug": "Machoke",
+      "id": "067"
+    },
+    {
+      "img": "068.png",
+      "slug": "Machamp",
+      "id": "068"
+    }
+  ]
+}

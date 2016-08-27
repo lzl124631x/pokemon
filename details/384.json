@@ -1,0 +1,79 @@
+{
+  "forms": [
+    "Rayquaza",
+    "Mega Rayquaza"
+  ],
+  "imgs": [
+    "384.png",
+    "384_f2.png"
+  ],
+  "descs": [
+    "It flies forever through the ozone layer, consuming\nmeteoroids for sustenance. The many meteoroids\nin its body provide the energy it needs to Mega Evolve.",
+    "Rayquaza is said to have lived for hundreds of millions\nof years. Legends remain of how it put to rest\nthe clash between Kyogre and Groudon."
+  ],
+  "abilities": [
+    {
+      "Height": "23' 00\"",
+      "Weight": "455.2 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Sky High",
+      "Abilities": [
+        "Air Lock"
+      ]
+    },
+    {
+      "Height": "35' 05\"",
+      "Weight": "864.2 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Sky High",
+      "Abilities": [
+        "Delta Stream"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Dragon",
+          "Rock",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Rock",
+          "Ice",
+          "Dragon"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "384.png",
+      "slug": "Rayquaza",
+      "id": "384"
+    }
+  ]
+}

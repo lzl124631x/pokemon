@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Crawdaunt"
+  ],
+  "imgs": [
+    "342.png"
+  ],
+  "descs": [
+    "Crawdaunt molts (sheds) its shell regularly. Immediately after\nmolting, its shell is soft and tender. Until the shell hardens,\nthis Pokémon hides in its streambed burrow to avoid attack\nfrom its foes.",
+    "Crawdaunt has an extremely violent nature that compels it to\nchallenge other living things to battle. Other life-forms refuse\nto live in ponds inhabited by this Pokémon, making them\ndesolate places."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "72.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Rogue",
+      "Abilities": [
+        "Shell Armor",
+        "Hyper Cutter"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Electric",
+          "Fighting",
+          "Grass",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "341.png",
+      "slug": "Corphish",
+      "id": "341"
+    },
+    {
+      "img": "342.png",
+      "slug": "Crawdaunt",
+      "id": "342"
+    }
+  ]
+}

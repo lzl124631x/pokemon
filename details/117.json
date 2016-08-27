@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Seadra"
+  ],
+  "imgs": [
+    "117.png"
+  ],
+  "descs": [
+    "Seadra generates whirlpools by spinning its body.\nThe whirlpools are strong enough to swallow even\nfishing boats. This Pokémon weakens prey with\nthese currents, then swallows it whole.",
+    "Seadra sleeps after wriggling itself between the branches of\ncoral. Those trying to harvest coral are occasionally stung by\nthis Pokémon's poison barbs if they fail to notice it."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "55.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Dragon",
+      "Abilities": [
+        "Poison Point",
+        "Sniper"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "116.png",
+      "slug": "Horsea",
+      "id": "116"
+    },
+    {
+      "img": "117.png",
+      "slug": "Seadra",
+      "id": "117"
+    },
+    {
+      "img": "230.png",
+      "slug": "Kingdra",
+      "id": "230"
+    }
+  ]
+}

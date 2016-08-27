@@ -1,0 +1,90 @@
+{
+  "forms": [
+    "Salamence",
+    "Mega Salamence"
+  ],
+  "imgs": [
+    "373.png",
+    "373_f2.png"
+  ],
+  "descs": [
+    "By evolving into Salamence, this Pokémon finally\nrealizes its long-held dream of growing wings. To express\nits joy, it flies and wheels all over the sky while spouting\nflames from its mouth.",
+    "Salamence came about as a result of a strong, long-held\ndream of growing wings. It is said that this powerful desire\ntriggered a sudden mutation in this Pokémon's cells,\ncausing it to sprout its magnificent wings."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "226.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Dragon",
+      "Abilities": [
+        "Intimidate"
+      ]
+    },
+    {
+      "Height": "5' 11\"",
+      "Weight": "248.2 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Dragon",
+      "Abilities": [
+        "Aerilate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Dragon",
+          "Rock",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Rock",
+          "Ice",
+          "Dragon"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "371.png",
+      "slug": "Bagon",
+      "id": "371"
+    },
+    {
+      "img": "372.png",
+      "slug": "Shelgon",
+      "id": "372"
+    },
+    {
+      "img": "373.png",
+      "slug": "Salamence",
+      "id": "373"
+    }
+  ]
+}

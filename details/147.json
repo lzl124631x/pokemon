@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Dratini"
+  ],
+  "imgs": [
+    "147.png"
+  ],
+  "descs": [
+    "Dratini continually molts and sloughs off its old skin. It does so\nbecause the life energy within its body steadily builds to reach\nuncontrollable levels.",
+    "Dratini continually molts and sloughs off its old skin. It does so\nbecause the life energy within its body steadily builds to reach\nuncontrollable levels."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "7.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Dragon",
+      "Abilities": [
+        "Shed Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dragon",
+          "Ice",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "147.png",
+      "slug": "Dratini",
+      "id": "147"
+    },
+    {
+      "img": "148.png",
+      "slug": "Dragonair",
+      "id": "148"
+    },
+    {
+      "img": "149.png",
+      "slug": "Dragonite",
+      "id": "149"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Slakoth"
+  ],
+  "imgs": [
+    "287.png"
+  ],
+  "descs": [
+    "Slakoth's heart beats just once a minute. Whatever happens,\nit is content to loaf around motionless. It is rare to see this\nPokémon in motion.",
+    "Slakoth lolls around for over 20 hours every day. Because it\nmoves so little, it does not need much food. This Pokémon's\nsole daily meal consists of just three leaves."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "52.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Slacker",
+      "Abilities": [
+        "Truant"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "287.png",
+      "slug": "Slakoth",
+      "id": "287"
+    },
+    {
+      "img": "288.png",
+      "slug": "Vigoroth",
+      "id": "288"
+    },
+    {
+      "img": "289.png",
+      "slug": "Slaking",
+      "id": "289"
+    }
+  ]
+}

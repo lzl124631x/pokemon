@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Persian"
+  ],
+  "imgs": [
+    "053.png"
+  ],
+  "descs": [
+    "Persian has six bold whiskers that give it a look of toughness.\nThe whiskers sense air movements to determine what is in the\nPokémon's surrounding vicinity. It becomes docile if grabbed\nby the whiskers.",
+    "Persian has six bold whiskers that give it a look of toughness.\nThe whiskers sense air movements to determine what is in the\nPokémon's surrounding vicinity. It becomes docile if grabbed\nby the whiskers."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "70.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Classy Cat",
+      "Abilities": [
+        "Technician",
+        "Limber"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "052.png",
+      "slug": "Meowth",
+      "id": "052"
+    },
+    {
+      "img": "053.png",
+      "slug": "Persian",
+      "id": "053"
+    }
+  ]
+}

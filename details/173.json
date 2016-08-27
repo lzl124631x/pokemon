@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Cleffa"
+  ],
+  "imgs": [
+    "173.png"
+  ],
+  "descs": [
+    "On nights with many shooting stars, Cleffa can be seen\ndancing in a ring. They dance through the night and stop only\nat the break of day, when these Pokémon quench their thirst\nwith the morning dew.",
+    "On nights with many shooting stars, Cleffa can be seen\ndancing in a ring. They dance through the night and stop only\nat the break of day, when these Pokémon quench their thirst\nwith the morning dew."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "6.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Star Shape",
+      "Abilities": [
+        "Cute Charm",
+        "Magic Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "173.png",
+      "slug": "Cleffa",
+      "id": "173"
+    },
+    {
+      "img": "035.png",
+      "slug": "Clefairy",
+      "id": "035"
+    },
+    {
+      "img": "036.png",
+      "slug": "Clefable",
+      "id": "036"
+    }
+  ]
+}

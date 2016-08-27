@@ -1,0 +1,65 @@
+{
+  "forms": [
+    "Slowking"
+  ],
+  "imgs": [
+    "199.png"
+  ],
+  "descs": [
+    "Slowking undertakes research every day in an effort to solve\nthe mysteries of the world. However, this Pokémon apparently\nforgets everything it has learned if the Shellder on its head\ncomes off.",
+    "Slowking undertakes research every day in an effort to solve\nthe mysteries of the world. However, this Pokémon apparently\nforgets everything it has learned if the Shellder on its head\ncomes off."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "175.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Royal",
+      "Abilities": [
+        "Oblivious",
+        "Own Tempo"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Electric",
+          "Ghost",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "079.png",
+      "slug": "Slowpoke",
+      "id": "079"
+    },
+    [
+      {
+        "img": "080.png",
+        "slug": "Slowbro",
+        "id": "080"
+      },
+      {
+        "img": "199.png",
+        "slug": "Slowking",
+        "id": "199"
+      }
+    ]
+  ]
+}

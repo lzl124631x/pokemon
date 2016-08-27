@@ -1,0 +1,47 @@
+{
+  "forms": [
+    "Suicune"
+  ],
+  "imgs": [
+    "245.png"
+  ],
+  "descs": [
+    "Suicune embodies the compassion of a pure spring of water.\nIt runs across the land with gracefulness. This Pokémon has\nthe power to purify dirty water.",
+    "Suicune embodies the compassion of a pure spring of water.\nIt runs across the land with gracefulness. This Pokémon has\nthe power to purify dirty water."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "412.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Aurora",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "245.png",
+      "slug": "Suicune",
+      "id": "245"
+    }
+  ]
+}

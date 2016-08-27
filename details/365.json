@@ -1,0 +1,62 @@
+{
+  "forms": [
+    "Walrein"
+  ],
+  "imgs": [
+    "365.png"
+  ],
+  "descs": [
+    "Walrein swims all over in frigid seawater while crushing\nicebergs with its grand, imposing tusks. Its thick layer of\nblubber makes enemy attacks bounce off harmlessly.",
+    "Walrein's two massively developed tusks can totally shatter\nblocks of ice weighing 10 tons with one blow. This Pokémon's\nthick coat of blubber insulates it from subzero temperatures."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "332.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Ice Break",
+      "Abilities": [
+        "Thick Fat",
+        "Ice Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice",
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Fighting",
+          "Grass",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "363.png",
+      "slug": "Spheal",
+      "id": "363"
+    },
+    {
+      "img": "364.png",
+      "slug": "Sealeo",
+      "id": "364"
+    },
+    {
+      "img": "365.png",
+      "slug": "Walrein",
+      "id": "365"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Excadrill"
+  ],
+  "imgs": [
+    "530.png"
+  ],
+  "descs": [
+    "More than 300 feet below the surface, they build\nmazelike nests. Their activity can be destructive to\nsubway tunnels.",
+    "It can help in tunnel construction. Its drill has\nevolved into steel strong enough to bore through\niron plates."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "89.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Subterrene",
+      "Abilities": [
+        "Sand Rush",
+        "Sand Force"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Water",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "529.png",
+      "slug": "Drilbur",
+      "id": "529"
+    },
+    {
+      "img": "530.png",
+      "slug": "Excadrill",
+      "id": "530"
+    }
+  ]
+}

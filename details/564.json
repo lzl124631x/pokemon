@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Tirtouga"
+  ],
+  "imgs": [
+    "564.png"
+  ],
+  "descs": [
+    "It could knock out a foe with a slap from one of its\ndeveloped front appendages and chew it up, shell\nor bones and all.",
+    "About 100 million years ago, these Pokémon swam\nin oceans. It is thought they also went on land to\nattack prey."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "36.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Prototurtle",
+      "Abilities": [
+        "Sturdy",
+        "Solid Rock"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "564.png",
+      "slug": "Tirtouga",
+      "id": "564"
+    },
+    {
+      "img": "565.png",
+      "slug": "Carracosta",
+      "id": "565"
+    }
+  ]
+}

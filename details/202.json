@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Wobbuffet"
+  ],
+  "imgs": [
+    "202.png"
+  ],
+  "descs": [
+    "Wobbuffet does nothing but endure attacks—it won't attack on\nits own. However, it won't endure an attack on its tail. When\nthat happens, the Pokémon will try to take the foe with it using\nDestiny Bond.",
+    "If two or more Wobbuffet meet, they will turn competitive\nand try to outdo each other's endurance. However, they may\ntry to see which one can endure the longest without food.\nTrainers need to beware of this habit."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "62.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Patient",
+      "Abilities": [
+        "Shadow Tag"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "360.png",
+      "slug": "Wynaut",
+      "id": "360"
+    },
+    {
+      "img": "202.png",
+      "slug": "Wobbuffet",
+      "id": "202"
+    }
+  ]
+}

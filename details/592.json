@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Frillish"
+  ],
+  "imgs": [
+    "592.png"
+  ],
+  "descs": [
+    "If its veil-like arms stun and wrap a foe, that foe will\nbe dragged miles below the surface, never\nto return.",
+    "They paralyze prey with poison, then drag them\ndown to their lairs, five miles below the surface."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "72.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Floating",
+      "Abilities": [
+        "Water Absorb",
+        "Cursed Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "592.png",
+      "slug": "Frillish",
+      "id": "592"
+    },
+    {
+      "img": "593.png",
+      "slug": "Jellicent",
+      "id": "593"
+    }
+  ]
+}

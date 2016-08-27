@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Tyrunt"
+  ],
+  "imgs": [
+    "696.png"
+  ],
+  "descs": [
+    "Its immense jaws have enough destructive\nforce that it can chew up an automobile.\nIt lived 100 million years ago.",
+    "This Pokémon was restored from a fossil.\nIf something happens that it doesn't like,\nit throws a tantrum and runs wild."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "57.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Royal Heir",
+      "Abilities": [
+        "Strong Jaw"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Ice",
+          "Dragon",
+          "Fighting",
+          "Fairy",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "696.png",
+      "slug": "Tyrunt",
+      "id": "696"
+    },
+    {
+      "img": "697.png",
+      "slug": "Tyrantrum",
+      "id": "697"
+    }
+  ]
+}

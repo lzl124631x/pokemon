@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Magikarp"
+  ],
+  "imgs": [
+    "129.png"
+  ],
+  "descs": [
+    "Magikarp is virtually useless in battle as it can only splash\naround. As a result, it is considered to be weak. However,\nit is actually a very hardy Pokémon that can survive in any\nbody of water no matter how polluted it is.",
+    "Magikarp is a pathetic excuse for a Pokémon that is only\ncapable of flopping and splashing. This behavior prompted\nscientists to undertake research into it."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "22.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fish",
+      "Abilities": [
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "129.png",
+      "slug": "Magikarp",
+      "id": "129"
+    },
+    {
+      "img": "130.png",
+      "slug": "Gyarados",
+      "id": "130"
+    }
+  ]
+}

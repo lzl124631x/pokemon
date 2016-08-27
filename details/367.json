@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Huntail"
+  ],
+  "imgs": [
+    "367.png"
+  ],
+  "descs": [
+    "Huntail's tail is shaped like a fish. It uses the tail to attract\nprey, then swallows the prey whole with its large, gaping\nmouth. This Pokémon swims by wiggling its slender body\nlike a snake.",
+    "Huntail's presence went unnoticed by people for a long\ntime because it lives at extreme depths in the sea.\nThis Pokémon's eyes can see clearly even in the murky\ndark depths of the ocean."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "59.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Deep Sea",
+      "Abilities": [
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "366.png",
+      "slug": "Clamperl",
+      "id": "366"
+    },
+    [
+      {
+        "img": "367.png",
+        "slug": "Huntail",
+        "id": "367"
+      },
+      {
+        "img": "368.png",
+        "slug": "Gorebyss",
+        "id": "368"
+      }
+    ]
+  ]
+}

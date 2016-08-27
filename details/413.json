@@ -1,0 +1,129 @@
+{
+  "forms": [
+    "Plant Cloak",
+    "Sandy Cloak",
+    "Trash Cloak"
+  ],
+  "imgs": [
+    "413.png",
+    "413_f2.png",
+    "413_f3.png"
+  ],
+  "descs": [
+    "When Burmy evolved, its cloak became a part of\nthis Pokémon's body. The cloak is never shed.",
+    "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "14.3 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Bagworm",
+      "Abilities": [
+        "Anticipation"
+      ]
+    },
+    {
+      "Height": "1' 08\"",
+      "Weight": "14.3 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Bagworm",
+      "Abilities": [
+        "Anticipation"
+      ]
+    },
+    {
+      "Height": "1' 08\"",
+      "Weight": "14.3 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Bagworm",
+      "Abilities": [
+        "Anticipation"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison",
+          "Bug",
+          "Rock"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Bug",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Water",
+          "Ice",
+          "Flying"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Bug",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "412.png",
+      "slug": "Burmy",
+      "id": "412"
+    },
+    [
+      {
+        "img": "413.png",
+        "slug": "Wormadam",
+        "id": "413"
+      },
+      {
+        "img": "413_f2.png",
+        "slug": "Sandy Cloak",
+        "id": "413"
+      },
+      {
+        "img": "413_f3.png",
+        "slug": "Trash Cloak",
+        "id": "413"
+      },
+      {
+        "img": "414.png",
+        "slug": "Mothim",
+        "id": "414"
+      }
+    ]
+  ]
+}

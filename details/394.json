@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Prinplup"
+  ],
+  "imgs": [
+    "394.png"
+  ],
+  "descs": [
+    "It lives a solitary life. Its wings deliver wicked blows\nthat can snap even the thickest of trees.",
+    "It lives alone, away from others. Apparently, every\none of them believes it is the most important."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "50.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Penguin",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "393.png",
+      "slug": "Piplup",
+      "id": "393"
+    },
+    {
+      "img": "394.png",
+      "slug": "Prinplup",
+      "id": "394"
+    },
+    {
+      "img": "395.png",
+      "slug": "Empoleon",
+      "id": "395"
+    }
+  ]
+}

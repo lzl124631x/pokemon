@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Hoothoot"
+  ],
+  "imgs": [
+    "163.png"
+  ],
+  "descs": [
+    "Hoothoot has an internal organ that senses and tracks the\nearth's rotation. Using this special organ, this Pokémon\nbegins hooting at precisely the same time every day.",
+    "Hoothoot has an internal organ that senses and tracks the\nearth's rotation. Using this special organ, this Pokémon begins\nhooting at precisely the same time every day."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "46.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Owl",
+      "Abilities": [
+        "Keen Eye",
+        "Insomnia"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "163.png",
+      "slug": "Hoothoot",
+      "id": "163"
+    },
+    {
+      "img": "164.png",
+      "slug": "Noctowl",
+      "id": "164"
+    }
+  ]
+}

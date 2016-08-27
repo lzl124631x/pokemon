@@ -1,0 +1,75 @@
+{
+  "forms": [
+    "Groudon",
+    "Primal Groudon"
+  ],
+  "imgs": [
+    "383.png",
+    "383_f2.png"
+  ],
+  "descs": [
+    "Through Primal Reversion and with nature's full power,\nit will take back its true form. It can cause magma to\nerupt and expand the landmass of the world.",
+    "Groudon is said to be the personification of the land\nitself. Legends tell of its many clashes against Kyogre,\nas each sought to gain the power of nature."
+  ],
+  "abilities": [
+    {
+      "Height": "11' 06\"",
+      "Weight": "2094.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Continent",
+      "Abilities": [
+        "Drought"
+      ]
+    },
+    {
+      "Height": "16' 05\"",
+      "Weight": "2204.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Continent",
+      "Abilities": [
+        "Desolate Land"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Ice",
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Ground",
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "383.png",
+      "slug": "Groudon",
+      "id": "383"
+    }
+  ]
+}

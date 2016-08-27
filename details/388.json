@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Grotle"
+  ],
+  "imgs": [
+    "388.png"
+  ],
+  "descs": [
+    "It knows where pure water wells up. It carries fellow\nPokémon there on its back.",
+    "It lives along water in forests. In the daytime,\nit leaves the forest to sunbathe its treed shell."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "213.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Grove",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "387.png",
+      "slug": "Turtwig",
+      "id": "387"
+    },
+    {
+      "img": "388.png",
+      "slug": "Grotle",
+      "id": "388"
+    },
+    {
+      "img": "389.png",
+      "slug": "Torterra",
+      "id": "389"
+    }
+  ]
+}

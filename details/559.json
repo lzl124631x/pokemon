@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Scraggy"
+  ],
+  "imgs": [
+    "559.png"
+  ],
+  "descs": [
+    "It can smash concrete blocks with its kicking\nattacks. The one with the biggest crest is the\ngroup leader.",
+    "Its skin has a rubbery elasticity, so it can reduce\ndamage by defensively pulling its skin up to\nits neck."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "26.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Shedding",
+      "Abilities": [
+        "Shed Skin",
+        "Moxie"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Flying",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "559.png",
+      "slug": "Scraggy",
+      "id": "559"
+    },
+    {
+      "img": "560.png",
+      "slug": "Scrafty",
+      "id": "560"
+    }
+  ]
+}

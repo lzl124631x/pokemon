@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Durant"
+  ],
+  "imgs": [
+    "632.png"
+  ],
+  "descs": [
+    "They attack in groups, covering themselves in steel\narmor to protect themselves from Heatmor.",
+    "Individuals each play different roles in driving\nHeatmor, their natural predator, away from\ntheir colony."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "72.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Iron Ant",
+      "Abilities": [
+        "Swarm",
+        "Hustle"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "632.png",
+      "slug": "Durant",
+      "id": "632"
+    }
+  ]
+}

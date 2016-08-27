@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Cottonee"
+  ],
+  "imgs": [
+    "546.png"
+  ],
+  "descs": [
+    "Perhaps because they feel more at ease in a group,\nthey stick to others they find. They end up looking\nlike a cloud.",
+    "When attacked, it escapes by shooting cotton from\nits body. The cotton serves as a decoy to distract\nthe attacker."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "1.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cotton Puff",
+      "Abilities": [
+        "Prankster",
+        "Infiltrator"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ice",
+          "Poison",
+          "Flying",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "546.png",
+      "slug": "Cottonee",
+      "id": "546"
+    },
+    {
+      "img": "547.png",
+      "slug": "Whimsicott",
+      "id": "547"
+    }
+  ]
+}

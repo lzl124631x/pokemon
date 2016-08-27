@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Joltik"
+  ],
+  "imgs": [
+    "595.png"
+  ],
+  "descs": [
+    "They attach themselves to large-bodied Pokémon\nand absorb static electricity, which they store in an\nelectric pouch.",
+    "Since it can't generate its own electricity, it sticks\nonto large-bodied Pokémon and absorbs\nstatic electricity."
+  ],
+  "abilities": [
+    {
+      "Height": "0' 04\"",
+      "Weight": "1.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Attaching",
+      "Abilities": [
+        "Compound Eyes",
+        "Unnerve"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "595.png",
+      "slug": "Joltik",
+      "id": "595"
+    },
+    {
+      "img": "596.png",
+      "slug": "Galvantula",
+      "id": "596"
+    }
+  ]
+}

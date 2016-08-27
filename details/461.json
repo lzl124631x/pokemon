@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Weavile"
+  ],
+  "imgs": [
+    "461.png"
+  ],
+  "descs": [
+    "They live in cold regions, forming groups of four or\nfive that hunt prey with impressive coordination.",
+    "It lives in snowy regions. It carves patterns in trees\nwith its claws as a signal to others."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "75.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sharp Claw",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Bug",
+          "Fire",
+          "Rock",
+          "Steel",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "215.png",
+      "slug": "Sneasel",
+      "id": "215"
+    },
+    {
+      "img": "461.png",
+      "slug": "Weavile",
+      "id": "461"
+    }
+  ]
+}

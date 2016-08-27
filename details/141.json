@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Kabutops"
+  ],
+  "imgs": [
+    "141.png"
+  ],
+  "descs": [
+    "Kabutops swam underwater to hunt for its prey in ancient\ntimes. The Pokémon was apparently evolving from being a\nwater dweller to living on land as evident from the beginnings\nof change in its gills and legs.",
+    "Kabutops swam underwater to hunt for its prey in ancient\ntimes. The Pokémon was apparently evolving from being a\nwater dweller to living on land as evident from the beginnings\nof change in its gills and legs."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "89.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Shellfish",
+      "Abilities": [
+        "Swift Swim",
+        "Battle Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "140.png",
+      "slug": "Kabuto",
+      "id": "140"
+    },
+    {
+      "img": "141.png",
+      "slug": "Kabutops",
+      "id": "141"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Taillow"
+  ],
+  "imgs": [
+    "276.png"
+  ],
+  "descs": [
+    "Taillow is young—it has only just left its nest. As a result,\nit sometimes becomes lonesome and cries at night.\nThis Pokémon feeds on Wurmple that live in forests.",
+    "Taillow courageously stands its ground against foes, however\nstrong they may be. This gutsy Pokémon will remain defiant\neven after a loss. On the other hand, it cries loudly if it\nbecomes hungry."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "5.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tiny Swallow",
+      "Abilities": [
+        "Guts"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "276.png",
+      "slug": "Taillow",
+      "id": "276"
+    },
+    {
+      "img": "277.png",
+      "slug": "Swellow",
+      "id": "277"
+    }
+  ]
+}

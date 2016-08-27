@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Shedinja"
+  ],
+  "imgs": [
+    "292.png"
+  ],
+  "descs": [
+    "Shedinja is a peculiar Pokémon. It seems to appear unsought\nin a Poké Ball after a Nincada evolves. This bizarre Pokémon\nis entirely immobile—it doesn't even breathe.",
+    "Shedinja's hard body doesn't move—not even a twitch. In fact,\nits body appears to be merely a hollow shell. It is believed that\nthis Pokémon will steal the spirit of anyone peering into its\nhollow body from its back."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "2.6 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Shed",
+      "Abilities": [
+        "Wonder Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Fire",
+          "Flying",
+          "Ghost",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "290.png",
+      "slug": "Nincada",
+      "id": "290"
+    },
+    [
+      {
+        "img": "291.png",
+        "slug": "Ninjask",
+        "id": "291"
+      },
+      {
+        "img": "292.png",
+        "slug": "Shedinja",
+        "id": "292"
+      }
+    ]
+  ]
+}

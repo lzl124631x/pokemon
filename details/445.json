@@ -1,0 +1,88 @@
+{
+  "forms": [
+    "Garchomp",
+    "Mega Garchomp"
+  ],
+  "imgs": [
+    "445.png",
+    "445_f2.png"
+  ],
+  "descs": [
+    "It flies at speeds equal to a jet fighter plane.\nIt never allows its prey to escape.",
+    "When it folds up its body and extends its wings,\nit looks like a jet plane. It flies at sonic speed."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 03\"",
+      "Weight": "209.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mach",
+      "Abilities": [
+        "Sand Veil"
+      ]
+    },
+    {
+      "Height": "6' 03\"",
+      "Weight": "209.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Mach",
+      "Abilities": [
+        "Sand Force"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Dragon",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Ice",
+          "Dragon"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "443.png",
+      "slug": "Gible",
+      "id": "443"
+    },
+    {
+      "img": "444.png",
+      "slug": "Gabite",
+      "id": "444"
+    },
+    {
+      "img": "445.png",
+      "slug": "Garchomp",
+      "id": "445"
+    }
+  ]
+}

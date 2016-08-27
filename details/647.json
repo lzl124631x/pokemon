@@ -1,0 +1,81 @@
+{
+  "forms": [
+    "Ordinary Form",
+    "Resolute Form"
+  ],
+  "imgs": [
+    "647.png",
+    "647_f2.png"
+  ],
+  "descs": [
+    "When it is resolute, its body fills with power and it\nbecomes swifter. Its jumps are then too fast\nto follow.",
+    "It crosses the world, running over the surfaces of\noceans and rivers. It appears at scenic waterfronts."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "106.9 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Colt",
+      "Abilities": [
+        "Justified"
+      ]
+    },
+    {
+      "Height": "4' 07\"",
+      "Weight": "106.9 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Colt",
+      "Abilities": [
+        "Justified"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Grass",
+          "Electric",
+          "Fairy",
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Water",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Grass",
+          "Electric",
+          "Fairy",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "647.png",
+      "slug": "Keldeo",
+      "id": "647"
+    }
+  ]
+}

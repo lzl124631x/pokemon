@@ -1,0 +1,50 @@
+{
+  "forms": [
+    "Girafarig"
+  ],
+  "imgs": [
+    "203.png"
+  ],
+  "descs": [
+    "Girafarig's rear head contains a tiny brain that is too small for\nthinking. However, the rear head doesn't need to sleep, so it\ncan keep watch over its surroundings 24 hours a day.",
+    "Girafarig's rear head also has a brain, but it is small. The rear\nhead attacks in response to smells and sounds. Approaching\nthis Pokémon from behind can cause the rear head to suddenly\nlash out and bite."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "91.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Long Neck",
+      "Abilities": [
+        "Inner Focus",
+        "Early Bird"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "203.png",
+      "slug": "Girafarig",
+      "id": "203"
+    }
+  ]
+}

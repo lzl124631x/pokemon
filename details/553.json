@@ -1,0 +1,64 @@
+{
+  "forms": [
+    "Krookodile"
+  ],
+  "imgs": [
+    "553.png"
+  ],
+  "descs": [
+    "They never allow prey to escape. Their jaws\nare so powerful, they can crush the body of\nan automobile.",
+    "Very violent Pokémon, they try to clamp down on\nanything that moves in front of their eyes."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "212.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Intimidation",
+      "Abilities": [
+        "Intimidate",
+        "Moxie"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Grass",
+          "Ice",
+          "Fighting",
+          "Bug",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "551.png",
+      "slug": "Sandile",
+      "id": "551"
+    },
+    {
+      "img": "552.png",
+      "slug": "Krokorok",
+      "id": "552"
+    },
+    {
+      "img": "553.png",
+      "slug": "Krookodile",
+      "id": "553"
+    }
+  ]
+}

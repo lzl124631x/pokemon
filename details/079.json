@@ -1,0 +1,65 @@
+{
+  "forms": [
+    "Slowpoke"
+  ],
+  "imgs": [
+    "079.png"
+  ],
+  "descs": [
+    "Slowpoke uses its tail to catch prey by dipping it in water\nat the side of a river. However, this Pokémon often forgets\nwhat it's doing and often spends entire days just loafing\nat water's edge.",
+    "Slowpoke uses its tail to catch prey by dipping it in water at\nthe side of a river. However, this Pokémon often forgets what\nit's doing and often spends entire days just loafing at\nwater's edge."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "79.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Dopey",
+      "Abilities": [
+        "Oblivious",
+        "Own Tempo"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Electric",
+          "Ghost",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "079.png",
+      "slug": "Slowpoke",
+      "id": "079"
+    },
+    [
+      {
+        "img": "080.png",
+        "slug": "Slowbro",
+        "id": "080"
+      },
+      {
+        "img": "199.png",
+        "slug": "Slowking",
+        "id": "199"
+      }
+    ]
+  ]
+}

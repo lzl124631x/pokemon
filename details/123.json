@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Scyther"
+  ],
+  "imgs": [
+    "123.png"
+  ],
+  "descs": [
+    "Scyther is blindingly fast. Its blazing speed enhances the\neffectiveness of the twin scythes on its forearms. This\nPokémon's scythes are so effective, they can slice through\nthick logs in one wicked stroke.",
+    "Scyther is blindingly fast. Its blazing speed enhances the\neffectiveness of the twin scythes on its forearms.\nThis Pokémon's scythes are so effective, they can slice\nthrough thick logs in one wicked stroke."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "123.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mantis",
+      "Abilities": [
+        "Swarm",
+        "Technician"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Fire",
+          "Flying",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "123.png",
+      "slug": "Scyther",
+      "id": "123"
+    },
+    {
+      "img": "212.png",
+      "slug": "Scizor",
+      "id": "212"
+    }
+  ]
+}

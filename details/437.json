@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Bronzong"
+  ],
+  "imgs": [
+    "437.png"
+  ],
+  "descs": [
+    "Ancient people believed that petitioning Bronzong\nfor rain was the way to make crops grow.",
+    "In ages past, this Pokémon was revered as a\nbringer of rain. It was found buried in the ground."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "412.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Bronze Bell",
+      "Abilities": [
+        "Levitate",
+        "Heatproof"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ground",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "436.png",
+      "slug": "Bronzor",
+      "id": "436"
+    },
+    {
+      "img": "437.png",
+      "slug": "Bronzong",
+      "id": "437"
+    }
+  ]
+}

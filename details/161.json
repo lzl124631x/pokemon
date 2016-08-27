@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Sentret"
+  ],
+  "imgs": [
+    "161.png"
+  ],
+  "descs": [
+    "When Sentret sleeps, it does so while another stands guard.\nThe sentry wakes the others at the first sign of danger. When\nthis Pokémon becomes separated from its pack, it becomes\nincapable of sleep due to fear.",
+    "When Sentret sleeps, it does so while another stands guard.\nThe sentry wakes the others at the first sign of danger.\nWhen this Pokémon becomes separated from its pack,\nit becomes incapable of sleep due to fear."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "13.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Scout",
+      "Abilities": [
+        "Keen Eye",
+        "Run Away"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "161.png",
+      "slug": "Sentret",
+      "id": "161"
+    },
+    {
+      "img": "162.png",
+      "slug": "Furret",
+      "id": "162"
+    }
+  ]
+}

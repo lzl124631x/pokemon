@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Ursaring"
+  ],
+  "imgs": [
+    "217.png"
+  ],
+  "descs": [
+    "In the forests inhabited by Ursaring, it is said that there are\nmany streams and towering trees where they gather food. This\nPokémon walks through its forest gathering food every day.",
+    "In the forests inhabited by Ursaring, it is said that there are\nmany streams and towering trees where they gather food.\nThis Pokémon walks through its forest gathering food\nevery day."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "277.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Hibernator",
+      "Abilities": [
+        "Guts",
+        "Quick Feet"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "216.png",
+      "slug": "Teddiursa",
+      "id": "216"
+    },
+    {
+      "img": "217.png",
+      "slug": "Ursaring",
+      "id": "217"
+    }
+  ]
+}

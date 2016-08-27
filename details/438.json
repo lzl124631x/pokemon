@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Bonsly"
+  ],
+  "imgs": [
+    "438.png"
+  ],
+  "descs": [
+    "It prefers an arid atmosphere. It leaks water that\nlooks like tears when adjusting its moisture level.",
+    "It prefers arid environments. It leaks water from its\neyes to adjust its body's fluid levels."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "33.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bonsai",
+      "Abilities": [
+        "Rock Head",
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Grass",
+          "Ground",
+          "Steel",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "438.png",
+      "slug": "Bonsly",
+      "id": "438"
+    },
+    {
+      "img": "185.png",
+      "slug": "Sudowoodo",
+      "id": "185"
+    }
+  ]
+}

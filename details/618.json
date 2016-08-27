@@ -1,0 +1,52 @@
+{
+  "forms": [
+    "Stunfisk"
+  ],
+  "imgs": [
+    "618.png"
+  ],
+  "descs": [
+    "It conceals itself in the mud of the seashore.\nThen it waits. When prey touch it, it delivers a jolt\nof electricity.",
+    "Its skin is very hard, so it is unhurt even if stepped\non by sumo wrestlers. It smiles when\ntransmitting electricity."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "24.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Trap",
+      "Abilities": [
+        "Static",
+        "Limber"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Grass",
+          "Ice",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "618.png",
+      "slug": "Stunfisk",
+      "id": "618"
+    }
+  ]
+}

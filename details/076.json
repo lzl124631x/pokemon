@@ -1,0 +1,64 @@
+{
+  "forms": [
+    "Golem"
+  ],
+  "imgs": [
+    "076.png"
+  ],
+  "descs": [
+    "Golem is known for rolling down from mountains. To prevent\nthem from rolling into the homes of people downhill, grooves\nhave been dug into the sides of mountains to serve as\nguideways for diverting this Pokémon's course.",
+    "Golem live up on mountains. If there is a large earthquake,\nthese Pokémon will come rolling down off the mountains\nen masse to the foothills below."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "661.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Megaton",
+      "Abilities": [
+        "Rock Head",
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Water",
+          "Fighting",
+          "Ground",
+          "Ice",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "074.png",
+      "slug": "Geodude",
+      "id": "074"
+    },
+    {
+      "img": "075.png",
+      "slug": "Graveler",
+      "id": "075"
+    },
+    {
+      "img": "076.png",
+      "slug": "Golem",
+      "id": "076"
+    }
+  ]
+}

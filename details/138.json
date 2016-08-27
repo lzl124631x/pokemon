@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Omanyte"
+  ],
+  "imgs": [
+    "138.png"
+  ],
+  "descs": [
+    "Omanyte is one of the ancient and long-since-extinct Pokémon\nthat have been regenerated from fossils by people. If attacked\nby an enemy, it withdraws itself inside its hard shell.",
+    "Omanyte is one of the ancient and long-since-extinct Pokémon\nthat have been regenerated from fossils by people. If attacked\nby an enemy, it withdraws itself inside its hard shell."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "16.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Spiral",
+      "Abilities": [
+        "Shell Armor",
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Electric",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "138.png",
+      "slug": "Omanyte",
+      "id": "138"
+    },
+    {
+      "img": "139.png",
+      "slug": "Omastar",
+      "id": "139"
+    }
+  ]
+}

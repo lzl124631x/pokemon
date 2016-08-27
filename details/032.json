@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Nidoran♂"
+  ],
+  "imgs": [
+    "032.png"
+  ],
+  "descs": [
+    "Nidoran? has developed muscles for moving its ears. Thanks\nto them, the ears can be freely moved in any direction. Even\nthe slightest sound does not escape this Pokémon's notice.",
+    "Nidoran? has developed muscles for moving its ears. Thanks\nto them, the ears can be freely moved in any direction. Even\nthe slightest sound does not escape this Pokémon's notice."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "19.8 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Poison Pin",
+      "Abilities": [
+        "Poison Point",
+        "Rivalry"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "032.png",
+      "slug": "Nidoran♂",
+      "id": "032"
+    },
+    {
+      "img": "033.png",
+      "slug": "Nidorino",
+      "id": "033"
+    },
+    {
+      "img": "034.png",
+      "slug": "Nidoking",
+      "id": "034"
+    }
+  ]
+}

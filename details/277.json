@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Swellow"
+  ],
+  "imgs": [
+    "277.png"
+  ],
+  "descs": [
+    "Swellow is very conscientious about the upkeep of its glossy\nwings. Once two Swellow are gathered, they diligently take\ncare of cleaning each other's wings.",
+    "Swellow flies high above our heads, making graceful arcs\nin the sky. This Pokémon dives at a steep angle as soon as\nit spots its prey. The hapless prey is tightly grasped by\nSwellow's clawed feet, preventing escape."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "43.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Swallow",
+      "Abilities": [
+        "Guts"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "276.png",
+      "slug": "Taillow",
+      "id": "276"
+    },
+    {
+      "img": "277.png",
+      "slug": "Swellow",
+      "id": "277"
+    }
+  ]
+}

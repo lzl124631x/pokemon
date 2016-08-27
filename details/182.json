@@ -1,0 +1,68 @@
+{
+  "forms": [
+    "Bellossom"
+  ],
+  "imgs": [
+    "182.png"
+  ],
+  "descs": [
+    "A Bellossom grows flowers more beautifully if it has evolved\nfrom a smelly Gloom—the more stinky the better. At night, this\nPokémon closes its petals and goes to sleep.",
+    "When Bellossom gets exposed to plenty of sunlight, the leaves\nringing its body begin to spin around. This Pokémon's dancing\nis renowned in the southern lands."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "12.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Flower",
+      "Abilities": [
+        "Chlorophyll"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "043.png",
+      "slug": "Oddish",
+      "id": "043"
+    },
+    {
+      "img": "044.png",
+      "slug": "Gloom",
+      "id": "044"
+    },
+    [
+      {
+        "img": "045.png",
+        "slug": "Vileplume",
+        "id": "045"
+      },
+      {
+        "img": "182.png",
+        "slug": "Bellossom",
+        "id": "182"
+      }
+    ]
+  ]
+}

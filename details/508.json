@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Stoutland"
+  ],
+  "imgs": [
+    "508.png"
+  ],
+  "descs": [
+    "Being wrapped in its long fur is so comfortable\nthat a person would be fine even overnight on a\nwintry mountain.",
+    "It rescues people stranded by blizzards in the\nmountains. Its shaggy fur shields it from the cold."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "134.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Big-Hearted",
+      "Abilities": [
+        "Intimidate",
+        "Sand Rush"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "506.png",
+      "slug": "Lillipup",
+      "id": "506"
+    },
+    {
+      "img": "507.png",
+      "slug": "Herdier",
+      "id": "507"
+    },
+    {
+      "img": "508.png",
+      "slug": "Stoutland",
+      "id": "508"
+    }
+  ]
+}

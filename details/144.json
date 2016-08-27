@@ -1,0 +1,50 @@
+{
+  "forms": [
+    "Articuno"
+  ],
+  "imgs": [
+    "144.png"
+  ],
+  "descs": [
+    "Articuno is a legendary bird Pokémon that can control ice.\nThe flapping of its wings chills the air. As a result, it is said\nthat when this Pokémon flies, snow will fall.",
+    "Articuno is a legendary bird Pokémon that can control ice.\nThe flapping of its wings chills the air. As a result, it is said\nthat when this Pokémon flies, snow will fall."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 07\"",
+      "Weight": "122.1 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Freeze",
+      "Abilities": [
+        "Pressure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Fire",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "144.png",
+      "slug": "Articuno",
+      "id": "144"
+    }
+  ]
+}

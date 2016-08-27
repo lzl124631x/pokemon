@@ -1,0 +1,52 @@
+{
+  "forms": [
+    "Lapras"
+  ],
+  "imgs": [
+    "131.png"
+  ],
+  "descs": [
+    "People have driven Lapras almost to the point of extinction.\nIn the evenings, this Pokémon is said to sing plaintively as\nit seeks what few others of its kind still remain.",
+    "People have driven Lapras almost to the point of extinction.\nIn the evenings, this Pokémon is said to sing plaintively as it\nseeks what few others of its kind still remain."
+  ],
+  "abilities": [
+    {
+      "Height": "8' 02\"",
+      "Weight": "485.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Transport",
+      "Abilities": [
+        "Water Absorb",
+        "Shell Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Fighting",
+          "Grass",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "131.png",
+      "slug": "Lapras",
+      "id": "131"
+    }
+  ]
+}

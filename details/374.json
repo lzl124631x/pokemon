@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Beldum"
+  ],
+  "imgs": [
+    "374.png"
+  ],
+  "descs": [
+    "Beldum keeps itself floating by generating a magnetic force\nthat repels earth's natural magnetism. When it sleeps, this\nPokémon anchors itself to a cliff using the hooks on its rear.",
+    "Instead of blood, a powerful magnetic force courses\nthroughout Beldum's body. This Pokémon communicates\nwith others by sending controlled pulses of magnetism."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "209.9 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Iron Ball",
+      "Abilities": [
+        "Clear Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ground",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "374.png",
+      "slug": "Beldum",
+      "id": "374"
+    },
+    {
+      "img": "375.png",
+      "slug": "Metang",
+      "id": "375"
+    },
+    {
+      "img": "376.png",
+      "slug": "Metagross",
+      "id": "376"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Torkoal"
+  ],
+  "imgs": [
+    "324.png"
+  ],
+  "descs": [
+    "Torkoal generates energy by burning coal. It grows weaker\nas the fire dies down. When it is preparing for battle, this\nPokémon burns more coal.",
+    "Torkoal digs through mountains in search of coal. If it finds\nsome, it fills hollow spaces on its shell with the coal and burns\nit. If it is attacked, this Pokémon spouts thick black smoke to\nbeat a retreat."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "177.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Coal",
+      "Abilities": [
+        "White Smoke"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "324.png",
+      "slug": "Torkoal",
+      "id": "324"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Tyrantrum"
+  ],
+  "imgs": [
+    "697.png"
+  ],
+  "descs": [
+    "Nothing could stop this Pokémon\n100 million years ago,\nso it behaved like a king.",
+    "Thanks to its gargantuan jaws, which could shred\nthick metal plates as if they were paper, it was\ninvincible in the ancient world it once inhabited."
+  ],
+  "abilities": [
+    {
+      "Height": "8' 02\"",
+      "Weight": "595.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Despot",
+      "Abilities": [
+        "Strong Jaw"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Ice",
+          "Dragon",
+          "Fighting",
+          "Fairy",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "696.png",
+      "slug": "Tyrunt",
+      "id": "696"
+    },
+    {
+      "img": "697.png",
+      "slug": "Tyrantrum",
+      "id": "697"
+    }
+  ]
+}

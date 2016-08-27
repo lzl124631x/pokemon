@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Riolu"
+  ],
+  "imgs": [
+    "447.png"
+  ],
+  "descs": [
+    "The aura that emanates from its body intensifies to\nalert others if it is afraid or sad.",
+    "It uses the shapes of auras, which change\naccording to emotion, to communicate with others."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "44.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Emanation",
+      "Abilities": [
+        "Inner Focus",
+        "Steadfast"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "447.png",
+      "slug": "Riolu",
+      "id": "447"
+    },
+    {
+      "img": "448.png",
+      "slug": "Lucario",
+      "id": "448"
+    }
+  ]
+}

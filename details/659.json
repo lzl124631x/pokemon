@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Bunnelby"
+  ],
+  "imgs": [
+    "659.png"
+  ],
+  "descs": [
+    "It has ears like shovels. Digging holes\nstrengthens its ears so much that they\ncan sever thick roots effortlessly.",
+    "They use their large ears to dig burrows.\nThey will dig the whole night through."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "11.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Digging",
+      "Abilities": [
+        "Pickup",
+        "Cheek Pouch"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "659.png",
+      "slug": "Bunnelby",
+      "id": "659"
+    },
+    {
+      "img": "660.png",
+      "slug": "Diggersby",
+      "id": "660"
+    }
+  ]
+}

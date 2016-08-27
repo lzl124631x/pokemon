@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Ivysaur"
+  ],
+  "imgs": [
+    "002.png"
+  ],
+  "descs": [
+    "There is a bud on this Pokémon's back. To support its weight,\nIvysaur's legs and trunk grow thick and strong.\nIf it starts spending more time lying in the sunlight,\nit's a sign that the bud will bloom into a large flower soon.",
+    "There is a bud on this Pokémon's back. To support its weight,\nIvysaur's legs and trunk grow thick and strong.\nIf it starts spending more time lying in the sunlight,\nit's a sign that the bud will bloom into a large flower soon."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "28.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Seed",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "001.png",
+      "slug": "Bulbasaur",
+      "id": "001"
+    },
+    {
+      "img": "002.png",
+      "slug": "Ivysaur",
+      "id": "002"
+    },
+    {
+      "img": "003.png",
+      "slug": "Venusaur",
+      "id": "003"
+    }
+  ]
+}

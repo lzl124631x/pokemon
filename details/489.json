@@ -1,0 +1,47 @@
+{
+  "forms": [
+    "Phione"
+  ],
+  "imgs": [
+    "489.png"
+  ],
+  "descs": [
+    "It drifts in warm seas. It always returns to where it\nwas born, no matter how far it may have drifted.",
+    "When the water warms, they inflate the flotation sac\non their heads and drift languidly on the sea\nin packs."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "6.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Sea Drifter",
+      "Abilities": [
+        "Hydration"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "489.png",
+      "slug": "Phione",
+      "id": "489"
+    }
+  ]
+}

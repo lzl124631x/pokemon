@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Remoraid"
+  ],
+  "imgs": [
+    "223.png"
+  ],
+  "descs": [
+    "Remoraid sucks in water, then expels it at high velocity using\nits abdominal muscles to shoot down flying prey. When\nevolution draws near, this Pokémon travels downstream\nfrom rivers.",
+    "Remoraid sucks in water, then expels it at high velocity using\nits abdominal muscles to shoot down flying prey. When\nevolution draws near, this Pokémon travels downstream\nfrom rivers."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "26.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Jet",
+      "Abilities": [
+        "Sniper",
+        "Hustle"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "223.png",
+      "slug": "Remoraid",
+      "id": "223"
+    },
+    {
+      "img": "224.png",
+      "slug": "Octillery",
+      "id": "224"
+    }
+  ]
+}

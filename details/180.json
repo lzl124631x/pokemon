@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Flaaffy"
+  ],
+  "imgs": [
+    "180.png"
+  ],
+  "descs": [
+    "Flaaffy's wool quality changes so that it can generate\na high amount of static electricity with a small amount of\nwool. The bare and slick parts of its hide are shielded\nagainst electricity.",
+    "Flaaffy's wool quality changes so that it can generate a high\namount of static electricity with a small amount of wool.\nThe bare and slick parts of its hide are shielded\nagainst electricity."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "29.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Wool",
+      "Abilities": [
+        "Static"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "179.png",
+      "slug": "Mareep",
+      "id": "179"
+    },
+    {
+      "img": "180.png",
+      "slug": "Flaaffy",
+      "id": "180"
+    },
+    {
+      "img": "181.png",
+      "slug": "Ampharos",
+      "id": "181"
+    }
+  ]
+}

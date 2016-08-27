@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Hawlucha"
+  ],
+  "imgs": [
+    "701.png"
+  ],
+  "descs": [
+    "With its wings, it controls its position in the air.\nIt likes to attack from above, a maneuver that\nis difficult to defend against.",
+    "Although its body is small, its proficient\nfighting skills enable it to keep up with\nbig bruisers like Machamp and Hariyama."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "47.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Wrestling",
+      "Abilities": [
+        "Limber",
+        "Unburden"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Psychic",
+          "Flying",
+          "Ice",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "701.png",
+      "slug": "Hawlucha",
+      "id": "701"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Raticate"
+  ],
+  "imgs": [
+    "020.png"
+  ],
+  "descs": [
+    "Raticate's sturdy fangs grow steadily. To keep them\nground down, it gnaws on rocks and logs. It may\neven chew on the walls of houses.",
+    "Raticate's sturdy fangs grow steadily. To keep them ground\ndown, it gnaws on rocks and logs. It may even chew on the\nwalls of houses."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "40.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mouse",
+      "Abilities": [
+        "Run Away",
+        "Guts"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "019.png",
+      "slug": "Rattata",
+      "id": "019"
+    },
+    {
+      "img": "020.png",
+      "slug": "Raticate",
+      "id": "020"
+    }
+  ]
+}

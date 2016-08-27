@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Reuniclus"
+  ],
+  "imgs": [
+    "579.png"
+  ],
+  "descs": [
+    "They are better at swimming than flying, and they\nhappily eat their favorite food, peat moss, as they\ndive underwater.",
+    "They use psychic power to control their arms,\nwhich are made of a special liquid. They can crush\nboulders psychically."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "44.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Multiplying",
+      "Abilities": [
+        "Magic Guard",
+        "Overcoat"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "577.png",
+      "slug": "Solosis",
+      "id": "577"
+    },
+    {
+      "img": "578.png",
+      "slug": "Duosion",
+      "id": "578"
+    },
+    {
+      "img": "579.png",
+      "slug": "Reuniclus",
+      "id": "579"
+    }
+  ]
+}

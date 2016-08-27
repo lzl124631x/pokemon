@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Herdier"
+  ],
+  "imgs": [
+    "507.png"
+  ],
+  "descs": [
+    "It has black, cape-like fur that is very hard and\ndecreases the amount of damage it receives.",
+    "This very loyal Pokémon helps Trainers, and it also\ntakes care of other Pokémon."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "32.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Loyal Dog",
+      "Abilities": [
+        "Intimidate",
+        "Sand Rush"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "506.png",
+      "slug": "Lillipup",
+      "id": "506"
+    },
+    {
+      "img": "507.png",
+      "slug": "Herdier",
+      "id": "507"
+    },
+    {
+      "img": "508.png",
+      "slug": "Stoutland",
+      "id": "508"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "forms": [
+    "Gengar",
+    "Mega Gengar"
+  ],
+  "imgs": [
+    "094.png",
+    "094_f2.png"
+  ],
+  "descs": [
+    "Sometimes, on a dark night, your shadow thrown by a\nstreetlight will suddenly and startlingly overtake you.\nIt is actually a Gengar running past you, pretending to be\nyour shadow.",
+    "Sometimes, on a dark night, your shadow thrown by a\nstreetlight will suddenly and startlingly overtake you.\nIt is actually a Gengar running past you, pretending to be\nyour shadow."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "89.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Shadow",
+      "Abilities": [
+        "Levitate"
+      ]
+    },
+    {
+      "Height": "4' 07\"",
+      "Weight": "89.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Shadow",
+      "Abilities": [
+        "Shadow Tag"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Ghost",
+          "Psychic"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Dark",
+          "Psychic",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "092.png",
+      "slug": "Gastly",
+      "id": "092"
+    },
+    {
+      "img": "093.png",
+      "slug": "Haunter",
+      "id": "093"
+    },
+    {
+      "img": "094.png",
+      "slug": "Gengar",
+      "id": "094"
+    }
+  ]
+}

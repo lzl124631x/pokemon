@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Mamoswine"
+  ],
+  "imgs": [
+    "473.png"
+  ],
+  "descs": [
+    "Its impressive tusks are made of ice. The population\nthinned when it turned warm after the ice age.",
+    "A frozen Mamoswine was dug from ice dating back\n10,000 years. This Pokémon has been around a\nlong, long, long time."
+  ],
+  "abilities": [
+    {
+      "Height": "8' 02\"",
+      "Weight": "641.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Twin Tusk",
+      "Abilities": [
+        "Oblivious",
+        "Snow Cloak"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Fire",
+          "Grass",
+          "Steel",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "220.png",
+      "slug": "Swinub",
+      "id": "220"
+    },
+    {
+      "img": "221.png",
+      "slug": "Piloswine",
+      "id": "221"
+    },
+    {
+      "img": "473.png",
+      "slug": "Mamoswine",
+      "id": "473"
+    }
+  ]
+}

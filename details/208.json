@@ -1,0 +1,86 @@
+{
+  "forms": [
+    "Steelix",
+    "Mega Steelix"
+  ],
+  "imgs": [
+    "208.png",
+    "208_f2.png"
+  ],
+  "descs": [
+    "Steelix lives even further underground than Onix.\nThis Pokémon is known to dig toward the earth's core.\nThere are records of this Pokémon reaching a depth of\nover six-tenths of a mile underground.",
+    "Steelix lives even further underground than Onix.\nThis Pokémon is known to dig toward the earth's core.\nThere are records of this Pokémon reaching a depth of over\nsix-tenths of a mile underground."
+  ],
+  "abilities": [
+    {
+      "Height": "30' 02\"",
+      "Weight": "881.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Iron Snake",
+      "Abilities": [
+        "Rock Head",
+        "Sturdy"
+      ]
+    },
+    {
+      "Height": "34' 05\"",
+      "Weight": "1631.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Iron Snake",
+      "Abilities": [
+        "Sand Force"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Fire",
+          "Ground",
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Steel",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Water",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "095.png",
+      "slug": "Onix",
+      "id": "095"
+    },
+    {
+      "img": "208.png",
+      "slug": "Steelix",
+      "id": "208"
+    }
+  ]
+}

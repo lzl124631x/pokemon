@@ -1,0 +1,81 @@
+{
+  "forms": [
+    "Heracross",
+    "Mega Heracross"
+  ],
+  "imgs": [
+    "214.png",
+    "214_f2.png"
+  ],
+  "descs": [
+    "Heracross has sharp claws on its feet. These are planted\nfirmly into the ground or the bark of a tree, giving the\nPokémon a secure and solid footing to forcefully fling away\nfoes with its proud horn.",
+    "Heracross charges in a straight line at its foe, slips beneath the\nfoe's grasp, and then scoops up and hurls the opponent with\nits mighty horn. This Pokémon even has enough power to\ntopple a massive tree."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "119.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Single Horn",
+      "Abilities": [
+        "Swarm",
+        "Guts"
+      ]
+    },
+    {
+      "Height": "5' 07\"",
+      "Weight": "137.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Single Horn",
+      "Abilities": [
+        "Skill Link"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Fire",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Bug",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Psychic",
+          "Flying",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "214.png",
+      "slug": "Heracross",
+      "id": "214"
+    }
+  ]
+}

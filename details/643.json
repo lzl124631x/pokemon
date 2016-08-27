@@ -1,0 +1,49 @@
+{
+  "forms": [
+    "Reshiram"
+  ],
+  "imgs": [
+    "643.png"
+  ],
+  "descs": [
+    "When Reshiram's tail flares, the heat energy moves\nthe atmosphere and changes the world's weather.",
+    "This legendary Pokémon can scorch the world with\nfire. It helps those who want to build a world\nof truth."
+  ],
+  "abilities": [
+    {
+      "Height": "10' 06\"",
+      "Weight": "727.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Vast White",
+      "Abilities": [
+        "Turboblaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Dragon"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "643.png",
+      "slug": "Reshiram",
+      "id": "643"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Wigglytuff"
+  ],
+  "imgs": [
+    "040.png"
+  ],
+  "descs": [
+    "Wigglytuff's body is very flexible. By inhaling deeply,\nthis Pokémon can inflate itself seemingly without end.\nOnce inflated, Wigglytuff bounces along lightly like a balloon.",
+    "Wigglytuff has large, saucerlike eyes. The surfaces of its eyes\nare always covered with a thin layer of tears. If any dust gets in\nthis Pokémon's eyes, it is quickly washed away."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "26.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Balloon",
+      "Abilities": [
+        "Cute Charm",
+        "Competitive"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "174.png",
+      "slug": "Igglybuff",
+      "id": "174"
+    },
+    {
+      "img": "039.png",
+      "slug": "Jigglypuff",
+      "id": "039"
+    },
+    {
+      "img": "040.png",
+      "slug": "Wigglytuff",
+      "id": "040"
+    }
+  ]
+}

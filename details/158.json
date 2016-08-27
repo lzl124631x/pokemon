@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Totodile"
+  ],
+  "imgs": [
+    "158.png"
+  ],
+  "descs": [
+    "Despite the smallness of its body, Totodile's jaws are very\npowerful. While the Pokémon may think it is just playfully\nnipping, its bite has enough power to cause serious injury.",
+    "Despite the smallness of its body, Totodile's jaws are very\npowerful. While the Pokémon may think it is just playfully\nnipping, its bite has enough power to cause serious injury."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "20.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Big Jaw",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "158.png",
+      "slug": "Totodile",
+      "id": "158"
+    },
+    {
+      "img": "159.png",
+      "slug": "Croconaw",
+      "id": "159"
+    },
+    {
+      "img": "160.png",
+      "slug": "Feraligatr",
+      "id": "160"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Hypno"
+  ],
+  "imgs": [
+    "097.png"
+  ],
+  "descs": [
+    "Hypno holds a pendulum in its hand. The arcing movement and\nglitter of the pendulum lull the foe into a deep state of\nhypnosis. While this Pokémon searches for prey, it polishes\nthe pendulum.",
+    "Hypno holds a pendulum in its hand. The arcing movement and\nglitter of the pendulum lull the foe into a deep state of\nhypnosis. While this Pokémon searches for prey, it polishes\nthe pendulum."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "166.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Hypnosis",
+      "Abilities": [
+        "Insomnia",
+        "Forewarn"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "096.png",
+      "slug": "Drowzee",
+      "id": "096"
+    },
+    {
+      "img": "097.png",
+      "slug": "Hypno",
+      "id": "097"
+    }
+  ]
+}

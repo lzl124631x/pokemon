@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Duskull"
+  ],
+  "imgs": [
+    "355.png"
+  ],
+  "descs": [
+    "Duskull wanders lost among the deep darkness of midnight.\nThere is an oft-told admonishment given to misbehaving\nchildren that this Pokémon will spirit away bad children who\nearn scoldings from their mothers.",
+    "Duskull can pass through any wall no matter how thick it may\nbe. Once this Pokémon chooses a target, it will doggedly\npursue the intended victim until the break of dawn."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "33.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Requiem",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "355.png",
+      "slug": "Duskull",
+      "id": "355"
+    },
+    {
+      "img": "356.png",
+      "slug": "Dusclops",
+      "id": "356"
+    },
+    {
+      "img": "477.png",
+      "slug": "Dusknoir",
+      "id": "477"
+    }
+  ]
+}

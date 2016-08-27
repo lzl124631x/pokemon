@@ -1,0 +1,83 @@
+{
+  "forms": [
+    "Aerodactyl",
+    "Mega Aerodactyl"
+  ],
+  "imgs": [
+    "142.png",
+    "142_f2.png"
+  ],
+  "descs": [
+    "Aerodactyl is a Pokémon from the age of dinosaurs. It was\nregenerated from genetic material extracted from amber. It is\nimagined to have been the king of the skies in ancient times.",
+    "Aerodactyl is a Pokémon from the age of dinosaurs. It was\nregenerated from genetic material extracted from amber. It is\nimagined to have been the king of the skies in ancient times."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "130.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fossil",
+      "Abilities": [
+        "Rock Head",
+        "Pressure"
+      ]
+    },
+    {
+      "Height": "6' 11\"",
+      "Weight": "174.2 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Fossil",
+      "Abilities": [
+        "Tough Claws"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock",
+          "Steel",
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Rock",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Electric",
+          "Water",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "142.png",
+      "slug": "Aerodactyl",
+      "id": "142"
+    }
+  ]
+}

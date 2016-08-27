@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Mantyke"
+  ],
+  "imgs": [
+    "458.png"
+  ],
+  "descs": [
+    "When it swims close to the surface of the ocean,\npeople aboard ships are able to observe the pattern\non its back.",
+    "The pattern on its back varies by region.\nIt often swims in a school of Remoraid."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "143.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Kite",
+      "Abilities": [
+        "Water Absorb",
+        "Swift Swim"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "458.png",
+      "slug": "Mantyke",
+      "id": "458"
+    },
+    {
+      "img": "226.png",
+      "slug": "Mantine",
+      "id": "226"
+    }
+  ]
+}

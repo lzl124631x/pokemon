@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Talonflame"
+  ],
+  "imgs": [
+    "663.png"
+  ],
+  "descs": [
+    "When attacking prey, it can reach speeds\nof up to 310 mph. It finishes its prey off\nwith a colossal kick.",
+    "In the fever of an exciting battle, it\nshowers embers from the gaps between\nits feathers and takes to the air."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "54.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Scorching",
+      "Abilities": [
+        "Flame Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Rock",
+          "Electric"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "661.png",
+      "slug": "Fletchling",
+      "id": "661"
+    },
+    {
+      "img": "662.png",
+      "slug": "Fletchinder",
+      "id": "662"
+    },
+    {
+      "img": "663.png",
+      "slug": "Talonflame",
+      "id": "663"
+    }
+  ]
+}

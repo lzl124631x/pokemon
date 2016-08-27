@@ -1,0 +1,66 @@
+{
+  "forms": [
+    "Politoed"
+  ],
+  "imgs": [
+    "186.png"
+  ],
+  "descs": [
+    "The curled hair on Politoed's head is proof of its status as a\nking. It is said that the longer and more curled the hair, the\nmore respect this Pokémon earns from its peers.",
+    "The curled hair on Politoed's head is proof of its status as a\nking. It is said that the longer and more curled the hair, the\nmore respect this Pokémon earns from its peers."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "74.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Frog",
+      "Abilities": [
+        "Damp",
+        "Water Absorb"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "060.png",
+      "slug": "Poliwag",
+      "id": "060"
+    },
+    {
+      "img": "061.png",
+      "slug": "Poliwhirl",
+      "id": "061"
+    },
+    [
+      {
+        "img": "062.png",
+        "slug": "Poliwrath",
+        "id": "062"
+      },
+      {
+        "img": "186.png",
+        "slug": "Politoed",
+        "id": "186"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Stantler"
+  ],
+  "imgs": [
+    "234.png"
+  ],
+  "descs": [
+    "Stantler's magnificent antlers were traded at high prices as\nworks of art. As a result, this Pokémon was hunted close to\nextinction by those who were after the priceless antlers.",
+    "Stantler's magnificent antlers were traded at high prices as\nworks of art. As a result, this Pokémon was hunted close to\nextinction by those who were after the priceless antlers."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "157.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Big Horn",
+      "Abilities": [
+        "Intimidate",
+        "Frisk"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "234.png",
+      "slug": "Stantler",
+      "id": "234"
+    }
+  ]
+}

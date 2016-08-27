@@ -1,0 +1,52 @@
+{
+  "forms": [
+    "Delibird"
+  ],
+  "imgs": [
+    "225.png"
+  ],
+  "descs": [
+    "Delibird carries its food bundled up in its tail. There once was\na famous explorer who managed to reach the peak of the\nworld's highest mountain, thanks to one of these Pokémon\nsharing its food.",
+    "Delibird carries its food bundled up in its tail. There once was\na famous explorer who managed to reach the peak of the\nworld's highest mountain, thanks to one of these Pokémon\nsharing its food."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "35.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Delivery",
+      "Abilities": [
+        "Vital Spirit",
+        "Hustle"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ice",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Fire",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "225.png",
+      "slug": "Delibird",
+      "id": "225"
+    }
+  ]
+}

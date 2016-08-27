@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Barbaracle"
+  ],
+  "imgs": [
+    "689.png"
+  ],
+  "descs": [
+    "Barbaracle's legs and hands have minds\nof their own, and they will move independently.\nBut they usually follow the head's orders.",
+    "When they evolve, two Binacle multiply into seven.\nThey fight with the power of seven Binacle."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "211.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Collective",
+      "Abilities": [
+        "Sniper",
+        "Tough Claws"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Fighting",
+          "Grass",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "688.png",
+      "slug": "Binacle",
+      "id": "688"
+    },
+    {
+      "img": "689.png",
+      "slug": "Barbaracle",
+      "id": "689"
+    }
+  ]
+}

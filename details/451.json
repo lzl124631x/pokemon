@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Skorupi"
+  ],
+  "imgs": [
+    "451.png"
+  ],
+  "descs": [
+    "It burrows under the sand to lie in wait for prey.\nIts tail claws can inject its prey with a\nsavage poison.",
+    "It grips prey with its tail claws and injects poison.\nIt tenaciously hangs on until the poison takes."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "26.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Scorpion",
+      "Abilities": [
+        "Sniper",
+        "Battle Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison",
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Psychic",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "451.png",
+      "slug": "Skorupi",
+      "id": "451"
+    },
+    {
+      "img": "452.png",
+      "slug": "Drapion",
+      "id": "452"
+    }
+  ]
+}

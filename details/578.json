@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Duosion"
+  ],
+  "imgs": [
+    "578.png"
+  ],
+  "descs": [
+    "When Reuniclus shake hands, a network forms\nbetween their brains, increasing their\npsychic power.",
+    "Since they have two divided brains, at times they\nsuddenly try to take two different actions at once."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "17.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mitosis",
+      "Abilities": [
+        "Magic Guard",
+        "Overcoat"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "577.png",
+      "slug": "Solosis",
+      "id": "577"
+    },
+    {
+      "img": "578.png",
+      "slug": "Duosion",
+      "id": "578"
+    },
+    {
+      "img": "579.png",
+      "slug": "Reuniclus",
+      "id": "579"
+    }
+  ]
+}

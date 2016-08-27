@@ -1,0 +1,94 @@
+{
+  "forms": [
+    "Gallade",
+    "Mega Gallade"
+  ],
+  "imgs": [
+    "475.png",
+    "475_f2.png"
+  ],
+  "descs": [
+    "A master of courtesy and swordsmanship, it fights\nusing extending swords on its elbows.",
+    "Because it can sense what its foe is thinking,\nits attacks burst out first, fast, and fierce."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "114.6 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Blade",
+      "Abilities": [
+        "Steadfast"
+      ]
+    },
+    {
+      "Height": "5' 03\"",
+      "Weight": "124.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Blade",
+      "Abilities": [
+        "Inner Focus"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Ghost",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Flying",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "280.png",
+      "slug": "Ralts",
+      "id": "280"
+    },
+    {
+      "img": "281.png",
+      "slug": "Kirlia",
+      "id": "281"
+    },
+    [
+      {
+        "img": "282.png",
+        "slug": "Gardevoir",
+        "id": "282"
+      },
+      {
+        "img": "475.png",
+        "slug": "Gallade",
+        "id": "475"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Gurdurr"
+  ],
+  "imgs": [
+    "533.png"
+  ],
+  "descs": [
+    "This Pokémon is so muscular and strongly built that\neven a group of wrestlers could not make it budge\nan inch.",
+    "With strengthened bodies, they skillfully wield steel\nbeams to take down buildings."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "88.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Muscular",
+      "Abilities": [
+        "Guts",
+        "Sheer Force"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "532.png",
+      "slug": "Timburr",
+      "id": "532"
+    },
+    {
+      "img": "533.png",
+      "slug": "Gurdurr",
+      "id": "533"
+    },
+    {
+      "img": "534.png",
+      "slug": "Conkeldurr",
+      "id": "534"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Minccino"
+  ],
+  "imgs": [
+    "572.png"
+  ],
+  "descs": [
+    "Cinccino's body is coated in a special oil that helps\nit deflect attacks, such as punches.",
+    "Minccino greet each other by grooming one another\nthoroughly with their tails."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "12.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Chinchilla",
+      "Abilities": [
+        "Cute Charm",
+        "Technician"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "572.png",
+      "slug": "Minccino",
+      "id": "572"
+    },
+    {
+      "img": "573.png",
+      "slug": "Cinccino",
+      "id": "573"
+    }
+  ]
+}

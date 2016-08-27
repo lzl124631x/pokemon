@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Stunky"
+  ],
+  "imgs": [
+    "434.png"
+  ],
+  "descs": [
+    "It protects itself by spraying a noxious fluid from its\nrear. The stench lingers for 24 hours.",
+    "It sprays a foul fluid from its rear. Its stench\nspreads over a mile radius, driving Pokémon away."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "42.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Skunk",
+      "Abilities": [
+        "Stench",
+        "Aftermath"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "434.png",
+      "slug": "Stunky",
+      "id": "434"
+    },
+    {
+      "img": "435.png",
+      "slug": "Skuntank",
+      "id": "435"
+    }
+  ]
+}

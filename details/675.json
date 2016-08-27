@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Pangoro"
+  ],
+  "imgs": [
+    "675.png"
+  ],
+  "descs": [
+    "It charges ahead and bashes its opponents like\na berserker, uncaring about any hits it might take.\nIts arms are mighty enough to snap a telephone pole.",
+    "Although it possesses a violent temperament,\nit won't put up with bullying. It uses the leaf in\nits mouth to sense the movements of its enemies."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 11\"",
+      "Weight": "299.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Daunting",
+      "Abilities": [
+        "Iron Fist",
+        "Mold Breaker"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting",
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Fairy",
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "674.png",
+      "slug": "Pancham",
+      "id": "674"
+    },
+    {
+      "img": "675.png",
+      "slug": "Pangoro",
+      "id": "675"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Nidorina"
+  ],
+  "imgs": [
+    "030.png"
+  ],
+  "descs": [
+    "When Nidorina are with their friends or family, they keep\ntheir barbs tucked away to prevent hurting each other.\nThis Pokémon appears to become nervous if separated\nfrom the others.",
+    "When Nidorina are with their friends or family, they keep their\nbarbs tucked away to prevent hurting each other.\nThis Pokémon appears to become nervous if separated from\nthe others."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "44.1 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Poison Pin",
+      "Abilities": [
+        "Poison Point",
+        "Rivalry"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "029.png",
+      "slug": "Nidoran♀",
+      "id": "029"
+    },
+    {
+      "img": "030.png",
+      "slug": "Nidorina",
+      "id": "030"
+    },
+    {
+      "img": "031.png",
+      "slug": "Nidoqueen",
+      "id": "031"
+    }
+  ]
+}

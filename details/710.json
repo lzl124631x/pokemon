@@ -1,0 +1,154 @@
+{
+  "forms": [
+    "Pumpkaboo",
+    "Small Size",
+    "Large Size",
+    "Super Size"
+  ],
+  "imgs": [
+    "710.png",
+    "710_f2.png",
+    "710_f3.png",
+    "710_f4.png"
+  ],
+  "descs": [
+    "It is said to carry wandering spirits\nto the place where they belong\nso they can move on.",
+    "The pumpkin body is inhabited by a spirit\ntrapped in this world. As the sun sets,\nit becomes restless and active."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "11.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Pumpkin",
+      "Abilities": [
+        "Pickup",
+        "Frisk"
+      ]
+    },
+    {
+      "Height": "1' 00\"",
+      "Weight": "7.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Pumpkin",
+      "Abilities": [
+        "Pickup",
+        "Frisk"
+      ]
+    },
+    {
+      "Height": "1' 08\"",
+      "Weight": "16.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Pumpkin",
+      "Abilities": [
+        "Pickup",
+        "Frisk"
+      ]
+    },
+    {
+      "Height": "2' 07\"",
+      "Weight": "33.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Pumpkin",
+      "Abilities": [
+        "Pickup",
+        "Frisk"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Fire",
+          "Flying",
+          "Dark",
+          "Ice"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Fire",
+          "Flying",
+          "Dark",
+          "Ice"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Fire",
+          "Flying",
+          "Dark",
+          "Ice"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Fire",
+          "Flying",
+          "Dark",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "710.png",
+      "slug": "Pumpkaboo",
+      "id": "710"
+    },
+    {
+      "img": "711.png",
+      "slug": "Gourgeist",
+      "id": "711"
+    }
+  ]
+}

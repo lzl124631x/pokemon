@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Spinda"
+  ],
+  "imgs": [
+    "327.png"
+  ],
+  "descs": [
+    "No two Spinda are said to have identical spot patterns on their\nhides. This Pokémon moves in a curious manner as if it is\nstumbling in dizziness. Its lurching movements can cause the\nopponent to become confused.",
+    "All the Spinda that exist in the world are said to have utterly\nunique spot patterns. The shaky, tottering steps of this\nPokémon give it the appearance of dancing."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "11.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Spot Panda",
+      "Abilities": [
+        "Tangled Feet",
+        "Own Tempo"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "327.png",
+      "slug": "Spinda",
+      "id": "327"
+    }
+  ]
+}

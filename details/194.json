@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Wooper"
+  ],
+  "imgs": [
+    "194.png"
+  ],
+  "descs": [
+    "Wooper usually lives in water. However, it occasionally comes\nout onto land in search of food. On land, it coats its body with\na gooey, toxic film.",
+    "Wooper usually lives in water. However, it occasionally comes\nout onto land in search of food. On land, it coats its body with\na gooey, toxic film."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "18.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Water Fish",
+      "Abilities": [
+        "Damp",
+        "Water Absorb"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "194.png",
+      "slug": "Wooper",
+      "id": "194"
+    },
+    {
+      "img": "195.png",
+      "slug": "Quagsire",
+      "id": "195"
+    }
+  ]
+}

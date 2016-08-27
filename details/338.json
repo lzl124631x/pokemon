@@ -1,0 +1,52 @@
+{
+  "forms": [
+    "Solrock"
+  ],
+  "imgs": [
+    "338.png"
+  ],
+  "descs": [
+    "Sunlight is the source of Solrock's power. It is said to possess\nthe ability to read the emotions of others. This Pokémon gives\noff intense heat while rotating its body.",
+    "Solrock is a new species of Pokémon that is said to have fallen\nfrom space. It floats in air and moves silently. In battle, this\nPokémon releases intensely bright light."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "339.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Meteorite",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost",
+          "Grass",
+          "Steel",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "338.png",
+      "slug": "Solrock",
+      "id": "338"
+    }
+  ]
+}

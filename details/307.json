@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Meditite"
+  ],
+  "imgs": [
+    "307.png"
+  ],
+  "descs": [
+    "Meditite heightens its inner energy through meditation.\nIt survives on just one berry a day. Minimal eating is another\naspect of this Pokémon's training.",
+    "Meditite undertakes rigorous mental training deep in the\nmountains. However, whenever it meditates, this Pokémon\nalways loses its concentration and focus. As a result,\nits training never ends."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "24.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Meditate",
+      "Abilities": [
+        "Pure Power"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Ghost",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "307.png",
+      "slug": "Meditite",
+      "id": "307"
+    },
+    {
+      "img": "308.png",
+      "slug": "Medicham",
+      "id": "308"
+    }
+  ]
+}

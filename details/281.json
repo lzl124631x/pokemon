@@ -1,0 +1,68 @@
+{
+  "forms": [
+    "Kirlia"
+  ],
+  "imgs": [
+    "281.png"
+  ],
+  "descs": [
+    "Kirlia uses the horns on its head to amplify its psychokinetic\npower. When the Pokémon uses its power, the air around it\nbecomes distorted, creating mirages of nonexistent scenery.",
+    "It is said that a Kirlia that is exposed to the positive emotions\nof its Trainer grows beautiful. This Pokémon controls\npsychokinetic powers with its highly developed brain."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "44.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Emotion",
+      "Abilities": [
+        "Synchronize",
+        "Trace"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "280.png",
+      "slug": "Ralts",
+      "id": "280"
+    },
+    {
+      "img": "281.png",
+      "slug": "Kirlia",
+      "id": "281"
+    },
+    [
+      {
+        "img": "282.png",
+        "slug": "Gardevoir",
+        "id": "282"
+      },
+      {
+        "img": "475.png",
+        "slug": "Gallade",
+        "id": "475"
+      }
+    ]
+  ]
+}

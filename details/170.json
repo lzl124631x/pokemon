@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Chinchou"
+  ],
+  "imgs": [
+    "170.png"
+  ],
+  "descs": [
+    "Chinchou's two antennas are filled with cells that generate\nstrong electricity. This Pokémon's cells create so much\nelectrical power, it even makes itself tingle slightly.",
+    "Chinchou lets loose positive and negative electrical charges\nfrom its two antennas to make its prey faint. This Pokémon\nflashes its electric lights to exchange signals with others."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "26.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Angler",
+      "Abilities": [
+        "Illuminate",
+        "Volt Absorb"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "170.png",
+      "slug": "Chinchou",
+      "id": "170"
+    },
+    {
+      "img": "171.png",
+      "slug": "Lanturn",
+      "id": "171"
+    }
+  ]
+}

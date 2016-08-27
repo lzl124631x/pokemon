@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Torchic"
+  ],
+  "imgs": [
+    "255.png"
+  ],
+  "descs": [
+    "Torchic has a place inside its body where it keeps its flame.\nGive it a hug—it will be glowing with warmth. This Pokémon is\ncovered all over by a fluffy coat of down.",
+    "Torchic sticks with its Trainer, following behind with\nunsteady steps. This Pokémon breathes fire of over\n1,800 degrees Fahrenheit, including fireballs that leave\nthe foe scorched black."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "5.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Chick",
+      "Abilities": [
+        "Blaze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground",
+          "Rock",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "255.png",
+      "slug": "Torchic",
+      "id": "255"
+    },
+    {
+      "img": "256.png",
+      "slug": "Combusken",
+      "id": "256"
+    },
+    {
+      "img": "257.png",
+      "slug": "Blaziken",
+      "id": "257"
+    }
+  ]
+}

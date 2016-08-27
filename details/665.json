@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Spewpa"
+  ],
+  "imgs": [
+    "665.png"
+  ],
+  "descs": [
+    "The beaks of bird Pokémon can't begin\nto scratch its stalwart body.\nTo defend itself, it spews powder.",
+    "It lives hidden within thicket shadows.\nWhen predators attack, it quickly bristles the fur\ncovering its body in an effort to threaten them."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "18.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Scatterdust",
+      "Abilities": [
+        "Shed Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "664.png",
+      "slug": "Scatterbug",
+      "id": "664"
+    },
+    {
+      "img": "665.png",
+      "slug": "Spewpa",
+      "id": "665"
+    },
+    {
+      "img": "666.png",
+      "slug": "Vivillon",
+      "id": "666"
+    }
+  ]
+}

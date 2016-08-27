@@ -1,0 +1,66 @@
+{
+  "forms": [
+    "Poliwhirl"
+  ],
+  "imgs": [
+    "061.png"
+  ],
+  "descs": [
+    "The surface of Poliwhirl's body is always wet and slick with\na slimy fluid. Because of this slippery covering, it can easily\nslip and slide out of the clutches of any enemy in battle.",
+    "The surface of Poliwhirl's body is always wet and slick with\na slimy fluid. Because of this slippery covering, it can easily\nslip and slide out of the clutches of any enemy in battle."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "44.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tadpole",
+      "Abilities": [
+        "Damp",
+        "Water Absorb"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "060.png",
+      "slug": "Poliwag",
+      "id": "060"
+    },
+    {
+      "img": "061.png",
+      "slug": "Poliwhirl",
+      "id": "061"
+    },
+    [
+      {
+        "img": "062.png",
+        "slug": "Poliwrath",
+        "id": "062"
+      },
+      {
+        "img": "186.png",
+        "slug": "Politoed",
+        "id": "186"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "forms": [
+    "Victini"
+  ],
+  "imgs": [
+    "494.png"
+  ],
+  "descs": [
+    "When it shares the infinite energy it creates,\nthat being's entire body will be overflowing\nwith power.",
+    "This Pokémon brings victory. It is said that Trainers\nwith Victini always win, regardless of the type\nof encounter."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "8.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Victory",
+      "Abilities": [
+        "Victory Star"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground",
+          "Rock",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "494.png",
+      "slug": "Victini",
+      "id": "494"
+    }
+  ]
+}

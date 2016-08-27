@@ -1,0 +1,59 @@
+{
+  "forms": [
+    "Klang"
+  ],
+  "imgs": [
+    "600.png"
+  ],
+  "descs": [
+    "A minigear and big gear comprise its body. If the\nminigear it launches at a foe doesn't return, it\nwill die.",
+    "By changing the direction in which it rotates,\nit communicates its feelings to others. When angry,\nit rotates faster."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "112.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Gear",
+      "Abilities": [
+        "Plus",
+        "Minus"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Fighting",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "599.png",
+      "slug": "Klink",
+      "id": "599"
+    },
+    {
+      "img": "600.png",
+      "slug": "Klang",
+      "id": "600"
+    },
+    {
+      "img": "601.png",
+      "slug": "Klinklang",
+      "id": "601"
+    }
+  ]
+}

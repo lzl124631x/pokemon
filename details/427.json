@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Buneary"
+  ],
+  "imgs": [
+    "427.png"
+  ],
+  "descs": [
+    "When it senses danger, it perks up its ears.\nOn cold nights, it sleeps with its head tucked into\nits fur.",
+    "Its ears are always rolled up. They can be forcefully\nextended to shatter even a large boulder."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "12.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Rabbit",
+      "Abilities": [
+        "Run Away",
+        "Klutz"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "427.png",
+      "slug": "Buneary",
+      "id": "427"
+    },
+    {
+      "img": "428.png",
+      "slug": "Lopunny",
+      "id": "428"
+    }
+  ]
+}

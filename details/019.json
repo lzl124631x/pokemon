@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Rattata"
+  ],
+  "imgs": [
+    "019.png"
+  ],
+  "descs": [
+    "Rattata is cautious in the extreme. Even while it is asleep,\nit constantly listens by moving its ears around. It is not\npicky about where it lives—it will make its nest anywhere.",
+    "Rattata is cautious in the extreme. Even while it is asleep,\nit constantly listens by moving its ears around. It is not picky\nabout where it lives—it will make its nest anywhere."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "7.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mouse",
+      "Abilities": [
+        "Run Away",
+        "Guts"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "019.png",
+      "slug": "Rattata",
+      "id": "019"
+    },
+    {
+      "img": "020.png",
+      "slug": "Raticate",
+      "id": "020"
+    }
+  ]
+}

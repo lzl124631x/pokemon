@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Simisear"
+  ],
+  "imgs": [
+    "514.png"
+  ],
+  "descs": [
+    "When it gets excited, embers rise from its head\nand tail and it gets hot. For some reason, it\nloves sweets.",
+    "A flame burns inside its body. It scatters embers\nfrom its head and tail to sear its opponents."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "61.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Ember",
+      "Abilities": [
+        "Gluttony"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "513.png",
+      "slug": "Pansear",
+      "id": "513"
+    },
+    {
+      "img": "514.png",
+      "slug": "Simisear",
+      "id": "514"
+    }
+  ]
+}

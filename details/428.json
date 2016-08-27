@@ -1,0 +1,82 @@
+{
+  "forms": [
+    "Lopunny",
+    "Mega Lopunny"
+  ],
+  "imgs": [
+    "428.png",
+    "428_f2.png"
+  ],
+  "descs": [
+    "The ears appear to be delicate. If they are touched\nroughly, it kicks with its graceful legs.",
+    "Extremely cautious, it quickly bounds off when it\nsenses danger."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "73.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Rabbit",
+      "Abilities": [
+        "Cute Charm",
+        "Klutz"
+      ]
+    },
+    {
+      "Height": "4' 03\"",
+      "Weight": "62.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Rabbit",
+      "Abilities": [
+        "Scrappy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Normal",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Psychic",
+          "Flying",
+          "Fairy",
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "427.png",
+      "slug": "Buneary",
+      "id": "427"
+    },
+    {
+      "img": "428.png",
+      "slug": "Lopunny",
+      "id": "428"
+    }
+  ]
+}

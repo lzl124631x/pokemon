@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Aurorus"
+  ],
+  "imgs": [
+    "699.png"
+  ],
+  "descs": [
+    "Using its diamond-shaped crystals,\nit can instantly create a wall of\nice to block an opponent's attack.",
+    "The diamond-shaped crystals on its body\nexpel air as cold as -240 degrees Fahrenheit,\nsurrounding its enemies and encasing them in ice."
+  ],
+  "abilities": [
+    {
+      "Height": "8' 10\"",
+      "Weight": "496.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tundra",
+      "Abilities": [
+        "Refrigerate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Ice"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Fighting",
+          "Water",
+          "Rock",
+          "Grass",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "698.png",
+      "slug": "Amaura",
+      "id": "698"
+    },
+    {
+      "img": "699.png",
+      "slug": "Aurorus",
+      "id": "699"
+    }
+  ]
+}

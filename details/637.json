@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Volcarona"
+  ],
+  "imgs": [
+    "637.png"
+  ],
+  "descs": [
+    "When volcanic ash darkened the atmosphere, it is\nsaid that Volcarona's fire provided a replacement\nfor the sun.",
+    "A sea of fire engulfs the surroundings of their\nbattles, since they use their six wings to scatter\ntheir ember scales."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "101.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Sun",
+      "Abilities": [
+        "Flame Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Water",
+          "Flying"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "636.png",
+      "slug": "Larvesta",
+      "id": "636"
+    },
+    {
+      "img": "637.png",
+      "slug": "Volcarona",
+      "id": "637"
+    }
+  ]
+}

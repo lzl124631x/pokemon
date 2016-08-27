@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Elekid"
+  ],
+  "imgs": [
+    "239.png"
+  ],
+  "descs": [
+    "Elekid stores electricity in its body. If it touches metal and\naccidentally discharges all its built-up electricity, this Pokémon\nbegins swinging its arms in circles to recharge itself.",
+    "Elekid stores electricity in its body. If it touches metal and\naccidentally discharges all its built-up electricity, this Pokémon\nbegins swinging its arms in circles to recharge itself."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "51.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Electric",
+      "Abilities": [
+        "Static"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "239.png",
+      "slug": "Elekid",
+      "id": "239"
+    },
+    {
+      "img": "125.png",
+      "slug": "Electabuzz",
+      "id": "125"
+    },
+    {
+      "img": "466.png",
+      "slug": "Electivire",
+      "id": "466"
+    }
+  ]
+}

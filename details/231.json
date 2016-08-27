@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Phanpy"
+  ],
+  "imgs": [
+    "231.png"
+  ],
+  "descs": [
+    "Phanpy uses its long nose to shower itself. When others\ngather around, they thoroughly douse each other with water.\nThese Pokémon can be seen drying their soaking-wet\nbodies at the edge of water.",
+    "For its nest, Phanpy digs a vertical pit in the ground at the\nedge of a river. It marks the area around its nest with its trunk\nto let the others know that the area has been claimed."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "73.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Long Nose",
+      "Abilities": [
+        "Pickup"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Ice",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "231.png",
+      "slug": "Phanpy",
+      "id": "231"
+    },
+    {
+      "img": "232.png",
+      "slug": "Donphan",
+      "id": "232"
+    }
+  ]
+}

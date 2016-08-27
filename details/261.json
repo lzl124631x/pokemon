@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Poochyena"
+  ],
+  "imgs": [
+    "261.png"
+  ],
+  "descs": [
+    "Poochyena is an omnivore—it will eat anything. A distinguishing\nfeature is how large its fangs are compared to its body. This\nPokémon tries to intimidate its foes by making the hair on its\ntail bristle out.",
+    "At first sight, Poochyena takes a bite at anything that moves.\nThis Pokémon chases after prey until the victim becomes\nexhausted. However, it may turn tail if the prey strikes back."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "30.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bite",
+      "Abilities": [
+        "Run Away",
+        "Quick Feet"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Bug",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "261.png",
+      "slug": "Poochyena",
+      "id": "261"
+    },
+    {
+      "img": "262.png",
+      "slug": "Mightyena",
+      "id": "262"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Spritzee"
+  ],
+  "imgs": [
+    "682.png"
+  ],
+  "descs": [
+    "In the past, rather than using perfume,\nroyal ladies carried a Spritzee\nthat would waft a fragrance they liked.",
+    "It emits a scent that enraptures those\nwho smell it. This fragrance changes\ndepending on what it has eaten."
+  ],
+  "abilities": [
+    {
+      "Height": "0' 08\"",
+      "Weight": "1.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Perfume",
+      "Abilities": [
+        "Healer"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "682.png",
+      "slug": "Spritzee",
+      "id": "682"
+    },
+    {
+      "img": "683.png",
+      "slug": "Aromatisse",
+      "id": "683"
+    }
+  ]
+}

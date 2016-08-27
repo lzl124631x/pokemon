@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Anorith"
+  ],
+  "imgs": [
+    "347.png"
+  ],
+  "descs": [
+    "Anorith is said to be a type of Pokémon predecessor, with\neight wings at the sides of its body. This Pokémon swam in the\nprimordial sea by undulating these eight wings.",
+    "Anorith was regenerated from a prehistoric fossil. This primitive\nPokémon once lived in warm seas. It grips its prey firmly\nbetween its two large claws."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "27.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Old Shrimp",
+      "Abilities": [
+        "Battle Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Steel",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "347.png",
+      "slug": "Anorith",
+      "id": "347"
+    },
+    {
+      "img": "348.png",
+      "slug": "Armaldo",
+      "id": "348"
+    }
+  ]
+}

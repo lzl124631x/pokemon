@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Mienshao"
+  ],
+  "imgs": [
+    "620.png"
+  ],
+  "descs": [
+    "Using the long fur on its arms like whips, it\nlaunches into combo attacks that, once started,\nno one can stop.",
+    "It wields the fur on its arms like a whip. Its arm\nattacks come with such rapidity that they cannot\neven be seen."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "78.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Martial Arts",
+      "Abilities": [
+        "Inner Focus",
+        "Regenerator"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "619.png",
+      "slug": "Mienfoo",
+      "id": "619"
+    },
+    {
+      "img": "620.png",
+      "slug": "Mienshao",
+      "id": "620"
+    }
+  ]
+}

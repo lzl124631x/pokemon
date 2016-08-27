@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Zebstrika"
+  ],
+  "imgs": [
+    "523.png"
+  ],
+  "descs": [
+    "They have lightning-like movements.\nWhen Zebstrika run at full speed, the sound of\nthunder reverberates.",
+    "When this ill-tempered Pokémon runs wild, it\nshoots lightning from its mane in all directions."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "175.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Thunderbolt",
+      "Abilities": [
+        "Lightning Rod",
+        "Motor Drive"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "522.png",
+      "slug": "Blitzle",
+      "id": "522"
+    },
+    {
+      "img": "523.png",
+      "slug": "Zebstrika",
+      "id": "523"
+    }
+  ]
+}

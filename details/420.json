@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Cherubi"
+  ],
+  "imgs": [
+    "420.png"
+  ],
+  "descs": [
+    "It evolves by sucking the energy out of the small\nball where it had been storing nutrients.",
+    "Sunlight colors it red. When the small ball is\ndrained of nutrients, it shrivels to herald evolution."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "7.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cherry",
+      "Abilities": [
+        "Chlorophyll"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Fire",
+          "Flying",
+          "Ice",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "420.png",
+      "slug": "Cherubi",
+      "id": "420"
+    },
+    {
+      "img": "421.png",
+      "slug": "Cherrim",
+      "id": "421"
+    }
+  ]
+}

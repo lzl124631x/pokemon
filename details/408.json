@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Cranidos"
+  ],
+  "imgs": [
+    "408.png"
+  ],
+  "descs": [
+    "A lifelong jungle dweller from 100 million years\nago, it would snap obstructing trees with headbutts.",
+    "It was resurrected from an iron ball-like fossil.\nIt downs prey with its headbutts."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "69.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Head Butt",
+      "Abilities": [
+        "Mold Breaker"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Grass",
+          "Ground",
+          "Steel",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "408.png",
+      "slug": "Cranidos",
+      "id": "408"
+    },
+    {
+      "img": "409.png",
+      "slug": "Rampardos",
+      "id": "409"
+    }
+  ]
+}

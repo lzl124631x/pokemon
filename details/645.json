@@ -1,0 +1,75 @@
+{
+  "forms": [
+    "Incarnate Forme",
+    "Therian Forme"
+  ],
+  "imgs": [
+    "645.png",
+    "645_f2.png"
+  ],
+  "descs": [
+    "From the forces of lightning and wind, it creates\nenergy to give nutrients to the soil and make the\nland abundant.",
+    "Lands visited by Landorus grant such bountiful\ncrops that it has been hailed as “The Guardian of\nthe Fields.”"
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "149.9 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Abundance",
+      "Abilities": [
+        "Sand Force"
+      ]
+    },
+    {
+      "Height": "4' 03\"",
+      "Weight": "149.9 lbs",
+      "Gender": [
+        "Male"
+      ],
+      "Category": "Abundance",
+      "Abilities": [
+        "Intimidate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Water"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Ground",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "645.png",
+      "slug": "Landorus",
+      "id": "645"
+    }
+  ]
+}

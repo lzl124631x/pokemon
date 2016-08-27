@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Larvitar"
+  ],
+  "imgs": [
+    "246.png"
+  ],
+  "descs": [
+    "Larvitar is born deep under the ground. To come up to the\nsurface, this Pokémon must eat its way through the soil above.\nUntil it does so, Larvitar cannot see its parents.",
+    "Larvitar is born deep under the ground. To come up to the\nsurface, this Pokémon must eat its way through the soil above.\nUntil it does so, Larvitar cannot see its parents."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 00\"",
+      "Weight": "158.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Rock Skin",
+      "Abilities": [
+        "Guts"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Water",
+          "Fighting",
+          "Ground",
+          "Ice",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "246.png",
+      "slug": "Larvitar",
+      "id": "246"
+    },
+    {
+      "img": "247.png",
+      "slug": "Pupitar",
+      "id": "247"
+    },
+    {
+      "img": "248.png",
+      "slug": "Tyranitar",
+      "id": "248"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "forms": [
+    "Oddish"
+  ],
+  "imgs": [
+    "043.png"
+  ],
+  "descs": [
+    "Oddish searches for fertile, nutrient-rich soil, then plants itself.\nDuring the daytime, while it is planted, this Pokémon's feet\nare thought to change shape and become similar to the roots\nof trees.",
+    "During the daytime, Oddish buries itself in soil to absorb\nnutrients from the ground using its entire body.\nThe more fertile the soil, the glossier its leaves become."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "11.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Weed",
+      "Abilities": [
+        "Chlorophyll"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "043.png",
+      "slug": "Oddish",
+      "id": "043"
+    },
+    {
+      "img": "044.png",
+      "slug": "Gloom",
+      "id": "044"
+    },
+    [
+      {
+        "img": "045.png",
+        "slug": "Vileplume",
+        "id": "045"
+      },
+      {
+        "img": "182.png",
+        "slug": "Bellossom",
+        "id": "182"
+      }
+    ]
+  ]
+}

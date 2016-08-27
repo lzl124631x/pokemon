@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Chandelure"
+  ],
+  "imgs": [
+    "609.png"
+  ],
+  "descs": [
+    "The spirits burned up in its ominous flame lose their\nway and wander this world forever.",
+    "Being consumed in Chandelure's flame burns up\nthe spirit, leaving the body behind."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "75.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Luring",
+      "Abilities": [
+        "Flash Fire",
+        "Flame Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Fire"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground",
+          "Rock",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "607.png",
+      "slug": "Litwick",
+      "id": "607"
+    },
+    {
+      "img": "608.png",
+      "slug": "Lampent",
+      "id": "608"
+    },
+    {
+      "img": "609.png",
+      "slug": "Chandelure",
+      "id": "609"
+    }
+  ]
+}

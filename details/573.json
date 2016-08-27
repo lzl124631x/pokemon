@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Cinccino"
+  ],
+  "imgs": [
+    "573.png"
+  ],
+  "descs": [
+    "They intently observe both Trainers and Pokémon.\nApparently, they are looking at something that only\nGothita can see.",
+    "Their white fur feels amazing to touch. Their fur\nrepels dust and prevents static electricity from\nbuilding up."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "16.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Scarf",
+      "Abilities": [
+        "Cute Charm",
+        "Technician"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "572.png",
+      "slug": "Minccino",
+      "id": "572"
+    },
+    {
+      "img": "573.png",
+      "slug": "Cinccino",
+      "id": "573"
+    }
+  ]
+}

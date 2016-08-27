@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Croconaw"
+  ],
+  "imgs": [
+    "159.png"
+  ],
+  "descs": [
+    "Once Croconaw has clamped its jaws on its foe, it will\nabsolutely not let go. Because the tips of its fangs are\nforked back like barbed fishhooks, they become impossible\nto remove when they have sunk in.",
+    "Once Croconaw has clamped its jaws on its foe, it will\nabsolutely not let go. Because the tips of its fangs are forked\nback like barbed fishhooks, they become impossible to remove\nwhen they have sunk in."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "55.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Big Jaw",
+      "Abilities": [
+        "Torrent"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "158.png",
+      "slug": "Totodile",
+      "id": "158"
+    },
+    {
+      "img": "159.png",
+      "slug": "Croconaw",
+      "id": "159"
+    },
+    {
+      "img": "160.png",
+      "slug": "Feraligatr",
+      "id": "160"
+    }
+  ]
+}

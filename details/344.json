@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Claydol"
+  ],
+  "imgs": [
+    "344.png"
+  ],
+  "descs": [
+    "Claydol is an enigma that appeared from a clay statue made by\nan ancient civilization dating back 20,000 years. This Pokémon\nshoots beams from both its hands.",
+    "Claydol are said to be dolls of mud made by primitive humans\nand brought to life by exposure to a mysterious ray.\nThis Pokémon moves about while levitating."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "238.1 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Clay Doll",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost",
+          "Grass",
+          "Water",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "343.png",
+      "slug": "Baltoy",
+      "id": "343"
+    },
+    {
+      "img": "344.png",
+      "slug": "Claydol",
+      "id": "344"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Rampardos"
+  ],
+  "imgs": [
+    "409.png"
+  ],
+  "descs": [
+    "Its skull is as hard as iron. It is a brute that tears\ndown jungle trees while catching prey.",
+    "Its skull withstands impacts of any magnitude. As a\nresult, its brain never gets the chance to grow."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "226.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Head Butt",
+      "Abilities": [
+        "Mold Breaker"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Grass",
+          "Ground",
+          "Steel",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "408.png",
+      "slug": "Cranidos",
+      "id": "408"
+    },
+    {
+      "img": "409.png",
+      "slug": "Rampardos",
+      "id": "409"
+    }
+  ]
+}

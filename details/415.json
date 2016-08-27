@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Combee"
+  ],
+  "imgs": [
+    "415.png"
+  ],
+  "descs": [
+    "It collects and delivers honey to its colony.\nAt night, they cluster to form a beehive and sleep.",
+    "The trio is together from birth. It constantly gathers\nhoney from flowers to please Vespiquen."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "12.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Tiny Bee",
+      "Abilities": [
+        "Honey Gather"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Rock",
+          "Electric",
+          "Fire",
+          "Flying",
+          "Ice"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "415.png",
+      "slug": "Combee",
+      "id": "415"
+    },
+    {
+      "img": "416.png",
+      "slug": "Vespiquen",
+      "id": "416"
+    }
+  ]
+}

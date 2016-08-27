@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Smeargle"
+  ],
+  "imgs": [
+    "235.png"
+  ],
+  "descs": [
+    "Smeargle marks the boundaries of its territory using a body\nfluid that leaks out from the tip of its tail. Over 5,000 different\nmarks left by this Pokémon have been found.",
+    "Smeargle marks the boundaries of its territory using a body\nfluid that leaks out from the tip of its tail. Over 5,000 different\nmarks left by this Pokémon have been found."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "127.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Painter",
+      "Abilities": [
+        "Technician",
+        "Own Tempo"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "235.png",
+      "slug": "Smeargle",
+      "id": "235"
+    }
+  ]
+}

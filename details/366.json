@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Clamperl"
+  ],
+  "imgs": [
+    "366.png"
+  ],
+  "descs": [
+    "Clamperl grows while being protected by its rock-hard shell.\nWhen its body becomes too large to fit inside the shell, it is\nsure evidence that this Pokémon is getting close to evolution.",
+    "Clamperl's sturdy shell is not only good for protection—it is\nalso used for clamping and catching prey. A fully grown\nClamperl's shell will be scored with nicks and scratches\nall over."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "115.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Bivalve",
+      "Abilities": [
+        "Shell Armor"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "366.png",
+      "slug": "Clamperl",
+      "id": "366"
+    },
+    [
+      {
+        "img": "367.png",
+        "slug": "Huntail",
+        "id": "367"
+      },
+      {
+        "img": "368.png",
+        "slug": "Gorebyss",
+        "id": "368"
+      }
+    ]
+  ]
+}

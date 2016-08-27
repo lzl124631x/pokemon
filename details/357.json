@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Tropius"
+  ],
+  "imgs": [
+    "357.png"
+  ],
+  "descs": [
+    "Children of the southern tropics eat as snacks the fruit that\ngrows in bunches around the neck of Tropius. This Pokémon\nflies by flapping the leaves on its back as if they were wings.",
+    "The bunches of fruit around Tropius's neck are very popular\nwith children. This Pokémon loves fruit, and eats it\ncontinuously. Apparently, its love for fruit resulted in its own\noutgrowth of fruit."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 07\"",
+      "Weight": "220.5 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Fruit",
+      "Abilities": [
+        "Chlorophyll",
+        "Solar Power"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Fire",
+          "Flying",
+          "Poison",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "357.png",
+      "slug": "Tropius",
+      "id": "357"
+    }
+  ]
+}

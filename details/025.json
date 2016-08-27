@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Pikachu"
+  ],
+  "imgs": [
+    "025.png"
+  ],
+  "descs": [
+    "This Pokémon has electricity-storing pouches on its cheeks.\nThese appear to become electrically charged during the night\nwhile Pikachu sleeps. It occasionally discharges electricity\nwhen it is dozy after waking up.",
+    "Whenever Pikachu comes across something new,\nit blasts it with a jolt of electricity. If you come across a\nblackened berry, it's evidence that this Pokémon mistook the\nintensity of its charge."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "13.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mouse",
+      "Abilities": [
+        "Static"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "172.png",
+      "slug": "Pichu",
+      "id": "172"
+    },
+    {
+      "img": "025.png",
+      "slug": "Pikachu",
+      "id": "025"
+    },
+    {
+      "img": "026.png",
+      "slug": "Raichu",
+      "id": "026"
+    }
+  ]
+}

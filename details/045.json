@@ -1,0 +1,68 @@
+{
+  "forms": [
+    "Vileplume"
+  ],
+  "imgs": [
+    "045.png"
+  ],
+  "descs": [
+    "Vileplume has the world's largest petals. They are used to\nattract prey that are then doused with toxic spores. Once the\nprey are immobilized, this Pokémon catches and devours them.",
+    "Vileplume's toxic pollen triggers atrocious allergy attacks.\nThat's why it is advisable never to approach any attractive\nflowers in a jungle, however pretty they may be."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "41.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Flower",
+      "Abilities": [
+        "Chlorophyll"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "043.png",
+      "slug": "Oddish",
+      "id": "043"
+    },
+    {
+      "img": "044.png",
+      "slug": "Gloom",
+      "id": "044"
+    },
+    [
+      {
+        "img": "045.png",
+        "slug": "Vileplume",
+        "id": "045"
+      },
+      {
+        "img": "182.png",
+        "slug": "Bellossom",
+        "id": "182"
+      }
+    ]
+  ]
+}

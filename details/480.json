@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Uxie"
+  ],
+  "imgs": [
+    "480.png"
+  ],
+  "descs": [
+    "It is said that its emergence gave humans the\nintelligence to improve their quality of life.",
+    "Known as “The Being of Knowledge.” It is said that\nit can wipe out the memory of those who see\nits eyes."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 00\"",
+      "Weight": "0.7 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Knowledge",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "480.png",
+      "slug": "Uxie",
+      "id": "480"
+    }
+  ]
+}

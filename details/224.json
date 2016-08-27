@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Octillery"
+  ],
+  "imgs": [
+    "224.png"
+  ],
+  "descs": [
+    "Octillery grabs onto its foe using its tentacles. This Pokémon\ntries to immobilize it before delivering the finishing blow. If the\nfoe turns out to be too strong, Octillery spews ink to escape.",
+    "Octillery grabs onto its foe using its tentacles. This Pokémon\ntries to immobilize it before delivering the finishing blow. If the\nfoe turns out to be too strong, Octillery spews ink to escape."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "62.8 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Jet",
+      "Abilities": [
+        "Sniper",
+        "Suction Cups"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "223.png",
+      "slug": "Remoraid",
+      "id": "223"
+    },
+    {
+      "img": "224.png",
+      "slug": "Octillery",
+      "id": "224"
+    }
+  ]
+}

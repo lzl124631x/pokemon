@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Staraptor"
+  ],
+  "imgs": [
+    "398.png"
+  ],
+  "descs": [
+    "When Staravia evolve into Staraptor, they leave the\nflock to live alone. They have sturdy wings.",
+    "The muscles in its wings and legs are strong.\nIt can easily fly while gripping a small Pokémon."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "54.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Predator",
+      "Abilities": [
+        "Intimidate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "396.png",
+      "slug": "Starly",
+      "id": "396"
+    },
+    {
+      "img": "397.png",
+      "slug": "Staravia",
+      "id": "397"
+    },
+    {
+      "img": "398.png",
+      "slug": "Staraptor",
+      "id": "398"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "forms": [
+    "Metagross",
+    "Mega Metagross"
+  ],
+  "imgs": [
+    "376.png",
+    "376_f2.png"
+  ],
+  "descs": [
+    "Metagross is the result of two Metang achieving fusion.\nWhen hunting, this Pokémon pins the prey to the ground under\nits massive body. It then eats the helpless victim using the\nlarge mouth on its stomach.",
+    "Metagross has four brains in total. Combined, the four brains\ncan breeze through difficult calculations faster than a\nsupercomputer. This Pokémon can float in the air by tucking in\nits four legs."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "1212.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Iron Leg",
+      "Abilities": [
+        "Clear Body"
+      ]
+    },
+    {
+      "Height": "8' 02\"",
+      "Weight": "2078.7 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Iron Leg",
+      "Abilities": [
+        "Tough Claws"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ground",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Steel",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Fire",
+          "Dark",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "374.png",
+      "slug": "Beldum",
+      "id": "374"
+    },
+    {
+      "img": "375.png",
+      "slug": "Metang",
+      "id": "375"
+    },
+    {
+      "img": "376.png",
+      "slug": "Metagross",
+      "id": "376"
+    }
+  ]
+}

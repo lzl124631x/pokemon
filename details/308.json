@@ -1,0 +1,83 @@
+{
+  "forms": [
+    "Medicham",
+    "Mega Medicham"
+  ],
+  "imgs": [
+    "308.png",
+    "308_f2.png"
+  ],
+  "descs": [
+    "Through the power of meditation, Medicham developed its\nsixth sense. It gained the ability to use psychokinetic powers.\nThis Pokémon is known to meditate for a whole month\nwithout eating.",
+    "It is said that through meditation, Medicham heightens energy\ninside its body and sharpens its sixth sense. This Pokémon\nhides its presence by merging itself with fields and mountains."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "69.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Meditate",
+      "Abilities": [
+        "Pure Power"
+      ]
+    },
+    {
+      "Height": "4' 03\"",
+      "Weight": "69.4 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Meditate",
+      "Abilities": [
+        "Pure Power"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fighting",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Flying",
+          "Ghost",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Fighting",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Flying",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "307.png",
+      "slug": "Meditite",
+      "id": "307"
+    },
+    {
+      "img": "308.png",
+      "slug": "Medicham",
+      "id": "308"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "forms": [
+    "Electrode"
+  ],
+  "imgs": [
+    "101.png"
+  ],
+  "descs": [
+    "One of Electrode's characteristics is its attraction to electricity.\nIt is a problematical Pokémon that congregates mostly at\nelectrical power plants to feed on electricity that has just\nbeen generated.",
+    "Electrode eats electricity in the atmosphere. On days when\nlightning strikes, you can see this Pokémon exploding all over\nthe place from eating too much electricity."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "146.8 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Ball",
+      "Abilities": [
+        "Static",
+        "Soundproof"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "100.png",
+      "slug": "Voltorb",
+      "id": "100"
+    },
+    {
+      "img": "101.png",
+      "slug": "Electrode",
+      "id": "101"
+    }
+  ]
+}

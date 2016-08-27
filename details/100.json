@@ -1,0 +1,52 @@
+{
+  "forms": [
+    "Voltorb"
+  ],
+  "imgs": [
+    "100.png"
+  ],
+  "descs": [
+    "Voltorb is extremely sensitive—it explodes at the slightest\nof shocks. It is rumored that it was first created when a\nPoké Ball was exposed to a powerful pulse of energy.",
+    "Voltorb was first sighted at a company that manufactures\nPoké Balls. The link between that sighting and the fact\nthat this Pokémon looks very similar to a Poké Ball remains\na mystery."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "22.9 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Ball",
+      "Abilities": [
+        "Static",
+        "Soundproof"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "100.png",
+      "slug": "Voltorb",
+      "id": "100"
+    },
+    {
+      "img": "101.png",
+      "slug": "Electrode",
+      "id": "101"
+    }
+  ]
+}

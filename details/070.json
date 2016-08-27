@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Weepinbell"
+  ],
+  "imgs": [
+    "070.png"
+  ],
+  "descs": [
+    "Weepinbell has a large hook on its rear end. At night, the\nPokémon hooks on to a tree branch and goes to sleep.\nIf it moves around in its sleep, it may wake up to find itself\non the ground.",
+    "Weepinbell has a large hook on its rear end. At night, the\nPokémon hooks on to a tree branch and goes to sleep.\nIf it moves around in its sleep, it may wake up to find itself\non the ground."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "14.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Flycatcher",
+      "Abilities": [
+        "Chlorophyll"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Ice",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "069.png",
+      "slug": "Bellsprout",
+      "id": "069"
+    },
+    {
+      "img": "070.png",
+      "slug": "Weepinbell",
+      "id": "070"
+    },
+    {
+      "img": "071.png",
+      "slug": "Victreebel",
+      "id": "071"
+    }
+  ]
+}

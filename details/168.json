@@ -1,0 +1,57 @@
+{
+  "forms": [
+    "Ariados"
+  ],
+  "imgs": [
+    "168.png"
+  ],
+  "descs": [
+    "Ariados's feet are tipped with tiny hooked claws that enable it\nto scuttle on ceilings and vertical walls. This Pokémon\nconstricts the foe with thin and strong silk webbing.",
+    "Ariados's feet are tipped with tiny hooked claws that enable it\nto scuttle on ceilings and vertical walls. This Pokémon\nconstricts the foe with thin and strong silk webbing."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "73.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Long Leg",
+      "Abilities": [
+        "Swarm",
+        "Insomnia"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Psychic",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "167.png",
+      "slug": "Spinarak",
+      "id": "167"
+    },
+    {
+      "img": "168.png",
+      "slug": "Ariados",
+      "id": "168"
+    }
+  ]
+}

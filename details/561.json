@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Sigilyph"
+  ],
+  "imgs": [
+    "561.png"
+  ],
+  "descs": [
+    "Each of them carries a mask that used to be its face\nwhen it was human. Sometimes they look at it\nand cry.",
+    "The guardians of an ancient city, they use their\npsychic power to attack enemies that invade\ntheir territory."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "30.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Avianoid",
+      "Abilities": [
+        "Magic Guard",
+        "Wonder Skin"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "561.png",
+      "slug": "Sigilyph",
+      "id": "561"
+    }
+  ]
+}

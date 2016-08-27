@@ -1,0 +1,86 @@
+{
+  "forms": [
+    "Ampharos",
+    "Mega Ampharos"
+  ],
+  "imgs": [
+    "181.png",
+    "181_f2.png"
+  ],
+  "descs": [
+    "Ampharos gives off so much light that it can be seen even from\nspace. People in the old days used the light of this Pokémon\nto send signals back and forth with others far away.",
+    "Ampharos gives off so much light that it can be seen even from\nspace. People in the old days used the light of this Pokémon\nto send signals back and forth with others far away."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "135.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Light",
+      "Abilities": [
+        "Static"
+      ]
+    },
+    {
+      "Height": "4' 07\"",
+      "Weight": "135.6 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Light",
+      "Abilities": [
+        "Mold Breaker"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Electric",
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Dragon",
+          "Ice",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "179.png",
+      "slug": "Mareep",
+      "id": "179"
+    },
+    {
+      "img": "180.png",
+      "slug": "Flaaffy",
+      "id": "180"
+    },
+    {
+      "img": "181.png",
+      "slug": "Ampharos",
+      "id": "181"
+    }
+  ]
+}

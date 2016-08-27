@@ -1,0 +1,82 @@
+{
+  "forms": [
+    "Camerupt",
+    "Mega Camerupt"
+  ],
+  "imgs": [
+    "323.png",
+    "323_f2.png"
+  ],
+  "descs": [
+    "The humps on Camerupt's back are formed by a transformation\nof its bones. They sometimes blast out molten magma.\nThis Pokémon apparently erupts often when it is enraged.",
+    "Camerupt has a volcano inside its body. Magma of\n18,000 degrees Fahrenheit courses through its body.\nOccasionally, the humps on this Pokémon's back erupt,\nspewing the superheated magma."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 03\"",
+      "Weight": "485.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Eruption",
+      "Abilities": [
+        "Magma Armor",
+        "Solid Rock"
+      ]
+    },
+    {
+      "Height": "8' 02\"",
+      "Weight": "706.6 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Eruption",
+      "Abilities": [
+        "Sheer Force"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Fire",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Fire",
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "322.png",
+      "slug": "Numel",
+      "id": "322"
+    },
+    {
+      "img": "323.png",
+      "slug": "Camerupt",
+      "id": "323"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "forms": [
+    "Audino",
+    "Mega Audino"
+  ],
+  "imgs": [
+    "531.png",
+    "531_f2.png"
+  ],
+  "descs": [
+    "It touches others with the feelers on its ears, using\nthe sound of their heartbeats to tell how they\nare feeling.",
+    "Using the feelers on its ears, it can tell how\nsomeone is feeling or when an egg might hatch."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 07\"",
+      "Weight": "68.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Hearing",
+      "Abilities": [
+        "Healer",
+        "Regenerator"
+      ]
+    },
+    {
+      "Height": "4' 11\"",
+      "Weight": "70.5 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Hearing",
+      "Abilities": [
+        "Healer"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Normal",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Poison"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "531.png",
+      "slug": "Audino",
+      "id": "531"
+    }
+  ]
+}

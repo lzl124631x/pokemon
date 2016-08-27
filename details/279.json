@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Pelipper"
+  ],
+  "imgs": [
+    "279.png"
+  ],
+  "descs": [
+    "Pelipper searches for food while in flight by skimming the wave\ntops. This Pokémon dips its large bill in the sea to scoop up\nfood, then swallows everything in one big gulp.",
+    "Pelipper is a flying transporter that carries small Pokémon and\neggs inside its massive bill. This Pokémon builds its nest on\nsteep cliffs facing the sea."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 11\"",
+      "Weight": "61.7 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Water Bird",
+      "Abilities": [
+        "Keen Eye"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "278.png",
+      "slug": "Wingull",
+      "id": "278"
+    },
+    {
+      "img": "279.png",
+      "slug": "Pelipper",
+      "id": "279"
+    }
+  ]
+}

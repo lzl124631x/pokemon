@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Lairon"
+  ],
+  "imgs": [
+    "305.png"
+  ],
+  "descs": [
+    "Lairon feeds on iron contained in rocks and water. It makes\nits nest on mountains where iron ore is buried. As a result,\nthe Pokémon often clashes with humans mining the iron ore.",
+    "Lairon tempers its steel body by drinking highly nutritious\nmineral springwater until it is bloated. This Pokémon makes its\nnest close to springs of delicious water."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "264.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Iron Armor",
+      "Abilities": [
+        "Rock Head",
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel",
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Ground",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "304.png",
+      "slug": "Aron",
+      "id": "304"
+    },
+    {
+      "img": "305.png",
+      "slug": "Lairon",
+      "id": "305"
+    },
+    {
+      "img": "306.png",
+      "slug": "Aggron",
+      "id": "306"
+    }
+  ]
+}

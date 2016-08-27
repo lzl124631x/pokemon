@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Haxorus"
+  ],
+  "imgs": [
+    "612.png"
+  ],
+  "descs": [
+    "Their sturdy tusks will stay sharp even if used to cut\nsteel beams. These Pokémon are covered in\nhard armor.",
+    "They are kind but can be relentless when defending\nterritory. They challenge foes with tusks that can\ncut steel."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 11\"",
+      "Weight": "232.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Axe Jaw",
+      "Abilities": [
+        "Rivalry",
+        "Mold Breaker"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Dragon",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "610.png",
+      "slug": "Axew",
+      "id": "610"
+    },
+    {
+      "img": "611.png",
+      "slug": "Fraxure",
+      "id": "611"
+    },
+    {
+      "img": "612.png",
+      "slug": "Haxorus",
+      "id": "612"
+    }
+  ]
+}

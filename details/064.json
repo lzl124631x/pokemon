@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Kadabra"
+  ],
+  "imgs": [
+    "064.png"
+  ],
+  "descs": [
+    "Kadabra holds a silver spoon in its hand. The spoon is used\nto amplify the alpha waves in its brain. Without the spoon, the\nPokémon is said to be limited to half the usual amount of its\ntelekinetic powers.",
+    "Kadabra emits a peculiar alpha wave if it develops a headache.\nOnly those people with a particularly strong psyche can hope\nto become a Trainer of this Pokémon."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "124.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Psi",
+      "Abilities": [
+        "Inner Focus",
+        "Synchronize"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "063.png",
+      "slug": "Abra",
+      "id": "063"
+    },
+    {
+      "img": "064.png",
+      "slug": "Kadabra",
+      "id": "064"
+    },
+    {
+      "img": "065.png",
+      "slug": "Alakazam",
+      "id": "065"
+    }
+  ]
+}

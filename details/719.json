@@ -1,0 +1,80 @@
+{
+  "forms": [
+    "Diancie",
+    "Mega Diancie"
+  ],
+  "imgs": [
+    "719.png",
+    "719_f2.png"
+  ],
+  "descs": [
+    "It can instantly create many diamonds\nby compressing the carbon in the air\nbetween its hands.",
+    "A sudden transformation of Carbink,\nits pink, glimmering body is said to be\nthe loveliest sight in the whole world."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "19.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Jewel",
+      "Abilities": [
+        "Clear Body"
+      ]
+    },
+    {
+      "Height": "3' 07\"",
+      "Weight": "61.3 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Jewel",
+      "Abilities": [
+        "Magic Bounce"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Water",
+          "Grass",
+          "Ground"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Rock",
+          "Fairy"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Steel",
+          "Water",
+          "Grass",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "719.png",
+      "slug": "Diancie",
+      "id": "719"
+    }
+  ]
+}

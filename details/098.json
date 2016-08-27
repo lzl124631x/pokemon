@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Krabby"
+  ],
+  "imgs": [
+    "098.png"
+  ],
+  "descs": [
+    "Krabby live on beaches, burrowed inside holes dug into\nthe sand. On sandy beaches with little in the way of food,\nthese Pokémon can be seen squabbling with each other\nover territory.",
+    "Krabby live on beaches, burrowed inside holes dug into the\nsand. On sandy beaches with little in the way of food, these\nPokémon can be seen squabbling with each other\nover territory."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "14.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "River Crab",
+      "Abilities": [
+        "Shell Armor",
+        "Hyper Cutter"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "098.png",
+      "slug": "Krabby",
+      "id": "098"
+    },
+    {
+      "img": "099.png",
+      "slug": "Kingler",
+      "id": "099"
+    }
+  ]
+}

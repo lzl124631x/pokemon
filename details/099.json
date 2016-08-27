@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Kingler"
+  ],
+  "imgs": [
+    "099.png"
+  ],
+  "descs": [
+    "Kingler has an enormous, oversized claw. It waves this huge\nclaw in the air to communicate with others. However, because\nthe claw is so heavy, the Pokémon quickly tires.",
+    "Kingler has an enormous, oversized claw. It waves this huge\nclaw in the air to communicate with others. However, because\nthe claw is so heavy, the Pokémon quickly tires."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "132.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Pincer",
+      "Abilities": [
+        "Shell Armor",
+        "Hyper Cutter"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Grass"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "098.png",
+      "slug": "Krabby",
+      "id": "098"
+    },
+    {
+      "img": "099.png",
+      "slug": "Kingler",
+      "id": "099"
+    }
+  ]
+}

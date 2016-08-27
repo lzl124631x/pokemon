@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Malamar"
+  ],
+  "imgs": [
+    "687.png"
+  ],
+  "descs": [
+    "It lures its prey close with hypnotic motions,\nthen wraps its tentacles around it before\nfinishing it off with digestive fluids.",
+    "It wields the most compelling hypnotic powers\nof any Pokémon, and it forces others to do\nwhatever it wants."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 11\"",
+      "Weight": "103.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Overturning",
+      "Abilities": [
+        "Suction Cups",
+        "Contrary"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dark",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fairy",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "686.png",
+      "slug": "Inkay",
+      "id": "686"
+    },
+    {
+      "img": "687.png",
+      "slug": "Malamar",
+      "id": "687"
+    }
+  ]
+}

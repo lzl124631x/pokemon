@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Boldore"
+  ],
+  "imgs": [
+    "525.png"
+  ],
+  "descs": [
+    "When it is healthy, its core sticks out. Always facing\nthe same way, it swiftly moves front to back and left\nto right.",
+    "Because its energy was too great to be contained,\nthe energy leaked and formed orange crystals."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "224.9 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Ore",
+      "Abilities": [
+        "Sturdy"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Grass",
+          "Fighting",
+          "Ground",
+          "Steel"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "524.png",
+      "slug": "Roggenrola",
+      "id": "524"
+    },
+    {
+      "img": "525.png",
+      "slug": "Boldore",
+      "id": "525"
+    },
+    {
+      "img": "526.png",
+      "slug": "Gigalith",
+      "id": "526"
+    }
+  ]
+}

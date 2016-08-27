@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Swoobat"
+  ],
+  "imgs": [
+    "528.png"
+  ],
+  "descs": [
+    "Anyone who comes into contact with the ultrasonic\nwaves emitted by a courting male experiences a\npositive mood shift.",
+    "It shakes its tail vigorously when it emits ultrasonic\nwaves strong enough to reduce concrete to rubble."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 11\"",
+      "Weight": "23.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Courting",
+      "Abilities": [
+        "Unaware",
+        "Klutz"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock",
+          "Ghost",
+          "Dark"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "527.png",
+      "slug": "Woobat",
+      "id": "527"
+    },
+    {
+      "img": "528.png",
+      "slug": "Swoobat",
+      "id": "528"
+    }
+  ]
+}

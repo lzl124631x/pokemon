@@ -1,0 +1,56 @@
+{
+  "forms": [
+    "Tentacruel"
+  ],
+  "imgs": [
+    "073.png"
+  ],
+  "descs": [
+    "Tentacruel has tentacles that can be freely elongated\nand shortened at will. It ensnares prey with its tentacles\nand weakens the prey by dosing it with a harsh toxin.\nIt can catch up to 80 prey at the same time.",
+    "Tentacruel has large red orbs on its head. The orbs glow\nbefore lashing the vicinity with a harsh ultrasonic blast.\nThis Pokémon's outburst creates rough waves around it."
+  ],
+  "abilities": [
+    {
+      "Height": "5' 03\"",
+      "Weight": "121.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Jellyfish",
+      "Abilities": [
+        "Clear Body",
+        "Liquid Ooze"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Water",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ground",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "072.png",
+      "slug": "Tentacool",
+      "id": "072"
+    },
+    {
+      "img": "073.png",
+      "slug": "Tentacruel",
+      "id": "073"
+    }
+  ]
+}

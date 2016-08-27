@@ -1,0 +1,83 @@
+{
+  "forms": [
+    "Latias",
+    "Mega Latias"
+  ],
+  "imgs": [
+    "380.png",
+    "380_f2.png"
+  ],
+  "descs": [
+    "Latias is highly intelligent and capable of understanding\nhuman speech. It is covered with a glass-like down.\nThe Pokémon enfolds its body with its down and refracts\nlight to alter its appearance.",
+    "Latias is highly sensitive to the emotions of people. If it senses\nany hostility, this Pokémon ruffles the feathers all over its body\nand cries shrilly to intimidate the foe."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "88.2 lbs",
+      "Gender": [
+        "Female"
+      ],
+      "Category": "Eon",
+      "Abilities": [
+        "Levitate"
+      ]
+    },
+    {
+      "Height": "5' 11\"",
+      "Weight": "114.6 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Eon",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Dragon",
+          "Ghost",
+          "Ice",
+          "Fairy"
+        ]
+      }
+    ],
+    [
+      {
+        "Type": [
+          "Dragon",
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ghost",
+          "Ice",
+          "Dragon",
+          "Dark",
+          "Fairy",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "380.png",
+      "slug": "Latias",
+      "id": "380"
+    }
+  ]
+}

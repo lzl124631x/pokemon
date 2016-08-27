@@ -1,0 +1,54 @@
+{
+  "forms": [
+    "Kricketune"
+  ],
+  "imgs": [
+    "402.png"
+  ],
+  "descs": [
+    "It signals its emotions with its melodies. Scientists\nare studying these melodic patterns.",
+    "It crosses its knifelike arms in front of its chest\nwhen it cries. It can compose melodies ad lib."
+  ],
+  "abilities": [
+    {
+      "Height": "3' 03\"",
+      "Weight": "56.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cricket",
+      "Abilities": [
+        "Swarm"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Bug"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Flying",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "401.png",
+      "slug": "Kricketot",
+      "id": "401"
+    },
+    {
+      "img": "402.png",
+      "slug": "Kricketune",
+      "id": "402"
+    }
+  ]
+}

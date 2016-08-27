@@ -1,0 +1,60 @@
+{
+  "forms": [
+    "Gastly"
+  ],
+  "imgs": [
+    "092.png"
+  ],
+  "descs": [
+    "Gastly is largely composed of gaseous matter. When exposed\nto a strong wind, the gaseous body quickly dwindles away.\nGroups of this Pokémon cluster under the eaves of houses to\nescape the ravages of wind.",
+    "Gastly is largely composed of gaseous matter. When exposed\nto a strong wind, the gaseous body quickly dwindles away.\nGroups of this Pokémon cluster under the eaves of houses to\nescape the ravages of wind."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 03\"",
+      "Weight": "0.2 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Gas",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ghost",
+          "Poison"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Dark",
+          "Ghost",
+          "Psychic"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "092.png",
+      "slug": "Gastly",
+      "id": "092"
+    },
+    {
+      "img": "093.png",
+      "slug": "Haunter",
+      "id": "093"
+    },
+    {
+      "img": "094.png",
+      "slug": "Gengar",
+      "id": "094"
+    }
+  ]
+}

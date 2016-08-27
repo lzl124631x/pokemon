@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Lillipup"
+  ],
+  "imgs": [
+    "506.png"
+  ],
+  "descs": [
+    "Though it is a very brave Pokémon, it's also smart\nenough to check its foe's strength and avoid battle.",
+    "The long hair around its face provides an amazing\nradar that lets it sense subtle changes in\nits surroundings."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "9.0 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Puppy",
+      "Abilities": [
+        "Pickup",
+        "Vital Spirit"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "506.png",
+      "slug": "Lillipup",
+      "id": "506"
+    },
+    {
+      "img": "507.png",
+      "slug": "Herdier",
+      "id": "507"
+    },
+    {
+      "img": "508.png",
+      "slug": "Stoutland",
+      "id": "508"
+    }
+  ]
+}

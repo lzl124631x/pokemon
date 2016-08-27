@@ -1,0 +1,61 @@
+{
+  "forms": [
+    "Servine"
+  ],
+  "imgs": [
+    "496.png"
+  ],
+  "descs": [
+    "When it gets dirty, its leaves can't be used in\nphotosynthesis, so it always keeps itself clean.",
+    "It moves along the ground as if sliding. Its swift\nmovements befuddle its foes, and it then attacks\nwith a vine whip."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "35.3 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Grass Snake",
+      "Abilities": [
+        "Overgrow"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fire",
+          "Ice",
+          "Poison",
+          "Flying",
+          "Bug"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "495.png",
+      "slug": "Snivy",
+      "id": "495"
+    },
+    {
+      "img": "496.png",
+      "slug": "Servine",
+      "id": "496"
+    },
+    {
+      "img": "497.png",
+      "slug": "Serperior",
+      "id": "497"
+    }
+  ]
+}

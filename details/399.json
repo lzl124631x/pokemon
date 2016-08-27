@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Bidoof"
+  ],
+  "imgs": [
+    "399.png"
+  ],
+  "descs": [
+    "It constantly gnaws on logs and rocks to whittle\ndown its front teeth. It nests alongside water.",
+    "With nerves of steel, nothing can perturb it. It is\nmore agile and active than it appears."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "44.1 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Plump Mouse",
+      "Abilities": [
+        "Simple",
+        "Unaware"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "399.png",
+      "slug": "Bidoof",
+      "id": "399"
+    },
+    {
+      "img": "400.png",
+      "slug": "Bibarel",
+      "id": "400"
+    }
+  ]
+}

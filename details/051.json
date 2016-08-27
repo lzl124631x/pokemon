@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Dugtrio"
+  ],
+  "imgs": [
+    "051.png"
+  ],
+  "descs": [
+    "Dugtrio are actually triplets that emerged from one body.\nAs a result, each triplet thinks exactly like the other two\ntriplets. They work cooperatively to burrow endlessly.",
+    "Dugtrio are actually triplets that emerged from one body.\nAs a result, each triplet thinks exactly like the other\ntwo triplets. They work cooperatively to burrow endlessly."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 04\"",
+      "Weight": "73.4 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Mole",
+      "Abilities": [
+        "Sand Veil",
+        "Arena Trap"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Ground"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Grass",
+          "Ice",
+          "Water"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "050.png",
+      "slug": "Diglett",
+      "id": "050"
+    },
+    {
+      "img": "051.png",
+      "slug": "Dugtrio",
+      "id": "051"
+    }
+  ]
+}

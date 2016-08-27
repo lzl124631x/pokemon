@@ -1,0 +1,63 @@
+{
+  "forms": [
+    "Jumpluff"
+  ],
+  "imgs": [
+    "189.png"
+  ],
+  "descs": [
+    "Jumpluff rides warm southern winds to cross the sea and fly to\nforeign lands. The Pokémon descends to the ground when it\nencounters cold air while it is floating.",
+    "Jumpluff rides warm southern winds to cross the sea and fly to\nforeign lands. The Pokémon descends to the ground when it\nencounters cold air while it is floating."
+  ],
+  "abilities": [
+    {
+      "Height": "2' 07\"",
+      "Weight": "6.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cottonweed",
+      "Abilities": [
+        "Chlorophyll",
+        "Leaf Guard"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Grass",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ice",
+          "Fire",
+          "Flying",
+          "Poison",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "187.png",
+      "slug": "Hoppip",
+      "id": "187"
+    },
+    {
+      "img": "188.png",
+      "slug": "Skiploom",
+      "id": "188"
+    },
+    {
+      "img": "189.png",
+      "slug": "Jumpluff",
+      "id": "189"
+    }
+  ]
+}

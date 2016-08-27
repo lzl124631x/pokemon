@@ -1,0 +1,58 @@
+{
+  "forms": [
+    "Luxray"
+  ],
+  "imgs": [
+    "405.png"
+  ],
+  "descs": [
+    "Luxray's ability to see through objects comes in\nhandy when it's scouting for danger.",
+    "When its eyes gleam gold, it can spot hiding\nprey—even those taking shelter behind a wall."
+  ],
+  "abilities": [
+    {
+      "Height": "4' 07\"",
+      "Weight": "92.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Gleam Eyes",
+      "Abilities": [
+        "Intimidate",
+        "Rivalry"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Electric"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "403.png",
+      "slug": "Shinx",
+      "id": "403"
+    },
+    {
+      "img": "404.png",
+      "slug": "Luxio",
+      "id": "404"
+    },
+    {
+      "img": "405.png",
+      "slug": "Luxray",
+      "id": "405"
+    }
+  ]
+}

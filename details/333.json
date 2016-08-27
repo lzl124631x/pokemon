@@ -1,0 +1,55 @@
+{
+  "forms": [
+    "Swablu"
+  ],
+  "imgs": [
+    "333.png"
+  ],
+  "descs": [
+    "Swablu loves to make things clean. If it spots something dirty,\nit will wipe and polish it with its cottony wings. If its wings\nbecome dirty, this Pokémon finds a stream and showers itself.",
+    "Swablu has light and fluffy wings that are like cottony clouds.\nThis Pokémon is not frightened of people. It lands on the\nheads of people and sits there like a cotton-fluff hat."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 04\"",
+      "Weight": "2.6 lbs",
+      "Gender": [
+        "Male",
+        "Female"
+      ],
+      "Category": "Cotton Bird",
+      "Abilities": [
+        "Natural Cure"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Normal",
+          "Flying"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Electric",
+          "Ice",
+          "Rock"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "333.png",
+      "slug": "Swablu",
+      "id": "333"
+    },
+    {
+      "img": "334.png",
+      "slug": "Altaria",
+      "id": "334"
+    }
+  ]
+}

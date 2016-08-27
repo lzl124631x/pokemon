@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Unown"
+  ],
+  "imgs": [
+    "201.png"
+  ],
+  "descs": [
+    "This Pokémon is shaped like ancient writing. It is a mystery as\nto which came first, the ancient writings or the various Unown.\nResearch into this topic is ongoing but nothing is known.",
+    "This Pokémon is shaped like ancient writing. It is a mystery as\nto which came first, the ancient writings or the various Unown.\nResearch into this topic is ongoing but nothing is known."
+  ],
+  "abilities": [
+    {
+      "Height": "1' 08\"",
+      "Weight": "11.0 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Symbol",
+      "Abilities": [
+        "Levitate"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Psychic"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Bug",
+          "Dark",
+          "Ghost"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "201.png",
+      "slug": "Unown",
+      "id": "201"
+    }
+  ]
+}

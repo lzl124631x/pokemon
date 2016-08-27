@@ -1,0 +1,53 @@
+{
+  "forms": [
+    "Terrakion"
+  ],
+  "imgs": [
+    "639.png"
+  ],
+  "descs": [
+    "Spoken of in legend, this Pokémon used its\nphenomenal power to destroy a castle in its effort\nto protect Pokémon.",
+    "Its charge is strong enough to break through a\ngiant castle wall in one blow. This Pokémon is\nspoken of in legends."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 03\"",
+      "Weight": "573.2 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Cavern",
+      "Abilities": [
+        "Justified"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Rock",
+          "Fighting"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Water",
+          "Grass",
+          "Fighting",
+          "Ground",
+          "Steel",
+          "Psychic",
+          "Fairy"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "639.png",
+      "slug": "Terrakion",
+      "id": "639"
+    }
+  ]
+}

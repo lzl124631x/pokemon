@@ -1,0 +1,48 @@
+{
+  "forms": [
+    "Registeel"
+  ],
+  "imgs": [
+    "379.png"
+  ],
+  "descs": [
+    "Registeel was imprisoned by people in ancient times.\nThe metal composing its body is thought to be a curious\nsubstance that is not of this earth.",
+    "Registeel has a body that is harder than any kind of metal.\nIts body is apparently hollow. No one has any idea what this\nPokémon eats."
+  ],
+  "abilities": [
+    {
+      "Height": "6' 03\"",
+      "Weight": "451.9 lbs",
+      "Gender": [
+        "Unknown"
+      ],
+      "Category": "Iron",
+      "Abilities": [
+        "Clear Body"
+      ]
+    }
+  ],
+  "attributes": [
+    [
+      {
+        "Type": [
+          "Steel"
+        ]
+      },
+      {
+        "Weaknesses": [
+          "Fighting",
+          "Fire",
+          "Ground"
+        ]
+      }
+    ]
+  ],
+  "evolution": [
+    {
+      "img": "379.png",
+      "slug": "Registeel",
+      "id": "379"
+    }
+  ]
+}
